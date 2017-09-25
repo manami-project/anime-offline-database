@@ -25,18 +25,22 @@ The target structure of the resulting file is as follows:
                 }
             ],
             "sources": {
-                "mal": "https://myanimelist.net/anime/2994/Death_Note_Rewrite",
-                "anidb": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4563",
-                "ann": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6592"
+                "https://myanimelist.net/anime/2994/Death_Note_Rewrite",
+                "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4563",
+                "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6592"
             }
         }
     ],
-    "excludes": [
-        "https://myanimelist.net/anime/36069/Echolocation"
-    ],
-    "404": [
-        "https://myanimelist.net/anime/2"
-    ]
+    "excludes": {
+        "mal": [
+            "https://myanimelist.net/anime/36069/Echolocation"
+        ]
+    },
+    "404": {
+        "mal": [
+            "https://myanimelist.net/anime/2"
+        ]
+    }
 }
 ```
 **Data types**
@@ -52,9 +56,11 @@ The target structure of the resulting file is as follows:
 | picture | Url |
 | thumbnail | Url |
 | relations | Set |
-| sources | HashMap |
-| excludes | Set |
-| 404 | Set |
+| sources | Set |
+| excludes | Object |
+| mal in excludes | Set |
+| 404 | Object |
+| mal in 404 | Set |
 
 This database should only contain real japanese anime. The following types are to be excluded:
 + commercials/promotions
