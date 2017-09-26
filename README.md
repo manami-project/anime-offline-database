@@ -25,7 +25,7 @@ The target structure of the resulting file is as follows:
                 }
             ],
             "sources": {
-                "https://myanimelist.net/anime/2994/Death_Note_Rewrite",
+                "https://myanimelist.net/anime/2994",
                 "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4563",
                 "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6592"
             }
@@ -33,12 +33,12 @@ The target structure of the resulting file is as follows:
     ],
     "excludes": {
         "mal": [
-            "https://myanimelist.net/anime/36069/Echolocation"
+            "36069"
         ]
     },
     "404": {
         "mal": [
-            "https://myanimelist.net/anime/2"
+            "2"
         ]
     }
 }
