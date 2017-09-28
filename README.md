@@ -33,12 +33,12 @@ The target structure of the resulting file is as follows:
     ],
     "excludes": {
         "mal": [
-            "36069"
+            36069
         ]
     },
     "404": {
         "mal": [
-            "2"
+            2
         ]
     }
 }
