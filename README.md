@@ -1,8 +1,20 @@
 # manami-offline-database
-The purpose of this *.json file is to create an offline database containing anime meta data aggregated by different anime source pages. This file is supposed to used by manami.
+The purpose of this *.json file is to create an offline database containing anime meta data aggregated by different anime source pages. This file is supposed to be used by manami.
 
+## Content
+This database is limited to a certain type of anime. Anime which match the following criteria are to be **excluded**:
++ commercials/promotions
++ stop motion videos
++ music videos
++ pure CG records without real anime relations
++ any non-japanese productions (korean, chinese, american...)
++ anime before 1970
+
+## Participation
+If you find anything that you think should be changed, please file an issue rather than creating a pull request.
+
+## Structure
 The target structure of the resulting file is as follows:
-
 ```
 {
     "data": [
@@ -61,11 +73,3 @@ The target structure of the resulting file is as follows:
 | mal in excludes | Set |
 | 404 | Object |
 | mal in 404 | Set |
-
-This database should only contain real japanese anime. The following types are to be excluded:
-+ commercials/promotions
-+ stop motion videos
-+ music videos
-+ pure CG records without real anime relations
-+ any non-japanese productions (korean, chinese, american...)
-+ anime before 1970
