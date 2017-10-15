@@ -4,9 +4,9 @@ The purpose of this *.json file is to create an offline database containing anim
 ## Content
 This database is limited to a certain type of anime. Anime which match the following criteria are to be **excluded**:
 + commercials/promotions
-+ stop motion videos
++ stop motion productions
 + music videos
-+ pure CG records without real anime relations
++ pure CG productions
 + any non-japanese productions (korean, chinese, american...)
 + anime before 1970
 
@@ -14,12 +14,14 @@ This database is limited to a certain type of anime. Anime which match the follo
 If you find anything that you think should be changed, please file an issue rather than creating a pull request.
 
 ## Structure
-The target structure of the resulting file is as follows:
+This repository contains three files. The database file itself and two files for regulation. One file with IDs which have been excluded from the database as well as a file with IDs from the distributor sites result in 404 not found.
+
+### manami-offline-database.json
 ```
 {
     "data": [
         {
-            "id": "UUID",
+            "id": "2d88de4c-9dbd-4837-b3ab-66c597c379ce",
             "title": "Death Note",
             "synonyms": [
                 "Death Note: Relight",
@@ -42,34 +44,50 @@ The target structure of the resulting file is as follows:
                 "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6592"
             }
         }
-    ],
-    "excludes": {
-        "mal": [
-            36069
-        ]
-    },
-    "404": {
-        "mal": [
-            2
-        ]
-    }
+    ]
 }
 ```
 **Data types**
 
 | Field | Type |
 | --- | --- |
-| data | List|
-| id | String|
-| title | String|
-| synonyms | Set|
-| type | Enum of [TV, Movie, OVA, ONA, Special, Music]|
-| episodes | Integer |
-| picture | Url |
-| thumbnail | Url |
-| relations | Set |
-| sources | Set |
-| excludes | Object |
-| mal in excludes | Set |
-| 404 | Object |
-| mal in 404 | Set |
+| data | ```List``` |
+| id | ```UUID``` |
+| title | ```String``` |
+| synonyms | ```Set<String>``` |
+| type | ```Enum of [TV, Movie, OVA, ONA, Special, Music]``` |
+| episodes | ```Integer``` |
+| picture | ```URL``` |
+| thumbnail | ```URL``` |
+| relations | ```Set<URL>``` |
+| sources | ```Set<URL>``` |
+
+### excludes.json
+```
+{
+    "mal": [
+        36069
+    ],
+    "anidb": [
+
+    ],
+    "ann": [
+
+    ],
+}
+```
+
+### not-found.json
+```
+{
+    "mal": [
+        2
+    ],
+    "anidb": [
+
+    ],
+    "ann": [
+
+    ],
+}
+```
