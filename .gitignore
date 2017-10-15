@@ -2,3 +2,5 @@
 !.gitignore
 !README.md
 !manami-offline-database.json
+!not-found.json
+!excludes.json
