@@ -33,14 +33,15 @@ This repository contains three files. The database file itself and two files for
             "picture": "https://myanimelist.cdn-dena.com/images/anime/13/8518.jpg",
             "thumbnail": "https://myanimelist.cdn-dena.com/images/anime/13/8518t.jpg",
             "relations": [
-                {
-                    "relation": "Summary",
-                    "id": "???"
-                }
+                "https://myanimelist.net/anime/1535",
+                "https://anidb.net/a8146",
+                "https://anidb.net/a8147",
+                "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10810",
+                "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15220"
             ],
             "sources": {
                 "https://myanimelist.net/anime/2994",
-                "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=4563",
+                "https://anidb.net/a4563",
                 "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6592"
             }
         }
