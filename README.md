@@ -7,6 +7,8 @@ This database is limited to a certain type of anime. Anime which match the follo
 + stop motion productions
 + music videos
 + pure CG productions
++ abstract animations
++ unrelated shorts
 + any non-japanese productions (korean, chinese, american...)
 + anime before 1970
 
