@@ -1,6 +1,6 @@
 *
 !.gitignore
 !README.md
-!manami-offline-database.json
+!anime-offline-database.json
 !not-found.json
 !excludes.json

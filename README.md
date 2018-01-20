@@ -1,4 +1,4 @@
-# manami-offline-database
+# anime-offline-database
 The purpose of this *.json file is to create an offline database containing anime meta data aggregated by different anime source pages. This file is supposed to be used by manami.
 
 **The goal is to deliver at least weekly updates.**
@@ -20,7 +20,7 @@ If you find anything that you think should be changed, please file an issue rath
 ## Structure
 This repository contains three files. The database file itself and two files for regulation. One file with IDs which have been excluded from the database as well as a file with IDs from the distributor sites result in 404 not found.
 
-### manami-offline-database.json
+### anime-offline-database.json
 ```
 {
     "data": [
