@@ -1,6 +1,8 @@
 # manami-offline-database
 The purpose of this *.json file is to create an offline database containing anime meta data aggregated by different anime source pages. This file is supposed to be used by manami.
 
+**The goal is to deliver at least weekly updates.**
+
 ## Content
 This database is limited to a certain type of anime. Anime which match the following criteria are to be **excluded**:
 + commercials/promotions
@@ -37,14 +39,11 @@ This repository contains three files. The database file itself and two files for
             "relations": [
                 "https://myanimelist.net/anime/1535",
                 "https://anidb.net/a8146",
-                "https://anidb.net/a8147",
-                "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10810",
-                "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15220"
+                "https://anidb.net/a8147"
             ],
             "sources": {
                 "https://myanimelist.net/anime/2994",
-                "https://anidb.net/a4563",
-                "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6592"
+                "https://anidb.net/a4563"
             }
         }
     ]
@@ -66,6 +65,7 @@ This repository contains three files. The database file itself and two files for
 | sources | ```Set<URL>``` |
 
 ### excludes.json
+File for controlling the automatic update process. Contains ID's which don't meet the database's criteria and therefore have been excluded from it.
 ```
 {
     "mal": [
@@ -73,14 +73,12 @@ This repository contains three files. The database file itself and two files for
     ],
     "anidb": [
 
-    ],
-    "ann": [
-
-    ],
+    ]
 }
 ```
 
 ### not-found.json
+File for controlling the automatic update process. Contains ID's which have been removed.
 ```
 {
     "mal": [
@@ -88,9 +86,6 @@ This repository contains three files. The database file itself and two files for
     ],
     "anidb": [
 
-    ],
-    "ann": [
-
-    ],
+    ]
 }
 ```
