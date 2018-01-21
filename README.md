@@ -89,3 +89,16 @@ File for controlling the automatic update process. Contains ID's which have been
     ]
 }
 ```
+
+### whitelist.json
+File for controlling the automatic update process. Contains ID's trigger the filter, but are fine to be included in the databse.
+```
+{
+    "mal": [
+        3626
+    ],
+    "anidb": [
+
+    ]
+}
+```
