@@ -21,30 +21,43 @@ If you find something you think should be changed, please submit an issue rather
 This repository contains four files. The database file itself and three files for regulation. One file with IDs which have been excluded from the database, a file with IDs from the source pages which result in 404 not found as well as a whitelist.
 
 ### anime-offline-database.json
+Example of the structure:
 ```
 {
     "data": [
         {
-            "id": "2d88de4c-9dbd-4837-b3ab-66c597c379ce",
-            "title": "Death Note",
-            "synonyms": [
-                "Death Note: Relight",
-                "DN",
-                "デスノート"
+            "sources": [
+                "https://anidb.net/a4563",
+                "https://animenewsnetwork.com/encyclopedia/anime.php?id=6592",
+                "https://myanimelist.net/anime/1535"
             ],
             "type": "TV",
-            "episodes": 37,
-            "picture": "https://myanimelist.cdn-dena.com/images/anime/13/8518.jpg",
-            "thumbnail": "https://myanimelist.cdn-dena.com/images/anime/13/8518t.jpg",
+            "title": "Death Note",
+            "picture": "https://myanimelist.cdn-dena.com/images/anime/9/9453.jpg",
             "relations": [
-                "https://myanimelist.net/anime/1535",
                 "https://anidb.net/a8146",
-                "https://anidb.net/a8147"
+                "https://anidb.net/a8147",
+                "https://myanimelist.net/anime/2994"
             ],
-            "sources": {
-                "https://myanimelist.net/anime/2994",
-                "https://anidb.net/a4563"
-            }
+            "id": "2d88de4c-9dbd-4837-b3ab-66c597c379ce",
+            "thumbnail": "https://myanimelist.cdn-dena.com/images/anime/9/9453t.jpg",
+            "episodes": 37,
+            "synonyms": [
+                "Caderno da Morte",
+                "DEATH NOTE",
+                "DN",
+                "Death Note",
+                "Death Note - A hal\u00e1llista",
+                "Death Note - Carnetul mor\u0163ii",
+                "Death Note - Z\u00e1pisn\u00edk smrti",
+                "Mirties U\u017era\u0161ai",
+                "Notatnik \u015bmierci",
+                "Notes \u015amierci",
+                "Quaderno della Morte",
+                "Sveska Smrti",
+                "\u00d6l\u00fcm Defteri",
+                "\u03a4\u03b5\u03c4\u03c1\u03ac\u03b4\u03b9\u03bf
+            ]
         }
     ]
 }
@@ -73,6 +86,9 @@ File for controlling the automatic update process. Contains ID's which don't mee
     ],
     "anidb": [
 
+    ],
+    "anilist": [
+
     ]
 }
 ```
@@ -86,6 +102,9 @@ File for controlling the automatic update process. Contains ID's which have been
     ],
     "anidb": [
 
+    ],
+    "anilist": [
+
     ]
 }
 ```
@@ -98,6 +117,9 @@ File for controlling the automatic update process. Contains ID's trigger the fil
         3626
     ],
     "anidb": [
+
+    ],
+    "anilist": [
 
     ]
 }
