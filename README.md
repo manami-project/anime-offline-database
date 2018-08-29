@@ -4,6 +4,9 @@ The purpose of this repository is to create an offline database containing anime
 **The goal is to deliver at least weekly updates.**
 
 ## Content
+
+### [Please give me Feedback on this topic in this issue.](https://github.com/manami-project/anime-offline-database/issues/1)
+
 This database is limited to a certain type of anime. Anime which match the following criteria are to be **excluded**:
 + commercials/promotions
 + stop motion productions
