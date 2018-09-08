@@ -3,6 +3,15 @@ The purpose of this repository is to create an offline database containing anime
 
 **The goal is to deliver at least weekly updates.**
 
+## Statistics
+Update  **week 36 [2018]**
+
+The database consists of **12 121** entries composed of:
++ 12 253 entries from myanimelist.net
++ 8 836 entries from anidb.net
++ 10 728 entries from anilist.co
++ 14 045 entries from kitsu.io
+
 ## Content
 
 ### [Please give me Feedback on this topic in this issue.](https://github.com/manami-project/anime-offline-database/issues/1)
