@@ -39,14 +39,17 @@ Example of the structure:
     "data": [
         {
             "sources": [
+                "http://anilist.co/anime/1535",
                 "https://anidb.net/a4563",
                 "https://animenewsnetwork.com/encyclopedia/anime.php?id=6592",
+                "https://kitsu.io/anime/1376",
                 "https://myanimelist.net/anime/1535"
             ],
             "type": "TV",
             "title": "Death Note",
             "picture": "https://myanimelist.cdn-dena.com/images/anime/9/9453.jpg",
             "relations": [
+                "http://anilist.co/anime/2994",
                 "https://anidb.net/a8146",
                 "https://anidb.net/a8147",
                 "https://myanimelist.net/anime/2994"
@@ -68,7 +71,7 @@ Example of the structure:
                 "Quaderno della Morte",
                 "Sveska Smrti",
                 "\u00d6l\u00fcm Defteri",
-                "\u03a4\u03b5\u03c4\u03c1\u03ac\u03b4\u03b9\u03bf
+                "\u03a4\u03b5\u03c4\u03c1\u03ac\u03b4\u03b9\u03bf \u0398\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5"
             ]
         }
     ]
