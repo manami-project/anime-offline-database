@@ -1,5 +1,5 @@
 # anime-offline-database
-The purpose of this repository is to create an offline database containing anime meta data aggregated by different anime source pages (such as myanimelist.net, anidb.net, animenewsnetwork.com, anilist.co) and allow cross reference between those source pages. This file is supposed to be used by manami.
+The purpose of this repository is to create an offline database containing anime meta data aggregated by different anime meta data provider (such as myanimelist.net, anidb.net, animenewsnetwork.com, anilist.co, kitsu.io) and allow cross reference between those meta data provider. This file is supposed to be used by [manami](https://github.com/manami-project/manami).
 
 **The goal is to deliver at least weekly updates.**
 
@@ -30,7 +30,7 @@ This database is limited to a certain type of anime. Anime which match the follo
 If you find something you think should be changed, please submit an issue rather than creating a pull request.
 
 ## Structure
-This repository contains four files. The database file itself and three files for regulation. One file with IDs which have been excluded from the database, a file with IDs from the source pages which result in 404 not found as well as a whitelist.
+This repository contains four files. The database file itself and three files for regulation. One file with IDs which have been excluded from the database, a file with IDs from the meta data provider which result in 404 not found as well as a whitelist.
 
 ### anime-offline-database.json
 Example of the structure:
