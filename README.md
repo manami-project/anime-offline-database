@@ -12,25 +12,11 @@ The database consists of **12193** entries composed of:
 + 10829 entries from anilist.co
 + 14069 entries from kitsu.io
 
-## Content
-
-### [Please give me Feedback on this topic in this issue.](https://github.com/manami-project/anime-offline-database/issues/1)
-
-This database is limited to a certain type of anime. Anime which match the following criteria are to be **excluded**:
-+ commercials/promotions
-+ stop motion productions
-+ music videos
-+ pure CG productions
-+ abstract animations
-+ unrelated shorts
-+ any non-japanese productions (korean, chinese, american...)
-+ anime before 1970
-
 ## Participation
-If you find something you think should be changed, please submit an issue rather than creating a pull request.
+If you find something that, in you opinion, should be changed, please submit an issue rather than creating a pull request, because the database is created by an automated process.
 
 ## Structure
-This repository contains four files. The database file itself and three files for regulation. One file with IDs which have been excluded from the database, a file with IDs from the meta data provider which result in 404 not found as well as a whitelist.
+This repository contains two files. The database file itself and a file to support the automated process containing ID from the meta data provider which don't exist anymore.
 
 ### anime-offline-database.json
 Example of the structure:
@@ -92,44 +78,12 @@ Example of the structure:
 | relations | ```Set<URL>``` |
 | sources | ```Set<URL>``` |
 
-### excludes.json
-File for controlling the automatic update process. Contains ID's which don't meet the database's criteria and therefore have been excluded from it.
-```
-{
-    "mal": [
-        36069
-    ],
-    "anidb": [
-
-    ],
-    "anilist": [
-
-    ]
-}
-```
-
 ### not-found.json
 File for controlling the automatic update process. Contains ID's which have been removed.
 ```
 {
     "mal": [
         2
-    ],
-    "anidb": [
-
-    ],
-    "anilist": [
-
-    ]
-}
-```
-
-### whitelist.json
-File for controlling the automatic update process. Contains ID's trigger the filter, but are fine to be included in the databse.
-```
-{
-    "mal": [
-        3626
     ],
     "anidb": [
 
