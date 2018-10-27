@@ -80,7 +80,7 @@ Example of the structure:
 | relations | ```Set<URL>``` |
 | sources | ```Set<URL>``` |
 
-### not-found.json
+### dead-entries.json
 Contains ID's which have been removed from the meta data provider's database.
 ```
 {
