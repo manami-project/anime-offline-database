@@ -15,6 +15,8 @@ The database consists of **15129** entries composed of:
 ## Participation
 If you find something that, in you opinion, should be changed, please submit an issue rather than creating a pull request, because the database is created by an automated process.
 
+Please upvote our database requests regarding duplicated entries at the meta data providers. [Check the entire list of database requests for duplicates.](https://github.com/manami-project/anime-offline-database/issues/3)
+
 ## Structure
 This repository contains two files. The database file itself and a file to support the automated process containing ID from the meta data provider which don't exist anymore.
 
@@ -79,17 +81,35 @@ Example of the structure:
 | sources | ```Set<URL>``` |
 
 ### not-found.json
-File for controlling the automatic update process. Contains ID's which have been removed.
+Contains ID's which have been removed from the meta data provider's database.
 ```
 {
     "mal": [
-        2
+        38492,
+        38518,
+        38522,
+        38531,
+        ...
     ],
     "anidb": [
-
+        4612,
+        14190,
+        ...
     ],
     "anilist": [
-
+        104857,
+        104735,
+        104888,
+        104870,
+        104747,
+        ...
+    ],
+    "kitsu": [
+        14230,
+        41667,
+        41698,
+        41755,
+        ...
     ]
 }
 ```
