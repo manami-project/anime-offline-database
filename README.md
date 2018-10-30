@@ -42,7 +42,6 @@ Example of the structure:
                 "https://anidb.net/a8147",
                 "https://myanimelist.net/anime/2994"
             ],
-            "id": "2d88de4c-9dbd-4837-b3ab-66c597c379ce",
             "thumbnail": "https://myanimelist.cdn-dena.com/images/anime/9/9453t.jpg",
             "episodes": 37,
             "synonyms": [
@@ -70,7 +69,6 @@ Example of the structure:
 | Field | Type |
 | --- | --- |
 | data | ```List``` |
-| id | ```UUID``` |
 | title | ```String``` |
 | synonyms | ```Set<String>``` |
 | type | ```Enum of [TV, Movie, OVA, ONA, Special, Music]``` |
