@@ -1,5 +1,5 @@
 # anime-offline-database
-The purpose of this repository is to create an offline database containing anime meta data aggregated by different anime meta data provider (such as myanimelist.net, anidb.net, animenewsnetwork.com, anilist.co, kitsu.io) and allow cross reference between those meta data provider. This file is supposed to be used by [manami](https://github.com/manami-project/manami).
+The purpose of this repository is to create an offline database containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, animenewsnetwork.com, anilist.co, kitsu.io) and allow cross references between those meta data providers. This file is supposed to be used by and created for     [manami](https://github.com/manami-project/manami).
 
 **The goal is to deliver at least weekly updates.**
 
@@ -18,7 +18,7 @@ If you find something that, in you opinion, should be changed, please submit an 
 Please upvote our database requests regarding duplicated entries at the meta data providers. [Check the entire list of database requests for duplicates.](https://github.com/manami-project/anime-offline-database/issues/3)
 
 ## Structure
-This repository contains two files. The database file itself and a file to support the automated process containing ID from the meta data provider which don't exist anymore.
+This repository contains two files. The database file itself and a file to support the automated process containing IDs from the meta data providers which don't exist anymore.
 
 ### anime-offline-database.json
 Example of the structure:
@@ -79,7 +79,7 @@ Example of the structure:
 | sources | ```Set<URL>``` |
 
 ### dead-entries.json
-Contains ID's which have been removed from the meta data provider's database.
+Contains IDs which have been removed from the meta data provider's database.
 ```
 {
     "mal": [
