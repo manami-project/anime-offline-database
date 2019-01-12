@@ -1,19 +1,19 @@
 # anime-offline-database
-The purpose of this repository is to create an offline database containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, animenewsnetwork.com, anilist.co, kitsu.io) and allow cross references between those meta data providers. This file is supposed to be used by and created for     [manami](https://github.com/manami-project/manami).
+The purpose of this repository is to create an offline database containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, animenewsnetwork.com, anilist.co, kitsu.io) and allow cross references between those meta data providers. This file is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
 
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 1 [2019]**
+Update **week 2 [2019]**
 
-The database consists of **21827** entries composed of:
-+ 15367 entries from myanimelist.net
-+ 10448 entries from anidb.net
-+ 11231 entries from anilist.co
-+ 14174 entries from kitsu.io
+The database consists of **21856** entries composed of:
++ 15406 entries from myanimelist.net
++ 10457 entries from anidb.net
++ 11241 entries from anilist.co
++ 14186 entries from kitsu.io
 
 ## Participation
-If you find something that, in you opinion, should be changed, please submit an issue rather than creating a pull request, because the database is created by an automated process.
+If you find something that, in your opinion, should be changed, please submit an issue rather than creating a pull request, because the database is created by an automated process.
 
 Please upvote our database requests regarding duplicated entries at the meta data providers. [Check the entire list of database requests for duplicates.](https://github.com/manami-project/anime-offline-database/issues/3)
 
