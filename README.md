@@ -6,7 +6,7 @@ The purpose of this repository is to create an offline database containing anime
 ## Statistics
 Update **week 9 [2019]**
 
-The database consists of **22236** entries composed of:
+The database consists of **28872** entries composed of:
 + 15609 entries from myanimelist.net
 + 10546 entries from anidb.net
 + 11361 entries from anilist.co
