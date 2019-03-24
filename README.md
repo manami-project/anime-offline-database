@@ -10,10 +10,7 @@ The database consists of **29095** entries composed of:
 + 15784 entries from myanimelist.net
 + 10587 entries from anidb.net
 + 11408 entries from anilist.co
-+ 14227 entries from kitsu.io (️❗️please see section below 👇️️️❗️)
-
-### The future of kitsu.io is at stake
-Since 2019-03-19 kitsu.io is down. Their site states that they have financial difficulties. So until they are either back online or offline for good I will reuse the data from week 11. In case kitsu.io shuts down permanently, the links will be removed with the next update.
++ 14227 entries from kitsu.io
 
 ## Participation
 If you find something that, in your opinion, should be changed, please submit an issue rather than creating a pull request, because the database is created by an automated process.
