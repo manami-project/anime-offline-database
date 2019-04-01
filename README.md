@@ -35,14 +35,14 @@ Example of the structure:
             ],
             "type": "TV",
             "title": "Death Note",
-            "picture": "https://myanimelist.cdn-dena.com/images/anime/9/9453.jpg",
+            "picture": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
             "relations": [
                 "http://anilist.co/anime/2994",
                 "https://anidb.net/a8146",
                 "https://anidb.net/a8147",
                 "https://myanimelist.net/anime/2994"
             ],
-            "thumbnail": "https://myanimelist.cdn-dena.com/images/anime/9/9453t.jpg",
+            "thumbnail": "https://cdn.myanimelist.net/images/anime/9/9453t.jpg",
             "episodes": 37,
             "synonyms": [
                 "Caderno da Morte",
