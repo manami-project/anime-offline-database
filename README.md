@@ -12,6 +12,12 @@ The database consists of **29157** entries composed of:
 + 11445 entries from anilist.co
 + 14257 entries from kitsu.io
 
+Missed updates:
++ **2019** _(so far)_: 0
++ **2018:** 1
+
+**You want more statistics and insights? Check out [adb-zeppelin-statistics](https://github.com/manami-project/adb-zeppelin-statistics)**
+
 ## Participation
 If you find something that, in your opinion, should be changed, please submit an issue rather than creating a pull request, because the database is created by an automated process.
 
@@ -111,3 +117,7 @@ Contains IDs which have been removed from the meta data provider's database.
     ]
 }
 ```
+
+## More
++ [adb-aws-lambda](https://github.com/manami-project/adb-aws-lambda): Need a REST service up and running with this data? Quick and easy?
++ [adb-zeppelin-statistics](https://github.com/manami-project/adb-zeppelin-statistics): You want more statistics and insights?
