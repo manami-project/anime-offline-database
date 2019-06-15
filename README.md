@@ -21,8 +21,6 @@ Missed updates:
 ## Participation
 If you find something that, in your opinion, should be changed, please submit an issue rather than creating a pull request, because the database is created by an automated process.
 
-Please upvote our database requests regarding duplicated entries at the meta data providers. [Check the entire list of database requests for duplicates.](https://github.com/manami-project/anime-offline-database/issues/3)
-
 ## Structure
 This repository contains two files. The database file itself and a file to support the automated process containing IDs from the meta data providers which don't exist anymore.
 
