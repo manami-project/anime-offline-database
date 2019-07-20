@@ -1,5 +1,6 @@
 *
 !.gitignore
+!.github/CONTRIBUTING.md
 !README.md
 !anime-offline-database.json
 !dead-entries.json
