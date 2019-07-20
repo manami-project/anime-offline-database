@@ -21,7 +21,6 @@ Missed updates:
 ## Participation
 If you find something that, in your opinion, should be changed, please submit an issue rather than creating a pull request, because the database is created by an automated process.
 
-If you have a project that uses this database and you want to add it to the list down below, please read the [contribution guidelines](./.github/CONTRIBUTING.md) first.
 
 ## Structure
 This repository contains two files. The database file itself and a file to support the automated process containing IDs from the meta data providers which don't exist anymore.
@@ -119,6 +118,8 @@ Contains IDs which have been removed from the meta data provider's database.
 ```
 
 ## Other projects using this database
+If you have a project that uses this database and you want to add it to this list, please read the [contribution guidelines](./.github/CONTRIBUTING.md) first.
+
 |Project|Author/Maintainer|Short description|
 |----|----|----|
 |[adb-aws-lambda](https://github.com/manami-project/adb-aws-lambda)|[manami-project](https://github.com/manami-project)|REST service for querying this database up and running in minutes using AWS Lambda.|
