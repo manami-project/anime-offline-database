@@ -1,0 +1,10 @@
+language: node_js
+os: linux
+sudo: false
+node_js: node
+install: npm install jsonlint -g
+git:
+  depth: 5
+script:
+  - "jsonlint -q anime-offline-database.json"
+  - "jsonlint -q dead-entries.json"

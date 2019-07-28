@@ -1,6 +1,7 @@
 *
 !.gitignore
 !.github/CONTRIBUTING.md
+!.travis.yml
 !README.md
 !anime-offline-database.json
 !dead-entries.json

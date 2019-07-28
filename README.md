@@ -1,4 +1,4 @@
-# anime-offline-database
+# anime-offline-database [![Build Status](https://travis-ci.com/manami-project/anime-offline-database.svg?branch=master)](https://travis-ci.com/manami-project/anime-offline-database)
 The purpose of this repository is to create an offline database containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, animenewsnetwork.com, anilist.co, kitsu.io) and allow cross references between those meta data providers. This file is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
 
 **The goal is to deliver at least weekly updates.**
