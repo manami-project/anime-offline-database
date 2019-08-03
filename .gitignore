@@ -1,7 +1,10 @@
 *
 !.gitignore
 !.github/CONTRIBUTING.md
+!.github/thumbs_up.png
 !.travis.yml
 !README.md
 !anime-offline-database.json
 !dead-entries.json
+!merge-locks.json
+!merge-preventions.md

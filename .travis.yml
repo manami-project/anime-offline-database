@@ -8,3 +8,4 @@ git:
 script:
   - "jsonlint -q anime-offline-database.json"
   - "jsonlint -q dead-entries.json"
+  - "jsonlint -q merge-locks.json"

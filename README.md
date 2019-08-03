@@ -4,13 +4,13 @@ The purpose of this repository is to create an offline database containing anime
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 30 [2019]**
+Update **week 31 [2019]**
 
-The database consists of **25324** entries composed of:
-+ 16111 entries from myanimelist.net
-+ 10777 entries from anidb.net
-+ 11772 entries from anilist.co
-+ 14465 entries from kitsu.io
+The database consists of **30032** entries composed of:
++ 16130 entries from myanimelist.net
++ 10781 entries from anidb.net
++ 11783 entries from anilist.co
++ 14473 entries from kitsu.io
 
 Missed updates:
 + **2019** _(so far)_: 2
@@ -27,7 +27,7 @@ This repository contains two files. The database file itself and a file to suppo
 
 ### anime-offline-database.json
 Example of the structure:
-```
+```json
 {
     "data": [
         {
@@ -83,9 +83,40 @@ Example of the structure:
 | relations | ```Set<URL>``` |
 | sources | ```Set<URL>``` |
 
+### merge-preventions.md
+Contains anime whose merging was prevented, as well as the reason why. Entries in this file are the base for creating `merge locks`.
+
+Example:
+```
+Year [1993] does not match [1992]. Not merging [https://anidb.net/anime/3172, https://animenewsnetwork.com/encyclopedia/anime.php?id=4405] into [https://kitsu.io/anime/12337, https://myanimelist.net/anime/32628].
+Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/6868] into [https://anidb.net/anime/2880, https://animenewsnetwork.com/encyclopedia/anime.php?id=1481, https://kitsu.io/anime/4761, https://myanimelist.net/anime/6868].
+```
+
+### merge-locks.json
+Contains `merge locks`. A `merge lock` indicates that all entries within this lock will be merged together. This is necessary to merge entries that appear in the `merge-preventions.md`. You can help in two ways to fill this list and therefore increase the quality of this database. Check the [contribution guidelines](./.github/CONTRIBUTING.md)
+
+Example:
+```json
+[
+    [
+        "https://anidb.net/anime/3172",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=4405",
+        "https://kitsu.io/anime/12337",
+        "https://myanimelist.net/anime/32628"
+    ],
+    [
+        "https://anilist.co/anime/6868",
+        "https://anidb.net/anime/2880",
+        "https://animenewsnetwork.com/encyclopedia/anime.php?id=1481",
+        "https://kitsu.io/anime/4761",
+        "https://myanimelist.net/anime/6868"
+    ]
+]
+```
+
 ### dead-entries.json
 Contains IDs which have been removed from the meta data provider's database.
-```
+```json
 {
     "mal": [
         38492,
