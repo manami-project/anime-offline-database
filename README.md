@@ -19,8 +19,7 @@ Missed updates:
 **You want more statistics and insights? Check out [adb-zeppelin-statistics](https://github.com/manami-project/adb-zeppelin-statistics)**
 
 ## Participation
-If you find something that, in your opinion, should be changed, please submit an issue rather than creating a pull request, because the database is created by an automated process.
-
+If you want to contribute, please read the [contribution guidelines](./.github/CONTRIBUTING.md) first.
 
 ## Structure
 This repository contains two files. The database file itself and a file to support the automated process containing IDs from the meta data providers which don't exist anymore.
