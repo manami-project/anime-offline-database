@@ -8,7 +8,7 @@ You can contribute to to merge locks in two ways.
 + Only create a merge lock for an entry from the `merge-preventions.md` file
 + Check if the entries you want to create a merge lock for, should be merged together
 + Don't create PRs for multiple merge locks at once. Create a single PR for each merge lock
-+ Create a PR
++ Create a PR (see example PRs [#25](https://github.com/manami-project/anime-offline-database/pull/25) and [#24](https://github.com/manami-project/anime-offline-database/pull/24))
   + Pull the latest revision
   + Title of the PR/commit must look like this: `Merge lock URL` where URL is the affected anime. E.g.: If the entry in the merge-preventions.md is `.... Not merging [https://anilist.co/anime/6868] into...` Then the PR/commit should be named `Merge lock https://anilist.co/anime/6868`
   + Remove the entry from the `merge-preventions.md`

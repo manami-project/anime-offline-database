@@ -22,7 +22,7 @@ Missed updates:
 If you want to contribute, please read the [contribution guidelines](./.github/CONTRIBUTING.md) first.
 
 ## Structure
-This repository contains two files. The database file itself and a file to support the automated process containing IDs from the meta data providers which don't exist anymore.
+This repository contains four files. The database file itself and a file to support the automated process containing IDs from the meta data providers which don't exist anymore. Additionally there are two files which support the merging of the automated process.
 
 ### anime-offline-database.json
 Example of the structure:
