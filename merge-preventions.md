@@ -5757,7 +5757,6 @@ Duration [960]seconds does not match [900]seconds. Not merging [https://anilist.
 Duration [960]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/9087] into [https://kitsu.io/anime/5598, https://myanimelist.net/anime/9087].
 Duration [960]seconds does not match [900]seconds. Not merging [https://kitsu.io/anime/13811] into [https://anidb.net/anime/13436, https://animenewsnetwork.com/encyclopedia/anime.php?id=20157, https://myanimelist.net/anime/36308].
 Duration [9900]seconds does not match [9720]seconds. Not merging [https://anidb.net/anime/7221, https://animenewsnetwork.com/encyclopedia/anime.php?id=11120] into [https://anilist.co/anime/7311, https://kitsu.io/anime/4938, https://myanimelist.net/anime/7311].
-Year [1935] does not match [1933]. Not merging [https://kitsu.io/anime/4752] into [https://anidb.net/anime/7193, https://myanimelist.net/anime/6851].
 Year [1935] does not match [1936]. Not merging [https://anilist.co/anime/5838] into [https://anidb.net/anime/6718, https://kitsu.io/anime/4298, https://myanimelist.net/anime/5838].
 Year [1942] does not match [1961]. Not merging [https://anidb.net/anime/6821] into [https://anilist.co/anime/109352, https://kitsu.io/anime/10552, https://myanimelist.net/anime/29927].
 Year [1954] does not match [1958]. Not merging [https://kitsu.io/anime/10452] into [https://myanimelist.net/anime/29812].
