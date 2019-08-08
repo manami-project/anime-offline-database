@@ -5777,7 +5777,6 @@ Year [1971] does not match [1970]. Not merging [https://anilist.co/anime/99212] 
 Year [1971] does not match [1975]. Not merging [https://anidb.net/anime/2985, https://animenewsnetwork.com/encyclopedia/anime.php?id=1796] into [https://anilist.co/anime/11421, https://kitsu.io/anime/6507, https://myanimelist.net/anime/11421].
 Year [1971] does not match [2002]. Not merging [https://kitsu.io/anime/40867] into [https://myanimelist.net/anime/36163].
 Year [1972] does not match [1973]. Not merging [https://anilist.co/anime/2253] into [https://myanimelist.net/anime/2253].
-Year [1972] does not match [1979]. Not merging [https://anidb.net/anime/12589] into [https://anilist.co/anime/102521, https://kitsu.io/anime/10698, https://myanimelist.net/anime/30167].
 Year [1973] does not match [1976]. Not merging [https://anidb.net/anime/14343] into [https://kitsu.io/anime/9770, https://myanimelist.net/anime/26311].
 Year [1974] does not match [1917]. Not merging [https://anidb.net/anime/14267] into [https://kitsu.io/anime/6333, https://myanimelist.net/anime/10756].
 Year [1974] does not match [1975]. Not merging [https://anidb.net/anime/14367] into [https://anilist.co/anime/103492, https://kitsu.io/anime/10505, https://myanimelist.net/anime/29681].
