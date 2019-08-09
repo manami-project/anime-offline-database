@@ -1,7 +1,7 @@
 # Contribution guidelines
 
 ## Merge locks
-You can contribute to to merge locks in two ways.
+You can contribute to merge locks in two ways.
 
 ### Creating a merge lock
 + Make sure there is no pull request for the merge lock that you want to create
