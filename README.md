@@ -1,16 +1,16 @@
 # anime-offline-database [![Build Status](https://travis-ci.com/manami-project/anime-offline-database.svg?branch=master)](https://travis-ci.com/manami-project/anime-offline-database)
-The purpose of this repository is to create an offline database containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, animenewsnetwork.com, anilist.co, kitsu.io) and allow cross references between those meta data providers. This file is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
+The purpose of this repository is to create an offline database containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, anilist.co and kitsu.io) and allow cross references between those meta data providers. This file is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
 
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 32 [2019]**
+Update **week 33 [2019]**
 
-The database consists of **30040** entries composed of:
-+ 16138 entries from myanimelist.net
-+ 10787 entries from anidb.net
-+ 11788 entries from anilist.co
-+ 14490 entries from kitsu.io
+The database consists of **30035** entries composed of:
++ 16120 entries from myanimelist.net
++ 10788 entries from anidb.net
++ 11801 entries from anilist.co
++ 14493 entries from kitsu.io
 
 Missed updates:
 + **2019** _(so far)_: 2
@@ -33,7 +33,6 @@ Example of the structure:
             "sources": [
                 "http://anilist.co/anime/1535",
                 "https://anidb.net/a4563",
-                "https://animenewsnetwork.com/encyclopedia/anime.php?id=6592",
                 "https://kitsu.io/anime/1376",
                 "https://myanimelist.net/anime/1535"
             ],
@@ -87,8 +86,8 @@ Contains anime whose merging was prevented, as well as the reason why. Entries i
 
 Example:
 ```
-Year [1993] does not match [1992]. Not merging [https://anidb.net/anime/3172, https://animenewsnetwork.com/encyclopedia/anime.php?id=4405] into [https://kitsu.io/anime/12337, https://myanimelist.net/anime/32628].
-Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/6868] into [https://anidb.net/anime/2880, https://animenewsnetwork.com/encyclopedia/anime.php?id=1481, https://kitsu.io/anime/4761, https://myanimelist.net/anime/6868].
+Year [1993] does not match [1992]. Not merging [https://anidb.net/anime/3172] into [https://kitsu.io/anime/12337, https://myanimelist.net/anime/32628].
+Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/6868] into [https://anidb.net/anime/2880, https://kitsu.io/anime/4761, https://myanimelist.net/anime/6868].
 ```
 
 ### merge-locks.json
@@ -99,14 +98,12 @@ Example:
 [
     [
         "https://anidb.net/anime/3172",
-        "https://animenewsnetwork.com/encyclopedia/anime.php?id=4405",
         "https://kitsu.io/anime/12337",
         "https://myanimelist.net/anime/32628"
     ],
     [
         "https://anilist.co/anime/6868",
         "https://anidb.net/anime/2880",
-        "https://animenewsnetwork.com/encyclopedia/anime.php?id=1481",
         "https://kitsu.io/anime/4761",
         "https://myanimelist.net/anime/6868"
     ]
