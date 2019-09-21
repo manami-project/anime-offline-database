@@ -1,7 +1,8 @@
 Duration [1020]seconds does not match [1080]seconds. Not merging [https://anilist.co/anime/3167] into [https://kitsu.io/anime/7661, https://myanimelist.net/anime/3167].
 Duration [1020]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/110404] into [https://myanimelist.net/anime/39754].
 Duration [1020]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/20469] into [https://anidb.net/anime/10087].
-Duration [1020]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/4250] into [https://anidb.net/anime/2222].
+Duration [1020]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/7669] into [https://anidb.net/anime/7294].
+Duration [1020]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/3167] into [https://anidb.net/anime/5132].
 Duration [1020]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/4250] into [https://kitsu.io/anime/3538, https://myanimelist.net/anime/4250].
 Duration [1020]seconds does not match [960]seconds. Not merging [https://anilist.co/anime/107872] into [https://myanimelist.net/anime/38130].
 Duration [1020]seconds does not match [960]seconds. Not merging [https://anilist.co/anime/20469] into [https://kitsu.io/anime/8085, https://myanimelist.net/anime/20671].
@@ -15,8 +16,6 @@ Duration [1080]seconds does not match [1020]seconds. Not merging [https://anidb.
 Duration [1080]seconds does not match [1020]seconds. Not merging [https://anilist.co/anime/21281] into [https://kitsu.io/anime/11315, https://myanimelist.net/anime/31374].
 Duration [1080]seconds does not match [1020]seconds. Not merging [https://kitsu.io/anime/10901] into [https://anilist.co/anime/102628, https://myanimelist.net/anime/30537].
 Duration [1080]seconds does not match [1020]seconds. Not merging [https://kitsu.io/anime/10946] into [https://myanimelist.net/anime/30743].
-Duration [1080]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/21281] into [https://anidb.net/anime/11468].
-Duration [1080]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/98477] into [https://anidb.net/anime/12739].
 Duration [1080]seconds does not match [1260]seconds. Not merging [https://kitsu.io/anime/12755] into [https://myanimelist.net/anime/34391].
 Duration [1080]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/98477] into [https://kitsu.io/anime/13463, https://myanimelist.net/anime/36397].
 Duration [1080]seconds does not match [960]seconds. Not merging [https://anidb.net/anime/14279] into [https://kitsu.io/anime/13199, https://myanimelist.net/anime/33485].
@@ -27,35 +26,31 @@ Duration [1140]seconds does not match [1080]seconds. Not merging [https://anilis
 Duration [1140]seconds does not match [1080]seconds. Not merging [https://anilist.co/anime/6680] into [https://myanimelist.net/anime/6680].
 Duration [1140]seconds does not match [1080]seconds. Not merging [https://kitsu.io/anime/4661] into [https://myanimelist.net/anime/6680].
 Duration [1140]seconds does not match [1080]seconds. Not merging [https://kitsu.io/anime/9365] into [https://myanimelist.net/anime/23639].
-Duration [1140]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/6680] into [https://anidb.net/anime/6999].
+Duration [1140]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/21732] into [https://anidb.net/anime/12085].
 Duration [1140]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/14159] into [https://myanimelist.net/anime/38689].
 Duration [1140]seconds does not match [1260]seconds. Not merging [https://anilist.co/anime/103007] into [https://myanimelist.net/anime/38689].
 Duration [120]seconds does not match [12]seconds. Not merging [https://anidb.net/anime/7045] into [https://myanimelist.net/anime/4966].
 Duration [120]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/7676] into [https://anilist.co/anime/18495, https://myanimelist.net/anime/18495].
+Duration [120]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/7676] into [https://anidb.net/anime/9857].
 Duration [120]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/10428] into [https://anilist.co/anime/20624, https://kitsu.io/anime/8556, https://myanimelist.net/anime/24417].
-Duration [120]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/10573] into [https://kitsu.io/anime/8449].
 Duration [120]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/1746] into [https://anilist.co/anime/1839, https://kitsu.io/anime/1656, https://myanimelist.net/anime/1839].
 Duration [120]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/2714] into [https://kitsu.io/anime/990, https://myanimelist.net/anime/1105].
-Duration [120]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/103435] into [https://anidb.net/anime/12633].
+Duration [120]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/102940] into [https://anidb.net/anime/12607].
 Duration [120]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/103977] into [https://anidb.net/anime/12613].
 Duration [120]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/104472] into [https://anidb.net/anime/13064].
 Duration [120]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/10796] into [https://kitsu.io/anime/6351, https://myanimelist.net/anime/10796].
 Duration [120]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/98632] into [https://anidb.net/anime/13119, https://myanimelist.net/anime/35443].
-Duration [120]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/10322] into [https://anidb.net/anime/12613].
+Duration [120]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/10404] into [https://anidb.net/anime/13367].
 Duration [120]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/10569] into [https://anidb.net/anime/13064].
-Duration [120]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/10637] into [https://anidb.net/anime/12633].
 Duration [120]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/11008] into [https://myanimelist.net/anime/30840].
-Duration [120]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/11657] into [https://anilist.co/anime/21591].
 Duration [120]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/13241] into [https://myanimelist.net/anime/35145].
 Duration [120]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/13898] into [https://myanimelist.net/anime/36073].
-Duration [120]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/7825] into [https://anilist.co/anime/17871].
+Duration [120]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/7825] into [https://anidb.net/anime/9681, https://anilist.co/anime/17871].
 Duration [120]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/8552] into [https://anilist.co/anime/20782].
-Duration [120]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/10414] into [https://kitsu.io/anime/11534].
 Duration [120]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/17891] into [https://anidb.net/anime/12928, https://kitsu.io/anime/8902, https://myanimelist.net/anime/17891].
 Duration [120]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/8648] into [https://myanimelist.net/anime/8648].
 Duration [120]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/8667] into [https://anidb.net/anime/12822, https://kitsu.io/anime/5429, https://myanimelist.net/anime/8667].
 Duration [120]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/8749] into [https://myanimelist.net/anime/8749].
-Duration [120]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/13898] into [https://anidb.net/anime/13358].
 Duration [120]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/41230] into [https://myanimelist.net/anime/37721].
 Duration [120]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/4650] into [https://anilist.co/anime/6654, https://myanimelist.net/anime/6654].
 Duration [120]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/5417] into [https://myanimelist.net/anime/8648].
@@ -64,12 +59,14 @@ Duration [120]seconds does not match [2820]seconds. Not merging [https://kitsu.i
 Duration [120]seconds does not match [30]seconds. Not merging [https://kitsu.io/anime/41789] into [https://myanimelist.net/anime/37453].
 Duration [120]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/12115] into [https://myanimelist.net/anime/33262].
 Duration [120]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/13951] into [https://kitsu.io/anime/41813, https://myanimelist.net/anime/37554].
+Duration [120]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/2714] into [https://anilist.co/anime/1105].
 Duration [120]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/9463] into [https://myanimelist.net/anime/3243].
 Duration [120]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/109415] into [https://kitsu.io/anime/42443, https://myanimelist.net/anime/38934].
 Duration [120]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/10873] into [https://myanimelist.net/anime/30600].
 Duration [120]seconds does not match [33]seconds. Not merging [https://anilist.co/anime/99217] into [https://kitsu.io/anime/11138, https://myanimelist.net/anime/31102].
-Duration [120]seconds does not match [3300]seconds. Not merging [https://kitsu.io/anime/41759] into [https://anidb.net/anime/13788].
+Duration [120]seconds does not match [360]seconds. Not merging [https://kitsu.io/anime/10873] into [https://anilist.co/anime/106456].
 Duration [120]seconds does not match [420]seconds. Not merging [https://anilist.co/anime/20942] into [https://kitsu.io/anime/8665, https://myanimelist.net/anime/24457].
+Duration [120]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/9463] into [https://kitsu.io/anime/2879].
 Duration [120]seconds does not match [5040]seconds. Not merging [https://kitsu.io/anime/6295] into [https://myanimelist.net/anime/10689].
 Duration [120]seconds does not match [5100]seconds. Not merging [https://kitsu.io/anime/6295] into [https://anilist.co/anime/10689].
 Duration [120]seconds does not match [55]seconds. Not merging [https://kitsu.io/anime/40974] into [https://myanimelist.net/anime/36574].
@@ -81,7 +78,6 @@ Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net
 Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/10640] into [https://anilist.co/anime/16606, https://myanimelist.net/anime/16606].
 Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/10647] into [https://anilist.co/anime/16608, https://kitsu.io/anime/7473, https://myanimelist.net/anime/16608].
 Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/11055] into [https://kitsu.io/anime/10530, https://myanimelist.net/anime/29865].
-Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/11195] into [https://kitsu.io/anime/10884].
 Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/11239] into [https://anilist.co/anime/102513, https://kitsu.io/anime/10927, https://myanimelist.net/anime/30766].
 Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/11285] into [https://kitsu.io/anime/11139, https://myanimelist.net/anime/30954].
 Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/11302] into [https://anilist.co/anime/99211, https://kitsu.io/anime/10365, https://myanimelist.net/anime/29411].
@@ -143,6 +139,7 @@ Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net
 Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/5904] into [https://kitsu.io/anime/3571, https://myanimelist.net/anime/4362].
 Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/6635] into [https://anilist.co/anime/6641, https://kitsu.io/anime/4647, https://myanimelist.net/anime/6641].
 Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/6724] into [https://anilist.co/anime/6840, https://kitsu.io/anime/4742, https://myanimelist.net/anime/6840].
+Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/7045] into [https://anidb.net/anime/7260, https://anilist.co/anime/4966, https://kitsu.io/anime/3868].
 Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/7195] into [https://anilist.co/anime/6850, https://kitsu.io/anime/4751, https://myanimelist.net/anime/6850].
 Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/7598] into [https://anilist.co/anime/8961, https://kitsu.io/anime/5553, https://myanimelist.net/anime/8961].
 Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/7616] into [https://kitsu.io/anime/5096, https://myanimelist.net/anime/7721].
@@ -155,6 +152,7 @@ Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net
 Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/8915] into [https://anilist.co/anime/103985, https://kitsu.io/anime/10895, https://myanimelist.net/anime/30576].
 Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/8977] into [https://anilist.co/anime/13543, https://kitsu.io/anime/6990, https://myanimelist.net/anime/13543].
 Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/8986] into [https://kitsu.io/anime/6891, https://myanimelist.net/anime/13141].
+Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/9333] into [https://kitsu.io/anime/11789].
 Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/9372] into [https://kitsu.io/anime/8837, https://myanimelist.net/anime/24847].
 Duration [120]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/9863] into [https://kitsu.io/anime/8890, https://myanimelist.net/anime/18723].
 Duration [120]seconds does not match [60]seconds. Not merging [https://anilist.co/anime/100180] into [https://myanimelist.net/anime/36468].
@@ -271,6 +269,7 @@ Duration [120]seconds does not match [7200]seconds. Not merging [https://kitsu.i
 Duration [120]seconds does not match [7320]seconds. Not merging [https://kitsu.io/anime/41669] into [https://myanimelist.net/anime/36783].
 Duration [120]seconds does not match [8100]seconds. Not merging [https://kitsu.io/anime/13850] into [https://anilist.co/anime/101811, https://myanimelist.net/anime/34438].
 Duration [120]seconds does not match [8400]seconds. Not merging [https://kitsu.io/anime/13852] into [https://myanimelist.net/anime/34440].
+Duration [120]seconds does not match [8460]seconds. Not merging [https://kitsu.io/anime/13852] into [https://anilist.co/anime/101813].
 Duration [1200]seconds does not match [1020]seconds. Not merging [https://anidb.net/anime/10059] into [https://kitsu.io/anime/9934, https://myanimelist.net/anime/20797].
 Duration [1200]seconds does not match [1020]seconds. Not merging [https://anidb.net/anime/10151] into [https://kitsu.io/anime/10995, https://myanimelist.net/anime/30765].
 Duration [1200]seconds does not match [1020]seconds. Not merging [https://anidb.net/anime/11468] into [https://kitsu.io/anime/11315, https://myanimelist.net/anime/31374].
@@ -279,14 +278,15 @@ Duration [1200]seconds does not match [1020]seconds. Not merging [https://anidb.
 Duration [1200]seconds does not match [1020]seconds. Not merging [https://anidb.net/anime/12539] into [https://anilist.co/anime/98208, https://kitsu.io/anime/11453, https://myanimelist.net/anime/31476].
 Duration [1200]seconds does not match [1020]seconds. Not merging [https://anidb.net/anime/12922] into [https://anilist.co/anime/99527].
 Duration [1200]seconds does not match [1020]seconds. Not merging [https://anidb.net/anime/14335] into [https://kitsu.io/anime/10542, https://myanimelist.net/anime/29917].
+Duration [1200]seconds does not match [1020]seconds. Not merging [https://anidb.net/anime/2222] into [https://anilist.co/anime/4250].
 Duration [1200]seconds does not match [1020]seconds. Not merging [https://anidb.net/anime/4076] into [https://anilist.co/anime/3832, https://kitsu.io/anime/3284, https://myanimelist.net/anime/3832].
 Duration [1200]seconds does not match [1020]seconds. Not merging [https://anidb.net/anime/4399] into [https://anilist.co/anime/4097, https://kitsu.io/anime/3464, https://myanimelist.net/anime/4097].
 Duration [1200]seconds does not match [1020]seconds. Not merging [https://anidb.net/anime/4713] into [https://anilist.co/anime/3490, https://kitsu.io/anime/3048, https://myanimelist.net/anime/3490].
 Duration [1200]seconds does not match [1020]seconds. Not merging [https://anidb.net/anime/4736] into [https://anilist.co/anime/5785, https://kitsu.io/anime/4277, https://myanimelist.net/anime/5785].
+Duration [1200]seconds does not match [1020]seconds. Not merging [https://anidb.net/anime/5751] into [https://anilist.co/anime/4033].
 Duration [1200]seconds does not match [1020]seconds. Not merging [https://anidb.net/anime/6876] into [https://kitsu.io/anime/9394, https://myanimelist.net/anime/23637].
 Duration [1200]seconds does not match [1020]seconds. Not merging [https://anidb.net/anime/6886] into [https://anilist.co/anime/12603, https://kitsu.io/anime/6773, https://myanimelist.net/anime/12603].
 Duration [1200]seconds does not match [1020]seconds. Not merging [https://anidb.net/anime/7173] into [https://kitsu.io/anime/40642, https://myanimelist.net/anime/34969].
-Duration [1200]seconds does not match [1020]seconds. Not merging [https://anidb.net/anime/7294] into [https://anilist.co/anime/7669].
 Duration [1200]seconds does not match [1020]seconds. Not merging [https://anidb.net/anime/783] into [https://anilist.co/anime/824, https://kitsu.io/anime/731, https://myanimelist.net/anime/824].
 Duration [1200]seconds does not match [1020]seconds. Not merging [https://anidb.net/anime/8452] into [https://anilist.co/anime/5987, https://kitsu.io/anime/4373, https://myanimelist.net/anime/5987].
 Duration [1200]seconds does not match [1080]seconds. Not merging [https://anidb.net/anime/10086] into [https://anilist.co/anime/20471, https://kitsu.io/anime/8080, https://myanimelist.net/anime/20673].
@@ -298,8 +298,10 @@ Duration [1200]seconds does not match [1080]seconds. Not merging [https://anidb.
 Duration [1200]seconds does not match [1080]seconds. Not merging [https://anidb.net/anime/10631] into [https://anilist.co/anime/20749, https://kitsu.io/anime/8564, https://myanimelist.net/anime/24275].
 Duration [1200]seconds does not match [1080]seconds. Not merging [https://anidb.net/anime/11091] into [https://anilist.co/anime/4218, https://kitsu.io/anime/3530, https://myanimelist.net/anime/4218].
 Duration [1200]seconds does not match [1080]seconds. Not merging [https://anidb.net/anime/11097] into [https://anilist.co/anime/103003, https://kitsu.io/anime/11180, https://myanimelist.net/anime/30865].
+Duration [1200]seconds does not match [1080]seconds. Not merging [https://anidb.net/anime/11468] into [https://anilist.co/anime/21281].
 Duration [1200]seconds does not match [1080]seconds. Not merging [https://anidb.net/anime/12085] into [https://kitsu.io/anime/12023, https://myanimelist.net/anime/33091].
 Duration [1200]seconds does not match [1080]seconds. Not merging [https://anidb.net/anime/12692] into [https://kitsu.io/anime/12796, https://myanimelist.net/anime/34510].
+Duration [1200]seconds does not match [1080]seconds. Not merging [https://anidb.net/anime/12739] into [https://anilist.co/anime/98477].
 Duration [1200]seconds does not match [1080]seconds. Not merging [https://anidb.net/anime/13171] into [https://anilist.co/anime/99200, https://kitsu.io/anime/13078, https://myanimelist.net/anime/34300].
 Duration [1200]seconds does not match [1080]seconds. Not merging [https://anidb.net/anime/2888] into [https://anilist.co/anime/6331].
 Duration [1200]seconds does not match [1080]seconds. Not merging [https://anidb.net/anime/6830] into [https://anilist.co/anime/101969, https://kitsu.io/anime/9500, https://myanimelist.net/anime/27573].
@@ -319,7 +321,6 @@ Duration [1200]seconds does not match [1080]seconds. Not merging [https://anilis
 Duration [1200]seconds does not match [1140]seconds. Not merging [https://anidb.net/anime/11463] into [https://kitsu.io/anime/9578, https://myanimelist.net/anime/25093].
 Duration [1200]seconds does not match [1140]seconds. Not merging [https://anidb.net/anime/11589] into [https://myanimelist.net/anime/16506].
 Duration [1200]seconds does not match [1140]seconds. Not merging [https://anidb.net/anime/11596] into [https://kitsu.io/anime/12650, https://myanimelist.net/anime/33697].
-Duration [1200]seconds does not match [1140]seconds. Not merging [https://anidb.net/anime/12085] into [https://anilist.co/anime/21732].
 Duration [1200]seconds does not match [1140]seconds. Not merging [https://anidb.net/anime/1255] into [https://anilist.co/anime/1056, https://kitsu.io/anime/945, https://myanimelist.net/anime/1056].
 Duration [1200]seconds does not match [1140]seconds. Not merging [https://anidb.net/anime/13203] into [https://myanimelist.net/anime/35656].
 Duration [1200]seconds does not match [1140]seconds. Not merging [https://anidb.net/anime/13654] into [https://myanimelist.net/anime/39720].
@@ -334,6 +335,7 @@ Duration [1200]seconds does not match [1140]seconds. Not merging [https://anidb.
 Duration [1200]seconds does not match [1140]seconds. Not merging [https://anidb.net/anime/5685] into [https://anilist.co/anime/3759, https://kitsu.io/anime/3235, https://myanimelist.net/anime/3759].
 Duration [1200]seconds does not match [1140]seconds. Not merging [https://anidb.net/anime/6785] into [https://anilist.co/anime/6980, https://kitsu.io/anime/4818, https://myanimelist.net/anime/6980].
 Duration [1200]seconds does not match [1140]seconds. Not merging [https://anidb.net/anime/6870] into [https://kitsu.io/anime/9365].
+Duration [1200]seconds does not match [1140]seconds. Not merging [https://anidb.net/anime/6999] into [https://anilist.co/anime/6680, https://kitsu.io/anime/4661].
 Duration [1200]seconds does not match [1140]seconds. Not merging [https://anidb.net/anime/7016] into [https://anilist.co/anime/7177, https://kitsu.io/anime/4895, https://myanimelist.net/anime/7177].
 Duration [1200]seconds does not match [1140]seconds. Not merging [https://anidb.net/anime/7029] into [https://anilist.co/anime/11693].
 Duration [1200]seconds does not match [1140]seconds. Not merging [https://anidb.net/anime/8809] into [https://anilist.co/anime/12231, https://kitsu.io/anime/6691, https://myanimelist.net/anime/12231].
@@ -350,18 +352,19 @@ Duration [1200]seconds does not match [1260]seconds. Not merging [https://anidb.
 Duration [1200]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/3510] into [https://anilist.co/anime/5845].
 Duration [1200]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/6079] into [https://kitsu.io/anime/9613, https://myanimelist.net/anime/21951].
 Duration [1200]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/6207] into [https://kitsu.io/anime/6537, https://myanimelist.net/anime/11561].
-Duration [1200]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/6796] into [https://anilist.co/anime/5526].
+Duration [1200]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/6803] into [https://anilist.co/anime/8709].
 Duration [1200]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/7740] into [https://kitsu.io/anime/9609, https://myanimelist.net/anime/21945].
 Duration [1200]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/7859] into [https://kitsu.io/anime/9845, https://myanimelist.net/anime/22457].
+Duration [1200]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/8139] into [https://anilist.co/anime/11069].
 Duration [1200]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/9769] into [https://anilist.co/anime/18355].
 Duration [1200]seconds does not match [1260]seconds. Not merging [https://anilist.co/anime/103256] into [https://kitsu.io/anime/41875, https://myanimelist.net/anime/37983].
 Duration [1200]seconds does not match [1260]seconds. Not merging [https://anilist.co/anime/3834] into [https://kitsu.io/anime/3286, https://myanimelist.net/anime/3834].
 Duration [1200]seconds does not match [1260]seconds. Not merging [https://kitsu.io/anime/3846] into [https://myanimelist.net/anime/4910].
 Duration [1200]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/10614] into [https://anilist.co/anime/102509, https://kitsu.io/anime/9513, https://myanimelist.net/anime/21163].
+Duration [1200]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/11059] into [https://kitsu.io/anime/10360].
 Duration [1200]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/13801] into [https://anilist.co/anime/102570, https://kitsu.io/anime/14102, https://myanimelist.net/anime/36762].
 Duration [1200]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/14160] into [https://myanimelist.net/anime/39231].
 Duration [1200]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/1826] into [https://anilist.co/anime/3025, https://kitsu.io/anime/2733, https://myanimelist.net/anime/3025].
-Duration [1200]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/6207] into [https://anilist.co/anime/11561].
 Duration [1200]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/7387] into [https://anilist.co/anime/6246, https://kitsu.io/anime/4491, https://myanimelist.net/anime/6246].
 Duration [1200]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/7602] into [https://anilist.co/anime/9014, https://kitsu.io/anime/5576, https://myanimelist.net/anime/9014].
 Duration [1200]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/852] into [https://anilist.co/anime/1567, https://kitsu.io/anime/1407, https://myanimelist.net/anime/1567].
@@ -374,7 +377,7 @@ Duration [1200]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1200]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/3073] into [https://kitsu.io/anime/8368, https://myanimelist.net/anime/17489].
 Duration [1200]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/3581] into [https://anilist.co/anime/12165, https://kitsu.io/anime/6681, https://myanimelist.net/anime/12165].
 Duration [1200]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/595] into [https://anilist.co/anime/288, https://kitsu.io/anime/263, https://myanimelist.net/anime/288].
-Duration [1200]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/6798] into [https://anilist.co/anime/4793].
+Duration [1200]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/6797] into [https://anilist.co/anime/4792].
 Duration [1200]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/8919] into [https://anilist.co/anime/12695, https://kitsu.io/anime/6793, https://myanimelist.net/anime/12695].
 Duration [1200]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/1001] into [https://kitsu.io/anime/891, https://myanimelist.net/anime/1001].
 Duration [1200]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/1137] into [https://kitsu.io/anime/1018, https://myanimelist.net/anime/1137].
@@ -389,14 +392,15 @@ Duration [1200]seconds does not match [1380]seconds. Not merging [https://anilis
 Duration [1200]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/2820] into [https://kitsu.io/anime/2574, https://myanimelist.net/anime/2820].
 Duration [1200]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/318] into [https://myanimelist.net/anime/318].
 Duration [1200]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/360] into [https://kitsu.io/anime/327, https://myanimelist.net/anime/360].
+Duration [1200]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/3809] into [https://kitsu.io/anime/3265].
 Duration [1200]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/4782] into [https://myanimelist.net/anime/4782].
 Duration [1200]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/6511] into [https://kitsu.io/anime/4587, https://myanimelist.net/anime/6511].
-Duration [1200]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/926] into [https://kitsu.io/anime/824].
 Duration [1200]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/98642] into [https://kitsu.io/anime/12055, https://myanimelist.net/anime/33013].
 Duration [1200]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/13502] into [https://myanimelist.net/anime/35466].
 Duration [1200]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/1427] into [https://myanimelist.net/anime/1587].
 Duration [1200]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/2456] into [https://myanimelist.net/anime/2694].
 Duration [1200]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/3782] into [https://myanimelist.net/anime/4782].
+Duration [1200]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/42051] into [https://anilist.co/anime/104217].
 Duration [1200]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/7896] into [https://myanimelist.net/anime/318].
 Duration [1200]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/4093] into [https://anilist.co/anime/3695, https://kitsu.io/anime/3200, https://myanimelist.net/anime/3695].
 Duration [1200]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/1018] into [https://kitsu.io/anime/908, https://myanimelist.net/anime/1018].
@@ -469,28 +473,24 @@ Duration [1200]seconds does not match [1440]seconds. Not merging [https://kitsu.
 Duration [1200]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/3440] into [https://anilist.co/anime/4062, https://myanimelist.net/anime/4062].
 Duration [1200]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/42050] into [https://myanimelist.net/anime/38198].
 Duration [1200]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/4294] into [https://myanimelist.net/anime/5832].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/2467] into [https://anilist.co/anime/5763].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/2467] into [https://anilist.co/anime/5763, https://kitsu.io/anime/4268].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/6029] into [https://kitsu.io/anime/4965, https://myanimelist.net/anime/7419].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/6391] into [https://anilist.co/anime/6116, https://kitsu.io/anime/4432, https://myanimelist.net/anime/6116].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/7866] into [https://kitsu.io/anime/9015, https://myanimelist.net/anime/17983].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/103256] into [https://anidb.net/anime/14206].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1019] into [https://anidb.net/anime/787].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1040] into [https://anidb.net/anime/572, https://kitsu.io/anime/930, https://myanimelist.net/anime/1040].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1137] into [https://anidb.net/anime/2127].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1139] into [https://anidb.net/anime/3516, https://kitsu.io/anime/1020, https://myanimelist.net/anime/1139].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1149] into [https://anidb.net/anime/1329].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1175] into [https://anidb.net/anime/917, https://kitsu.io/anime/1055, https://myanimelist.net/anime/1175].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/11853] into [https://anidb.net/anime/8735].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1231] into [https://kitsu.io/anime/1107, https://myanimelist.net/anime/1231].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/130] into [https://anidb.net/anime/1081].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1442] into [https://anidb.net/anime/1194].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/14913] into [https://anidb.net/anime/9329, https://kitsu.io/anime/7181, https://myanimelist.net/anime/14913].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1572] into [https://anidb.net/anime/1496, https://kitsu.io/anime/1412, https://myanimelist.net/anime/1572].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1587] into [https://anidb.net/anime/4571].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/17291] into [https://anidb.net/anime/4756].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/171] into [https://anidb.net/anime/902].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/17983] into [https://kitsu.io/anime/9015, https://myanimelist.net/anime/17983].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1806] into [https://anidb.net/anime/684].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1891] into [https://anidb.net/anime/1299, https://kitsu.io/anime/1701, https://myanimelist.net/anime/1891].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2075] into [https://anidb.net/anime/4652, https://kitsu.io/anime/1874, https://myanimelist.net/anime/2075].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2087] into [https://anidb.net/anime/1367].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2128] into [https://anidb.net/anime/1819].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2151] into [https://anidb.net/anime/2654, https://kitsu.io/anime/1947, https://myanimelist.net/anime/2151].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2226] into [https://anidb.net/anime/3165, https://kitsu.io/anime/2017, https://myanimelist.net/anime/2226].
@@ -499,42 +499,39 @@ Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilis
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2421] into [https://anidb.net/anime/780, https://myanimelist.net/anime/2421].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2503] into [https://anidb.net/anime/1126, https://kitsu.io/anime/2271, https://myanimelist.net/anime/2503].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2545] into [https://anidb.net/anime/3388, https://kitsu.io/anime/2310, https://myanimelist.net/anime/2545].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2552] into [https://anidb.net/anime/5197].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2567] into [https://anidb.net/anime/2709].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2707] into [https://anidb.net/anime/3584].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2719] into [https://anidb.net/anime/5402, https://kitsu.io/anime/2480, https://myanimelist.net/anime/2719].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2735] into [https://anidb.net/anime/643, https://kitsu.io/anime/2495, https://myanimelist.net/anime/2735].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2749] into [https://anidb.net/anime/3976, https://kitsu.io/anime/2509, https://myanimelist.net/anime/2749].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2783] into [https://anidb.net/anime/3672].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2817] into [https://kitsu.io/anime/2571].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2912] into [https://anidb.net/anime/2923, https://myanimelist.net/anime/2912].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2938] into [https://anidb.net/anime/2558].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3020] into [https://anidb.net/anime/1935, https://kitsu.io/anime/2728, https://myanimelist.net/anime/3020].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3035] into [https://anidb.net/anime/3219].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3114] into [https://anidb.net/anime/3948, https://kitsu.io/anime/2806, https://myanimelist.net/anime/3114].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3116] into [https://anidb.net/anime/5793].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/318] into [https://anidb.net/anime/60].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3251] into [https://kitsu.io/anime/2884, https://myanimelist.net/anime/3251].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3281] into [https://anidb.net/anime/2090].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3285] into [https://anidb.net/anime/1893].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3388] into [https://anidb.net/anime/1906, https://kitsu.io/anime/2975, https://myanimelist.net/anime/3388].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3418] into [https://anidb.net/anime/4040].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3425] into [https://kitsu.io/anime/3000, https://myanimelist.net/anime/3425].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3432] into [https://anidb.net/anime/1083].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3433] into [https://anidb.net/anime/2082].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3436] into [https://anidb.net/anime/2884, https://kitsu.io/anime/3009, https://myanimelist.net/anime/3436].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/347] into [https://anidb.net/anime/809].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/360] into [https://anidb.net/anime/454].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3631] into [https://anidb.net/anime/2559, https://kitsu.io/anime/3154, https://myanimelist.net/anime/3631].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3765] into [https://anidb.net/anime/3481].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3768] into [https://anidb.net/anime/3293].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3806] into [https://anidb.net/anime/3466, https://myanimelist.net/anime/3806].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3810] into [https://kitsu.io/anime/3266, https://myanimelist.net/anime/3810].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3812] into [https://anidb.net/anime/2329, https://kitsu.io/anime/3268, https://myanimelist.net/anime/3812].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3834] into [https://anidb.net/anime/5238].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3837] into [https://anidb.net/anime/3636].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3838] into [https://anidb.net/anime/1894].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3839] into [https://anidb.net/anime/1895].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3844] into [https://anidb.net/anime/1902, https://kitsu.io/anime/3296, https://myanimelist.net/anime/3844].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3878] into [https://anidb.net/anime/1921].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3879] into [https://anidb.net/anime/3627, https://kitsu.io/anime/3319, https://myanimelist.net/anime/3879].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3880] into [https://anidb.net/anime/3052, https://kitsu.io/anime/3320, https://myanimelist.net/anime/3880].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3881] into [https://anidb.net/anime/3053].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/4013] into [https://kitsu.io/anime/3411].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/4049] into [https://anidb.net/anime/2734, https://kitsu.io/anime/3429, https://myanimelist.net/anime/4049].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/4051] into [https://anidb.net/anime/5773].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/4060] into [https://anidb.net/anime/947].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/4073] into [https://anidb.net/anime/3087].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/4086] into [https://anidb.net/anime/3686, https://kitsu.io/anime/3457, https://myanimelist.net/anime/4086].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/4121] into [https://anidb.net/anime/3048].
@@ -544,50 +541,48 @@ Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilis
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/4536] into [https://anidb.net/anime/2349].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/4554] into [https://anidb.net/anime/4655, https://kitsu.io/anime/3680, https://myanimelist.net/anime/4554].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/4597] into [https://anidb.net/anime/5133].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/4651] into [https://anidb.net/anime/2104].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/4807] into [https://anidb.net/anime/3637].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/4933] into [https://anidb.net/anime/3659, https://kitsu.io/anime/3855, https://myanimelist.net/anime/4933].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5104] into [https://anidb.net/anime/3085].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5140] into [https://anidb.net/anime/4651, https://kitsu.io/anime/3945, https://myanimelist.net/anime/5140].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5143] into [https://anidb.net/anime/4359].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5197] into [https://anidb.net/anime/1529].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5273] into [https://anidb.net/anime/1537, https://kitsu.io/anime/4026, https://myanimelist.net/anime/5273].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5274] into [https://anidb.net/anime/2084].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5474] into [https://anidb.net/anime/2861].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5475] into [https://anidb.net/anime/2551, https://kitsu.io/anime/4116, https://myanimelist.net/anime/5475].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5477] into [https://anidb.net/anime/1577, https://kitsu.io/anime/4118, https://myanimelist.net/anime/5477].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5494] into [https://anidb.net/anime/6046].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/561] into [https://anidb.net/anime/400].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5618] into [https://anidb.net/anime/4953, https://kitsu.io/anime/4204, https://myanimelist.net/anime/5618].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5628] into [https://anidb.net/anime/4922, https://kitsu.io/anime/4209, https://myanimelist.net/anime/5628].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5832] into [https://anidb.net/anime/863].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5945] into [https://anidb.net/anime/6335].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5953] into [https://anidb.net/anime/4011].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5968] into [https://anidb.net/anime/4057].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/6012] into [https://anidb.net/anime/3653, https://kitsu.io/anime/4384, https://myanimelist.net/anime/6012].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/6056] into [https://anidb.net/anime/5165, https://kitsu.io/anime/4401, https://myanimelist.net/anime/6056].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/6261] into [https://anidb.net/anime/4260].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/646] into [https://anidb.net/anime/143].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/671] into [https://anidb.net/anime/4023].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/7419] into [https://kitsu.io/anime/4965, https://myanimelist.net/anime/7419].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/7479] into [https://anidb.net/anime/5492].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/754] into [https://anidb.net/anime/2828].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/961] into [https://anidb.net/anime/1647, https://kitsu.io/anime/851, https://myanimelist.net/anime/961].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/2197] into [https://anidb.net/anime/780, https://myanimelist.net/anime/2421].
-Duration [1200]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/3242] into [https://anidb.net/anime/3293].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/2456] into [https://anidb.net/anime/1508].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/3243] into [https://anidb.net/anime/4271].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/3262] into [https://anidb.net/anime/3466, https://myanimelist.net/anime/3806].
 Duration [1200]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/4027] into [https://myanimelist.net/anime/5274].
+Duration [1200]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/4294] into [https://anidb.net/anime/863].
 Duration [1200]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/2467] into [https://myanimelist.net/anime/5763].
 Duration [1200]seconds does not match [1560]seconds. Not merging [https://anilist.co/anime/3110] into [https://kitsu.io/anime/2802, https://myanimelist.net/anime/3110].
 Duration [1200]seconds does not match [1740]seconds. Not merging [https://anilist.co/anime/5250] into [https://kitsu.io/anime/4012, https://myanimelist.net/anime/5250].
 Duration [1200]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/3541] into [https://anilist.co/anime/2322, https://kitsu.io/anime/2103, https://myanimelist.net/anime/2322].
 Duration [1200]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/7820] into [https://anilist.co/anime/18085].
-Duration [1200]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/2567] into [https://kitsu.io/anime/2332].
 Duration [1200]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/5250] into [https://anidb.net/anime/970].
-Duration [1200]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/5473] into [https://anidb.net/anime/1880].
 Duration [1200]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/6511] into [https://anidb.net/anime/4202].
+Duration [1200]seconds does not match [1800]seconds. Not merging [https://kitsu.io/anime/3440] into [https://anidb.net/anime/5546].
 Duration [1200]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/11541] into [https://kitsu.io/anime/6532, https://myanimelist.net/anime/11541].
-Duration [1200]seconds does not match [2640]seconds. Not merging [https://anidb.net/anime/13992] into [https://kitsu.io/anime/41460].
 Duration [1200]seconds does not match [2760]seconds. Not merging [https://anilist.co/anime/17605] into [https://anidb.net/anime/7362, https://kitsu.io/anime/9759, https://myanimelist.net/anime/17605].
 Duration [1200]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/8025] into [https://kitsu.io/anime/6904, https://myanimelist.net/anime/13177].
 Duration [1200]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/13177] into [https://kitsu.io/anime/6904, https://myanimelist.net/anime/13177].
 Duration [1200]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/13179] into [https://anidb.net/anime/8026, https://kitsu.io/anime/6905, https://myanimelist.net/anime/13179].
-Duration [1200]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/12563] into [https://anilist.co/anime/100768].
 Duration [1200]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/12563] into [https://myanimelist.net/anime/33994].
+Duration [1200]seconds does not match [4440]seconds. Not merging [https://anidb.net/anime/13846] into [https://anilist.co/anime/101231, https://kitsu.io/anime/41404].
 Duration [1200]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/6843] into [https://anilist.co/anime/106927, https://kitsu.io/anime/40745, https://myanimelist.net/anime/35390].
 Duration [1200]seconds does not match [540]seconds. Not merging [https://anidb.net/anime/11259] into [https://myanimelist.net/anime/30818].
 Duration [1200]seconds does not match [540]seconds. Not merging [https://kitsu.io/anime/10944] into [https://myanimelist.net/anime/30818].
@@ -610,11 +605,10 @@ Duration [1200]seconds does not match [840]seconds. Not merging [https://anidb.n
 Duration [1200]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/12739] into [https://kitsu.io/anime/13463, https://myanimelist.net/anime/36397].
 Duration [1200]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/13442] into [https://anilist.co/anime/99847, https://kitsu.io/anime/13998].
 Duration [1200]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/13466] into [https://anilist.co/anime/101409, https://kitsu.io/anime/12253, https://myanimelist.net/anime/31838].
-Duration [1200]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/13601] into [https://myanimelist.net/anime/29812].
+Duration [1200]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/13601] into [https://kitsu.io/anime/10452, https://myanimelist.net/anime/29812].
 Duration [1200]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/13627] into [https://anilist.co/anime/102054, https://kitsu.io/anime/41214, https://myanimelist.net/anime/37737].
 Duration [1200]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/14065] into [https://myanimelist.net/anime/39760].
 Duration [1200]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/14456] into [https://kitsu.io/anime/42063, https://myanimelist.net/anime/38678].
-Duration [1200]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/15074] into [https://kitsu.io/anime/41384].
 Duration [1200]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/2222] into [https://kitsu.io/anime/3538, https://myanimelist.net/anime/4250].
 Duration [1200]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/4628] into [https://myanimelist.net/anime/17315].
 Duration [1200]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/7820] into [https://kitsu.io/anime/9305, https://myanimelist.net/anime/18085].
@@ -635,9 +629,11 @@ Duration [1200]seconds does not match [960]seconds. Not merging [https://anidb.n
 Duration [1200]seconds does not match [960]seconds. Not merging [https://anidb.net/anime/13040] into [https://anilist.co/anime/98573, https://kitsu.io/anime/13256, https://myanimelist.net/anime/35255].
 Duration [1200]seconds does not match [960]seconds. Not merging [https://anidb.net/anime/13118] into [https://myanimelist.net/anime/35586].
 Duration [1200]seconds does not match [960]seconds. Not merging [https://anidb.net/anime/13442] into [https://myanimelist.net/anime/36290].
-Duration [1200]seconds does not match [960]seconds. Not merging [https://anidb.net/anime/13798] into [https://kitsu.io/anime/41418].
+Duration [1200]seconds does not match [960]seconds. Not merging [https://anidb.net/anime/13601] into [https://anilist.co/anime/104419].
+Duration [1200]seconds does not match [960]seconds. Not merging [https://anidb.net/anime/13798] into [https://anilist.co/anime/110250, https://kitsu.io/anime/41418].
 Duration [1200]seconds does not match [960]seconds. Not merging [https://anidb.net/anime/14337] into [https://kitsu.io/anime/10543, https://myanimelist.net/anime/29918].
 Duration [1200]seconds does not match [960]seconds. Not merging [https://anidb.net/anime/3190] into [https://anilist.co/anime/2895, https://kitsu.io/anime/2628, https://myanimelist.net/anime/2895].
+Duration [1200]seconds does not match [960]seconds. Not merging [https://anidb.net/anime/4993] into [https://anilist.co/anime/3990].
 Duration [1200]seconds does not match [960]seconds. Not merging [https://anidb.net/anime/5731] into [https://anilist.co/anime/6994, https://kitsu.io/anime/4828, https://myanimelist.net/anime/6994].
 Duration [1200]seconds does not match [960]seconds. Not merging [https://anidb.net/anime/633] into [https://anilist.co/anime/1751, https://kitsu.io/anime/1571, https://myanimelist.net/anime/1751].
 Duration [1200]seconds does not match [960]seconds. Not merging [https://anidb.net/anime/6932] into [https://anilist.co/anime/104423, https://kitsu.io/anime/10197, https://myanimelist.net/anime/28045].
@@ -650,23 +646,20 @@ Duration [1200]seconds does not match [960]seconds. Not merging [https://kitsu.i
 Duration [1200]seconds does not match [960]seconds. Not merging [https://kitsu.io/anime/13713] into [https://myanimelist.net/anime/35204].
 Duration [1260]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/102446] into [https://kitsu.io/anime/41037, https://myanimelist.net/anime/37209].
 Duration [1260]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/108988] into [https://myanimelist.net/anime/39141].
-Duration [1260]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/11069] into [https://anidb.net/anime/8139].
 Duration [1260]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/2961] into [https://kitsu.io/anime/7826, https://myanimelist.net/anime/2961].
-Duration [1260]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/8709] into [https://anidb.net/anime/6803].
+Duration [1260]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/5526] into [https://anidb.net/anime/6796].
 Duration [1260]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/2284] into [https://myanimelist.net/anime/2284].
 Duration [1260]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/2069] into [https://myanimelist.net/anime/2284].
 Duration [1260]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/1550] into [https://kitsu.io/anime/1391].
 Duration [1260]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/1713] into [https://kitsu.io/anime/1538, https://myanimelist.net/anime/1713].
 Duration [1260]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/2116] into [https://kitsu.io/anime/1451, https://myanimelist.net/anime/2116].
 Duration [1260]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/5995] into [https://anilist.co/anime/10015, https://myanimelist.net/anime/10015].
-Duration [1260]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1550] into [https://anidb.net/anime/757].
-Duration [1260]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2116] into [https://anidb.net/anime/505].
-Duration [1260]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21271] into [https://anidb.net/anime/10319].
 Duration [1260]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2284] into [https://anidb.net/anime/3393].
-Duration [1260]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/2069] into [https://anidb.net/anime/3393].
+Duration [1260]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/5460] into [https://anidb.net/anime/5136].
+Duration [1260]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/5460] into [https://anilist.co/anime/8723].
 Duration [1260]seconds does not match [900]seconds. Not merging [https://kitsu.io/anime/11372] into [https://anidb.net/anime/6954].
+Duration [1320]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/11561] into [https://anidb.net/anime/6207].
 Duration [1320]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/18603] into [https://anidb.net/anime/4118, https://kitsu.io/anime/9375, https://myanimelist.net/anime/18603].
-Duration [1320]seconds does not match [1200]seconds. Not merging [https://kitsu.io/anime/10360] into [https://anidb.net/anime/11059].
 Duration [1320]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/11337] into [https://kitsu.io/anime/11184, https://myanimelist.net/anime/31129].
 Duration [1320]seconds does not match [1260]seconds. Not merging [https://anilist.co/anime/100522] into [https://kitsu.io/anime/12329, https://myanimelist.net/anime/33564].
 Duration [1320]seconds does not match [1260]seconds. Not merging [https://anilist.co/anime/104082] into [https://myanimelist.net/anime/38469].
@@ -681,36 +674,28 @@ Duration [1320]seconds does not match [1380]seconds. Not merging [https://kitsu.
 Duration [1320]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/1628] into [https://kitsu.io/anime/1463, https://myanimelist.net/anime/1628].
 Duration [1320]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/16363] into [https://myanimelist.net/anime/16363].
 Duration [1320]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/1708] into [https://myanimelist.net/anime/1708].
-Duration [1320]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/11142] into [https://anilist.co/anime/21307].
 Duration [1320]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/12322] into [https://anilist.co/anime/21873, https://myanimelist.net/anime/33668].
 Duration [1320]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/1533] into [https://myanimelist.net/anime/1708].
 Duration [1320]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/7412] into [https://myanimelist.net/anime/16363].
-Duration [1320]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/9096] into [https://anilist.co/anime/20794].
 Duration [1320]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/16009] into [https://anidb.net/anime/9482].
-Duration [1320]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/16363] into [https://anidb.net/anime/9513].
-Duration [1320]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/18745] into [https://anidb.net/anime/9887].
+Duration [1320]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1628] into [https://anidb.net/anime/731].
 Duration [1320]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20875] into [https://anidb.net/anime/10858].
 Duration [1320]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/22] into [https://anidb.net/anime/56].
-Duration [1320]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/4795] into [https://anidb.net/anime/6800].
+Duration [1320]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3807] into [https://anidb.net/anime/3667].
 Duration [1320]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5997] into [https://anidb.net/anime/5293, https://kitsu.io/anime/4379, https://myanimelist.net/anime/5997].
-Duration [1320]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/6007] into [https://anidb.net/anime/6465].
 Duration [1320]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/6303] into [https://anidb.net/anime/3205, https://kitsu.io/anime/4513, https://myanimelist.net/anime/6303].
-Duration [1320]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/7021] into [https://anidb.net/anime/9008].
+Duration [1320]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/682] into [https://anidb.net/anime/175].
 Duration [1320]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/99937] into [https://anidb.net/anime/13292].
-Duration [1320]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/10598] into [https://anidb.net/anime/11229].
 Duration [1320]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/3888] into [https://anidb.net/anime/2866, https://myanimelist.net/anime/5023].
-Duration [1320]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/42039] into [https://anilist.co/anime/104071].
 Duration [1320]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/5961] into [https://anidb.net/anime/14830].
 Duration [1320]seconds does not match [1560]seconds. Not merging [https://kitsu.io/anime/41368] into [https://anidb.net/anime/13386].
 Duration [1320]seconds does not match [1620]seconds. Not merging [https://anilist.co/anime/1279] into [https://kitsu.io/anime/1154, https://myanimelist.net/anime/1279].
 Duration [1320]seconds does not match [1680]seconds. Not merging [https://anilist.co/anime/104183] into [https://kitsu.io/anime/41039, https://myanimelist.net/anime/37300].
 Duration [1320]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/14704] into [https://anilist.co/anime/102678, https://kitsu.io/anime/12618, https://myanimelist.net/anime/33630].
 Duration [1320]seconds does not match [720]seconds. Not merging [https://anilist.co/anime/98451] into [https://myanimelist.net/anime/34893].
-Duration [1320]seconds does not match [780]seconds. Not merging [https://anilist.co/anime/98451] into [https://kitsu.io/anime/13250].
-Duration [1380]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/104217] into [https://kitsu.io/anime/42051].
-Duration [1380]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/4792] into [https://anidb.net/anime/6797].
+Duration [1380]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/4793] into [https://anidb.net/anime/6798].
 Duration [1380]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/7550] into [https://anidb.net/anime/6792].
-Duration [1380]seconds does not match [1200]seconds. Not merging [https://kitsu.io/anime/3265] into [https://anilist.co/anime/3809].
+Duration [1380]seconds does not match [1200]seconds. Not merging [https://kitsu.io/anime/824] into [https://anilist.co/anime/926].
 Duration [1380]seconds does not match [1260]seconds. Not merging [https://anilist.co/anime/21510] into [https://kitsu.io/anime/11681, https://myanimelist.net/anime/32026].
 Duration [1380]seconds does not match [1260]seconds. Not merging [https://kitsu.io/anime/5026] into [https://myanimelist.net/anime/7550].
 Duration [1380]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/13782] into [https://kitsu.io/anime/12992, https://myanimelist.net/anime/33753].
@@ -772,9 +757,8 @@ Duration [1380]seconds does not match [1440]seconds. Not merging [https://anilis
 Duration [1380]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/97634] into [https://kitsu.io/anime/12533, https://myanimelist.net/anime/34034].
 Duration [1380]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/97886] into [https://kitsu.io/anime/12770, https://myanimelist.net/anime/34451].
 Duration [1380]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/97921] into [https://kitsu.io/anime/13007].
+Duration [1380]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/98143] into [https://kitsu.io/anime/11838].
 Duration [1380]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/98231] into [https://kitsu.io/anime/13189, https://myanimelist.net/anime/34866].
-Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/10037] into [https://anilist.co/anime/21190].
-Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/11023] into [https://anilist.co/anime/21221].
 Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/1136] into [https://anilist.co/anime/1261, https://myanimelist.net/anime/1261].
 Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/11459] into [https://anilist.co/anime/21450].
 Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/11469] into [https://anilist.co/anime/21459, https://myanimelist.net/anime/31964].
@@ -782,6 +766,7 @@ Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.
 Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/11836] into [https://myanimelist.net/anime/32698].
 Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/11868] into [https://myanimelist.net/anime/32717].
 Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/12564] into [https://anilist.co/anime/87476, https://myanimelist.net/anime/34077].
+Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/12679] into [https://anilist.co/anime/102934].
 Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/12927] into [https://anilist.co/anime/98059, https://myanimelist.net/anime/34290].
 Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/12971] into [https://anilist.co/anime/97939, https://myanimelist.net/anime/34565].
 Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/13457] into [https://anilist.co/anime/98491, https://myanimelist.net/anime/35203].
@@ -797,84 +782,75 @@ Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.
 Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/41218] into [https://anilist.co/anime/101505, https://myanimelist.net/anime/37716].
 Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/41370] into [https://anilist.co/anime/101922, https://myanimelist.net/anime/38000].
 Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/41442] into [https://anilist.co/anime/102977].
-Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/41950] into [https://anilist.co/anime/104252].
-Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/41984] into [https://anilist.co/anime/103223].
 Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/42042] into [https://anilist.co/anime/106433, https://myanimelist.net/anime/38851].
 Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/5044] into [https://anilist.co/anime/7592, https://myanimelist.net/anime/7592].
 Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/5191] into [https://anilist.co/anime/8086, https://myanimelist.net/anime/8086].
 Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/7666] into [https://anilist.co/anime/4581, https://myanimelist.net/anime/4581].
 Duration [1380]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/8521] into [https://myanimelist.net/anime/23151].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/100526] into [https://anidb.net/anime/13581].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/101115] into [https://anidb.net/anime/13791].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/101633] into [https://anidb.net/anime/14075].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/102835] into [https://anidb.net/anime/13891].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/101759] into [https://anidb.net/anime/14051].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/108430] into [https://anidb.net/anime/14756].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/129] into [https://anidb.net/anime/488].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1578] into [https://anidb.net/anime/4197].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/16005] into [https://kitsu.io/anime/7356].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/18849] into [https://anidb.net/anime/9904].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/19159] into [https://anidb.net/anime/9934].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2039] into [https://anidb.net/anime/499].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20626] into [https://anidb.net/anime/9980].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20648] into [https://anidb.net/anime/10517].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20771] into [https://anidb.net/anime/10729].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20952] into [https://anidb.net/anime/10628].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21078] into [https://anidb.net/anime/11110].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21116] into [https://anidb.net/anime/11148].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20486] into [https://anidb.net/anime/9580].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20663] into [https://anidb.net/anime/9999].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20665] into [https://anidb.net/anime/10539].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20668] into [https://anidb.net/anime/10542].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20940] into [https://anidb.net/anime/10673].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21573] into [https://anidb.net/anime/11844].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21652] into [https://anidb.net/anime/11960].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21701] into [https://anidb.net/anime/11998].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21703] into [https://anidb.net/anime/11997].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21746] into [https://anidb.net/anime/12023, https://kitsu.io/anime/11961].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/243] into [https://anidb.net/anime/94].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2829] into [https://anidb.net/anime/1827].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/331] into [https://anidb.net/anime/311].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/338] into [https://anidb.net/anime/181].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/4903] into [https://anidb.net/anime/6054].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5200] into [https://anidb.net/anime/2416].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/6609] into [https://anidb.net/anime/5257].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/7639] into [https://anidb.net/anime/4053].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/7724] into [https://anidb.net/anime/7268].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/8216] into [https://anidb.net/anime/3055].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/879] into [https://anidb.net/anime/4239].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/97886] into [https://anidb.net/anime/12571].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/99578] into [https://anidb.net/anime/13293].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/11023] into [https://anidb.net/anime/11273].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/97921] into [https://anidb.net/anime/12652].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98529] into [https://anidb.net/anime/13053].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/99624] into [https://anidb.net/anime/13055].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/11459] into [https://anidb.net/anime/11734].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/11469] into [https://anidb.net/anime/11739].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/11868] into [https://anidb.net/anime/11934].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/12131] into [https://anidb.net/anime/12034].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/12237] into [https://anilist.co/anime/97881, https://myanimelist.net/anime/33354].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/12564] into [https://anidb.net/anime/12394].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13096] into [https://anidb.net/anime/12653].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13621] into [https://anidb.net/anime/13055].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/14040] into [https://anidb.net/anime/13533].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/14276] into [https://anidb.net/anime/13581].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13249] into [https://anidb.net/anime/12889].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13457] into [https://anidb.net/anime/13004].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/2835] into [https://anidb.net/anime/5446].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/3033] into [https://anidb.net/anime/5584].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/3218] into [https://anidb.net/anime/5678].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/41312] into [https://anidb.net/anime/14051].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/41370] into [https://anidb.net/anime/14107].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/41948] into [https://anidb.net/anime/14182].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/41950] into [https://anidb.net/anime/14391].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/41963] into [https://myanimelist.net/anime/38366].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/42042] into [https://anidb.net/anime/14583].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/42064] into [https://anidb.net/anime/14507, https://myanimelist.net/anime/38735].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/42379] into [https://anidb.net/anime/14756].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/42501] into [https://anilist.co/anime/111048].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/4633] into [https://anidb.net/anime/5257].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/4681] into [https://anidb.net/anime/6393].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/4681] into [https://anilist.co/anime/6713, https://myanimelist.net/anime/6713].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/5044] into [https://anidb.net/anime/7404].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/5191] into [https://anidb.net/anime/7315].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/7694] into [https://anilist.co/anime/18397].
+Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/7666] into [https://anidb.net/anime/6036].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/7729] into [https://anidb.net/anime/4923, https://anilist.co/anime/2159, https://myanimelist.net/anime/2159].
 Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/8162] into [https://anidb.net/anime/8864].
-Duration [1380]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/8521] into [https://anidb.net/anime/10517].
 Duration [1380]seconds does not match [1560]seconds. Not merging [https://anilist.co/anime/101374] into [https://myanimelist.net/anime/37585].
 Duration [1380]seconds does not match [1560]seconds. Not merging [https://anilist.co/anime/5760] into [https://kitsu.io/anime/4266, https://myanimelist.net/anime/5760].
 Duration [1380]seconds does not match [1560]seconds. Not merging [https://anilist.co/anime/6793] into [https://kitsu.io/anime/4717, https://myanimelist.net/anime/6793].
 Duration [1380]seconds does not match [1560]seconds. Not merging [https://kitsu.io/anime/41113] into [https://myanimelist.net/anime/37585].
-Duration [1380]seconds does not match [3300]seconds. Not merging [https://kitsu.io/anime/1334] into [https://anidb.net/anime/569].
 Duration [1380]seconds does not match [3900]seconds. Not merging [https://kitsu.io/anime/1334] into [https://myanimelist.net/anime/1488].
-Duration [1380]seconds does not match [4020]seconds. Not merging [https://kitsu.io/anime/1334] into [https://anilist.co/anime/1488].
 Duration [1380]seconds does not match [480]seconds. Not merging [https://anilist.co/anime/1862] into [https://kitsu.io/anime/1679, https://myanimelist.net/anime/1862].
 Duration [1380]seconds does not match [480]seconds. Not merging [https://anilist.co/anime/6482] into [https://kitsu.io/anime/4577, https://myanimelist.net/anime/6482].
-Duration [1380]seconds does not match [600]seconds. Not merging [https://kitsu.io/anime/3770] into [https://anilist.co/anime/4737].
 Duration [1380]seconds does not match [660]seconds. Not merging [https://anilist.co/anime/4024] into [https://kitsu.io/anime/3417].
 Duration [14100]seconds does not match [13860]seconds. Not merging [https://anidb.net/anime/11185] into [https://kitsu.io/anime/10956, https://myanimelist.net/anime/30249].
-Duration [14100]seconds does not match [14340]seconds. Not merging [https://anidb.net/anime/11185] into [https://anilist.co/anime/103746].
 Duration [14340]seconds does not match [13860]seconds. Not merging [https://anilist.co/anime/103746] into [https://kitsu.io/anime/10956, https://myanimelist.net/anime/30249].
+Duration [14340]seconds does not match [14100]seconds. Not merging [https://anilist.co/anime/103746] into [https://anidb.net/anime/11185].
 Duration [1440]seconds does not match [1020]seconds. Not merging [https://kitsu.io/anime/41416] into [https://myanimelist.net/anime/35815].
 Duration [1440]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/15775] into [https://kitsu.io/anime/7306, https://myanimelist.net/anime/15775].
 Duration [1440]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/5662] into [https://kitsu.io/anime/4229, https://myanimelist.net/anime/5662].
@@ -889,7 +865,9 @@ Duration [1440]seconds does not match [1320]seconds. Not merging [https://anilis
 Duration [1440]seconds does not match [1320]seconds. Not merging [https://anilist.co/anime/101281] into [https://kitsu.io/anime/41025, https://myanimelist.net/anime/37435].
 Duration [1440]seconds does not match [1320]seconds. Not merging [https://anilist.co/anime/14073] into [https://kitsu.io/anime/7077, https://myanimelist.net/anime/14073].
 Duration [1440]seconds does not match [1320]seconds. Not merging [https://anilist.co/anime/15141] into [https://kitsu.io/anime/7223, https://myanimelist.net/anime/15141].
+Duration [1440]seconds does not match [1320]seconds. Not merging [https://anilist.co/anime/20794] into [https://kitsu.io/anime/9096].
 Duration [1440]seconds does not match [1320]seconds. Not merging [https://anilist.co/anime/20946] into [https://kitsu.io/anime/10016, https://myanimelist.net/anime/28297].
+Duration [1440]seconds does not match [1320]seconds. Not merging [https://anilist.co/anime/21307] into [https://kitsu.io/anime/11142].
 Duration [1440]seconds does not match [1320]seconds. Not merging [https://kitsu.io/anime/13007] into [https://myanimelist.net/anime/34543].
 Duration [1440]seconds does not match [1320]seconds. Not merging [https://kitsu.io/anime/3399] into [https://myanimelist.net/anime/3991].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/100077] into [https://kitsu.io/anime/14018, https://myanimelist.net/anime/36296].
@@ -935,16 +913,16 @@ Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilis
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/102883] into [https://kitsu.io/anime/41410].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/102925] into [https://myanimelist.net/anime/37787].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/102926] into [https://myanimelist.net/anime/37926].
-Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/102934] into [https://kitsu.io/anime/12679].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/102939] into [https://kitsu.io/anime/41465, https://myanimelist.net/anime/37964].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/102949] into [https://kitsu.io/anime/42002, https://myanimelist.net/anime/37958].
-Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/102974] into [https://kitsu.io/anime/41948].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/103048] into [https://myanimelist.net/anime/38009].
+Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/103223] into [https://kitsu.io/anime/41984].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/103301] into [https://kitsu.io/anime/41957, https://myanimelist.net/anime/38062].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/103302] into [https://kitsu.io/anime/42101, https://myanimelist.net/anime/38080].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/103871] into [https://kitsu.io/anime/41459, https://myanimelist.net/anime/37976].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/103874] into [https://kitsu.io/anime/42000, https://myanimelist.net/anime/38145].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/104212] into [https://kitsu.io/anime/42214, https://myanimelist.net/anime/38150].
+Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/104252] into [https://kitsu.io/anime/41950, https://myanimelist.net/anime/38297].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/104463] into [https://kitsu.io/anime/41980, https://myanimelist.net/anime/38480].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/104674] into [https://kitsu.io/anime/42001, https://myanimelist.net/anime/38544].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/104723] into [https://kitsu.io/anime/42083, https://myanimelist.net/anime/38573].
@@ -1040,7 +1018,9 @@ Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilis
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/21175] into [https://myanimelist.net/anime/30694].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/21188] into [https://kitsu.io/anime/10913, https://myanimelist.net/anime/30749].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/21189] into [https://kitsu.io/anime/10039, https://myanimelist.net/anime/28619].
+Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/21190] into [https://kitsu.io/anime/10037].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/21197] into [https://kitsu.io/anime/10939, https://myanimelist.net/anime/30795].
+Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/21221] into [https://kitsu.io/anime/11023].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/21234] into [https://kitsu.io/anime/11110, https://myanimelist.net/anime/31043].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/21238] into [https://kitsu.io/anime/11134, https://myanimelist.net/anime/31080].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/21261] into [https://kitsu.io/anime/11178, https://myanimelist.net/anime/31174].
@@ -1148,7 +1128,6 @@ Duration [1440]seconds does not match [1380]seconds. Not merging [https://kitsu.
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/11207] into [https://myanimelist.net/anime/35413].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/11382] into [https://myanimelist.net/anime/31629].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/11837] into [https://myanimelist.net/anime/32415].
-Duration [1440]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/11838] into [https://anilist.co/anime/98143].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/11914] into [https://myanimelist.net/anime/32901].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/11994] into [https://anilist.co/anime/21742, https://myanimelist.net/anime/33018].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/11997] into [https://myanimelist.net/anime/32979].
@@ -1209,6 +1188,7 @@ Duration [1440]seconds does not match [1380]seconds. Not merging [https://kitsu.
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/41336] into [https://myanimelist.net/anime/37926].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/41380] into [https://anilist.co/anime/101631, https://myanimelist.net/anime/37769].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/41481] into [https://myanimelist.net/anime/37621].
+Duration [1440]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/41884] into [https://myanimelist.net/anime/38027].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/42068] into [https://myanimelist.net/anime/38671].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/42080] into [https://myanimelist.net/anime/38691].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/42092] into [https://myanimelist.net/anime/38959].
@@ -1224,214 +1204,210 @@ Duration [1440]seconds does not match [1380]seconds. Not merging [https://kitsu.
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/8536] into [https://myanimelist.net/anime/24913].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/8576] into [https://myanimelist.net/anime/25183].
 Duration [1440]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/8736] into [https://myanimelist.net/anime/26243].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/100077] into [https://anidb.net/anime/13434].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/100179] into [https://anidb.net/anime/13492].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/10030] into [https://anidb.net/anime/8150].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/100183] into [https://anidb.net/anime/13494].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/100388] into [https://anidb.net/anime/13536].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/100745] into [https://anidb.net/anime/13655].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/100483] into [https://anidb.net/anime/13552].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/100532] into [https://anidb.net/anime/13583].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/100569] into [https://anidb.net/anime/13592].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/100668] into [https://anidb.net/anime/13624].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/100714] into [https://anidb.net/anime/13637].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/101001] into [https://anidb.net/anime/13750].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/101013] into [https://anidb.net/anime/13756].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/101044] into [https://anidb.net/anime/13779].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/101125] into [https://anidb.net/anime/13768].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/101165] into [https://anidb.net/anime/13831].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/101261] into [https://anidb.net/anime/13869].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/101280] into [https://anidb.net/anime/13871].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/101281] into [https://anidb.net/anime/13893].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/101292] into [https://anidb.net/anime/13904].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/101340] into [https://anidb.net/anime/13916].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/101283] into [https://anidb.net/anime/13899].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/101360] into [https://anidb.net/anime/13956].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/101386] into [https://anidb.net/anime/13989].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/101474] into [https://anidb.net/anime/14008].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/101609] into [https://anidb.net/anime/14068].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/101921] into [https://myanimelist.net/anime/37999].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/101930] into [https://anidb.net/anime/14113].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/10257] into [https://anidb.net/anime/8240].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/102680] into [https://anidb.net/anime/14156].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/102883] into [https://anidb.net/anime/14173].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/102926] into [https://anidb.net/anime/14100].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/102925] into [https://anidb.net/anime/14054].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/102939] into [https://anidb.net/anime/14172].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/103301] into [https://anidb.net/anime/14232].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/103302] into [https://anidb.net/anime/14234].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/103871] into [https://anidb.net/anime/14198].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/104102] into [https://kitsu.io/anime/41958, https://myanimelist.net/anime/38199].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/104252] into [https://anidb.net/anime/14391].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/104463] into [https://anidb.net/anime/14440].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/10465] into [https://anidb.net/anime/8338].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/104674] into [https://anidb.net/anime/14447].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/104989] into [https://anidb.net/anime/14242].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/10502] into [https://anidb.net/anime/8143].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/105310] into [https://anidb.net/anime/14488].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/105333] into [https://anidb.net/anime/14491].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/105334] into [https://anidb.net/anime/14490].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/106893] into [https://anidb.net/anime/14574].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/107068] into [https://anidb.net/anime/14591].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/107418] into [https://anidb.net/anime/14627].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/107672] into [https://anidb.net/anime/14662].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/107956] into [https://anidb.net/anime/14693].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/107961] into [https://anidb.net/anime/14695].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/10965] into [https://anidb.net/anime/2348].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/110453] into [https://anidb.net/anime/4566, https://kitsu.io/anime/9531, https://myanimelist.net/anime/24121].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/11268] into [https://anidb.net/anime/5494].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/12291] into [https://anidb.net/anime/8890, https://kitsu.io/anime/6701, https://myanimelist.net/anime/12291].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/12391] into [https://anidb.net/anime/1898].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/12445] into [https://anidb.net/anime/8852].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/14199] into [https://anidb.net/anime/9230].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/12963] into [https://anidb.net/anime/8960].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1454] into [https://anidb.net/anime/4392].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/15051] into [https://anidb.net/anime/9271].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/15141] into [https://anidb.net/anime/6604].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1524] into [https://anidb.net/anime/1759, https://kitsu.io/anime/1366, https://myanimelist.net/anime/1524].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/15963] into [https://anidb.net/anime/9474].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/16011] into [https://anidb.net/anime/9481].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/16067] into [https://anidb.net/anime/9387].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1688] into [https://anidb.net/anime/4884].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/16918] into [https://anidb.net/anime/9606].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/17249] into [https://anidb.net/anime/9664].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/17729] into [https://anidb.net/anime/9749].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/17827] into [https://anidb.net/anime/9765].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/17875] into [https://kitsu.io/anime/7685, https://myanimelist.net/anime/17875].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/18115] into [https://anidb.net/anime/9807, https://kitsu.io/anime/7696, https://myanimelist.net/anime/18115].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/182] into [https://anidb.net/anime/184].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1837] into [https://anidb.net/anime/889].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1864] into [https://anidb.net/anime/4753].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/19151] into [https://anidb.net/anime/9931].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/19363] into [https://anidb.net/anime/9968].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/19429] into [https://anidb.net/anime/9916].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/19815] into [https://anidb.net/anime/9998].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/19257] into [https://anidb.net/anime/9948].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/19989] into [https://anidb.net/anime/5076].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20454] into [https://anidb.net/anime/11964].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20455] into [https://anidb.net/anime/10134].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2048] into [https://anidb.net/anime/1161].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20547] into [https://anidb.net/anime/10254].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20593] into [https://kitsu.io/anime/8032, https://myanimelist.net/anime/21855].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20594] into [https://anidb.net/anime/10376].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20623] into [https://anidb.net/anime/10272].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20613] into [https://anidb.net/anime/10407].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20635] into [https://anidb.net/anime/10452].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20638] into [https://anidb.net/anime/10480].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20645] into [https://anidb.net/anime/10506].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20649] into [https://anidb.net/anime/10505].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20667] into [https://anidb.net/anime/10550].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20683] into [https://anidb.net/anime/10563].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20678] into [https://anidb.net/anime/10529].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20704] into [https://anidb.net/anime/10598].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20705] into [https://anidb.net/anime/12324].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20723] into [https://anidb.net/anime/10643].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20739] into [https://anidb.net/anime/10681, https://kitsu.io/anime/8637, https://myanimelist.net/anime/24625].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20774] into [https://anidb.net/anime/10736].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20751] into [https://anidb.net/anime/10571].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20806] into [https://anidb.net/anime/10766].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20817] into [https://anidb.net/anime/10020].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20819] into [https://anidb.net/anime/10995].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20820] into [https://anidb.net/anime/10795, https://kitsu.io/anime/8687, https://myanimelist.net/anime/25939].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20868] into [https://anidb.net/anime/10855].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20849] into [https://anidb.net/anime/10842].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20877] into [https://anidb.net/anime/10853].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20882] into [https://anidb.net/anime/10917].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20912] into [https://anidb.net/anime/10889].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20946] into [https://anidb.net/anime/10918].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21009] into [https://anidb.net/anime/11011].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21033] into [https://anidb.net/anime/11048].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21049] into [https://anidb.net/anime/11074].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21069] into [https://anidb.net/anime/11100, https://kitsu.io/anime/10369, https://myanimelist.net/anime/29513].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21072] into [https://anidb.net/anime/11103].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21127] into [https://anidb.net/anime/11167].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21157] into [https://anidb.net/anime/11077].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21175] into [https://anidb.net/anime/11210].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21188] into [https://anidb.net/anime/11233].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21189] into [https://anidb.net/anime/10949].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21221] into [https://anidb.net/anime/11273].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21234] into [https://anidb.net/anime/11292].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21238] into [https://anidb.net/anime/11321].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21261] into [https://anidb.net/anime/11347].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21197] into [https://anidb.net/anime/11253].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21284] into [https://anidb.net/anime/11469].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21380] into [https://anidb.net/anime/11266].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21311] into [https://anidb.net/anime/11523].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21327] into [https://anidb.net/anime/11287].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21347] into [https://anidb.net/anime/11550].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21361] into [https://anidb.net/anime/11597].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21406] into [https://anidb.net/anime/11683].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21407] into [https://anidb.net/anime/11689].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21439] into [https://anidb.net/anime/10962].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21517] into [https://anidb.net/anime/11822].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21597] into [https://anidb.net/anime/11883].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21682] into [https://anidb.net/anime/11971].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21688] into [https://anidb.net/anime/11982].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21702] into [https://anidb.net/anime/11996].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21493] into [https://anidb.net/anime/11385].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21709] into [https://anidb.net/anime/12012].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21710] into [https://anidb.net/anime/12009].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21712] into [https://anidb.net/anime/12020].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21740] into [https://anidb.net/anime/12043].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21772] into [https://anidb.net/anime/12087].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21717] into [https://anidb.net/anime/12046].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21764] into [https://anidb.net/anime/12059].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21776] into [https://anidb.net/anime/12091].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21827] into [https://anidb.net/anime/12138].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21838] into [https://anidb.net/anime/12201, https://kitsu.io/anime/12260, https://myanimelist.net/anime/33433].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21851] into [https://anidb.net/anime/12230].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21859] into [https://anidb.net/anime/12237].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2229] into [https://anidb.net/anime/1105].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2364] into [https://anidb.net/anime/588].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2913] into [https://anidb.net/anime/2292].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/276] into [https://anidb.net/anime/109].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2834] into [https://anidb.net/anime/1213].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2929] into [https://kitsu.io/anime/2653, https://myanimelist.net/anime/2929].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/306] into [https://anidb.net/anime/70].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3166] into [https://anidb.net/anime/5446].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/412] into [https://anidb.net/anime/2621].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/417] into [https://anidb.net/anime/1523].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/4752] into [https://anidb.net/anime/6017].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/4794] into [https://anidb.net/anime/6799].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5529] into [https://anidb.net/anime/6801].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3424] into [https://anidb.net/anime/5552].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/470] into [https://anidb.net/anime/3360].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/545] into [https://anidb.net/anime/639].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5454] into [https://anidb.net/anime/6332].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5662] into [https://anidb.net/anime/6888].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5682] into [https://anidb.net/anime/6256].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/569] into [https://anidb.net/anime/18].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/62] into [https://anidb.net/anime/837].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/6731] into [https://anidb.net/anime/3161].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/7079] into [https://anidb.net/anime/7134].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/764] into [https://anidb.net/anime/1774].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/87504] into [https://anidb.net/anime/12337].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/87517] into [https://anidb.net/anime/12349].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/87530] into [https://anidb.net/anime/12042].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/8769] into [https://anidb.net/anime/7525].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/92] into [https://anidb.net/anime/755].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/97592] into [https://anidb.net/anime/12374].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/97617] into [https://anidb.net/anime/12385].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/97642] into [https://anidb.net/anime/12417].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/97874] into [https://anidb.net/anime/12563].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/97683] into [https://anidb.net/anime/12451].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/97768] into [https://anidb.net/anime/12496].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/97832] into [https://anidb.net/anime/12545].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/97903] into [https://anidb.net/anime/12602].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/97907] into [https://anidb.net/anime/12603].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/97983] into [https://anidb.net/anime/12675].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98144] into [https://anidb.net/anime/12723].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98439] into [https://anidb.net/anime/12957].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98449] into [https://anidb.net/anime/12712].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98035] into [https://anidb.net/anime/12704].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98073] into [https://anidb.net/anime/12523].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98239] into [https://anidb.net/anime/12655].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98297] into [https://anidb.net/anime/11180].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98479] into [https://anidb.net/anime/12995].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98501] into [https://anidb.net/anime/13017].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98503] into [https://anidb.net/anime/13023].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98505] into [https://anidb.net/anime/13031, https://kitsu.io/anime/13261, https://myanimelist.net/anime/35240].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98506] into [https://anidb.net/anime/13030].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98513] into [https://anidb.net/anime/13035].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98549] into [https://anidb.net/anime/13067].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98572] into [https://anidb.net/anime/13106].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98607] into [https://anidb.net/anime/13114].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98693] into [https://anidb.net/anime/13160].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98630] into [https://anidb.net/anime/11516].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98747] into [https://anidb.net/anime/13172].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98878] into [https://anidb.net/anime/13248].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/98963] into [https://anidb.net/anime/10674].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/99131] into [https://anidb.net/anime/13238].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/99366] into [https://anidb.net/anime/13250].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/99412] into [https://anidb.net/anime/13255].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/99468] into [https://anidb.net/anime/13270].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/99476] into [https://anidb.net/anime/13245].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/99413] into [https://anidb.net/anime/13254].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/99420] into [https://anidb.net/anime/13256].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/99483] into [https://anidb.net/anime/13276].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/99507] into [https://anidb.net/anime/13281].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/99586] into [https://anidb.net/anime/13296].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/99629] into [https://anidb.net/anime/13307].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/99639] into [https://anidb.net/anime/13312].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/99672] into [https://anidb.net/anime/13322].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/99699] into [https://anidb.net/anime/13337].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/99748] into [https://anidb.net/anime/13362].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/99749] into [https://anidb.net/anime/13295].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/10879] into [https://anidb.net/anime/11210].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/11207] into [https://anidb.net/anime/11352].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/11382] into [https://anidb.net/anime/11597].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/11914] into [https://anidb.net/anime/11981].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/11935] into [https://anilist.co/anime/21698].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/11962] into [https://anilist.co/anime/21748].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/11997] into [https://anidb.net/anime/12007].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/12268] into [https://anidb.net/anime/12233].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/12295] into [https://anidb.net/anime/12253].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/12762] into [https://anidb.net/anime/12333].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/12297] into [https://anidb.net/anime/12252].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/12705] into [https://anidb.net/anime/12496].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/12986] into [https://myanimelist.net/anime/33600].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13229] into [https://anidb.net/anime/12712].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13260] into [https://anidb.net/anime/13017].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13280] into [https://anidb.net/anime/12762].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13281] into [https://anidb.net/anime/12576].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13319] into [https://anidb.net/anime/13067].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13401] into [https://myanimelist.net/anime/35180].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13465] into [https://anidb.net/anime/12694].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13467] into [https://anidb.net/anime/12959].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13530] into [https://anidb.net/anime/13199].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13545] into [https://anidb.net/anime/12018].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13592] into [https://anidb.net/anime/13250].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13616] into [https://anidb.net/anime/13198, https://anilist.co/anime/98976].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13635] into [https://anidb.net/anime/13270].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13616] into [https://anilist.co/anime/98976].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13638] into [https://anidb.net/anime/13035].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13680] into [https://anidb.net/anime/13322].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13699] into [https://anidb.net/anime/13114].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13712] into [https://anidb.net/anime/13160].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13752] into [https://anidb.net/anime/13030].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13784] into [https://anidb.net/anime/13036].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/14016] into [https://anidb.net/anime/13580].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/1497] into [https://anidb.net/anime/2759].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/14043] into [https://anidb.net/anime/13624].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/143] into [https://anidb.net/anime/14].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/2020] into [https://anidb.net/anime/1105].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/2551] into [https://anidb.net/anime/5112, https://anilist.co/anime/2795, https://myanimelist.net/anime/2795].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/2897] into [https://anidb.net/anime/920].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/291] into [https://anilist.co/anime/324, https://myanimelist.net/anime/324].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/3091] into [https://anidb.net/anime/3460].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/41101] into [https://anidb.net/anime/13925].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/41124] into [https://anidb.net/anime/13989].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/41336] into [https://anidb.net/anime/14100].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/41373] into [https://myanimelist.net/anime/37999].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/41479] into [https://anidb.net/anime/14213, https://anilist.co/anime/103139, https://myanimelist.net/anime/37982].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/41481] into [https://anilist.co/anime/101426].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/41999] into [https://anidb.net/anime/14427, https://anilist.co/anime/104750].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/42068] into [https://anidb.net/anime/14488].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/42080] into [https://anidb.net/anime/14491].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/42110] into [https://anidb.net/anime/14591].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/42174] into [https://anidb.net/anime/14574].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/42242] into [https://anilist.co/anime/108039, https://myanimelist.net/anime/39592].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/492] into [https://anidb.net/anime/1697].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/526] into [https://anidb.net/anime/18].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/6156] into [https://anidb.net/anime/8294].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/8029] into [https://anilist.co/anime/20551, https://myanimelist.net/anime/20545].
+Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/8151] into [https://anidb.net/anime/10254].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/8279] into [https://anidb.net/anime/10421, https://anilist.co/anime/20617, https://myanimelist.net/anime/22359].
-Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/8736] into [https://anidb.net/anime/10813].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/907] into [https://anidb.net/anime/538, https://anilist.co/anime/1017, https://myanimelist.net/anime/1017].
 Duration [1440]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/988] into [https://anidb.net/anime/1104, https://myanimelist.net/anime/1103].
+Duration [1440]seconds does not match [1560]seconds. Not merging [https://anilist.co/anime/108715] into [https://myanimelist.net/anime/38918].
 Duration [1440]seconds does not match [1560]seconds. Not merging [https://anilist.co/anime/20972] into [https://kitsu.io/anime/10051, https://myanimelist.net/anime/28735].
 Duration [1440]seconds does not match [1560]seconds. Not merging [https://anilist.co/anime/21262] into [https://myanimelist.net/anime/31181].
 Duration [1440]seconds does not match [1560]seconds. Not merging [https://kitsu.io/anime/13094] into [https://anilist.co/anime/102505, https://myanimelist.net/anime/33997].
@@ -1439,10 +1415,10 @@ Duration [1440]seconds does not match [1560]seconds. Not merging [https://kitsu.
 Duration [1440]seconds does not match [1680]seconds. Not merging [https://anilist.co/anime/3100] into [https://kitsu.io/anime/2794, https://myanimelist.net/anime/3100].
 Duration [1440]seconds does not match [1680]seconds. Not merging [https://kitsu.io/anime/40566] into [https://anilist.co/anime/101085, https://myanimelist.net/anime/36515].
 Duration [1440]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/8725] into [https://anilist.co/anime/21467, https://myanimelist.net/anime/24727].
+Duration [1440]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/12951] into [https://anidb.net/anime/4677, https://kitsu.io/anime/6852, https://myanimelist.net/anime/12951].
 Duration [1440]seconds does not match [2820]seconds. Not merging [https://kitsu.io/anime/11465] into [https://anilist.co/anime/21463, https://myanimelist.net/anime/31930].
 Duration [1440]seconds does not match [420]seconds. Not merging [https://anilist.co/anime/6731] into [https://kitsu.io/anime/4689, https://myanimelist.net/anime/6731].
 Duration [1440]seconds does not match [480]seconds. Not merging [https://kitsu.io/anime/6326] into [https://anilist.co/anime/10739, https://myanimelist.net/anime/10739].
-Duration [1440]seconds does not match [60]seconds. Not merging [https://anilist.co/anime/15051] into [https://kitsu.io/anime/7203].
 Duration [1440]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/1199] into [https://kitsu.io/anime/1078, https://myanimelist.net/anime/1199].
 Duration [1440]seconds does not match [720]seconds. Not merging [https://anilist.co/anime/98549] into [https://myanimelist.net/anime/35330].
 Duration [1440]seconds does not match [720]seconds. Not merging [https://kitsu.io/anime/13319] into [https://myanimelist.net/anime/35330].
@@ -1452,75 +1428,83 @@ Duration [1500]seconds does not match [1020]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1080]seconds. Not merging [https://anidb.net/anime/1317] into [https://anilist.co/anime/305, https://kitsu.io/anime/278, https://myanimelist.net/anime/305].
 Duration [1500]seconds does not match [1140]seconds. Not merging [https://anilist.co/anime/8812] into [https://kitsu.io/anime/5500, https://myanimelist.net/anime/8812].
 Duration [1500]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/4647] into [https://kitsu.io/anime/9495, https://myanimelist.net/anime/18573].
-Duration [1500]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/9857] into [https://kitsu.io/anime/7676].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/1081] into [https://anilist.co/anime/130].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/10814] into [https://anilist.co/anime/20838, https://kitsu.io/anime/9153, https://myanimelist.net/anime/26453].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/1083] into [https://anilist.co/anime/3432].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/11095] into [https://kitsu.io/anime/13461].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/1191] into [https://anilist.co/anime/2742, https://kitsu.io/anime/2502, https://myanimelist.net/anime/2742].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/13660] into [https://myanimelist.net/anime/39754].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/1367] into [https://anilist.co/anime/2087].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/1373] into [https://myanimelist.net/anime/5071].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/13772] into [https://kitsu.io/anime/41037, https://myanimelist.net/anime/37209].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/13789] into [https://kitsu.io/anime/41004, https://myanimelist.net/anime/37150].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/143] into [https://anilist.co/anime/646].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/14206] into [https://anilist.co/anime/103256].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/1430] into [https://anilist.co/anime/3736, https://kitsu.io/anime/3221, https://myanimelist.net/anime/3736].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/1508] into [https://anilist.co/anime/2694, https://kitsu.io/anime/2456].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/1529] into [https://anilist.co/anime/5197].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/1508] into [https://anilist.co/anime/2694].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/1661] into [https://anilist.co/anime/163, https://kitsu.io/anime/141, https://myanimelist.net/anime/163].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/1678] into [https://anilist.co/anime/4935].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/1684] into [https://anilist.co/anime/17521].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/1781] into [https://anilist.co/anime/4154, https://kitsu.io/anime/3491, https://myanimelist.net/anime/4154].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/1811] into [https://anilist.co/anime/307].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/1891] into [https://anilist.co/anime/3875].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/1893] into [https://anilist.co/anime/3285].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/1894] into [https://anilist.co/anime/3838].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/1921] into [https://anilist.co/anime/3878].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/2067] into [https://anilist.co/anime/2405, https://kitsu.io/anime/2181, https://myanimelist.net/anime/2405].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/2082] into [https://anilist.co/anime/3433].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/2084] into [https://anilist.co/anime/5274].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/2104] into [https://anilist.co/anime/4651].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/2127] into [https://anilist.co/anime/1137].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/2558] into [https://anilist.co/anime/2938].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/2611] into [https://anilist.co/anime/278, https://kitsu.io/anime/253, https://myanimelist.net/anime/278].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/265] into [https://anilist.co/anime/2820].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/2709] into [https://anilist.co/anime/2567].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/2770] into [https://anilist.co/anime/4054, https://kitsu.io/anime/3434, https://myanimelist.net/anime/4054].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/2828] into [https://anilist.co/anime/754].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/2861] into [https://kitsu.io/anime/4115].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/2993] into [https://anilist.co/anime/2330].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3050] into [https://anilist.co/anime/5476].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3053] into [https://anilist.co/anime/3881].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3058] into [https://anilist.co/anime/4928].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3058] into [https://kitsu.io/anime/3853, https://myanimelist.net/anime/4928].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3083] into [https://anilist.co/anime/6520, https://kitsu.io/anime/4593, https://myanimelist.net/anime/6520].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3085] into [https://anilist.co/anime/5104].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3091] into [https://anilist.co/anime/5091, https://kitsu.io/anime/3926, https://myanimelist.net/anime/5091].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3159] into [https://anilist.co/anime/3776, https://kitsu.io/anime/3246, https://myanimelist.net/anime/3776].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3167] into [https://anilist.co/anime/16650].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3219] into [https://anilist.co/anime/3035].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3293] into [https://anilist.co/anime/3768, https://kitsu.io/anime/3242].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3309] into [https://anilist.co/anime/1316, https://kitsu.io/anime/1180, https://myanimelist.net/anime/1316].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3481] into [https://anilist.co/anime/3765].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3484] into [https://anilist.co/anime/4514].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3507] into [https://anilist.co/anime/1448].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3584] into [https://anilist.co/anime/2707].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3625] into [https://anilist.co/anime/8763].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3628] into [https://anilist.co/anime/7625, https://kitsu.io/anime/5058, https://myanimelist.net/anime/7625].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3637] into [https://anilist.co/anime/4807].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3675] into [https://anilist.co/anime/4800, https://kitsu.io/anime/3792, https://myanimelist.net/anime/4800].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3677] into [https://anilist.co/anime/2817].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/3977] into [https://anilist.co/anime/3672].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/4040] into [https://anilist.co/anime/3418].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/4260] into [https://anilist.co/anime/6261].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/4271] into [https://anilist.co/anime/3769, https://kitsu.io/anime/3243].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/400] into [https://anilist.co/anime/561].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/4057] into [https://anilist.co/anime/5968].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/4271] into [https://anilist.co/anime/3769].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/4359] into [https://anilist.co/anime/5143].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/4536] into [https://anilist.co/anime/1621, https://kitsu.io/anime/1456, https://myanimelist.net/anime/1621].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/4560] into [https://anilist.co/anime/1863, https://kitsu.io/anime/1680, https://myanimelist.net/anime/1863].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/4571] into [https://kitsu.io/anime/1427].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/4571] into [https://anilist.co/anime/1587].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/4623] into [https://anilist.co/anime/2566, https://kitsu.io/anime/2331, https://myanimelist.net/anime/2566].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/4694] into [https://anilist.co/anime/4052, https://kitsu.io/anime/3432, https://myanimelist.net/anime/4052].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/4756] into [https://anilist.co/anime/17291].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/4771] into [https://anilist.co/anime/2606, https://kitsu.io/anime/2370, https://myanimelist.net/anime/2606].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/4820] into [https://anilist.co/anime/3372, https://kitsu.io/anime/2964, https://myanimelist.net/anime/3372].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/5197] into [https://anilist.co/anime/2552].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/5234] into [https://anilist.co/anime/3000].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/5238] into [https://anilist.co/anime/3834].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/525] into [https://anilist.co/anime/1675].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/5492] into [https://anilist.co/anime/7479].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/5624] into [https://anilist.co/anime/3514, https://kitsu.io/anime/3065, https://myanimelist.net/anime/3514].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/5852] into [https://anilist.co/anime/5938].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/5793] into [https://anilist.co/anime/3116].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/5869] into [https://anilist.co/anime/4197, https://kitsu.io/anime/3517, https://myanimelist.net/anime/4197].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/60] into [https://anilist.co/anime/318, https://kitsu.io/anime/7896].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/6335] into [https://anilist.co/anime/5945].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/60] into [https://kitsu.io/anime/7896].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/684] into [https://anilist.co/anime/1806].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/6888] into [https://kitsu.io/anime/4229, https://myanimelist.net/anime/5662].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/6889] into [https://anilist.co/anime/103729, https://kitsu.io/anime/10416, https://myanimelist.net/anime/29895].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/7471] into [https://anilist.co/anime/6124, https://kitsu.io/anime/4437, https://myanimelist.net/anime/6124].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/787] into [https://anilist.co/anime/1019].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/863] into [https://kitsu.io/anime/4294].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/8735] into [https://anilist.co/anime/11853].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/863] into [https://anilist.co/anime/5832].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/8903] into [https://anilist.co/anime/12651, https://kitsu.io/anime/6779, https://myanimelist.net/anime/12651].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/902] into [https://anilist.co/anime/171].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/9738] into [https://anilist.co/anime/17917, https://kitsu.io/anime/7925, https://myanimelist.net/anime/17917].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/9751] into [https://anilist.co/anime/17741, https://kitsu.io/anime/7672, https://myanimelist.net/anime/17741].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/9790] into [https://kitsu.io/anime/7693, https://myanimelist.net/anime/18177].
@@ -1529,9 +1513,10 @@ Duration [1500]seconds does not match [1200]seconds. Not merging [https://anilis
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/101920] into [https://kitsu.io/anime/41004, https://myanimelist.net/anime/37150].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/102101] into [https://kitsu.io/anime/11542, https://myanimelist.net/anime/32059].
 Duration [1500]seconds does not match [1200]seconds. Not merging [https://kitsu.io/anime/13529] into [https://myanimelist.net/anime/40402].
-Duration [1500]seconds does not match [1200]seconds. Not merging [https://kitsu.io/anime/4268] into [https://anidb.net/anime/2467].
+Duration [1500]seconds does not match [1200]seconds. Not merging [https://kitsu.io/anime/3411] into [https://anilist.co/anime/4013].
 Duration [1500]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/10031] into [https://kitsu.io/anime/7922, https://myanimelist.net/anime/20159].
 Duration [1500]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/1029] into [https://kitsu.io/anime/1452, https://myanimelist.net/anime/1617].
+Duration [1500]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/10319] into [https://anilist.co/anime/21271].
 Duration [1500]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/11303] into [https://kitsu.io/anime/10371, https://myanimelist.net/anime/29791].
 Duration [1500]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/12353] into [https://myanimelist.net/anime/38049].
 Duration [1500]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/131] into [https://anilist.co/anime/104, https://kitsu.io/anime/83, https://myanimelist.net/anime/104].
@@ -1543,12 +1528,13 @@ Duration [1500]seconds does not match [1260]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/1964] into [https://anilist.co/anime/1669, https://kitsu.io/anime/1499, https://myanimelist.net/anime/1669].
 Duration [1500]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/2910] into [https://anilist.co/anime/1685, https://kitsu.io/anime/1514, https://myanimelist.net/anime/1685].
 Duration [1500]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/3110] into [https://anilist.co/anime/11857, https://kitsu.io/anime/6619, https://myanimelist.net/anime/11857].
+Duration [1500]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/3393] into [https://kitsu.io/anime/2069].
 Duration [1500]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/4308] into [https://anilist.co/anime/1703, https://kitsu.io/anime/1529, https://myanimelist.net/anime/1703].
 Duration [1500]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/4555] into [https://anilist.co/anime/1592, https://kitsu.io/anime/1432, https://myanimelist.net/anime/1592].
 Duration [1500]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/4798] into [https://anilist.co/anime/4443, https://kitsu.io/anime/3610, https://myanimelist.net/anime/4443].
 Duration [1500]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/5001] into [https://anilist.co/anime/3326, https://kitsu.io/anime/2938, https://myanimelist.net/anime/3326].
 Duration [1500]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/503] into [https://anilist.co/anime/179, https://kitsu.io/anime/156, https://myanimelist.net/anime/179].
-Duration [1500]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/5136] into [https://kitsu.io/anime/5460].
+Duration [1500]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/505] into [https://anilist.co/anime/2116].
 Duration [1500]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/5238] into [https://kitsu.io/anime/3286, https://myanimelist.net/anime/3834].
 Duration [1500]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/544] into [https://anilist.co/anime/1769, https://kitsu.io/anime/1589, https://myanimelist.net/anime/1769].
 Duration [1500]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/5874] into [https://kitsu.io/anime/2854, https://myanimelist.net/anime/3202].
@@ -1577,6 +1563,7 @@ Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/10951] into [https://kitsu.io/anime/10036, https://myanimelist.net/anime/28623].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/11026] into [https://anilist.co/anime/21020, https://kitsu.io/anime/9804, https://myanimelist.net/anime/27737].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/11221] into [https://kitsu.io/anime/10909, https://myanimelist.net/anime/30727].
+Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/11229] into [https://kitsu.io/anime/10598].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/11538] into [https://kitsu.io/anime/11693, https://myanimelist.net/anime/31563].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/11650] into [https://anilist.co/anime/104556, https://kitsu.io/anime/11731, https://myanimelist.net/anime/31701].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/11651] into [https://anilist.co/anime/103159, https://kitsu.io/anime/11732, https://myanimelist.net/anime/31700].
@@ -1609,7 +1596,6 @@ Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/14531] into [https://anilist.co/anime/106494, https://kitsu.io/anime/42027, https://myanimelist.net/anime/38815].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/14751] into [https://myanimelist.net/anime/39527].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/14756] into [https://myanimelist.net/anime/39533].
-Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/175] into [https://anilist.co/anime/682].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/175] into [https://kitsu.io/anime/623, https://myanimelist.net/anime/682].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/177] into [https://anilist.co/anime/180, https://myanimelist.net/anime/180].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/1867] into [https://anilist.co/anime/2525, https://kitsu.io/anime/2290, https://myanimelist.net/anime/2525].
@@ -1641,7 +1627,6 @@ Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/5251] into [https://anilist.co/anime/5992, https://kitsu.io/anime/4375, https://myanimelist.net/anime/5992].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/545] into [https://anilist.co/anime/138, https://kitsu.io/anime/117, https://myanimelist.net/anime/138].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/5538] into [https://anilist.co/anime/3363, https://kitsu.io/anime/2958, https://myanimelist.net/anime/3363].
-Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/56] into [https://kitsu.io/anime/13].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/56] into [https://myanimelist.net/anime/22].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/5658] into [https://anilist.co/anime/3859, https://kitsu.io/anime/3305, https://myanimelist.net/anime/3859].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/5779] into [https://anilist.co/anime/4087, https://kitsu.io/anime/3458, https://myanimelist.net/anime/4087].
@@ -1651,17 +1636,18 @@ Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/6384] into [https://anilist.co/anime/5984, https://kitsu.io/anime/4371, https://myanimelist.net/anime/5984].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/6441] into [https://anilist.co/anime/6211, https://kitsu.io/anime/4477, https://myanimelist.net/anime/6211].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/6443] into [https://anilist.co/anime/6164, https://kitsu.io/anime/4454, https://myanimelist.net/anime/6164].
+Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/6465] into [https://anilist.co/anime/6007].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/6466] into [https://anilist.co/anime/6045, https://kitsu.io/anime/4397, https://myanimelist.net/anime/6045].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/6473] into [https://anilist.co/anime/6280, https://kitsu.io/anime/4505, https://myanimelist.net/anime/6280].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/6604] into [https://kitsu.io/anime/7223, https://myanimelist.net/anime/15141].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/6650] into [https://kitsu.io/anime/4562, https://myanimelist.net/anime/6438].
+Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/6800] into [https://anilist.co/anime/4795].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/6933] into [https://myanimelist.net/anime/15137].
-Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/7019] into [https://anilist.co/anime/5690].
+Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/7019] into [https://anilist.co/anime/5690, https://kitsu.io/anime/4248].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/7019] into [https://myanimelist.net/anime/5690].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/7056] into [https://anilist.co/anime/7193, https://kitsu.io/anime/4900, https://myanimelist.net/anime/7193].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/709] into [https://anilist.co/anime/1708, https://kitsu.io/anime/1533].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/7268] into [https://kitsu.io/anime/5098, https://myanimelist.net/anime/7724].
-Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/731] into [https://anilist.co/anime/1628].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/7311] into [https://anilist.co/anime/6787, https://kitsu.io/anime/4714, https://myanimelist.net/anime/6787].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/7389] into [https://anilist.co/anime/6114, https://kitsu.io/anime/4430, https://myanimelist.net/anime/6114].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/7531] into [https://anilist.co/anime/8129, https://kitsu.io/anime/5204, https://myanimelist.net/anime/8129].
@@ -1670,14 +1656,14 @@ Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/7995] into [https://anilist.co/anime/8768, https://kitsu.io/anime/5486, https://myanimelist.net/anime/8768].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/8055] into [https://anilist.co/anime/9737, https://kitsu.io/anime/5844, https://myanimelist.net/anime/9737].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/8211] into [https://anilist.co/anime/10162, https://kitsu.io/anime/6060, https://myanimelist.net/anime/10162].
-Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/8373] into [https://anilist.co/anime/10573].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/8373] into [https://kitsu.io/anime/6247, https://myanimelist.net/anime/10573].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/85] into [https://anilist.co/anime/1005, https://kitsu.io/anime/895, https://myanimelist.net/anime/1005].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/8538] into [https://anilist.co/anime/10800, https://kitsu.io/anime/6355, https://myanimelist.net/anime/10800].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/9002] into [https://anilist.co/anime/13125, https://kitsu.io/anime/6887, https://myanimelist.net/anime/13125].
+Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/9008] into [https://anilist.co/anime/7021].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/9261] into [https://anilist.co/anime/14397, https://kitsu.io/anime/7123, https://myanimelist.net/anime/14397].
-Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/9513] into [https://kitsu.io/anime/7412].
-Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/9887] into [https://kitsu.io/anime/7814].
+Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/9513] into [https://anilist.co/anime/16363, https://kitsu.io/anime/7412].
+Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/9887] into [https://anilist.co/anime/18745, https://kitsu.io/anime/7814].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/9904] into [https://kitsu.io/anime/7747, https://myanimelist.net/anime/18849].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anilist.co/anime/11835] into [https://kitsu.io/anime/6613, https://myanimelist.net/anime/11835].
 Duration [1500]seconds does not match [1320]seconds. Not merging [https://anilist.co/anime/15137] into [https://myanimelist.net/anime/15137].
@@ -1705,7 +1691,6 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10272] into [https://kitsu.io/anime/8147, https://myanimelist.net/anime/22535].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10273] into [https://kitsu.io/anime/8096, https://myanimelist.net/anime/21327].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/103] into [https://anilist.co/anime/1145, https://kitsu.io/anime/1026, https://myanimelist.net/anime/1145].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10305] into [https://anilist.co/anime/20542].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10305] into [https://kitsu.io/anime/8160, https://myanimelist.net/anime/21563].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10360] into [https://anilist.co/anime/20541, https://kitsu.io/anime/8000, https://myanimelist.net/anime/21603].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10372] into [https://anilist.co/anime/20591, https://kitsu.io/anime/8199, https://myanimelist.net/anime/21845].
@@ -1722,26 +1707,27 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10505] into [https://kitsu.io/anime/8533, https://myanimelist.net/anime/23037].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10506] into [https://kitsu.io/anime/8325, https://myanimelist.net/anime/23079].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10515] into [https://myanimelist.net/anime/23135].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10517] into [https://anilist.co/anime/20648, https://kitsu.io/anime/8521].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/1052] into [https://anilist.co/anime/60, https://kitsu.io/anime/41, https://myanimelist.net/anime/60].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10529] into [https://kitsu.io/anime/8652, https://myanimelist.net/anime/23233].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10537] into [https://anilist.co/anime/20661].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10539] into [https://anilist.co/anime/20665].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10542] into [https://anilist.co/anime/20668].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10550] into [https://kitsu.io/anime/8401, https://myanimelist.net/anime/23325].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10553] into [https://anilist.co/anime/20666].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10569] into [https://kitsu.io/anime/9992, https://myanimelist.net/anime/28013].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10578] into [https://kitsu.io/anime/8393, https://myanimelist.net/anime/22215].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/1058] into [https://anilist.co/anime/3101].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10587] into [https://kitsu.io/anime/8410, https://myanimelist.net/anime/23623].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/1059] into [https://anilist.co/anime/394, https://kitsu.io/anime/361, https://myanimelist.net/anime/394].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10598] into [https://kitsu.io/anime/8669, https://myanimelist.net/anime/24133].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10623] into [https://anilist.co/anime/20713, https://kitsu.io/anime/8458, https://myanimelist.net/anime/24075].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10628] into [https://anilist.co/anime/20952].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10639] into [https://kitsu.io/anime/8577, https://myanimelist.net/anime/24231].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10643] into [https://kitsu.io/anime/8635, https://myanimelist.net/anime/24277].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10657] into [https://anilist.co/anime/20729, https://kitsu.io/anime/8631, https://myanimelist.net/anime/24405].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10672] into [https://kitsu.io/anime/8567, https://myanimelist.net/anime/24175].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10673] into [https://anilist.co/anime/20940].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10674] into [https://kitsu.io/anime/8656, https://myanimelist.net/anime/24817].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10692] into [https://anilist.co/anime/20746, https://kitsu.io/anime/8645, https://myanimelist.net/anime/25429].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10729] into [https://anilist.co/anime/20771].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10733] into [https://myanimelist.net/anime/25183].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10736] into [https://kitsu.io/anime/8650, https://myanimelist.net/anime/25283].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/10766] into [https://kitsu.io/anime/8653, https://myanimelist.net/anime/25731].
@@ -1773,11 +1759,13 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11074] into [https://kitsu.io/anime/10464, https://myanimelist.net/anime/30015].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11075] into [https://anilist.co/anime/21051, https://kitsu.io/anime/10467, https://myanimelist.net/anime/30016].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11103] into [https://kitsu.io/anime/10407, https://myanimelist.net/anime/29517].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11110] into [https://anilist.co/anime/21078].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11121] into [https://kitsu.io/anime/10842, https://myanimelist.net/anime/30250].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11122] into [https://kitsu.io/anime/10739, https://myanimelist.net/anime/30251].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11126] into [https://anilist.co/anime/21092, https://kitsu.io/anime/10745, https://myanimelist.net/anime/30296].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11130] into [https://kitsu.io/anime/10748, https://myanimelist.net/anime/30307].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11142] into [https://anilist.co/anime/21110, https://kitsu.io/anime/10757, https://myanimelist.net/anime/30363].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11148] into [https://anilist.co/anime/21116].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11164] into [https://anilist.co/anime/21123, https://kitsu.io/anime/11028, https://myanimelist.net/anime/31339].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11166] into [https://kitsu.io/anime/10786, https://myanimelist.net/anime/30485].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11167] into [https://kitsu.io/anime/10788, https://myanimelist.net/anime/30484].
@@ -1792,6 +1780,7 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11255] into [https://anilist.co/anime/21201, https://kitsu.io/anime/10938, https://myanimelist.net/anime/30806].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11266] into [https://kitsu.io/anime/11409, https://myanimelist.net/anime/31710].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11272] into [https://anilist.co/anime/21218, https://kitsu.io/anime/11021, https://myanimelist.net/anime/30901].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11273] into [https://kitsu.io/anime/11023].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11278] into [https://kitsu.io/anime/11249, https://myanimelist.net/anime/30920].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11292] into [https://kitsu.io/anime/11110, https://myanimelist.net/anime/31043].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11347] into [https://kitsu.io/anime/11178, https://myanimelist.net/anime/31174].
@@ -1813,13 +1802,13 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11679] into [https://anilist.co/anime/21410, https://kitsu.io/anime/11433, https://myanimelist.net/anime/31764].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11683] into [https://kitsu.io/anime/11432, https://myanimelist.net/anime/31771].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11689] into [https://kitsu.io/anime/11583, https://myanimelist.net/anime/31783].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11734] into [https://kitsu.io/anime/11459].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11846] into [https://anilist.co/anime/21557, https://kitsu.io/anime/11653, https://myanimelist.net/anime/32360].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11848] into [https://kitsu.io/anime/11654].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11860] into [https://kitsu.io/anime/11243, https://myanimelist.net/anime/30885].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11883] into [https://kitsu.io/anime/11756, https://myanimelist.net/anime/32555].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11902] into [https://anilist.co/anime/21611, https://kitsu.io/anime/11807, https://myanimelist.net/anime/32608].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11922] into [https://anilist.co/anime/21639, https://kitsu.io/anime/11824, https://myanimelist.net/anime/32686].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11934] into [https://kitsu.io/anime/11868].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/1194] into [https://kitsu.io/anime/1295, https://myanimelist.net/anime/1442].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11959] into [https://myanimelist.net/anime/32843].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11964] into [https://kitsu.io/anime/11887, https://myanimelist.net/anime/32866].
@@ -1827,6 +1816,7 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11977] into [https://kitsu.io/anime/11850, https://myanimelist.net/anime/32792].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11981] into [https://myanimelist.net/anime/32901].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11996] into [https://kitsu.io/anime/11938, https://myanimelist.net/anime/32947].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/11998] into [https://anilist.co/anime/21701].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12007] into [https://myanimelist.net/anime/32979].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12008] into [https://anilist.co/anime/21731, https://kitsu.io/anime/11951, https://myanimelist.net/anime/32981].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12009] into [https://kitsu.io/anime/11950, https://myanimelist.net/anime/32983].
@@ -1845,6 +1835,7 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12230] into [https://kitsu.io/anime/12265, https://myanimelist.net/anime/33475].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12252] into [https://anilist.co/anime/100341, https://myanimelist.net/anime/33531].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12253] into [https://anilist.co/anime/21865, https://myanimelist.net/anime/33532].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12256] into [https://kitsu.io/anime/12294].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12287] into [https://anilist.co/anime/87498, https://kitsu.io/anime/12464, https://myanimelist.net/anime/33726].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12290] into [https://kitsu.io/anime/12497, https://myanimelist.net/anime/33731].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12292] into [https://anilist.co/anime/21879, https://kitsu.io/anime/12496, https://myanimelist.net/anime/33733].
@@ -1873,8 +1864,7 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12603] into [https://kitsu.io/anime/13276, https://myanimelist.net/anime/34497].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12625] into [https://myanimelist.net/anime/34522].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12637] into [https://kitsu.io/anime/13270, https://myanimelist.net/anime/34525].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12652] into [https://anilist.co/anime/97921].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12653] into [https://anilist.co/anime/97922].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12653] into [https://anilist.co/anime/97922, https://kitsu.io/anime/13096].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12655] into [https://kitsu.io/anime/12951, https://myanimelist.net/anime/34550].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12660] into [https://kitsu.io/anime/12971].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12673] into [https://anilist.co/anime/97979, https://kitsu.io/anime/13263, https://myanimelist.net/anime/34580].
@@ -1886,20 +1876,17 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/1274] into [https://anilist.co/anime/2740, https://kitsu.io/anime/2500, https://myanimelist.net/anime/2740].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12762] into [https://anilist.co/anime/98205, https://myanimelist.net/anime/34825].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12825] into [https://anilist.co/anime/98421, https://kitsu.io/anime/13577, https://myanimelist.net/anime/34927].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12889] into [https://kitsu.io/anime/13249].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12906] into [https://anilist.co/anime/98385].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/1294] into [https://anilist.co/anime/2245, https://kitsu.io/anime/2034, https://myanimelist.net/anime/2245].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12957] into [https://kitsu.io/anime/13227, https://myanimelist.net/anime/35078].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12959] into [https://myanimelist.net/anime/35079].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12995] into [https://kitsu.io/anime/13981, https://myanimelist.net/anime/35183].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13004] into [https://kitsu.io/anime/13457].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13023] into [https://kitsu.io/anime/13265, https://myanimelist.net/anime/35222].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13030] into [https://myanimelist.net/anime/35241].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13034] into [https://kitsu.io/anime/13485, https://myanimelist.net/anime/35249].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13035] into [https://myanimelist.net/anime/35250].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13036] into [https://anilist.co/anime/98603, https://myanimelist.net/anime/35251].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13053] into [https://anilist.co/anime/98529].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13055] into [https://anilist.co/anime/99624].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13055] into [https://kitsu.io/anime/13621].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13056] into [https://kitsu.io/anime/14261, https://myanimelist.net/anime/35314].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13106] into [https://myanimelist.net/anime/35376].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13114] into [https://myanimelist.net/anime/35427].
@@ -1921,6 +1908,7 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13276] into [https://kitsu.io/anime/14024, https://myanimelist.net/anime/35889].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13281] into [https://kitsu.io/anime/13661, https://myanimelist.net/anime/35905].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/1329] into [https://kitsu.io/anime/1030, https://myanimelist.net/anime/1149].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13293] into [https://anilist.co/anime/99578].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13295] into [https://kitsu.io/anime/13658, https://myanimelist.net/anime/35972].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13296] into [https://kitsu.io/anime/13659, https://myanimelist.net/anime/35983].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/1330] into [https://anilist.co/anime/242, https://kitsu.io/anime/217, https://myanimelist.net/anime/242].
@@ -1931,7 +1919,6 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13336] into [https://anilist.co/anime/99727, https://kitsu.io/anime/13686, https://myanimelist.net/anime/36029].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13337] into [https://kitsu.io/anime/13689, https://myanimelist.net/anime/36028].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13345] into [https://kitsu.io/anime/13703, https://myanimelist.net/anime/36038].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13347] into [https://anilist.co/anime/102427].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13362] into [https://myanimelist.net/anime/36094].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13417] into [https://myanimelist.net/anime/36245].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13437] into [https://anilist.co/anime/100083, https://kitsu.io/anime/14037, https://myanimelist.net/anime/36309].
@@ -1941,9 +1928,11 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13497] into [https://anilist.co/anime/100785, https://kitsu.io/anime/40578, https://myanimelist.net/anime/37023].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13502] into [https://anilist.co/anime/100727, https://kitsu.io/anime/13932, https://myanimelist.net/anime/36513].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13513] into [https://anilist.co/anime/100332, https://kitsu.io/anime/13958, https://myanimelist.net/anime/36548].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13533] into [https://kitsu.io/anime/14040].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13552] into [https://kitsu.io/anime/14090, https://myanimelist.net/anime/36726].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13564] into [https://anilist.co/anime/100500, https://myanimelist.net/anime/36754].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13580] into [https://myanimelist.net/anime/36792].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13581] into [https://kitsu.io/anime/14276].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13583] into [https://kitsu.io/anime/14015, https://myanimelist.net/anime/36800].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13589] into [https://myanimelist.net/anime/36817].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13591] into [https://anilist.co/anime/100570, https://kitsu.io/anime/41104, https://myanimelist.net/anime/36827].
@@ -1961,12 +1950,12 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13756] into [https://kitsu.io/anime/41423, https://myanimelist.net/anime/37206].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13757] into [https://kitsu.io/anime/41133, https://myanimelist.net/anime/37210].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13779] into [https://kitsu.io/anime/41131, https://myanimelist.net/anime/37254].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13791] into [https://anilist.co/anime/101115].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13813] into [https://anilist.co/anime/101161, https://kitsu.io/anime/41023, https://myanimelist.net/anime/37338].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13831] into [https://kitsu.io/anime/40597, https://myanimelist.net/anime/37349].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13869] into [https://kitsu.io/anime/41017].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13871] into [https://kitsu.io/anime/41024, https://myanimelist.net/anime/37430].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13890] into [https://kitsu.io/anime/41030, https://myanimelist.net/anime/37438].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13891] into [https://anilist.co/anime/102835].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13896] into [https://myanimelist.net/anime/37446].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13904] into [https://kitsu.io/anime/41381, https://myanimelist.net/anime/37458].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/13956] into [https://kitsu.io/anime/41943, https://myanimelist.net/anime/37561].
@@ -1982,12 +1971,10 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14026] into [https://kitsu.io/anime/41209, https://myanimelist.net/anime/37722].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14038] into [https://kitsu.io/anime/42319, https://myanimelist.net/anime/37744].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14044] into [https://anilist.co/anime/101631, https://myanimelist.net/anime/37769].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14051] into [https://anilist.co/anime/101759, https://kitsu.io/anime/41312].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14054] into [https://myanimelist.net/anime/37787].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14068] into [https://kitsu.io/anime/41269, https://myanimelist.net/anime/37823].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14100] into [https://myanimelist.net/anime/37926].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14105] into [https://kitsu.io/anime/41451, https://myanimelist.net/anime/37952].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14107] into [https://kitsu.io/anime/41370].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14109] into [https://kitsu.io/anime/41372, https://myanimelist.net/anime/37965].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14113] into [https://kitsu.io/anime/41375, https://myanimelist.net/anime/37998].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14156] into [https://kitsu.io/anime/41403, https://myanimelist.net/anime/37993].
@@ -2000,6 +1987,7 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14253] into [https://kitsu.io/anime/42000, https://myanimelist.net/anime/38145].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14289] into [https://kitsu.io/anime/41956, https://myanimelist.net/anime/38186].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/1439] into [https://anilist.co/anime/1483, https://kitsu.io/anime/1329, https://myanimelist.net/anime/1483].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14391] into [https://kitsu.io/anime/41950, https://myanimelist.net/anime/38297].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/1444] into [https://anilist.co/anime/2038, https://kitsu.io/anime/1837, https://myanimelist.net/anime/2038].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14440] into [https://kitsu.io/anime/41980, https://myanimelist.net/anime/38480].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14447] into [https://kitsu.io/anime/42001, https://myanimelist.net/anime/38544].
@@ -2009,7 +1997,6 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14514] into [https://kitsu.io/anime/42026, https://myanimelist.net/anime/38759].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14569] into [https://myanimelist.net/anime/38920].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14574] into [https://myanimelist.net/anime/38940].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14583] into [https://kitsu.io/anime/42042].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14591] into [https://myanimelist.net/anime/38993].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14627] into [https://kitsu.io/anime/42130, https://myanimelist.net/anime/39063].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14662] into [https://kitsu.io/anime/42268, https://myanimelist.net/anime/39199].
@@ -2043,7 +2030,6 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/1805] into [https://anilist.co/anime/241, https://kitsu.io/anime/216, https://myanimelist.net/anime/241].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/1810] into [https://anilist.co/anime/483, https://kitsu.io/anime/444, https://myanimelist.net/anime/483].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/1817] into [https://anilist.co/anime/4427, https://kitsu.io/anime/3605, https://myanimelist.net/anime/4427].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/1827] into [https://anilist.co/anime/2829].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/1841] into [https://kitsu.io/anime/843, https://myanimelist.net/anime/951].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/1848] into [https://kitsu.io/anime/2753, https://myanimelist.net/anime/3053].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/1912] into [https://anilist.co/anime/10562, https://kitsu.io/anime/6241, https://myanimelist.net/anime/10562].
@@ -2075,11 +2061,11 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/2383] into [https://anilist.co/anime/4515, https://kitsu.io/anime/3660, https://myanimelist.net/anime/4515].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/239] into [https://anilist.co/anime/20, https://kitsu.io/anime/11, https://myanimelist.net/anime/20].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/2391] into [https://anilist.co/anime/8, https://kitsu.io/anime/5, https://myanimelist.net/anime/8].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/2416] into [https://anilist.co/anime/5200].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/2416] into [https://kitsu.io/anime/3979, https://myanimelist.net/anime/5200].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/2441] into [https://anilist.co/anime/15, https://kitsu.io/anime/6, https://myanimelist.net/anime/15].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/2443] into [https://anilist.co/anime/519, https://kitsu.io/anime/478, https://myanimelist.net/anime/519].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/245] into [https://anilist.co/anime/341, https://kitsu.io/anime/308, https://myanimelist.net/anime/341].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/2481] into [https://anilist.co/anime/688].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/2481] into [https://kitsu.io/anime/629, https://myanimelist.net/anime/688].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/2482] into [https://anilist.co/anime/3024, https://kitsu.io/anime/2732, https://myanimelist.net/anime/3024].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/251] into [https://anilist.co/anime/274, https://kitsu.io/anime/249, https://myanimelist.net/anime/274].
@@ -2135,6 +2121,7 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/3660] into [https://anilist.co/anime/1466, https://kitsu.io/anime/1313, https://myanimelist.net/anime/1466].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/39] into [https://anilist.co/anime/534].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/4022] into [https://anilist.co/anime/940, https://kitsu.io/anime/836, https://myanimelist.net/anime/940].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/4053] into [https://anilist.co/anime/7639].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/4088] into [https://anilist.co/anime/944, https://kitsu.io/anime/840, https://myanimelist.net/anime/944].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/409] into [https://anilist.co/anime/696, https://kitsu.io/anime/637, https://myanimelist.net/anime/696].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/4113] into [https://anilist.co/anime/798, https://kitsu.io/anime/712, https://myanimelist.net/anime/798].
@@ -2149,7 +2136,6 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/4177] into [https://anilist.co/anime/1865, https://kitsu.io/anime/1682, https://myanimelist.net/anime/1865].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/4178] into [https://anilist.co/anime/878, https://kitsu.io/anime/778, https://myanimelist.net/anime/878].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/4214] into [https://anilist.co/anime/1557, https://kitsu.io/anime/1397, https://myanimelist.net/anime/1557].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/4239] into [https://anilist.co/anime/879].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/4242] into [https://kitsu.io/anime/2383, https://myanimelist.net/anime/2619].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/4244] into [https://anilist.co/anime/995, https://kitsu.io/anime/885, https://myanimelist.net/anime/995].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/4283] into [https://anilist.co/anime/859, https://kitsu.io/anime/761, https://myanimelist.net/anime/859].
@@ -2183,6 +2169,7 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/4802] into [https://anilist.co/anime/1942, https://kitsu.io/anime/1751, https://myanimelist.net/anime/1942].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/4845] into [https://anilist.co/anime/3619, https://kitsu.io/anime/3145, https://myanimelist.net/anime/3619].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/4853] into [https://anilist.co/anime/1721, https://kitsu.io/anime/1542, https://myanimelist.net/anime/1721].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/488] into [https://anilist.co/anime/129].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/4892] into [https://anilist.co/anime/1818, https://kitsu.io/anime/1635, https://myanimelist.net/anime/1818].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/4925] into [https://anilist.co/anime/2161, https://kitsu.io/anime/1956, https://myanimelist.net/anime/2161].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/4927] into [https://anilist.co/anime/3294, https://kitsu.io/anime/2914, https://myanimelist.net/anime/3294].
@@ -2208,8 +2195,10 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/5547] into [https://anilist.co/anime/3389, https://kitsu.io/anime/2976, https://myanimelist.net/anime/3389].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/5558] into [https://anilist.co/anime/3613, https://kitsu.io/anime/3140, https://myanimelist.net/anime/3613].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/556] into [https://kitsu.io/anime/95, https://myanimelist.net/anime/116].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/5584] into [https://kitsu.io/anime/3033].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/5629] into [https://anilist.co/anime/3653, https://kitsu.io/anime/7727, https://myanimelist.net/anime/3653].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/5631] into [https://anilist.co/anime/3614, https://kitsu.io/anime/3141, https://myanimelist.net/anime/3614].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/5678] into [https://kitsu.io/anime/3218].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/568] into [https://anilist.co/anime/909, https://kitsu.io/anime/809, https://myanimelist.net/anime/909].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/571] into [https://anilist.co/anime/238, https://kitsu.io/anime/213, https://myanimelist.net/anime/238].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/5720] into [https://anilist.co/anime/3958, https://kitsu.io/anime/3378, https://myanimelist.net/anime/3958].
@@ -2222,7 +2211,6 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/5975] into [https://anilist.co/anime/4654, https://kitsu.io/anime/3725, https://myanimelist.net/anime/4654].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/60] into [https://myanimelist.net/anime/318].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/6030] into [https://anilist.co/anime/6701, https://kitsu.io/anime/4675, https://myanimelist.net/anime/6701].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/6036] into [https://kitsu.io/anime/7666].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/6047] into [https://anilist.co/anime/4879, https://kitsu.io/anime/3835, https://myanimelist.net/anime/4879].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/6051] into [https://anilist.co/anime/4896, https://kitsu.io/anime/3839, https://myanimelist.net/anime/4896].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/607] into [https://anilist.co/anime/1164, https://kitsu.io/anime/1045, https://myanimelist.net/anime/1164].
@@ -2309,7 +2297,7 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/8276] into [https://anilist.co/anime/10357, https://kitsu.io/anime/6146, https://myanimelist.net/anime/10357].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/8348] into [https://anilist.co/anime/10490, https://kitsu.io/anime/6203, https://myanimelist.net/anime/10490].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/8353] into [https://anilist.co/anime/10495, https://kitsu.io/anime/6205, https://myanimelist.net/anime/10495].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/8395] into [https://anilist.co/anime/10620, https://kitsu.io/anime/6266].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/8395] into [https://anilist.co/anime/10620].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/8395] into [https://myanimelist.net/anime/10620].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/84] into [https://anilist.co/anime/135, https://kitsu.io/anime/114, https://myanimelist.net/anime/135].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/842] into [https://anilist.co/anime/2037, https://kitsu.io/anime/1836, https://myanimelist.net/anime/2037].
@@ -2344,7 +2332,6 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/92] into [https://anilist.co/anime/154, https://kitsu.io/anime/132, https://myanimelist.net/anime/154].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9229] into [https://kitsu.io/anime/7164, https://myanimelist.net/anime/14753].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9271] into [https://myanimelist.net/anime/15051].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9283] into [https://anilist.co/anime/14835].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9287] into [https://anilist.co/anime/14833, https://kitsu.io/anime/7174, https://myanimelist.net/anime/14833].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9305] into [https://anilist.co/anime/14749, https://kitsu.io/anime/7162, https://myanimelist.net/anime/14749].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9307] into [https://kitsu.io/anime/7172, https://myanimelist.net/anime/14827].
@@ -2355,6 +2342,7 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9371] into [https://anilist.co/anime/15109, https://kitsu.io/anime/7213, https://myanimelist.net/anime/15109].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9387] into [https://kitsu.io/anime/7370, https://myanimelist.net/anime/16067].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9394] into [https://anilist.co/anime/15379, https://kitsu.io/anime/7245, https://myanimelist.net/anime/15379].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9400] into [https://anilist.co/anime/15489].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9400] into [https://kitsu.io/anime/7263, https://myanimelist.net/anime/15489].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9420] into [https://anilist.co/anime/15865, https://kitsu.io/anime/7326, https://myanimelist.net/anime/15865].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/943] into [https://anilist.co/anime/970, https://kitsu.io/anime/860, https://myanimelist.net/anime/970].
@@ -2383,16 +2371,14 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9857] into [https://anilist.co/anime/18495, https://myanimelist.net/anime/18495].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9867] into [https://anilist.co/anime/18097, https://kitsu.io/anime/7765, https://myanimelist.net/anime/18097].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/99] into [https://anilist.co/anime/339, https://kitsu.io/anime/306, https://myanimelist.net/anime/339].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9904] into [https://anilist.co/anime/18849].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9906] into [https://anilist.co/anime/20520, https://kitsu.io/anime/7767, https://myanimelist.net/anime/21105].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9916] into [https://kitsu.io/anime/7844, https://myanimelist.net/anime/19429].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9930] into [https://kitsu.io/anime/8010, https://myanimelist.net/anime/19157].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9931] into [https://kitsu.io/anime/7849, https://myanimelist.net/anime/19151].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9934] into [https://anilist.co/anime/19159].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9956] into [https://kitsu.io/anime/7850, https://myanimelist.net/anime/19291].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9967] into [https://kitsu.io/anime/7835, https://myanimelist.net/anime/19365].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9980] into [https://anilist.co/anime/20626].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9998] into [https://kitsu.io/anime/7880, https://myanimelist.net/anime/19815].
-Duration [1500]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/9999] into [https://anilist.co/anime/20663].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/100182] into [https://kitsu.io/anime/13893].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/100185] into [https://kitsu.io/anime/13880, https://myanimelist.net/anime/36432].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/100226] into [https://myanimelist.net/anime/36245].
@@ -2402,8 +2388,10 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://anilis
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/101814] into [https://kitsu.io/anime/41451, https://myanimelist.net/anime/37952].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/102098] into [https://myanimelist.net/anime/32415].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/105807] into [https://myanimelist.net/anime/40390].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/111048] into [https://kitsu.io/anime/42501].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/15863] into [https://kitsu.io/anime/7325, https://myanimelist.net/anime/15863].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/18229] into [https://kitsu.io/anime/7681, https://myanimelist.net/anime/18229].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/18397] into [https://kitsu.io/anime/7694].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/18397] into [https://myanimelist.net/anime/18397].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/195] into [https://kitsu.io/anime/172, https://myanimelist.net/anime/195].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/21184] into [https://kitsu.io/anime/10902, https://myanimelist.net/anime/30736].
@@ -2429,11 +2417,11 @@ Duration [1500]seconds does not match [1380]seconds. Not merging [https://kitsu.
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/2852] into [https://myanimelist.net/anime/3199].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/4645] into [https://myanimelist.net/anime/6636].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/6477] into [https://anilist.co/anime/11227, https://myanimelist.net/anime/11227].
+Duration [1500]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/7356] into [https://anilist.co/anime/16005].
 Duration [1500]seconds does not match [1380]seconds. Not merging [https://kitsu.io/anime/7977] into [https://myanimelist.net/anime/19825].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1000] into [https://anilist.co/anime/1490, https://kitsu.io/anime/1336, https://myanimelist.net/anime/1490].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1001] into [https://kitsu.io/anime/254, https://myanimelist.net/anime/279].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10011] into [https://anilist.co/anime/20031, https://kitsu.io/anime/8001, https://myanimelist.net/anime/20031].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10020] into [https://anilist.co/anime/20817].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10024] into [https://anilist.co/anime/20053, https://kitsu.io/anime/7898, https://myanimelist.net/anime/20053].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10027] into [https://anilist.co/anime/20057, https://kitsu.io/anime/7910, https://myanimelist.net/anime/20057].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10067] into [https://anilist.co/anime/20446, https://kitsu.io/anime/7987, https://myanimelist.net/anime/21677].
@@ -2450,7 +2438,7 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10212] into [https://anilist.co/anime/20496, https://kitsu.io/anime/8082, https://myanimelist.net/anime/20973].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10241] into [https://kitsu.io/anime/8091, https://myanimelist.net/anime/21167].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10244] into [https://kitsu.io/anime/8093, https://myanimelist.net/anime/21185].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10254] into [https://anilist.co/anime/20547, https://kitsu.io/anime/8151].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10272] into [https://anilist.co/anime/20623].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10273] into [https://anilist.co/anime/20527].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10278] into [https://anilist.co/anime/20753, https://kitsu.io/anime/8409, https://myanimelist.net/anime/23311].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10282] into [https://anilist.co/anime/20577, https://kitsu.io/anime/8269, https://myanimelist.net/anime/21407].
@@ -2462,6 +2450,7 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10357] into [https://anilist.co/anime/20583, https://kitsu.io/anime/8155, https://myanimelist.net/anime/23309].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10366] into [https://anilist.co/anime/20588, https://kitsu.io/anime/8163, https://myanimelist.net/anime/21809].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10373] into [https://anilist.co/anime/20590, https://kitsu.io/anime/8195, https://myanimelist.net/anime/21843].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10376] into [https://anilist.co/anime/20594].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10397] into [https://anilist.co/anime/20601, https://kitsu.io/anime/8257, https://myanimelist.net/anime/22117].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10399] into [https://anilist.co/anime/20602, https://kitsu.io/anime/8259, https://myanimelist.net/anime/22147].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10401] into [https://anilist.co/anime/20605, https://kitsu.io/anime/8271, https://myanimelist.net/anime/22319].
@@ -2469,7 +2458,6 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10403] into [https://anilist.co/anime/20610, https://kitsu.io/anime/8557, https://myanimelist.net/anime/22225].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10404] into [https://kitsu.io/anime/8267, https://myanimelist.net/anime/22189].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10406] into [https://kitsu.io/anime/8272, https://myanimelist.net/anime/23201].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10407] into [https://anilist.co/anime/20613].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10415] into [https://anilist.co/anime/20614].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10417] into [https://anilist.co/anime/20615, https://kitsu.io/anime/8285, https://myanimelist.net/anime/22273].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10432] into [https://anilist.co/anime/20619, https://kitsu.io/anime/8293, https://myanimelist.net/anime/22547].
@@ -2478,19 +2466,19 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10441] into [https://anilist.co/anime/20631, https://kitsu.io/anime/8607, https://myanimelist.net/anime/25157].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10442] into [https://anilist.co/anime/20642, https://kitsu.io/anime/8310, https://myanimelist.net/anime/22817].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10445] into [https://anilist.co/anime/20632].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10506] into [https://anilist.co/anime/20645].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10480] into [https://anilist.co/anime/20638].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10514] into [https://anilist.co/anime/20647, https://kitsu.io/anime/8335, https://myanimelist.net/anime/23133].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10517] into [https://myanimelist.net/anime/23151].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10519] into [https://kitsu.io/anime/8451, https://myanimelist.net/anime/23153].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10522] into [https://anilist.co/anime/21023, https://kitsu.io/anime/8392, https://myanimelist.net/anime/23409].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10523] into [https://anilist.co/anime/20652, https://kitsu.io/anime/8314, https://myanimelist.net/anime/23199].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10525] into [https://anilist.co/anime/20672, https://kitsu.io/anime/8337, https://myanimelist.net/anime/23209].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10529] into [https://anilist.co/anime/20678].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10530] into [https://anilist.co/anime/20656, https://kitsu.io/anime/8333, https://myanimelist.net/anime/23251].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10538] into [https://anilist.co/anime/20657].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10542] into [https://kitsu.io/anime/8402, https://myanimelist.net/anime/23289].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10554] into [https://anilist.co/anime/20677, https://kitsu.io/anime/8331, https://myanimelist.net/anime/23333].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1056] into [https://anilist.co/anime/161, https://kitsu.io/anime/139, https://myanimelist.net/anime/161].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10563] into [https://anilist.co/anime/20683].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10569] into [https://anilist.co/anime/20680].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1057] into [https://anilist.co/anime/193, https://kitsu.io/anime/170, https://myanimelist.net/anime/193].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10574] into [https://anilist.co/anime/105049, https://kitsu.io/anime/8378, https://myanimelist.net/anime/23107].
@@ -2502,7 +2490,6 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10618] into [https://anilist.co/anime/101882, https://kitsu.io/anime/9430, https://myanimelist.net/anime/24019].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10620] into [https://kitsu.io/anime/8523, https://myanimelist.net/anime/23421].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10639] into [https://anilist.co/anime/20719].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10643] into [https://anilist.co/anime/20723].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10663] into [https://kitsu.io/anime/8646].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10672] into [https://anilist.co/anime/20804].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10684] into [https://anilist.co/anime/20744, https://kitsu.io/anime/8647, https://myanimelist.net/anime/24629].
@@ -2513,6 +2500,7 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10714] into [https://anilist.co/anime/20818, https://kitsu.io/anime/8664, https://myanimelist.net/anime/24909].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10725] into [https://anilist.co/anime/20770, https://kitsu.io/anime/8648, https://myanimelist.net/anime/25013].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10733] into [https://anilist.co/anime/20773, https://kitsu.io/anime/8576].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10736] into [https://anilist.co/anime/20774].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10744] into [https://anilist.co/anime/20809, https://kitsu.io/anime/8630, https://myanimelist.net/anime/24455].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10745] into [https://anilist.co/anime/20785, https://kitsu.io/anime/8641, https://myanimelist.net/anime/25397].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10749] into [https://anilist.co/anime/20790, https://kitsu.io/anime/8636, https://myanimelist.net/anime/25517].
@@ -2524,15 +2512,15 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10782] into [https://anilist.co/anime/20814, https://kitsu.io/anime/8668, https://myanimelist.net/anime/25859].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10784] into [https://anilist.co/anime/20815, https://kitsu.io/anime/8667, https://myanimelist.net/anime/25867].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10811] into [https://anilist.co/anime/20827, https://kitsu.io/anime/8738, https://myanimelist.net/anime/26165].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10813] into [https://anilist.co/anime/20829].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10813] into [https://anilist.co/anime/20829, https://kitsu.io/anime/8736].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10815] into [https://anilist.co/anime/20566, https://kitsu.io/anime/8144, https://myanimelist.net/anime/26351].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10816] into [https://anilist.co/anime/20832, https://kitsu.io/anime/9965, https://myanimelist.net/anime/29803].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1083] into [https://kitsu.io/anime/3005, https://myanimelist.net/anime/3432].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10830] into [https://anilist.co/anime/20843, https://kitsu.io/anime/9729, https://myanimelist.net/anime/27441].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1084] into [https://kitsu.io/anime/782, https://myanimelist.net/anime/882].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10842] into [https://anilist.co/anime/20849].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10849] into [https://kitsu.io/anime/9563, https://myanimelist.net/anime/27709].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10854] into [https://anilist.co/anime/20872, https://kitsu.io/anime/9538, https://myanimelist.net/anime/27775].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10855] into [https://anilist.co/anime/20868].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10859] into [https://anilist.co/anime/20876, https://kitsu.io/anime/9178, https://myanimelist.net/anime/27787].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10864] into [https://anilist.co/anime/20881].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10866] into [https://anilist.co/anime/20879, https://kitsu.io/anime/9726, https://myanimelist.net/anime/27831].
@@ -2546,6 +2534,7 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10903] into [https://anilist.co/anime/21001, https://kitsu.io/anime/10034, https://myanimelist.net/anime/28669].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1091] into [https://anilist.co/anime/2451, https://kitsu.io/anime/2225, https://myanimelist.net/anime/2451].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10913] into [https://anilist.co/anime/20944, https://kitsu.io/anime/10013, https://myanimelist.net/anime/28283].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10918] into [https://anilist.co/anime/20946].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10925] into [https://anilist.co/anime/20950, https://kitsu.io/anime/11998, https://myanimelist.net/anime/33037].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10929] into [https://anilist.co/anime/20913, https://kitsu.io/anime/9964, https://myanimelist.net/anime/27991].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1093] into [https://anilist.co/anime/497, https://kitsu.io/anime/457, https://myanimelist.net/anime/497].
@@ -2555,6 +2544,7 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10938] into [https://anilist.co/anime/20955, https://kitsu.io/anime/10029, https://myanimelist.net/anime/28497].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10944] into [https://kitsu.io/anime/8671, https://myanimelist.net/anime/25777].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10948] into [https://anilist.co/anime/20964].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10962] into [https://anilist.co/anime/21439].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10969] into [https://anilist.co/anime/20983].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10971] into [https://anilist.co/anime/20986, https://kitsu.io/anime/10071, https://myanimelist.net/anime/28833].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/10972] into [https://anilist.co/anime/20987, https://kitsu.io/anime/10067, https://myanimelist.net/anime/28825].
@@ -2565,65 +2555,67 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11032] into [https://anilist.co/anime/21024, https://kitsu.io/anime/10455, https://myanimelist.net/anime/29687].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11039] into [https://anilist.co/anime/21031, https://kitsu.io/anime/10344, https://myanimelist.net/anime/29758].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11056] into [https://kitsu.io/anime/10026, https://myanimelist.net/anime/28215].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11077] into [https://anilist.co/anime/21157].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11082] into [https://anilist.co/anime/21058, https://kitsu.io/anime/10621, https://myanimelist.net/anime/30123].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1109] into [https://anilist.co/anime/2778, https://kitsu.io/anime/2534, https://myanimelist.net/anime/2778].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11103] into [https://anilist.co/anime/21072].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11110] into [https://kitsu.io/anime/10716, https://myanimelist.net/anime/30205].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1112] into [https://anilist.co/anime/865, https://kitsu.io/anime/766, https://myanimelist.net/anime/865].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11123] into [https://anilist.co/anime/21087, https://kitsu.io/anime/10740, https://myanimelist.net/anime/30276].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11130] into [https://anilist.co/anime/21093].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11144] into [https://anilist.co/anime/21118].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11144] into [https://kitsu.io/anime/10783, https://myanimelist.net/anime/30375].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11148] into [https://kitsu.io/anime/10766, https://myanimelist.net/anime/30385].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11150] into [https://anilist.co/anime/21115, https://kitsu.io/anime/10764, https://myanimelist.net/anime/30382].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11163] into [https://kitsu.io/anime/10762, https://myanimelist.net/anime/30379].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11167] into [https://anilist.co/anime/21127].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11170] into [https://anilist.co/anime/21128, https://kitsu.io/anime/10800, https://myanimelist.net/anime/30503].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11177] into [https://anilist.co/anime/21131].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11180] into [https://anilist.co/anime/98297].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11201] into [https://anilist.co/anime/21171].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11204] into [https://anilist.co/anime/21555].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11209] into [https://anilist.co/anime/21177, https://kitsu.io/anime/11485, https://myanimelist.net/anime/31680].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11226] into [https://anilist.co/anime/21187, https://kitsu.io/anime/10914, https://myanimelist.net/anime/30740].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11234] into [https://anilist.co/anime/21362, https://kitsu.io/anime/11029, https://myanimelist.net/anime/31338].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11253] into [https://anilist.co/anime/21197].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11266] into [https://anilist.co/anime/21380].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11270] into [https://anilist.co/anime/21213, https://kitsu.io/anime/11020, https://myanimelist.net/anime/30895].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11276] into [https://anilist.co/anime/21214, https://kitsu.io/anime/11022, https://myanimelist.net/anime/30902].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11278] into [https://anilist.co/anime/21396].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11279] into [https://anilist.co/anime/21397, https://kitsu.io/anime/11250, https://myanimelist.net/anime/30921].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11282] into [https://anilist.co/anime/21395, https://kitsu.io/anime/11252, https://myanimelist.net/anime/30923].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11291] into [https://anilist.co/anime/21236, https://kitsu.io/anime/11113, https://myanimelist.net/anime/31049].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11292] into [https://anilist.co/anime/21234].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11293] into [https://anilist.co/anime/21237, https://kitsu.io/anime/11112, https://myanimelist.net/anime/31044].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11326] into [https://anilist.co/anime/21242, https://kitsu.io/anime/11181, https://myanimelist.net/anime/31109].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11343] into [https://anilist.co/anime/21249, https://kitsu.io/anime/11165, https://myanimelist.net/anime/31147].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11344] into [https://anilist.co/anime/21250, https://kitsu.io/anime/11172, https://myanimelist.net/anime/31157].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11352] into [https://anilist.co/anime/98596, https://kitsu.io/anime/11207].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11347] into [https://anilist.co/anime/21261].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11352] into [https://anilist.co/anime/98596].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11365] into [https://kitsu.io/anime/11200, https://myanimelist.net/anime/31223].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11366] into [https://anilist.co/anime/21269, https://kitsu.io/anime/11210, https://myanimelist.net/anime/31229].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11372] into [https://anilist.co/anime/21268, https://kitsu.io/anime/11206, https://myanimelist.net/anime/31251].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11385] into [https://anilist.co/anime/21493].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1143] into [https://anilist.co/anime/2108, https://kitsu.io/anime/1907, https://myanimelist.net/anime/2108].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11453] into [https://anilist.co/anime/21275].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11459] into [https://anilist.co/anime/21277, https://kitsu.io/anime/10045, https://myanimelist.net/anime/28537].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11480] into [https://anilist.co/anime/21290, https://kitsu.io/anime/11319, https://myanimelist.net/anime/31404].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11481] into [https://anilist.co/anime/21291].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11500] into [https://anilist.co/anime/21306, https://kitsu.io/anime/11333, https://myanimelist.net/anime/31442].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11516] into [https://anilist.co/anime/98630].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11523] into [https://anilist.co/anime/21311].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11533] into [https://anilist.co/anime/21316, https://kitsu.io/anime/11346, https://myanimelist.net/anime/31500].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11543] into [https://anilist.co/anime/21321, https://kitsu.io/anime/11570, https://myanimelist.net/anime/32175].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11550] into [https://anilist.co/anime/21347].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11552] into [https://anilist.co/anime/21330, https://kitsu.io/anime/11364, https://myanimelist.net/anime/31559].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11572] into [https://anilist.co/anime/21340, https://kitsu.io/anime/11363, https://myanimelist.net/anime/33003].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11580] into [https://anilist.co/anime/21349, https://kitsu.io/anime/11373, https://myanimelist.net/anime/31588].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11597] into [https://anilist.co/anime/21361, https://kitsu.io/anime/11382].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11598] into [https://anilist.co/anime/21360, https://kitsu.io/anime/11375, https://myanimelist.net/anime/31630].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11599] into [https://anilist.co/anime/21363, https://kitsu.io/anime/11584, https://myanimelist.net/anime/31631].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/116] into [https://anilist.co/anime/289, https://kitsu.io/anime/264, https://myanimelist.net/anime/289].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11601] into [https://kitsu.io/anime/11381, https://myanimelist.net/anime/31636].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11607] into [https://kitsu.io/anime/11602, https://myanimelist.net/anime/31645].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1161] into [https://anilist.co/anime/2048].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11637] into [https://anilist.co/anime/21386, https://kitsu.io/anime/11402, https://myanimelist.net/anime/31704].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11638] into [https://anilist.co/anime/21378, https://kitsu.io/anime/11529, https://myanimelist.net/anime/31845].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11646] into [https://kitsu.io/anime/12633, https://myanimelist.net/anime/34577].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11653] into [https://anilist.co/anime/104373, https://kitsu.io/anime/11734, https://myanimelist.net/anime/31698].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11665] into [https://kitsu.io/anime/11415, https://myanimelist.net/anime/31733].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11689] into [https://anilist.co/anime/21407].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11690] into [https://kitsu.io/anime/11456, https://myanimelist.net/anime/31790].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11692] into [https://anilist.co/anime/21421, https://kitsu.io/anime/11437, https://myanimelist.net/anime/31798].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11694] into [https://anilist.co/anime/21423, https://kitsu.io/anime/11446, https://myanimelist.net/anime/31804].
@@ -2652,6 +2644,7 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11875] into [https://anilist.co/anime/21578, https://kitsu.io/anime/11748, https://myanimelist.net/anime/32494].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11878] into [https://anilist.co/anime/21584, https://kitsu.io/anime/11745, https://myanimelist.net/anime/32526].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11881] into [https://anilist.co/anime/21595, https://kitsu.io/anime/11751, https://myanimelist.net/anime/32542].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11883] into [https://anilist.co/anime/21597].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11886] into [https://anilist.co/anime/21602, https://kitsu.io/anime/11762, https://myanimelist.net/anime/32568].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11889] into [https://kitsu.io/anime/11772, https://myanimelist.net/anime/32574].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11891] into [https://anilist.co/anime/21603, https://kitsu.io/anime/11809, https://myanimelist.net/anime/32582].
@@ -2667,34 +2660,38 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11952] into [https://anilist.co/anime/21659, https://kitsu.io/anime/11870, https://myanimelist.net/anime/32828].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11955] into [https://anilist.co/anime/21672, https://kitsu.io/anime/11883, https://myanimelist.net/anime/32836].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11959] into [https://anilist.co/anime/21673].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11965] into [https://anilist.co/anime/21679].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11970] into [https://anilist.co/anime/21677, https://kitsu.io/anime/11894, https://myanimelist.net/anime/32878].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11971] into [https://anilist.co/anime/21682].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11978] into [https://anilist.co/anime/102392, https://kitsu.io/anime/10335, https://myanimelist.net/anime/29623].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11981] into [https://kitsu.io/anime/11914].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11982] into [https://anilist.co/anime/21688].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11985] into [https://anilist.co/anime/21696, https://kitsu.io/anime/11934, https://myanimelist.net/anime/32924].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/11996] into [https://anilist.co/anime/21702].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12] into [https://anilist.co/anime/59, https://myanimelist.net/anime/59].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12003] into [https://anilist.co/anime/21707, https://kitsu.io/anime/11948, https://myanimelist.net/anime/32961].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12004] into [https://anilist.co/anime/21708, https://kitsu.io/anime/11949, https://myanimelist.net/anime/32962].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12007] into [https://anilist.co/anime/21714, https://kitsu.io/anime/11997].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12007] into [https://anilist.co/anime/21714].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12014] into [https://anilist.co/anime/21711, https://kitsu.io/anime/11957, https://myanimelist.net/anime/32998].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12018] into [https://kitsu.io/anime/13545].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12019] into [https://anilist.co/anime/21713, https://kitsu.io/anime/11770, https://myanimelist.net/anime/32483].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12020] into [https://anilist.co/anime/21712].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12030] into [https://anilist.co/anime/21744, https://kitsu.io/anime/12000, https://myanimelist.net/anime/33019].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12031] into [https://anilist.co/anime/21741, https://kitsu.io/anime/11995, https://myanimelist.net/anime/33023].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12032] into [https://anilist.co/anime/21755].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12040] into [https://anilist.co/anime/21715, https://kitsu.io/anime/12009, https://myanimelist.net/anime/33031].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12043] into [https://anilist.co/anime/21740].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12047] into [https://kitsu.io/anime/11414, https://myanimelist.net/anime/31722].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12057] into [https://anilist.co/anime/87496, https://kitsu.io/anime/12707, https://myanimelist.net/anime/33089].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12059] into [https://anilist.co/anime/21764].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12065] into [https://anilist.co/anime/21747, https://kitsu.io/anime/12026, https://myanimelist.net/anime/33113].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12091] into [https://anilist.co/anime/21776].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1213] into [https://anilist.co/anime/2834].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12087] into [https://anilist.co/anime/21772].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12132] into [https://anilist.co/anime/21820, https://kitsu.io/anime/12314, https://myanimelist.net/anime/33314].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12137] into [https://anilist.co/anime/21824, https://kitsu.io/anime/12236, https://myanimelist.net/anime/33341].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12138] into [https://anilist.co/anime/21827, https://kitsu.io/anime/12230].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12138] into [https://kitsu.io/anime/12230].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12156] into [https://anilist.co/anime/21846, https://kitsu.io/anime/12447, https://myanimelist.net/anime/33390].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12197] into [https://anilist.co/anime/21836, https://kitsu.io/anime/12245, https://myanimelist.net/anime/33417].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12200] into [https://anilist.co/anime/21840, https://kitsu.io/anime/12250, https://myanimelist.net/anime/33421].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12234] into [https://anilist.co/anime/21857, https://kitsu.io/anime/12267, https://myanimelist.net/anime/33487].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12252] into [https://kitsu.io/anime/12297].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12253] into [https://kitsu.io/anime/12295].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12262] into [https://anilist.co/anime/87435, https://kitsu.io/anime/12330, https://myanimelist.net/anime/33573].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12264] into [https://anilist.co/anime/21871, https://kitsu.io/anime/12304, https://myanimelist.net/anime/33589].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12266] into [https://anilist.co/anime/87494, https://kitsu.io/anime/12318, https://myanimelist.net/anime/33654].
@@ -2702,27 +2699,28 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12290] into [https://anilist.co/anime/21878].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12300] into [https://anilist.co/anime/21887, https://kitsu.io/anime/12460, https://myanimelist.net/anime/33743].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12318] into [https://anilist.co/anime/21894, https://kitsu.io/anime/12484, https://myanimelist.net/anime/33797].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12324] into [https://anilist.co/anime/20705].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12327] into [https://kitsu.io/anime/12673, https://myanimelist.net/anime/33836].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12329] into [https://anilist.co/anime/87500, https://kitsu.io/anime/12487, https://myanimelist.net/anime/33840].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12333] into [https://kitsu.io/anime/12762].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12372] into [https://anilist.co/anime/97591, https://kitsu.io/anime/12539, https://myanimelist.net/anime/33985].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12394] into [https://anilist.co/anime/87476, https://myanimelist.net/anime/34077].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12395] into [https://anilist.co/anime/97625, https://kitsu.io/anime/12534, https://myanimelist.net/anime/34019].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12417] into [https://anilist.co/anime/97642].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12419] into [https://anilist.co/anime/97889, https://kitsu.io/anime/12553, https://myanimelist.net/anime/34096].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12429] into [https://anilist.co/anime/97665, https://kitsu.io/anime/12861, https://myanimelist.net/anime/34126].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12450] into [https://kitsu.io/anime/12623, https://myanimelist.net/anime/34176].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12451] into [https://anilist.co/anime/97683].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12472] into [https://anilist.co/anime/97915, https://kitsu.io/anime/12720, https://myanimelist.net/anime/34238].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12494] into [https://anilist.co/anime/97766, https://kitsu.io/anime/12754, https://myanimelist.net/anime/34280].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12496] into [https://anilist.co/anime/97768, https://kitsu.io/anime/12705].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12498] into [https://anilist.co/anime/97767].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/125] into [https://anilist.co/anime/246, https://kitsu.io/anime/221, https://myanimelist.net/anime/246].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12500] into [https://anilist.co/anime/97769, https://kitsu.io/anime/13160, https://myanimelist.net/anime/34445].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12502] into [https://kitsu.io/anime/12685, https://myanimelist.net/anime/34289].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1251] into [https://anilist.co/anime/693, https://kitsu.io/anime/634, https://myanimelist.net/anime/693].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12523] into [https://anilist.co/anime/98073].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12542] into [https://anilist.co/anime/97855, https://kitsu.io/anime/12732, https://myanimelist.net/anime/34368].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12545] into [https://anilist.co/anime/97832, https://kitsu.io/anime/12737].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12545] into [https://kitsu.io/anime/12737].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12560] into [https://anilist.co/anime/98861, https://myanimelist.net/anime/33926].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12563] into [https://anilist.co/anime/97874].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12571] into [https://kitsu.io/anime/12770, https://myanimelist.net/anime/34451].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1258] into [https://kitsu.io/anime/1640, https://myanimelist.net/anime/1823].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/126] into [https://anilist.co/anime/183, https://kitsu.io/anime/160, https://myanimelist.net/anime/183].
@@ -2730,7 +2728,6 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1265] into [https://anilist.co/anime/323, https://kitsu.io/anime/290, https://myanimelist.net/anime/323].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12651] into [https://anilist.co/anime/97984, https://kitsu.io/anime/13057, https://myanimelist.net/anime/34547].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12652] into [https://kitsu.io/anime/13007].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12655] into [https://anilist.co/anime/98239].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12657] into [https://anilist.co/anime/97980, https://kitsu.io/anime/13055, https://myanimelist.net/anime/34561].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12660] into [https://anilist.co/anime/97939, https://myanimelist.net/anime/34565].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1268] into [https://anilist.co/anime/204, https://kitsu.io/anime/180, https://myanimelist.net/anime/204].
@@ -2738,12 +2735,15 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12693] into [https://anilist.co/anime/97995].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12694] into [https://anilist.co/anime/97994].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12700] into [https://kitsu.io/anime/13068, https://myanimelist.net/anime/34636].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12704] into [https://anilist.co/anime/98035, https://kitsu.io/anime/13066].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12704] into [https://kitsu.io/anime/13066].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1271] into [https://anilist.co/anime/4486, https://kitsu.io/anime/3639, https://myanimelist.net/anime/4486].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12712] into [https://anilist.co/anime/98449, https://kitsu.io/anime/13229].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12723] into [https://anilist.co/anime/98144].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12731] into [https://anilist.co/anime/98108, https://kitsu.io/anime/12945, https://myanimelist.net/anime/34771].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12737] into [https://anilist.co/anime/98107, https://kitsu.io/anime/13293, https://myanimelist.net/anime/34787].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12746] into [https://anilist.co/anime/98149, https://kitsu.io/anime/13539, https://myanimelist.net/anime/34800].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12761] into [https://kitsu.io/anime/13234, https://myanimelist.net/anime/34822].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12762] into [https://kitsu.io/anime/13280].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12781] into [https://anilist.co/anime/98217, https://kitsu.io/anime/13714, https://myanimelist.net/anime/34839].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12790] into [https://kitsu.io/anime/13478, https://myanimelist.net/anime/34863].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12809] into [https://anilist.co/anime/98289, https://kitsu.io/anime/13510, https://myanimelist.net/anime/34901].
@@ -2757,28 +2757,36 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12939] into [https://anilist.co/anime/98575].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12939] into [https://kitsu.io/anime/40592].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12956] into [https://anilist.co/anime/98443, https://kitsu.io/anime/13225, https://myanimelist.net/anime/35076].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12957] into [https://anilist.co/anime/98439].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/12959] into [https://kitsu.io/anime/13467].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1297] into [https://anilist.co/anime/158, https://kitsu.io/anime/7815, https://myanimelist.net/anime/158].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13] into [https://anilist.co/anime/272, https://kitsu.io/anime/247, https://myanimelist.net/anime/272].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13004] into [https://anilist.co/anime/98491, https://myanimelist.net/anime/35203].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13035] into [https://kitsu.io/anime/13638].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13106] into [https://kitsu.io/anime/13489].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13036] into [https://kitsu.io/anime/13784].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13067] into [https://anilist.co/anime/98549, https://kitsu.io/anime/13319].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13106] into [https://anilist.co/anime/98572, https://kitsu.io/anime/13489].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13117] into [https://anilist.co/anime/98631, https://kitsu.io/anime/13537, https://myanimelist.net/anime/35434].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13153] into [https://anilist.co/anime/98659, https://kitsu.io/anime/13503, https://myanimelist.net/anime/35507].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13160] into [https://anilist.co/anime/98693, https://kitsu.io/anime/13712].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1319] into [https://anilist.co/anime/295, https://kitsu.io/anime/270, https://myanimelist.net/anime/295].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13198] into [https://kitsu.io/anime/13616].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13199] into [https://anilist.co/anime/98820].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13214] into [https://anilist.co/anime/100361, https://kitsu.io/anime/13978, https://myanimelist.net/anime/35683].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1322] into [https://anilist.co/anime/1082, https://kitsu.io/anime/967, https://myanimelist.net/anime/1082].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13238] into [https://anilist.co/anime/99131].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13241] into [https://anilist.co/anime/99147].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13244] into [https://kitsu.io/anime/13581, https://myanimelist.net/anime/35788].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13245] into [https://anilist.co/anime/99476].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13248] into [https://anilist.co/anime/98878].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13250] into [https://kitsu.io/anime/13592].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13252] into [https://anilist.co/anime/99390, https://kitsu.io/anime/13729, https://myanimelist.net/anime/35828].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13254] into [https://anilist.co/anime/99413].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13256] into [https://anilist.co/anime/99420, https://kitsu.io/anime/13597].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13256] into [https://kitsu.io/anime/13597].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13259] into [https://anilist.co/anime/99423, https://kitsu.io/anime/13600, https://myanimelist.net/anime/35849].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1327] into [https://anilist.co/anime/330, https://kitsu.io/anime/297, https://myanimelist.net/anime/330].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13276] into [https://anilist.co/anime/99483].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13270] into [https://anilist.co/anime/99468, https://kitsu.io/anime/13635].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13296] into [https://anilist.co/anime/99586].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13300] into [https://anilist.co/anime/99637].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13329] into [https://anilist.co/anime/99733, https://kitsu.io/anime/13786, https://myanimelist.net/anime/36022].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13331] into [https://anilist.co/anime/99693, https://kitsu.io/anime/13684, https://myanimelist.net/anime/36023].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13337] into [https://anilist.co/anime/99699].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1334] into [https://anilist.co/anime/3638, https://kitsu.io/anime/3159, https://myanimelist.net/anime/3638].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13345] into [https://anilist.co/anime/99726].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13347] into [https://myanimelist.net/anime/36040].
@@ -2793,7 +2801,6 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1344] into [https://kitsu.io/anime/300, https://myanimelist.net/anime/333].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13449] into [https://anilist.co/anime/103972, https://myanimelist.net/anime/38119].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13477] into [https://anilist.co/anime/100112].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13494] into [https://anilist.co/anime/100183].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13499] into [https://anilist.co/anime/100240, https://kitsu.io/anime/13929, https://myanimelist.net/anime/36511].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13500] into [https://anilist.co/anime/100245].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13503] into [https://kitsu.io/anime/14144, https://myanimelist.net/anime/36522].
@@ -2803,36 +2810,34 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13518] into [https://anilist.co/anime/100306, https://kitsu.io/anime/13952, https://myanimelist.net/anime/36565].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13526] into [https://anilist.co/anime/100661].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13533] into [https://anilist.co/anime/100722, https://myanimelist.net/anime/36633].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13552] into [https://anilist.co/anime/100483].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13569] into [https://anilist.co/anime/102661, https://kitsu.io/anime/8928, https://myanimelist.net/anime/20945].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1357] into [https://anilist.co/anime/1399, https://kitsu.io/anime/1252, https://myanimelist.net/anime/1399].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13583] into [https://anilist.co/anime/100532].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13592] into [https://anilist.co/anime/100569].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13624] into [https://anilist.co/anime/100668, https://kitsu.io/anime/14043].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13625] into [https://kitsu.io/anime/14042].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13637] into [https://anilist.co/anime/100714].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13655] into [https://anilist.co/anime/100745].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/137] into [https://anilist.co/anime/206, https://kitsu.io/anime/182, https://myanimelist.net/anime/206].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13718] into [https://anilist.co/anime/100876].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13734] into [https://anilist.co/anime/100922, https://kitsu.io/anime/14190, https://myanimelist.net/anime/37105].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13739] into [https://myanimelist.net/anime/37117].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13743] into [https://anilist.co/anime/100977].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13745] into [https://anilist.co/anime/103735, https://kitsu.io/anime/42004, https://myanimelist.net/anime/37154].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13755] into [https://anilist.co/anime/101043, https://kitsu.io/anime/41015, https://myanimelist.net/anime/37204].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13756] into [https://anilist.co/anime/101013].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13757] into [https://anilist.co/anime/101004].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13760] into [https://kitsu.io/anime/41405, https://myanimelist.net/anime/37221].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13767] into [https://anilist.co/anime/101024, https://kitsu.io/anime/41099, https://myanimelist.net/anime/37202].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13768] into [https://anilist.co/anime/101125].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13774] into [https://anilist.co/anime/101036, https://kitsu.io/anime/40565, https://myanimelist.net/anime/37245].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13779] into [https://anilist.co/anime/101044].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13783] into [https://anilist.co/anime/101045, https://kitsu.io/anime/40576, https://myanimelist.net/anime/37259].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13791] into [https://myanimelist.net/anime/37283].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/138] into [https://anilist.co/anime/818, https://kitsu.io/anime/725, https://myanimelist.net/anime/818].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13807] into [https://anilist.co/anime/101555, https://myanimelist.net/anime/37324].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13831] into [https://anilist.co/anime/101165].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13839] into [https://anilist.co/anime/101379, https://kitsu.io/anime/41430, https://myanimelist.net/anime/37374].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13845] into [https://myanimelist.net/anime/37395].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1385] into [https://anilist.co/anime/2688, https://kitsu.io/anime/2450, https://myanimelist.net/anime/2688].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13869] into [https://anilist.co/anime/101261].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13896] into [https://anilist.co/anime/101289, https://kitsu.io/anime/41052].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13898] into [https://anilist.co/anime/101336, https://kitsu.io/anime/41053, https://myanimelist.net/anime/37447].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13899] into [https://anilist.co/anime/101283].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13904] into [https://anilist.co/anime/101292].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13911] into [https://kitsu.io/anime/41065, https://myanimelist.net/anime/37475].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13914] into [https://myanimelist.net/anime/37484].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13918] into [https://anilist.co/anime/101313, https://kitsu.io/anime/41069, https://myanimelist.net/anime/37490].
@@ -2844,55 +2849,62 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13960] into [https://anilist.co/anime/101380, https://kitsu.io/anime/41119, https://myanimelist.net/anime/37571].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13965] into [https://anilist.co/anime/101368].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13966] into [https://anilist.co/anime/101371].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14] into [https://kitsu.io/anime/143].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13989] into [https://kitsu.io/anime/41124].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14001] into [https://kitsu.io/anime/41263, https://myanimelist.net/anime/37657].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14008] into [https://anilist.co/anime/101474].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14030] into [https://kitsu.io/anime/41212, https://myanimelist.net/anime/37739].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14038] into [https://anilist.co/anime/101547].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14044] into [https://kitsu.io/anime/41380].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14053] into [https://anilist.co/anime/101573, https://kitsu.io/anime/41240, https://myanimelist.net/anime/37786].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14054] into [https://anilist.co/anime/102925].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14063] into [https://anilist.co/anime/101597, https://kitsu.io/anime/41265, https://myanimelist.net/anime/37806].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14068] into [https://anilist.co/anime/101609].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14075] into [https://kitsu.io/anime/41289, https://myanimelist.net/anime/37869].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14100] into [https://anilist.co/anime/102926, https://kitsu.io/anime/41336].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14107] into [https://anilist.co/anime/101922, https://myanimelist.net/anime/38000].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14113] into [https://anilist.co/anime/101930].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1413] into [https://anilist.co/anime/603, https://kitsu.io/anime/558, https://myanimelist.net/anime/603].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14172] into [https://anilist.co/anime/102939].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14156] into [https://anilist.co/anime/102680].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14192] into [https://anilist.co/anime/103048].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14198] into [https://anilist.co/anime/103871].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14229] into [https://anilist.co/anime/103222, https://kitsu.io/anime/41490, https://myanimelist.net/anime/37979].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14237] into [https://anilist.co/anime/104103, https://kitsu.io/anime/41946, https://myanimelist.net/anime/38083].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14242] into [https://anilist.co/anime/104989].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14253] into [https://anilist.co/anime/103874].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14255] into [https://anilist.co/anime/104008, https://kitsu.io/anime/41996, https://myanimelist.net/anime/38157].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1427] into [https://anilist.co/anime/139, https://kitsu.io/anime/118, https://myanimelist.net/anime/139].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14289] into [https://anilist.co/anime/103900].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/143] into [https://kitsu.io/anime/594, https://myanimelist.net/anime/646].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1431] into [https://anilist.co/anime/146, https://kitsu.io/anime/124, https://myanimelist.net/anime/146].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14391] into [https://anilist.co/anime/104252].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14392] into [https://anilist.co/anime/104253, https://kitsu.io/anime/41959, https://myanimelist.net/anime/38301].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/144] into [https://anilist.co/anime/249, https://kitsu.io/anime/224, https://myanimelist.net/anime/249].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14411] into [https://kitsu.io/anime/42054, https://myanimelist.net/anime/38393].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14440] into [https://anilist.co/anime/104463].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14447] into [https://anilist.co/anime/104674].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1446] into [https://anilist.co/anime/3044, https://kitsu.io/anime/2748, https://myanimelist.net/anime/3044].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14471] into [https://anilist.co/anime/105081, https://kitsu.io/anime/42221, https://myanimelist.net/anime/38619].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14472] into [https://anilist.co/anime/105096, https://kitsu.io/anime/42015, https://myanimelist.net/anime/38628].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14490] into [https://anilist.co/anime/105334].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14491] into [https://kitsu.io/anime/42080].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14493] into [https://anilist.co/anime/105928, https://kitsu.io/anime/42226, https://myanimelist.net/anime/38707].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14512] into [https://anilist.co/anime/105932, https://kitsu.io/anime/42025, https://myanimelist.net/anime/38753].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14514] into [https://anilist.co/anime/105914].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14569] into [https://anilist.co/anime/106894, https://kitsu.io/anime/42182].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1458] into [https://anilist.co/anime/2921, https://kitsu.io/anime/2646, https://myanimelist.net/anime/2921].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14583] into [https://anilist.co/anime/106433, https://myanimelist.net/anime/38851].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1459] into [https://anilist.co/anime/5153, https://kitsu.io/anime/3952, https://myanimelist.net/anime/5153].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14591] into [https://anilist.co/anime/107068, https://kitsu.io/anime/42110].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14603] into [https://anilist.co/anime/107226, https://myanimelist.net/anime/39026].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14627] into [https://anilist.co/anime/107418].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1463] into [https://anilist.co/anime/3235, https://kitsu.io/anime/2877, https://myanimelist.net/anime/3235].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14645] into [https://anilist.co/anime/105626, https://myanimelist.net/anime/38491].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14662] into [https://anilist.co/anime/107672].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14664] into [https://myanimelist.net/anime/39221].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1469] into [https://anilist.co/anime/2699, https://kitsu.io/anime/2461, https://myanimelist.net/anime/2699].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14695] into [https://anilist.co/anime/107961, https://kitsu.io/anime/42211].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14695] into [https://kitsu.io/anime/42211].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1470] into [https://anilist.co/anime/2700, https://kitsu.io/anime/2462, https://myanimelist.net/anime/2700].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14717] into [https://kitsu.io/anime/42159, https://myanimelist.net/anime/39417].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/148] into [https://anilist.co/anime/959, https://kitsu.io/anime/849, https://myanimelist.net/anime/959].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1481] into [https://anilist.co/anime/2510, https://kitsu.io/anime/2276, https://myanimelist.net/anime/2510].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1485] into [https://anilist.co/anime/1426, https://kitsu.io/anime/1279, https://myanimelist.net/anime/1426].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14973] into [https://myanimelist.net/anime/39979].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/15] into [https://anilist.co/anime/144, https://kitsu.io/anime/7659, https://myanimelist.net/anime/144].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/15021] into [https://anilist.co/anime/110686, https://kitsu.io/anime/42510, https://myanimelist.net/anime/40154].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1523] into [https://anilist.co/anime/417].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1523] into [https://kitsu.io/anime/381, https://myanimelist.net/anime/417].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1527] into [https://anilist.co/anime/8394, https://kitsu.io/anime/3741, https://myanimelist.net/anime/8394].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1529] into [https://kitsu.io/anime/3977, https://myanimelist.net/anime/5197].
@@ -2914,7 +2926,6 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1683] into [https://anilist.co/anime/3932, https://kitsu.io/anime/3359, https://myanimelist.net/anime/3932].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1684] into [https://kitsu.io/anime/9916, https://myanimelist.net/anime/17521].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1685] into [https://anilist.co/anime/1337, https://kitsu.io/anime/1192, https://myanimelist.net/anime/1337].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1697] into [https://kitsu.io/anime/492].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1699] into [https://anilist.co/anime/1574, https://kitsu.io/anime/1414, https://myanimelist.net/anime/1574].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/17] into [https://anilist.co/anime/71, https://kitsu.io/anime/51, https://myanimelist.net/anime/71].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/170] into [https://anilist.co/anime/52, https://kitsu.io/anime/33, https://myanimelist.net/anime/52].
@@ -2929,10 +2940,10 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1767] into [https://anilist.co/anime/353, https://kitsu.io/anime/320, https://myanimelist.net/anime/353].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1769] into [https://anilist.co/anime/229, https://kitsu.io/anime/204, https://myanimelist.net/anime/229].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1773] into [https://anilist.co/anime/1704, https://kitsu.io/anime/1530, https://myanimelist.net/anime/1704].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1774] into [https://anilist.co/anime/764].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1777] into [https://anilist.co/anime/2113, https://kitsu.io/anime/1912, https://myanimelist.net/anime/2113].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/179] into [https://anilist.co/anime/369, https://kitsu.io/anime/336].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1796] into [https://anilist.co/anime/7956, https://kitsu.io/anime/5162, https://myanimelist.net/anime/7956].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/18] into [https://anilist.co/anime/569].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1806] into [https://anilist.co/anime/75, https://kitsu.io/anime/55, https://myanimelist.net/anime/75].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/181] into [https://kitsu.io/anime/305, https://myanimelist.net/anime/338].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1811] into [https://kitsu.io/anime/9016, https://myanimelist.net/anime/307].
@@ -2945,12 +2956,14 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/183] into [https://anilist.co/anime/2362, https://kitsu.io/anime/2140, https://myanimelist.net/anime/2362].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1833] into [https://anilist.co/anime/3317, https://kitsu.io/anime/2931, https://myanimelist.net/anime/3317].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1838] into [https://anilist.co/anime/2978, https://kitsu.io/anime/2693, https://myanimelist.net/anime/2978].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/184] into [https://anilist.co/anime/182].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/184] into [https://kitsu.io/anime/159, https://myanimelist.net/anime/182].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1864] into [https://anilist.co/anime/2224, https://kitsu.io/anime/2015, https://myanimelist.net/anime/2224].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1868] into [https://anilist.co/anime/239, https://kitsu.io/anime/214, https://myanimelist.net/anime/239].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1881] into [https://anilist.co/anime/13307, https://kitsu.io/anime/6936, https://myanimelist.net/anime/13307].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1893] into [https://kitsu.io/anime/2908, https://myanimelist.net/anime/3285].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1894] into [https://kitsu.io/anime/3290, https://myanimelist.net/anime/3838].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1898] into [https://anilist.co/anime/12391].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/190] into [https://anilist.co/anime/1022, https://kitsu.io/anime/912, https://myanimelist.net/anime/1022].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1900] into [https://anilist.co/anime/4113, https://kitsu.io/anime/3473, https://myanimelist.net/anime/4113].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/1905] into [https://anilist.co/anime/3630, https://kitsu.io/anime/3153, https://myanimelist.net/anime/3630].
@@ -2974,11 +2987,12 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2044] into [https://anilist.co/anime/12971, https://kitsu.io/anime/6860, https://myanimelist.net/anime/12971].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2047] into [https://myanimelist.net/anime/4387].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2048] into [https://anilist.co/anime/3873, https://kitsu.io/anime/3313, https://myanimelist.net/anime/3873].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2069] into [https://anilist.co/anime/924, https://kitsu.io/anime/822].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2069] into [https://kitsu.io/anime/822].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2076] into [https://anilist.co/anime/6583, https://kitsu.io/anime/4623, https://myanimelist.net/anime/6583].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2078] into [https://anilist.co/anime/2223, https://kitsu.io/anime/2014, https://myanimelist.net/anime/2223].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2082] into [https://kitsu.io/anime/3006, https://myanimelist.net/anime/3433].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2088] into [https://anilist.co/anime/727, https://kitsu.io/anime/655, https://myanimelist.net/anime/727].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2091] into [https://anilist.co/anime/2819, https://kitsu.io/anime/2573].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2096] into [https://anilist.co/anime/2400, https://kitsu.io/anime/2177, https://myanimelist.net/anime/2400].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2099] into [https://kitsu.io/anime/2695, https://myanimelist.net/anime/2980].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/21] into [https://anilist.co/anime/122, https://kitsu.io/anime/101, https://myanimelist.net/anime/122].
@@ -2996,7 +3010,6 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2183] into [https://anilist.co/anime/1250, https://kitsu.io/anime/1125, https://myanimelist.net/anime/1250].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2186] into [https://anilist.co/anime/94, https://kitsu.io/anime/73, https://myanimelist.net/anime/94].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2195] into [https://anilist.co/anime/9520, https://kitsu.io/anime/5770, https://myanimelist.net/anime/9520].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/22] into [https://anilist.co/anime/30].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/22] into [https://kitsu.io/anime/21, https://myanimelist.net/anime/30].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/223] into [https://anilist.co/anime/1226, https://kitsu.io/anime/1103, https://myanimelist.net/anime/1226].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2250] into [https://anilist.co/anime/4411, https://kitsu.io/anime/3598, https://myanimelist.net/anime/4411].
@@ -3004,6 +3017,7 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2281] into [https://anilist.co/anime/8524, https://kitsu.io/anime/5373, https://myanimelist.net/anime/8524].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/229] into [https://kitsu.io/anime/69, https://myanimelist.net/anime/90].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2290] into [https://anilist.co/anime/2548, https://kitsu.io/anime/2313, https://myanimelist.net/anime/2548].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2292] into [https://anilist.co/anime/2913].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/23] into [https://anilist.co/anime/1, https://myanimelist.net/anime/1].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/230] into [https://anilist.co/anime/527, https://kitsu.io/anime/486, https://myanimelist.net/anime/527].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2302] into [https://anilist.co/anime/2544, https://kitsu.io/anime/2309, https://myanimelist.net/anime/2544].
@@ -3012,7 +3026,6 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/234] into [https://kitsu.io/anime/509, https://myanimelist.net/anime/552].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2344] into [https://anilist.co/anime/9978, https://kitsu.io/anime/5976, https://myanimelist.net/anime/9978].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2346] into [https://anilist.co/anime/4690, https://kitsu.io/anime/7868, https://myanimelist.net/anime/4690].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2348] into [https://anilist.co/anime/10965].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2349] into [https://kitsu.io/anime/3669, https://myanimelist.net/anime/4536].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/235] into [https://anilist.co/anime/530, https://kitsu.io/anime/489, https://myanimelist.net/anime/530].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2357] into [https://anilist.co/anime/2254, https://kitsu.io/anime/2042, https://myanimelist.net/anime/2254].
@@ -3052,6 +3065,7 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/258] into [https://myanimelist.net/anime/615].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/259] into [https://anilist.co/anime/652, https://myanimelist.net/anime/652].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/260] into [https://anilist.co/anime/653, https://kitsu.io/anime/601, https://myanimelist.net/anime/653].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2621] into [https://anilist.co/anime/412].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2634] into [https://anilist.co/anime/5075, https://kitsu.io/anime/3916, https://myanimelist.net/anime/5075].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/264] into [https://anilist.co/anime/3437, https://kitsu.io/anime/3010, https://myanimelist.net/anime/3437].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2650] into [https://anilist.co/anime/614, https://kitsu.io/anime/569, https://myanimelist.net/anime/614].
@@ -3070,7 +3084,7 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2740] into [https://anilist.co/anime/2892, https://kitsu.io/anime/2626, https://myanimelist.net/anime/2892].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2743] into [https://anilist.co/anime/325, https://kitsu.io/anime/292, https://myanimelist.net/anime/325].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2745] into [https://anilist.co/anime/342, https://kitsu.io/anime/309, https://myanimelist.net/anime/342].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2759] into [https://anilist.co/anime/1667].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2759] into [https://anilist.co/anime/1667, https://kitsu.io/anime/1497].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2781] into [https://anilist.co/anime/349, https://kitsu.io/anime/316, https://myanimelist.net/anime/349].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2810] into [https://anilist.co/anime/27, https://kitsu.io/anime/18, https://myanimelist.net/anime/27].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2815] into [https://anilist.co/anime/149, https://kitsu.io/anime/127, https://myanimelist.net/anime/149].
@@ -3125,7 +3139,6 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/3321] into [https://anilist.co/anime/68, https://kitsu.io/anime/49, https://myanimelist.net/anime/68].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/3325] into [https://anilist.co/anime/3691, https://kitsu.io/anime/3198, https://myanimelist.net/anime/3691].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/3348] into [https://anilist.co/anime/356, https://kitsu.io/anime/323, https://myanimelist.net/anime/356].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/3360] into [https://anilist.co/anime/470].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/3366] into [https://anilist.co/anime/3858, https://kitsu.io/anime/3304, https://myanimelist.net/anime/3858].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/3390] into [https://kitsu.io/anime/1223, https://myanimelist.net/anime/1369].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/3395] into [https://anilist.co/anime/889, https://kitsu.io/anime/789, https://myanimelist.net/anime/889].
@@ -3136,7 +3149,7 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/3428] into [https://anilist.co/anime/471, https://kitsu.io/anime/433, https://myanimelist.net/anime/471].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/3444] into [https://anilist.co/anime/860, https://kitsu.io/anime/762, https://myanimelist.net/anime/860].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/3449] into [https://anilist.co/anime/915, https://kitsu.io/anime/815, https://myanimelist.net/anime/915].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/3460] into [https://anilist.co/anime/3546, https://kitsu.io/anime/3091].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/3460] into [https://anilist.co/anime/3546].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/3468] into [https://anilist.co/anime/918, https://kitsu.io/anime/818, https://myanimelist.net/anime/918].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/3481] into [https://kitsu.io/anime/3241, https://myanimelist.net/anime/3765].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/3484] into [https://kitsu.io/anime/3659, https://myanimelist.net/anime/4514].
@@ -3220,7 +3233,6 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/4377] into [https://anilist.co/anime/2214, https://kitsu.io/anime/2005, https://myanimelist.net/anime/2214].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/4381] into [https://anilist.co/anime/1738, https://kitsu.io/anime/1558, https://myanimelist.net/anime/1738].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/4384] into [https://anilist.co/anime/1555, https://kitsu.io/anime/1395, https://myanimelist.net/anime/1555].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/4392] into [https://anilist.co/anime/1454].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/4404] into [https://anilist.co/anime/1530, https://kitsu.io/anime/122, https://myanimelist.net/anime/1530].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/441] into [https://anilist.co/anime/1346, https://kitsu.io/anime/1201, https://myanimelist.net/anime/1346].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/4472] into [https://anilist.co/anime/1243, https://kitsu.io/anime/1118, https://myanimelist.net/anime/1243].
@@ -3249,7 +3261,6 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/4716] into [https://anilist.co/anime/9426, https://kitsu.io/anime/5730, https://myanimelist.net/anime/9426].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/4734] into [https://anilist.co/anime/1562, https://kitsu.io/anime/1402, https://myanimelist.net/anime/1562].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/4743] into [https://anilist.co/anime/1852, https://kitsu.io/anime/1669, https://myanimelist.net/anime/1852].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/475] into [https://anilist.co/anime/1728].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/475] into [https://kitsu.io/anime/1549, https://myanimelist.net/anime/1728].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/4756] into [https://kitsu.io/anime/7628, https://myanimelist.net/anime/17291].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/4759] into [https://anilist.co/anime/1836, https://kitsu.io/anime/1653, https://myanimelist.net/anime/1836].
@@ -3299,7 +3310,7 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/5053] into [https://anilist.co/anime/2034, https://kitsu.io/anime/1833, https://myanimelist.net/anime/2034].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/5068] into [https://anilist.co/anime/1807, https://kitsu.io/anime/1626, https://myanimelist.net/anime/1807].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/5072] into [https://anilist.co/anime/2112, https://kitsu.io/anime/1911, https://myanimelist.net/anime/2112].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/5076] into [https://anilist.co/anime/19989, https://kitsu.io/anime/9661].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/5076] into [https://kitsu.io/anime/9661].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/5079] into [https://anilist.co/anime/10815, https://kitsu.io/anime/6365, https://myanimelist.net/anime/10815].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/508] into [https://anilist.co/anime/1614, https://kitsu.io/anime/7924, https://myanimelist.net/anime/1614].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/5084] into [https://anilist.co/anime/2031, https://kitsu.io/anime/1830, https://myanimelist.net/anime/2031].
@@ -3333,6 +3344,7 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/5424] into [https://anilist.co/anime/3297, https://kitsu.io/anime/2916, https://myanimelist.net/anime/3297].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/5442] into [https://anilist.co/anime/16303, https://kitsu.io/anime/7403, https://myanimelist.net/anime/16303].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/5444] into [https://kitsu.io/anime/2361, https://myanimelist.net/anime/2597].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/5446] into [https://anilist.co/anime/3166].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/5492] into [https://kitsu.io/anime/4994, https://myanimelist.net/anime/7479].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/550] into [https://anilist.co/anime/1492, https://kitsu.io/anime/1338, https://myanimelist.net/anime/1492].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/5508] into [https://anilist.co/anime/3299, https://kitsu.io/anime/2918, https://myanimelist.net/anime/3299].
@@ -3390,6 +3402,7 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/5976] into [https://anilist.co/anime/4548, https://kitsu.io/anime/3675, https://myanimelist.net/anime/4548].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6005] into [https://anilist.co/anime/4066, https://kitsu.io/anime/3442, https://myanimelist.net/anime/4066].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6014] into [https://anilist.co/anime/4789, https://kitsu.io/anime/3784, https://myanimelist.net/anime/4789].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6017] into [https://anilist.co/anime/4752].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6018] into [https://anilist.co/anime/4726, https://kitsu.io/anime/3764, https://myanimelist.net/anime/4726].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6032] into [https://anilist.co/anime/4981, https://kitsu.io/anime/3872, https://myanimelist.net/anime/4981].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6036] into [https://anilist.co/anime/4581, https://myanimelist.net/anime/4581].
@@ -3423,7 +3436,6 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6323] into [https://anilist.co/anime/5150, https://kitsu.io/anime/3949, https://myanimelist.net/anime/5150].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6329] into [https://anilist.co/anime/5835, https://kitsu.io/anime/4297, https://myanimelist.net/anime/5835].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6331] into [https://anilist.co/anime/5041, https://kitsu.io/anime/3900, https://myanimelist.net/anime/5041].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6332] into [https://anilist.co/anime/5454].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6332] into [https://kitsu.io/anime/4104, https://myanimelist.net/anime/5454].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6335] into [https://kitsu.io/anime/4357, https://myanimelist.net/anime/5945].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/634] into [https://anilist.co/anime/230, https://kitsu.io/anime/205, https://myanimelist.net/anime/230].
@@ -3450,6 +3462,7 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6564] into [https://anilist.co/anime/6547, https://kitsu.io/anime/4604, https://myanimelist.net/anime/6547].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6571] into [https://anilist.co/anime/6324, https://kitsu.io/anime/4519, https://myanimelist.net/anime/6324].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6574] into [https://anilist.co/anime/5670, https://kitsu.io/anime/4234, https://myanimelist.net/anime/5670].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6604] into [https://anilist.co/anime/15141].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/662] into [https://anilist.co/anime/1816, https://kitsu.io/anime/1633, https://myanimelist.net/anime/1816].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6644] into [https://anilist.co/anime/6573, https://kitsu.io/anime/4617, https://myanimelist.net/anime/6573].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6646] into [https://anilist.co/anime/6574, https://kitsu.io/anime/4618, https://myanimelist.net/anime/6574].
@@ -3465,10 +3478,11 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6773] into [https://anilist.co/anime/6747, https://kitsu.io/anime/4697, https://myanimelist.net/anime/6747].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6780] into [https://anilist.co/anime/6956, https://kitsu.io/anime/4805, https://myanimelist.net/anime/6956].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6793] into [https://anilist.co/anime/5277, https://kitsu.io/anime/4029, https://myanimelist.net/anime/5277].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6799] into [https://anilist.co/anime/4794].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6801] into [https://anilist.co/anime/5529].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/681] into [https://anilist.co/anime/618, https://kitsu.io/anime/573, https://myanimelist.net/anime/618].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6816] into [https://anilist.co/anime/6500, https://kitsu.io/anime/4583, https://myanimelist.net/anime/6500].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/688] into [https://anilist.co/anime/914, https://kitsu.io/anime/814, https://myanimelist.net/anime/914].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6888] into [https://anilist.co/anime/5662].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/7008] into [https://anilist.co/anime/7054, https://kitsu.io/anime/4852, https://myanimelist.net/anime/7054].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/709] into [https://myanimelist.net/anime/1708].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/710] into [https://anilist.co/anime/178, https://kitsu.io/anime/155, https://myanimelist.net/anime/178].
@@ -3512,7 +3526,6 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/75] into [https://anilist.co/anime/200, https://kitsu.io/anime/177, https://myanimelist.net/anime/200].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/7506] into [https://anilist.co/anime/8676, https://myanimelist.net/anime/8676].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/7512] into [https://anilist.co/anime/8476, https://myanimelist.net/anime/8476].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/7525] into [https://anilist.co/anime/8769].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/7532] into [https://anilist.co/anime/8675, https://kitsu.io/anime/5434, https://myanimelist.net/anime/8675].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/7535] into [https://anilist.co/anime/7334, https://kitsu.io/anime/4944, https://myanimelist.net/anime/7334].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/7542] into [https://anilist.co/anime/6381, https://kitsu.io/anime/4540, https://myanimelist.net/anime/6381].
@@ -3553,7 +3566,6 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/8112] into [https://anilist.co/anime/9922, https://kitsu.io/anime/5941, https://myanimelist.net/anime/9922].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/8120] into [https://kitsu.io/anime/5960, https://myanimelist.net/anime/9951].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/8140] into [https://anilist.co/anime/10015, https://myanimelist.net/anime/10015].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/8143] into [https://anilist.co/anime/10502].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/8148] into [https://anilist.co/anime/9919, https://kitsu.io/anime/5940, https://myanimelist.net/anime/9919].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/8154] into [https://anilist.co/anime/10073, https://kitsu.io/anime/6020, https://myanimelist.net/anime/10073].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/8161] into [https://anilist.co/anime/9890, https://kitsu.io/anime/5926, https://myanimelist.net/anime/9890].
@@ -3574,10 +3586,10 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/8286] into [https://anilist.co/anime/10379, https://kitsu.io/anime/6157, https://myanimelist.net/anime/10379].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/8292] into [https://anilist.co/anime/10396, https://kitsu.io/anime/6164, https://myanimelist.net/anime/10396].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/8294] into [https://anilist.co/anime/10378, https://myanimelist.net/anime/10378].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/8294] into [https://kitsu.io/anime/6156].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/8298] into [https://anilist.co/anime/10370, https://kitsu.io/anime/6152, https://myanimelist.net/anime/10370].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/8299] into [https://anilist.co/anime/10447, https://kitsu.io/anime/6185, https://myanimelist.net/anime/10447].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/8319] into [https://anilist.co/anime/10397, https://kitsu.io/anime/6165, https://myanimelist.net/anime/10397].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/8338] into [https://anilist.co/anime/10465].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/836] into [https://anilist.co/anime/610, https://kitsu.io/anime/565, https://myanimelist.net/anime/610].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/8367] into [https://anilist.co/anime/10460, https://kitsu.io/anime/6191, https://myanimelist.net/anime/10460].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/837] into [https://kitsu.io/anime/43, https://myanimelist.net/anime/62].
@@ -3651,7 +3663,6 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/8934] into [https://anilist.co/anime/12815, https://kitsu.io/anime/6821, https://myanimelist.net/anime/12815].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/8938] into [https://anilist.co/anime/12863].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/8944] into [https://anilist.co/anime/12879, https://kitsu.io/anime/6834, https://myanimelist.net/anime/12879].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/8960] into [https://anilist.co/anime/12963].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/8971] into [https://anilist.co/anime/12967, https://kitsu.io/anime/6859, https://myanimelist.net/anime/12967].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/899] into [https://anilist.co/anime/929, https://kitsu.io/anime/827, https://myanimelist.net/anime/929].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9015] into [https://anilist.co/anime/13161, https://kitsu.io/anime/6896, https://myanimelist.net/anime/13161].
@@ -3667,12 +3678,12 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9132] into [https://anilist.co/anime/13655, https://kitsu.io/anime/7005, https://myanimelist.net/anime/13655].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9134] into [https://anilist.co/anime/13659].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/915] into [https://anilist.co/anime/96, https://kitsu.io/anime/75, https://myanimelist.net/anime/96].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9153] into [https://anilist.co/anime/13759].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/916] into [https://anilist.co/anime/95, https://kitsu.io/anime/74, https://myanimelist.net/anime/95].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9166] into [https://anilist.co/anime/15119, https://kitsu.io/anime/7216, https://myanimelist.net/anime/15119].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9183] into [https://anilist.co/anime/17074, https://kitsu.io/anime/7573, https://myanimelist.net/anime/17074].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9186] into [https://anilist.co/anime/16035, https://myanimelist.net/anime/16035].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9187] into [https://kitsu.io/anime/7057, https://myanimelist.net/anime/13939].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/920] into [https://kitsu.io/anime/2897].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9206] into [https://kitsu.io/anime/7069, https://myanimelist.net/anime/14027].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9214] into [https://anilist.co/anime/14075, https://kitsu.io/anime/7078, https://myanimelist.net/anime/14075].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/922] into [https://anilist.co/anime/626, https://kitsu.io/anime/581, https://myanimelist.net/anime/626].
@@ -3694,7 +3705,6 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9342] into [https://anilist.co/anime/14967, https://kitsu.io/anime/7190, https://myanimelist.net/anime/14967].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9357] into [https://anilist.co/anime/16201, https://kitsu.io/anime/7387, https://myanimelist.net/anime/16201].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/936] into [https://anilist.co/anime/2059, https://kitsu.io/anime/1858, https://myanimelist.net/anime/2059].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9387] into [https://anilist.co/anime/16067].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9395] into [https://kitsu.io/anime/7379, https://myanimelist.net/anime/16157].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9398] into [https://anilist.co/anime/15377, https://kitsu.io/anime/7244, https://myanimelist.net/anime/15377].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9406] into [https://anilist.co/anime/15565, https://kitsu.io/anime/7275, https://myanimelist.net/anime/15565].
@@ -3723,7 +3733,6 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9584] into [https://anilist.co/anime/16982, https://kitsu.io/anime/7561, https://myanimelist.net/anime/16982].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9590] into [https://anilist.co/anime/16890, https://kitsu.io/anime/7544, https://myanimelist.net/anime/16890].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9591] into [https://anilist.co/anime/18179, https://kitsu.io/anime/7700, https://myanimelist.net/anime/18179].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9606] into [https://anilist.co/anime/16918].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9620] into [https://anilist.co/anime/17821, https://kitsu.io/anime/7671, https://myanimelist.net/anime/17821].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9625] into [https://anilist.co/anime/17703, https://kitsu.io/anime/7647, https://myanimelist.net/anime/17703].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/963] into [https://anilist.co/anime/1108, https://kitsu.io/anime/993, https://myanimelist.net/anime/1108].
@@ -3736,7 +3745,6 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9707] into [https://anilist.co/anime/16696, https://kitsu.io/anime/7493, https://myanimelist.net/anime/16696].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9722] into [https://anilist.co/anime/17549, https://kitsu.io/anime/7711, https://myanimelist.net/anime/17549].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9734] into [https://anilist.co/anime/17641, https://kitsu.io/anime/7839, https://myanimelist.net/anime/17641].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9765] into [https://anilist.co/anime/17827].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9771] into [https://anilist.co/anime/17895, https://kitsu.io/anime/7708, https://myanimelist.net/anime/17895].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9772] into [https://anilist.co/anime/18277, https://kitsu.io/anime/7715, https://myanimelist.net/anime/18277].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9782] into [https://anilist.co/anime/17909, https://kitsu.io/anime/7675, https://myanimelist.net/anime/17909].
@@ -3758,6 +3766,7 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9899] into [https://anilist.co/anime/18845, https://kitsu.io/anime/9064, https://myanimelist.net/anime/18845].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9903] into [https://anilist.co/anime/18897, https://kitsu.io/anime/7821, https://myanimelist.net/anime/18897].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9905] into [https://anilist.co/anime/18893, https://kitsu.io/anime/7769, https://myanimelist.net/anime/18893].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9916] into [https://anilist.co/anime/19429].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9922] into [https://anilist.co/anime/20047, https://kitsu.io/anime/7978, https://myanimelist.net/anime/20047].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9923] into [https://anilist.co/anime/19067, https://kitsu.io/anime/7795, https://myanimelist.net/anime/19067].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9925] into [https://anilist.co/anime/20447, https://kitsu.io/anime/7881, https://myanimelist.net/anime/20507].
@@ -3770,22 +3779,23 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9980] into [https://kitsu.io/anime/8203, https://myanimelist.net/anime/22043].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9995] into [https://anilist.co/anime/19769, https://kitsu.io/anime/7879, https://myanimelist.net/anime/19769].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9996] into [https://anilist.co/anime/20592, https://kitsu.io/anime/7877, https://myanimelist.net/anime/21033].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/9998] into [https://anilist.co/anime/19815].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/100010] into [https://kitsu.io/anime/14137, https://myanimelist.net/anime/36266].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/10016] into [https://kitsu.io/anime/5996, https://myanimelist.net/anime/10016].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/100182] into [https://myanimelist.net/anime/36474].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/100298] into [https://kitsu.io/anime/13949, https://myanimelist.net/anime/36563].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/100673] into [https://kitsu.io/anime/14042].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/100673] into [https://myanimelist.net/anime/36884].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/101014] into [https://kitsu.io/anime/41405, https://myanimelist.net/anime/37221].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/101228] into [https://myanimelist.net/anime/37395].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/101310] into [https://kitsu.io/anime/41065, https://myanimelist.net/anime/37475].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/101373] into [https://kitsu.io/anime/41112, https://myanimelist.net/anime/37584].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/101426] into [https://kitsu.io/anime/41481].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/101470] into [https://kitsu.io/anime/41263, https://myanimelist.net/anime/37657].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/102098] into [https://kitsu.io/anime/11837].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/10224] into [https://myanimelist.net/anime/10224].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/102927] into [https://myanimelist.net/anime/37117].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/104750] into [https://kitsu.io/anime/41999].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/10500] into [https://kitsu.io/anime/6208, https://myanimelist.net/anime/10500].
+Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/108147] into [https://kitsu.io/anime/42159, https://myanimelist.net/anime/39417].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/10863] into [https://kitsu.io/anime/6389, https://myanimelist.net/anime/10863].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/121] into [https://kitsu.io/anime/100, https://myanimelist.net/anime/121].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/1281] into [https://kitsu.io/anime/1156, https://myanimelist.net/anime/1281].
@@ -3811,7 +3821,6 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilis
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/21650] into [https://myanimelist.net/anime/32698].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/21660] into [https://kitsu.io/anime/11851, https://myanimelist.net/anime/32801].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/21736] into [https://kitsu.io/anime/11582, https://myanimelist.net/anime/32190].
-Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/21748] into [https://kitsu.io/anime/11962].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/21860] into [https://kitsu.io/anime/12769, https://myanimelist.net/anime/33502].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/2200] into [https://kitsu.io/anime/1991, https://myanimelist.net/anime/2200].
 Duration [1500]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/2251] into [https://kitsu.io/anime/2039, https://myanimelist.net/anime/2251].
@@ -3856,13 +3865,15 @@ Duration [1500]seconds does not match [1440]seconds. Not merging [https://kitsu.
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/1] into [https://anilist.co/anime/290, https://kitsu.io/anime/265, https://myanimelist.net/anime/290].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/10199] into [https://kitsu.io/anime/8108, https://myanimelist.net/anime/20961].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/10663] into [https://myanimelist.net/anime/24439].
-Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/12261] into [https://anilist.co/anime/21872, https://kitsu.io/anime/12307].
+Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/12261] into [https://kitsu.io/anime/12307].
+Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/1258] into [https://anilist.co/anime/1823].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/1282] into [https://anilist.co/anime/255, https://kitsu.io/anime/230, https://myanimelist.net/anime/255].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/1440] into [https://kitsu.io/anime/2507, https://myanimelist.net/anime/2747].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/1542] into [https://anilist.co/anime/166, https://kitsu.io/anime/144, https://myanimelist.net/anime/166].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/1669] into [https://anilist.co/anime/108750, https://kitsu.io/anime/12664, https://myanimelist.net/anime/34249].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/1885] into [https://anilist.co/anime/9438, https://kitsu.io/anime/5734, https://myanimelist.net/anime/9438].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/1892] into [https://anilist.co/anime/18635, https://kitsu.io/anime/9186, https://myanimelist.net/anime/18635].
+Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/2000] into [https://anilist.co/anime/1093].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/215] into [https://myanimelist.net/anime/2497].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/2309] into [https://anilist.co/anime/4615, https://kitsu.io/anime/3712, https://myanimelist.net/anime/4615].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/2427] into [https://anilist.co/anime/4723, https://kitsu.io/anime/3762, https://myanimelist.net/anime/4723].
@@ -3878,6 +3889,7 @@ Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/5055] into [https://anilist.co/anime/4616, https://kitsu.io/anime/3713, https://myanimelist.net/anime/4616].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/5351] into [https://anilist.co/anime/3417, https://kitsu.io/anime/2993, https://myanimelist.net/anime/3417].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/5429] into [https://anilist.co/anime/3088, https://kitsu.io/anime/2784, https://myanimelist.net/anime/3088].
+Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/5722] into [https://kitsu.io/anime/3389].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/584] into [https://anilist.co/anime/820, https://kitsu.io/anime/727, https://myanimelist.net/anime/820].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/6313] into [https://anilist.co/anime/5216, https://kitsu.io/anime/3993, https://myanimelist.net/anime/5216].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/635] into [https://kitsu.io/anime/391].
@@ -3887,6 +3899,7 @@ Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/77] into [https://anilist.co/anime/1088, https://kitsu.io/anime/973, https://myanimelist.net/anime/1088].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/8120] into [https://anilist.co/anime/9951].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/8586] into [https://anilist.co/anime/10794, https://kitsu.io/anime/6350, https://myanimelist.net/anime/10794].
+Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/8740] into [https://anilist.co/anime/12091, https://kitsu.io/anime/6662].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/8991] into [https://anilist.co/anime/14173, https://kitsu.io/anime/7089, https://myanimelist.net/anime/14173].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/8995] into [https://anilist.co/anime/13093, https://kitsu.io/anime/6882, https://myanimelist.net/anime/13093].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anilist.co/anime/10119] into [https://kitsu.io/anime/6046, https://myanimelist.net/anime/10119].
@@ -3895,7 +3908,6 @@ Duration [1500]seconds does not match [1560]seconds. Not merging [https://anilis
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anilist.co/anime/5763] into [https://myanimelist.net/anime/5763].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://anilist.co/anime/98209] into [https://kitsu.io/anime/13101, https://myanimelist.net/anime/34644].
 Duration [1500]seconds does not match [1560]seconds. Not merging [https://kitsu.io/anime/4268] into [https://myanimelist.net/anime/5763].
-Duration [1500]seconds does not match [1620]seconds. Not merging [https://anidb.net/anime/10031] into [https://anilist.co/anime/20159].
 Duration [1500]seconds does not match [1620]seconds. Not merging [https://anidb.net/anime/1006] into [https://kitsu.io/anime/1154, https://myanimelist.net/anime/1279].
 Duration [1500]seconds does not match [1620]seconds. Not merging [https://anidb.net/anime/149] into [https://kitsu.io/anime/771, https://myanimelist.net/anime/870].
 Duration [1500]seconds does not match [1620]seconds. Not merging [https://anidb.net/anime/1664] into [https://anilist.co/anime/1586, https://kitsu.io/anime/1426, https://myanimelist.net/anime/1586].
@@ -3923,21 +3935,18 @@ Duration [1500]seconds does not match [1680]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1680]seconds. Not merging [https://anidb.net/anime/9243] into [https://kitsu.io/anime/9169, https://myanimelist.net/anime/18643].
 Duration [1500]seconds does not match [1680]seconds. Not merging [https://anilist.co/anime/1344] into [https://kitsu.io/anime/1199, https://myanimelist.net/anime/1344].
 Duration [1500]seconds does not match [1680]seconds. Not merging [https://kitsu.io/anime/2113] into [https://myanimelist.net/anime/2333].
-Duration [1500]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/524] into [https://anilist.co/anime/2561].
 Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/11871] into [https://anilist.co/anime/18275, https://kitsu.io/anime/9901, https://myanimelist.net/anime/18275].
 Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/1233] into [https://anilist.co/anime/1855, https://kitsu.io/anime/1672, https://myanimelist.net/anime/1855].
 Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/14420] into [https://anilist.co/anime/105391, https://kitsu.io/anime/42005, https://myanimelist.net/anime/38425].
 Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/1489] into [https://anilist.co/anime/1701, https://kitsu.io/anime/1527, https://myanimelist.net/anime/1701].
-Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/149] into [https://anilist.co/anime/870].
 Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/1499] into [https://anilist.co/anime/2556, https://kitsu.io/anime/2321, https://myanimelist.net/anime/2556].
-Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/1710] into [https://anilist.co/anime/2803].
-Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/1890] into [https://anilist.co/anime/3356].
-Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/1926] into [https://anilist.co/anime/6629].
 Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/1933] into [https://anilist.co/anime/3754, https://kitsu.io/anime/3231, https://myanimelist.net/anime/3754].
 Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/2047] into [https://anilist.co/anime/4387].
-Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/2159] into [https://anilist.co/anime/1500].
+Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/215] into [https://anilist.co/anime/2497, https://kitsu.io/anime/2266].
 Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/2401] into [https://anilist.co/anime/1217, https://kitsu.io/anime/1094, https://myanimelist.net/anime/1217].
 Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/2575] into [https://anilist.co/anime/921].
+Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/2709] into [https://kitsu.io/anime/2332].
+Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/2995] into [https://anilist.co/anime/1008].
 Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/3175] into [https://anilist.co/anime/2537, https://kitsu.io/anime/2302, https://myanimelist.net/anime/2537].
 Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/3371] into [https://kitsu.io/anime/9580, https://myanimelist.net/anime/21547].
 Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/3379] into [https://anilist.co/anime/1266, https://kitsu.io/anime/1141, https://myanimelist.net/anime/1266].
@@ -3964,18 +3973,14 @@ Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/7334] into [https://kitsu.io/anime/9515].
 Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/886] into [https://anilist.co/anime/4318, https://kitsu.io/anime/3555, https://myanimelist.net/anime/4318].
 Duration [1500]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/9113] into [https://anilist.co/anime/18447, https://kitsu.io/anime/9097, https://myanimelist.net/anime/18447].
-Duration [1500]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/1832] into [https://anidb.net/anime/1005].
 Duration [1500]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/2285] into [https://anidb.net/anime/2433].
-Duration [1500]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/358] into [https://anidb.net/anime/2169].
-Duration [1500]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/8331] into [https://anidb.net/anime/7537].
-Duration [1500]seconds does not match [1800]seconds. Not merging [https://kitsu.io/anime/325] into [https://anidb.net/anime/2169].
+Duration [1500]seconds does not match [1800]seconds. Not merging [https://kitsu.io/anime/2070] into [https://anidb.net/anime/2433].
 Duration [1500]seconds does not match [1800]seconds. Not merging [https://kitsu.io/anime/3583] into [https://anilist.co/anime/4387].
-Duration [1500]seconds does not match [1800]seconds. Not merging [https://kitsu.io/anime/41084] into [https://anidb.net/anime/13945].
 Duration [1500]seconds does not match [1860]seconds. Not merging [https://kitsu.io/anime/4102] into [https://anilist.co/anime/5447, https://myanimelist.net/anime/5447].
 Duration [1500]seconds does not match [1920]seconds. Not merging [https://anidb.net/anime/1717] into [https://anilist.co/anime/1382, https://kitsu.io/anime/1236, https://myanimelist.net/anime/1382].
 Duration [1500]seconds does not match [1920]seconds. Not merging [https://anidb.net/anime/4298] into [https://myanimelist.net/anime/8464].
 Duration [1500]seconds does not match [1980]seconds. Not merging [https://anidb.net/anime/164] into [https://anilist.co/anime/381, https://kitsu.io/anime/348, https://myanimelist.net/anime/381].
-Duration [1500]seconds does not match [1980]seconds. Not merging [https://anidb.net/anime/2509] into [https://anilist.co/anime/540].
+Duration [1500]seconds does not match [1980]seconds. Not merging [https://anidb.net/anime/2509] into [https://anilist.co/anime/540, https://kitsu.io/anime/499].
 Duration [1500]seconds does not match [1980]seconds. Not merging [https://anidb.net/anime/2509] into [https://myanimelist.net/anime/540].
 Duration [1500]seconds does not match [2040]seconds. Not merging [https://anidb.net/anime/302] into [https://anilist.co/anime/1457, https://kitsu.io/anime/1307, https://myanimelist.net/anime/1457].
 Duration [1500]seconds does not match [2040]seconds. Not merging [https://anilist.co/anime/16345] into [https://kitsu.io/anime/7408, https://myanimelist.net/anime/16345].
@@ -3983,27 +3988,26 @@ Duration [1500]seconds does not match [2100]seconds. Not merging [https://anidb.
 Duration [1500]seconds does not match [2280]seconds. Not merging [https://anidb.net/anime/11086] into [https://kitsu.io/anime/10672, https://myanimelist.net/anime/30137].
 Duration [1500]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/9345] into [https://kitsu.io/anime/5692, https://myanimelist.net/anime/9345].
 Duration [1500]seconds does not match [2400]seconds. Not merging [https://anidb.net/anime/3662] into [https://anilist.co/anime/8239, https://kitsu.io/anime/5260, https://myanimelist.net/anime/8239].
+Duration [1500]seconds does not match [2700]seconds. Not merging [https://anilist.co/anime/97821] into [https://anidb.net/anime/12526].
 Duration [1500]seconds does not match [2940]seconds. Not merging [https://anidb.net/anime/12936] into [https://kitsu.io/anime/40654, https://myanimelist.net/anime/35025].
-Duration [1500]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/5136] into [https://anilist.co/anime/8723].
 Duration [1500]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/7943] into [https://myanimelist.net/anime/9371].
 Duration [1500]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/9371] into [https://myanimelist.net/anime/9371].
 Duration [1500]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/5707] into [https://myanimelist.net/anime/9371].
-Duration [1500]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/100182] into [https://anidb.net/anime/13493].
-Duration [1500]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/7303] into [https://anilist.co/anime/9839].
+Duration [1500]seconds does not match [3300]seconds. Not merging [https://anidb.net/anime/11607] into [https://anilist.co/anime/21432].
 Duration [1500]seconds does not match [420]seconds. Not merging [https://anidb.net/anime/3161] into [https://kitsu.io/anime/4689, https://myanimelist.net/anime/6731].
 Duration [1500]seconds does not match [4320]seconds. Not merging [https://anidb.net/anime/7720] into [https://kitsu.io/anime/9374, https://myanimelist.net/anime/21099].
 Duration [1500]seconds does not match [4500]seconds. Not merging [https://anidb.net/anime/13314] into [https://kitsu.io/anime/10189, https://myanimelist.net/anime/28235].
-Duration [1500]seconds does not match [4500]seconds. Not merging [https://anidb.net/anime/177] into [https://kitsu.io/anime/157].
+Duration [1500]seconds does not match [480]seconds. Not merging [https://anilist.co/anime/2366] into [https://anidb.net/anime/2554].
+Duration [1500]seconds does not match [540]seconds. Not merging [https://anidb.net/anime/8101] into [https://kitsu.io/anime/5953].
 Duration [1500]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/1787] into [https://kitsu.io/anime/1298].
 Duration [1500]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/6968] into [https://kitsu.io/anime/4863].
-Duration [1500]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/7512] into [https://kitsu.io/anime/5349].
 Duration [1500]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/7874] into [https://kitsu.io/anime/5657].
 Duration [1500]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/7903] into [https://kitsu.io/anime/5710].
 Duration [1500]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/8117] into [https://kitsu.io/anime/5947].
 Duration [1500]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/8205] into [https://kitsu.io/anime/6058].
 Duration [1500]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/8729] into [https://kitsu.io/anime/6616].
-Duration [1500]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/9271] into [https://kitsu.io/anime/7203].
 Duration [1500]seconds does not match [600]seconds. Not merging [https://anidb.net/anime/3160] into [https://kitsu.io/anime/6099, https://myanimelist.net/anime/10250].
+Duration [1500]seconds does not match [600]seconds. Not merging [https://anidb.net/anime/4701] into [https://anilist.co/anime/9455].
 Duration [1500]seconds does not match [600]seconds. Not merging [https://anidb.net/anime/9818] into [https://anilist.co/anime/21022].
 Duration [1500]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/10250] into [https://kitsu.io/anime/6099, https://myanimelist.net/anime/10250].
 Duration [1500]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/11545] into [https://kitsu.io/anime/6534, https://myanimelist.net/anime/11545].
@@ -4022,6 +4026,7 @@ Duration [1500]seconds does not match [840]seconds. Not merging [https://anidb.n
 Duration [1500]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/7862] into [https://kitsu.io/anime/10266, https://myanimelist.net/anime/29535].
 Duration [1500]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/17955] into [https://kitsu.io/anime/9000, https://myanimelist.net/anime/17955].
 Duration [1500]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/2805] into [https://kitsu.io/anime/2561, https://myanimelist.net/anime/2805].
+Duration [1500]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/8150] into [https://anidb.net/anime/7474].
 Duration [1500]seconds does not match [960]seconds. Not merging [https://anidb.net/anime/516] into [https://anilist.co/anime/721, https://kitsu.io/anime/650, https://myanimelist.net/anime/721].
 Duration [1560]seconds does not match [1320]seconds. Not merging [https://anilist.co/anime/9159] into [https://myanimelist.net/anime/9159].
 Duration [1560]seconds does not match [1320]seconds. Not merging [https://kitsu.io/anime/5616] into [https://myanimelist.net/anime/9159].
@@ -4040,37 +4045,31 @@ Duration [1560]seconds does not match [1440]seconds. Not merging [https://kitsu.
 Duration [1560]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/14217] into [https://kitsu.io/anime/11544, https://myanimelist.net/anime/32088].
 Duration [1560]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/101037] into [https://myanimelist.net/anime/37174].
 Duration [1560]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/103338] into [https://kitsu.io/anime/11235, https://myanimelist.net/anime/31321].
-Duration [1560]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1093] into [https://anidb.net/anime/2000].
-Duration [1560]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/12091] into [https://anidb.net/anime/8740].
 Duration [1560]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/15391] into [https://anidb.net/anime/8949, https://kitsu.io/anime/7247, https://myanimelist.net/anime/15391].
-Duration [1560]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1823] into [https://anidb.net/anime/1258].
 Duration [1560]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/18747] into [https://anidb.net/anime/9913, https://kitsu.io/anime/9328, https://myanimelist.net/anime/18747].
 Duration [1560]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21355] into [https://kitsu.io/anime/11209, https://myanimelist.net/anime/31240].
 Duration [1560]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21674] into [https://anidb.net/anime/11594, https://kitsu.io/anime/11379, https://myanimelist.net/anime/31598].
+Duration [1560]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21872] into [https://anidb.net/anime/12261].
 Duration [1560]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/400] into [https://anidb.net/anime/171, https://kitsu.io/anime/7726, https://myanimelist.net/anime/400].
 Duration [1560]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/97660] into [https://anidb.net/anime/12422, https://kitsu.io/anime/12599, https://myanimelist.net/anime/34102].
 Duration [1560]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/97986] into [https://anidb.net/anime/12681, https://myanimelist.net/anime/34599].
 Duration [1560]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13273] into [https://anidb.net/anime/12681, https://myanimelist.net/anime/34599].
-Duration [1560]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/3389] into [https://anidb.net/anime/5722].
 Duration [1560]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/3772] into [https://anidb.net/anime/6025, https://anilist.co/anime/4744, https://myanimelist.net/anime/4744].
 Duration [1560]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/40580] into [https://anidb.net/anime/13564].
 Duration [1560]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/41349] into [https://myanimelist.net/anime/37174].
 Duration [1560]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/5435] into [https://anidb.net/anime/7506].
-Duration [1560]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/6662] into [https://anidb.net/anime/8740].
 Duration [1560]seconds does not match [1680]seconds. Not merging [https://anilist.co/anime/10087] into [https://kitsu.io/anime/6028, https://myanimelist.net/anime/10087].
 Duration [1560]seconds does not match [1680]seconds. Not merging [https://anilist.co/anime/13843] into [https://myanimelist.net/anime/13843].
 Duration [1560]seconds does not match [1680]seconds. Not merging [https://kitsu.io/anime/7046] into [https://myanimelist.net/anime/13843].
 Duration [1560]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/101037] into [https://anidb.net/anime/13751].
-Duration [1560]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/13843] into [https://anidb.net/anime/9105].
+Duration [1560]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/103338] into [https://anidb.net/anime/9065].
 Duration [1560]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/1804] into [https://anidb.net/anime/1055, https://myanimelist.net/anime/1804].
-Duration [1560]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/19099] into [https://anidb.net/anime/9926].
 Duration [1560]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/2132] into [https://anidb.net/anime/4938].
-Duration [1560]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/2428] into [https://anidb.net/anime/1379].
 Duration [1560]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/3665] into [https://anidb.net/anime/1311].
 Duration [1560]seconds does not match [1800]seconds. Not merging [https://kitsu.io/anime/1623] into [https://anidb.net/anime/1055, https://myanimelist.net/anime/1804].
 Duration [1560]seconds does not match [1800]seconds. Not merging [https://kitsu.io/anime/333] into [https://anidb.net/anime/280, https://anilist.co/anime/366, https://myanimelist.net/anime/366].
-Duration [1560]seconds does not match [1800]seconds. Not merging [https://kitsu.io/anime/41349] into [https://anidb.net/anime/13751].
-Duration [1560]seconds does not match [2100]seconds. Not merging [https://anilist.co/anime/101972] into [https://anidb.net/anime/14162].
+Duration [1560]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/42018] into [https://anidb.net/anime/14258, https://anilist.co/anime/104009].
+Duration [1560]seconds does not match [2400]seconds. Not merging [https://anidb.net/anime/4702] into [https://anilist.co/anime/2702].
 Duration [1560]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/21355] into [https://anidb.net/anime/11370].
 Duration [1560]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/21460] into [https://anidb.net/anime/11746].
 Duration [1560]seconds does not match [5220]seconds. Not merging [https://kitsu.io/anime/1127] into [https://anilist.co/anime/1252, https://myanimelist.net/anime/1252].
@@ -4078,6 +4077,7 @@ Duration [1560]seconds does not match [720]seconds. Not merging [https://anilist
 Duration [1560]seconds does not match [720]seconds. Not merging [https://kitsu.io/anime/12307] into [https://myanimelist.net/anime/33572].
 Duration [1620]seconds does not match [1260]seconds. Not merging [https://anilist.co/anime/20159] into [https://kitsu.io/anime/7922, https://myanimelist.net/anime/20159].
 Duration [1620]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/7258] into [https://anilist.co/anime/15451, https://myanimelist.net/anime/15451].
+Duration [1620]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/20159] into [https://anidb.net/anime/10031].
 Duration [1620]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5538] into [https://anidb.net/anime/6156].
 Duration [1620]seconds does not match [1560]seconds. Not merging [https://anilist.co/anime/103847] into [https://myanimelist.net/anime/36537].
 Duration [1620]seconds does not match [1560]seconds. Not merging [https://anilist.co/anime/21140] into [https://kitsu.io/anime/10869, https://myanimelist.net/anime/30585].
@@ -4089,8 +4089,8 @@ Duration [1620]seconds does not match [1560]seconds. Not merging [https://kitsu.
 Duration [1620]seconds does not match [1680]seconds. Not merging [https://anidb.net/anime/13804] into [https://anilist.co/anime/109870, https://kitsu.io/anime/40582, https://myanimelist.net/anime/35541].
 Duration [1620]seconds does not match [1740]seconds. Not merging [https://anilist.co/anime/1084] into [https://kitsu.io/anime/969, https://myanimelist.net/anime/1084].
 Duration [1620]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/3087] into [https://anidb.net/anime/4982].
+Duration [1620]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/98868] into [https://anidb.net/anime/13206].
 Duration [1620]seconds does not match [1800]seconds. Not merging [https://kitsu.io/anime/13585] into [https://anidb.net/anime/13206].
-Duration [1620]seconds does not match [1800]seconds. Not merging [https://kitsu.io/anime/40965] into [https://anidb.net/anime/13511].
 Duration [1680]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/104291] into [https://kitsu.io/anime/42121, https://myanimelist.net/anime/38357].
 Duration [1680]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/5681] into [https://anilist.co/anime/9333, https://myanimelist.net/anime/9333].
 Duration [1680]seconds does not match [1560]seconds. Not merging [https://anilist.co/anime/723] into [https://kitsu.io/anime/652, https://myanimelist.net/anime/723].
@@ -4098,9 +4098,12 @@ Duration [1680]seconds does not match [1620]seconds. Not merging [https://anilis
 Duration [1680]seconds does not match [1620]seconds. Not merging [https://anilist.co/anime/9062] into [https://kitsu.io/anime/5591, https://myanimelist.net/anime/9062].
 Duration [1680]seconds does not match [1620]seconds. Not merging [https://kitsu.io/anime/1097] into [https://anilist.co/anime/1220, https://myanimelist.net/anime/1220].
 Duration [1680]seconds does not match [1620]seconds. Not merging [https://kitsu.io/anime/11847] into [https://myanimelist.net/anime/31692].
+Duration [1680]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/2049] into [https://anidb.net/anime/2008].
+Duration [1680]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/9618] into [https://anidb.net/anime/8505].
 Duration [1680]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/14028] into [https://anilist.co/anime/102400, https://myanimelist.net/anime/37740].
 Duration [1740]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/2561] into [https://kitsu.io/anime/2326, https://myanimelist.net/anime/2561].
 Duration [1740]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/10824] into [https://myanimelist.net/anime/10824].
+Duration [1740]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2561] into [https://anidb.net/anime/524].
 Duration [1740]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/6371] into [https://myanimelist.net/anime/10824].
 Duration [1740]seconds does not match [1680]seconds. Not merging [https://anilist.co/anime/103775] into [https://kitsu.io/anime/14104, https://myanimelist.net/anime/36229].
 Duration [1740]seconds does not match [1680]seconds. Not merging [https://anilist.co/anime/11355] into [https://myanimelist.net/anime/11355].
@@ -4108,14 +4111,18 @@ Duration [1740]seconds does not match [1680]seconds. Not merging [https://anilis
 Duration [1740]seconds does not match [1680]seconds. Not merging [https://anilist.co/anime/20576] into [https://kitsu.io/anime/8140, https://myanimelist.net/anime/21649].
 Duration [1740]seconds does not match [1680]seconds. Not merging [https://anilist.co/anime/537] into [https://kitsu.io/anime/496, https://myanimelist.net/anime/537].
 Duration [1740]seconds does not match [1680]seconds. Not merging [https://anilist.co/anime/97996] into [https://myanimelist.net/anime/34626].
-Duration [1740]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/103775] into [https://anidb.net/anime/13590].
 Duration [1740]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/11355] into [https://anidb.net/anime/8607, https://kitsu.io/anime/6498].
 Duration [1740]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/16381] into [https://anidb.net/anime/9516].
 Duration [1740]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/1665] into [https://anidb.net/anime/1461].
-Duration [1740]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/19953] into [https://anidb.net/anime/10006].
+Duration [1740]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/20576] into [https://anidb.net/anime/10325].
 Duration [1740]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/3375] into [https://anidb.net/anime/5676].
+Duration [1740]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/3764] into [https://anidb.net/anime/3220].
+Duration [1740]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/537] into [https://anidb.net/anime/567].
+Duration [1740]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/6050] into [https://anidb.net/anime/6489].
 Duration [1740]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/8181] into [https://kitsu.io/anime/5230, https://myanimelist.net/anime/8181].
-Duration [1740]seconds does not match [1800]seconds. Not merging [https://kitsu.io/anime/1233] into [https://anilist.co/anime/1379].
+Duration [1740]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/9793] into [https://anidb.net/anime/8158].
+Duration [1740]seconds does not match [1800]seconds. Not merging [https://kitsu.io/anime/4399] into [https://anidb.net/anime/6489].
+Duration [1740]seconds does not match [1800]seconds. Not merging [https://kitsu.io/anime/5871] into [https://anidb.net/anime/8158].
 Duration [1740]seconds does not match [1800]seconds. Not merging [https://kitsu.io/anime/7963] into [https://anidb.net/anime/10006].
 Duration [1740]seconds does not match [1860]seconds. Not merging [https://anilist.co/anime/725] into [https://kitsu.io/anime/654, https://myanimelist.net/anime/725].
 Duration [1740]seconds does not match [1980]seconds. Not merging [https://anilist.co/anime/9793] into [https://myanimelist.net/anime/9793].
@@ -4169,16 +4176,18 @@ Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.ne
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/12598] into [https://anilist.co/anime/104564, https://kitsu.io/anime/10627, https://myanimelist.net/anime/30074].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/12600] into [https://kitsu.io/anime/8955, https://myanimelist.net/anime/24861].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/12601] into [https://anilist.co/anime/103403, https://kitsu.io/anime/10628, https://myanimelist.net/anime/30075].
-Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/12607] into [https://anilist.co/anime/102940, https://kitsu.io/anime/12815].
+Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/12607] into [https://kitsu.io/anime/12815].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/12609] into [https://myanimelist.net/anime/30161].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/12610] into [https://kitsu.io/anime/11928, https://myanimelist.net/anime/32907].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/12612] into [https://anilist.co/anime/103955, https://kitsu.io/anime/10206, https://myanimelist.net/anime/29053].
+Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/12613] into [https://kitsu.io/anime/10322].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/12614] into [https://kitsu.io/anime/10254, https://myanimelist.net/anime/29179].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/12616] into [https://anilist.co/anime/8729, https://kitsu.io/anime/5464, https://myanimelist.net/anime/8729].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/12629] into [https://myanimelist.net/anime/8681].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/12630] into [https://kitsu.io/anime/8825, https://myanimelist.net/anime/22427].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/12631] into [https://anilist.co/anime/103933, https://kitsu.io/anime/11927, https://myanimelist.net/anime/32583].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/12632] into [https://anilist.co/anime/8733, https://kitsu.io/anime/5468, https://myanimelist.net/anime/8733].
+Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/12633] into [https://anilist.co/anime/103435, https://kitsu.io/anime/10637].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/12639] into [https://anilist.co/anime/8696, https://kitsu.io/anime/5445, https://myanimelist.net/anime/8696].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/12640] into [https://anilist.co/anime/103975, https://kitsu.io/anime/10270, https://myanimelist.net/anime/29451].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/12642] into [https://anilist.co/anime/104341, https://kitsu.io/anime/10636, https://myanimelist.net/anime/30083].
@@ -4225,7 +4234,6 @@ Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.ne
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/13215] into [https://kitsu.io/anime/40967, https://myanimelist.net/anime/36549].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/13233] into [https://myanimelist.net/anime/39117].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/13282] into [https://kitsu.io/anime/13913, https://myanimelist.net/anime/35923].
-Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/13367] into [https://kitsu.io/anime/10404].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/13368] into [https://anilist.co/anime/102616, https://kitsu.io/anime/10723, https://myanimelist.net/anime/30212].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/13398] into [https://myanimelist.net/anime/36166].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/13530] into [https://kitsu.io/anime/12331, https://myanimelist.net/anime/31662].
@@ -4269,7 +4277,6 @@ Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.ne
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/8953] into [https://anilist.co/anime/13541, https://kitsu.io/anime/6989, https://myanimelist.net/anime/13541].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/9335] into [https://anilist.co/anime/15127, https://kitsu.io/anime/7218, https://myanimelist.net/anime/15127].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/9396] into [https://anilist.co/anime/19279, https://kitsu.io/anime/7915, https://myanimelist.net/anime/19279].
-Duration [180]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/9681] into [https://kitsu.io/anime/7825].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anilist.co/anime/100282] into [https://myanimelist.net/anime/36166].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anilist.co/anime/100330] into [https://kitsu.io/anime/11901, https://myanimelist.net/anime/32311].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anilist.co/anime/10067] into [https://kitsu.io/anime/6019, https://myanimelist.net/anime/10067].
@@ -4306,6 +4313,7 @@ Duration [180]seconds does not match [120]seconds. Not merging [https://anilist.
 Duration [180]seconds does not match [120]seconds. Not merging [https://anilist.co/anime/21328] into [https://kitsu.io/anime/11203, https://myanimelist.net/anime/31234].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anilist.co/anime/21359] into [https://anidb.net/anime/11595, https://kitsu.io/anime/11396, https://myanimelist.net/anime/31621].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anilist.co/anime/21528] into [https://kitsu.io/anime/11648, https://myanimelist.net/anime/32274].
+Duration [180]seconds does not match [120]seconds. Not merging [https://anilist.co/anime/21591] into [https://kitsu.io/anime/11657].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anilist.co/anime/21721] into [https://kitsu.io/anime/11953, https://myanimelist.net/anime/32954].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anilist.co/anime/21811] into [https://kitsu.io/anime/12150, https://myanimelist.net/anime/33276].
 Duration [180]seconds does not match [120]seconds. Not merging [https://anilist.co/anime/21891] into [https://kitsu.io/anime/12313, https://myanimelist.net/anime/33569].
@@ -4350,33 +4358,37 @@ Duration [180]seconds does not match [120]seconds. Not merging [https://kitsu.io
 Duration [180]seconds does not match [120]seconds. Not merging [https://kitsu.io/anime/41210] into [https://myanimelist.net/anime/35229].
 Duration [180]seconds does not match [120]seconds. Not merging [https://kitsu.io/anime/4192] into [https://myanimelist.net/anime/5602].
 Duration [180]seconds does not match [120]seconds. Not merging [https://kitsu.io/anime/5415] into [https://myanimelist.net/anime/8646].
+Duration [180]seconds does not match [120]seconds. Not merging [https://kitsu.io/anime/8449] into [https://anidb.net/anime/10573].
 Duration [180]seconds does not match [120]seconds. Not merging [https://kitsu.io/anime/8770] into [https://myanimelist.net/anime/21409].
 Duration [180]seconds does not match [120]seconds. Not merging [https://kitsu.io/anime/9120] into [https://myanimelist.net/anime/22293].
 Duration [180]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/1106] into [https://kitsu.io/anime/2024, https://myanimelist.net/anime/2233].
-Duration [180]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/12322] into [https://anilist.co/anime/21897].
 Duration [180]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/13427] into [https://anilist.co/anime/100324].
 Duration [180]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/4361] into [https://anilist.co/anime/12295, https://kitsu.io/anime/6703, https://myanimelist.net/anime/12295].
 Duration [180]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/8664] into [https://kitsu.io/anime/11530].
 Duration [180]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/9086] into [https://myanimelist.net/anime/13629].
+Duration [180]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/9628] into [https://kitsu.io/anime/11533].
 Duration [180]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/102452] into [https://anidb.net/anime/13906].
-Duration [180]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/10870] into [https://anidb.net/anime/12360].
 Duration [180]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/11507] into [https://kitsu.io/anime/6524, https://myanimelist.net/anime/11507].
 Duration [180]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/11511] into [https://kitsu.io/anime/6525, https://myanimelist.net/anime/11511].
 Duration [180]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/12351] into [https://kitsu.io/anime/6710, https://myanimelist.net/anime/12351].
 Duration [180]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/13357] into [https://kitsu.io/anime/6944, https://myanimelist.net/anime/13357].
 Duration [180]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/13629] into [https://myanimelist.net/anime/13629].
 Duration [180]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/15769] into [https://kitsu.io/anime/7304, https://myanimelist.net/anime/15769].
+Duration [180]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/19925] into [https://anidb.net/anime/10632].
 Duration [180]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/20493] into [https://anidb.net/anime/9908, https://kitsu.io/anime/8075, https://myanimelist.net/anime/20835].
+Duration [180]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/20929] into [https://anidb.net/anime/10902].
 Duration [180]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/6896] into [https://kitsu.io/anime/4776, https://myanimelist.net/anime/6896].
 Duration [180]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/7020] into [https://myanimelist.net/anime/7020].
 Duration [180]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/11634] into [https://myanimelist.net/anime/32148].
 Duration [180]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/42008] into [https://anidb.net/anime/14489].
 Duration [180]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/6378] into [https://myanimelist.net/anime/10842].
 Duration [180]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/7002] into [https://myanimelist.net/anime/13629].
-Duration [180]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/8835] into [https://anidb.net/anime/8365].
+Duration [180]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/13398] into [https://kitsu.io/anime/13899].
 Duration [180]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/8451] into [https://anilist.co/anime/5810, https://kitsu.io/anime/4282, https://myanimelist.net/anime/5810].
 Duration [180]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/9744] into [https://anilist.co/anime/17697, https://kitsu.io/anime/8330, https://myanimelist.net/anime/17697].
-Duration [180]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/7020] into [https://anidb.net/anime/9009, https://kitsu.io/anime/4834].
+Duration [180]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/100282] into [https://kitsu.io/anime/13899].
+Duration [180]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/11511] into [https://anidb.net/anime/8769].
+Duration [180]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/16405] into [https://anidb.net/anime/9522].
 Duration [180]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/42008] into [https://myanimelist.net/anime/38673].
 Duration [180]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/7423] into [https://anidb.net/anime/9522].
 Duration [180]seconds does not match [540]seconds. Not merging [https://anilist.co/anime/5827] into [https://anidb.net/anime/6738, https://kitsu.io/anime/4290, https://myanimelist.net/anime/6832].
@@ -4389,11 +4401,12 @@ Duration [180]seconds does not match [660]seconds. Not merging [https://kitsu.io
 Duration [180]seconds does not match [840]seconds. Not merging [https://anilist.co/anime/103532] into [https://kitsu.io/anime/12349, https://myanimelist.net/anime/31511].
 Duration [1800]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/10186] into [https://kitsu.io/anime/13516, https://myanimelist.net/anime/35138].
 Duration [1800]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/1298] into [https://anilist.co/anime/677, https://kitsu.io/anime/619, https://myanimelist.net/anime/677].
-Duration [1800]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/5546] into [https://kitsu.io/anime/3440].
+Duration [1800]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/1880] into [https://anilist.co/anime/5473].
 Duration [1800]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/7832] into [https://kitsu.io/anime/9926, https://myanimelist.net/anime/22617].
 Duration [1800]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/7834] into [https://kitsu.io/anime/9878, https://myanimelist.net/anime/22653].
 Duration [1800]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/7870] into [https://anilist.co/anime/17957, https://kitsu.io/anime/9852, https://myanimelist.net/anime/17957].
 Duration [1800]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/18177] into [https://kitsu.io/anime/7693, https://myanimelist.net/anime/18177].
+Duration [1800]seconds does not match [1200]seconds. Not merging [https://kitsu.io/anime/2332] into [https://anilist.co/anime/2567].
 Duration [1800]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/13823] into [https://kitsu.io/anime/41217, https://myanimelist.net/anime/37750].
 Duration [1800]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/1372] into [https://kitsu.io/anime/2545, https://myanimelist.net/anime/2789].
 Duration [1800]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/2618] into [https://anilist.co/anime/1611, https://kitsu.io/anime/1449, https://myanimelist.net/anime/1611].
@@ -4445,11 +4458,12 @@ Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/13082] into [https://kitsu.io/anime/40618, https://myanimelist.net/anime/34813].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/1352] into [https://kitsu.io/anime/3906, https://myanimelist.net/anime/5052].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/13751] into [https://myanimelist.net/anime/37174].
+Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/13945] into [https://kitsu.io/anime/41084].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/2097] into [https://anilist.co/anime/2682, https://kitsu.io/anime/1184, https://myanimelist.net/anime/2682].
+Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/2169] into [https://anilist.co/anime/358, https://kitsu.io/anime/325].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/2298] into [https://anilist.co/anime/2547, https://kitsu.io/anime/2312, https://myanimelist.net/anime/2547].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/2301] into [https://kitsu.io/anime/2338, https://myanimelist.net/anime/2573].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/2303] into [https://anilist.co/anime/2577, https://kitsu.io/anime/2342, https://myanimelist.net/anime/2577].
-Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/2433] into [https://kitsu.io/anime/2070].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/3101] into [https://anilist.co/anime/6989, https://kitsu.io/anime/4825, https://myanimelist.net/anime/6989].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/351] into [https://anilist.co/anime/233, https://kitsu.io/anime/208, https://myanimelist.net/anime/233].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/3536] into [https://myanimelist.net/anime/8496].
@@ -4461,6 +4475,7 @@ Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/7322] into [https://kitsu.io/anime/4613, https://myanimelist.net/anime/6567].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/737] into [https://anilist.co/anime/621, https://kitsu.io/anime/576, https://myanimelist.net/anime/621].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/742] into [https://anilist.co/anime/6557, https://kitsu.io/anime/4609, https://myanimelist.net/anime/6557].
+Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/7537] into [https://anilist.co/anime/8331].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/7777] into [https://kitsu.io/anime/9850, https://myanimelist.net/anime/22479].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/7779] into [https://kitsu.io/anime/9307, https://myanimelist.net/anime/22497].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/7835] into [https://kitsu.io/anime/10262, https://myanimelist.net/anime/29267].
@@ -4471,29 +4486,32 @@ Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/9054] into [https://kitsu.io/anime/9298, https://myanimelist.net/anime/23709].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/9065] into [https://kitsu.io/anime/11235, https://myanimelist.net/anime/31321].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/912] into [https://anilist.co/anime/3597, https://kitsu.io/anime/3133, https://myanimelist.net/anime/3597].
+Duration [1800]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/9320] into [https://anilist.co/anime/7522].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1058] into [https://anidb.net/anime/1222, https://kitsu.io/anime/947, https://myanimelist.net/anime/1058].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1253] into [https://kitsu.io/anime/1128, https://myanimelist.net/anime/1253].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1289] into [https://kitsu.io/anime/1163, https://myanimelist.net/anime/1289].
+Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1500] into [https://anidb.net/anime/2159].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/18177] into [https://anidb.net/anime/9790].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/1995] into [https://anidb.net/anime/2034, https://kitsu.io/anime/1796, https://myanimelist.net/anime/1995].
-Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2497] into [https://anidb.net/anime/215].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2523] into [https://anidb.net/anime/2833, https://kitsu.io/anime/2288, https://myanimelist.net/anime/2523].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2570] into [https://kitsu.io/anime/2335, https://myanimelist.net/anime/2570].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2573] into [https://kitsu.io/anime/2338, https://myanimelist.net/anime/2573].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2679] into [https://myanimelist.net/anime/2679].
+Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2803] into [https://anidb.net/anime/1710].
+Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3356] into [https://anidb.net/anime/1890].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/3515] into [https://kitsu.io/anime/3066, https://myanimelist.net/anime/3515].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/4854] into [https://kitsu.io/anime/3826, https://myanimelist.net/anime/4854].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5052] into [https://kitsu.io/anime/3906, https://myanimelist.net/anime/5052].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/5330] into [https://anidb.net/anime/2175, https://kitsu.io/anime/4059, https://myanimelist.net/anime/5330].
+Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/6262] into [https://anidb.net/anime/3593].
+Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/6629] into [https://anidb.net/anime/1926].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/681] into [https://anidb.net/anime/1277].
-Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/6868] into [https://anidb.net/anime/2880, https://kitsu.io/anime/4761, https://myanimelist.net/anime/6868].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/8496] into [https://myanimelist.net/anime/8496].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/8644] into [https://anidb.net/anime/8828, https://kitsu.io/anime/5413, https://myanimelist.net/anime/8644].
+Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/870] into [https://anidb.net/anime/149].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/9433] into [https://anidb.net/anime/12050, https://kitsu.io/anime/5731, https://myanimelist.net/anime/9433].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13011] into [https://myanimelist.net/anime/34152].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/1346] into [https://anidb.net/anime/2159].
-Duration [1800]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/2266] into [https://anidb.net/anime/215].
-Duration [1800]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/2332] into [https://anidb.net/anime/2709].
 Duration [1800]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/5361] into [https://myanimelist.net/anime/8496].
 Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/10119] into [https://kitsu.io/anime/11642, https://myanimelist.net/anime/32255].
 Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/1031] into [https://anilist.co/anime/3605, https://kitsu.io/anime/3138, https://myanimelist.net/anime/3605].
@@ -4511,6 +4529,7 @@ Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.
 Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/1311] into [https://kitsu.io/anime/3178, https://myanimelist.net/anime/3665].
 Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/13206] into [https://myanimelist.net/anime/35673].
 Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/13511] into [https://myanimelist.net/anime/36537].
+Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/13751] into [https://kitsu.io/anime/41349].
 Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/1379] into [https://kitsu.io/anime/2202, https://myanimelist.net/anime/2428].
 Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/14164] into [https://kitsu.io/anime/41880, https://myanimelist.net/anime/38017].
 Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/1650] into [https://anilist.co/anime/2553, https://kitsu.io/anime/2318, https://myanimelist.net/anime/2553].
@@ -4524,6 +4543,7 @@ Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.
 Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/3134] into [https://kitsu.io/anime/5750, https://myanimelist.net/anime/9491].
 Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/3585] into [https://anilist.co/anime/1672, https://kitsu.io/anime/1502, https://myanimelist.net/anime/1672].
 Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/3586] into [https://kitsu.io/anime/1503, https://myanimelist.net/anime/1673].
+Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/4139] into [https://anilist.co/anime/1071].
 Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/4372] into [https://anilist.co/anime/3568, https://kitsu.io/anime/3109, https://myanimelist.net/anime/3568].
 Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/4938] into [https://kitsu.io/anime/1929, https://myanimelist.net/anime/2132].
 Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/4982] into [https://kitsu.io/anime/2783, https://myanimelist.net/anime/3087].
@@ -4540,9 +4560,9 @@ Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.
 Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/7789] into [https://kitsu.io/anime/9379, https://myanimelist.net/anime/17987].
 Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/7795] into [https://anilist.co/anime/15663, https://kitsu.io/anime/7291, https://myanimelist.net/anime/15663].
 Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/7808] into [https://kitsu.io/anime/8820, https://myanimelist.net/anime/22603].
-Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/9065] into [https://anilist.co/anime/103338].
-Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/9105] into [https://kitsu.io/anime/7046].
+Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/9105] into [https://anilist.co/anime/13843, https://kitsu.io/anime/7046].
 Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/9250] into [https://anilist.co/anime/14349, https://kitsu.io/anime/7115, https://myanimelist.net/anime/14349].
+Duration [1800]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/9926] into [https://anilist.co/anime/19099].
 Duration [1800]seconds does not match [1560]seconds. Not merging [https://anilist.co/anime/109203] into [https://kitsu.io/anime/41880, https://myanimelist.net/anime/38017].
 Duration [1800]seconds does not match [1560]seconds. Not merging [https://anilist.co/anime/17987] into [https://kitsu.io/anime/9379, https://myanimelist.net/anime/17987].
 Duration [1800]seconds does not match [1560]seconds. Not merging [https://anilist.co/anime/20681] into [https://kitsu.io/anime/8418, https://myanimelist.net/anime/23423].
@@ -4565,10 +4585,9 @@ Duration [1800]seconds does not match [1620]seconds. Not merging [https://anidb.
 Duration [1800]seconds does not match [1620]seconds. Not merging [https://anidb.net/anime/1246] into [https://kitsu.io/anime/1648, https://myanimelist.net/anime/1831].
 Duration [1800]seconds does not match [1620]seconds. Not merging [https://anidb.net/anime/1293] into [https://anilist.co/anime/2462, https://kitsu.io/anime/2236, https://myanimelist.net/anime/2462].
 Duration [1800]seconds does not match [1620]seconds. Not merging [https://anidb.net/anime/1295] into [https://anilist.co/anime/1805, https://kitsu.io/anime/1624, https://myanimelist.net/anime/1805].
-Duration [1800]seconds does not match [1620]seconds. Not merging [https://anidb.net/anime/13206] into [https://anilist.co/anime/98868].
 Duration [1800]seconds does not match [1620]seconds. Not merging [https://anidb.net/anime/13302] into [https://kitsu.io/anime/12385, https://myanimelist.net/anime/33174].
 Duration [1800]seconds does not match [1620]seconds. Not merging [https://anidb.net/anime/13387] into [https://kitsu.io/anime/13740, https://myanimelist.net/anime/36145].
-Duration [1800]seconds does not match [1620]seconds. Not merging [https://anidb.net/anime/13511] into [https://anilist.co/anime/103847].
+Duration [1800]seconds does not match [1620]seconds. Not merging [https://anidb.net/anime/13511] into [https://anilist.co/anime/103847, https://kitsu.io/anime/40965].
 Duration [1800]seconds does not match [1620]seconds. Not merging [https://anidb.net/anime/136] into [https://anilist.co/anime/675, https://kitsu.io/anime/617, https://myanimelist.net/anime/675].
 Duration [1800]seconds does not match [1620]seconds. Not merging [https://anidb.net/anime/13950] into [https://myanimelist.net/anime/37078].
 Duration [1800]seconds does not match [1620]seconds. Not merging [https://anidb.net/anime/1471] into [https://kitsu.io/anime/2538, https://myanimelist.net/anime/2782].
@@ -4661,7 +4680,6 @@ Duration [1800]seconds does not match [1680]seconds. Not merging [https://anidb.
 Duration [1800]seconds does not match [1680]seconds. Not merging [https://anidb.net/anime/167] into [https://anilist.co/anime/373, https://kitsu.io/anime/340, https://myanimelist.net/anime/373].
 Duration [1800]seconds does not match [1680]seconds. Not merging [https://anidb.net/anime/172] into [https://myanimelist.net/anime/1384].
 Duration [1800]seconds does not match [1680]seconds. Not merging [https://anidb.net/anime/198] into [https://anilist.co/anime/1233, https://kitsu.io/anime/1109, https://myanimelist.net/anime/1233].
-Duration [1800]seconds does not match [1680]seconds. Not merging [https://anidb.net/anime/2008] into [https://anilist.co/anime/2049].
 Duration [1800]seconds does not match [1680]seconds. Not merging [https://anidb.net/anime/2008] into [https://kitsu.io/anime/1848, https://myanimelist.net/anime/2049].
 Duration [1800]seconds does not match [1680]seconds. Not merging [https://anidb.net/anime/2056] into [https://anilist.co/anime/1620, https://kitsu.io/anime/1455, https://myanimelist.net/anime/1620].
 Duration [1800]seconds does not match [1680]seconds. Not merging [https://anidb.net/anime/2318] into [https://anilist.co/anime/10203, https://kitsu.io/anime/6077, https://myanimelist.net/anime/10203].
@@ -4697,7 +4715,6 @@ Duration [1800]seconds does not match [1680]seconds. Not merging [https://anidb.
 Duration [1800]seconds does not match [1680]seconds. Not merging [https://anidb.net/anime/7669] into [https://anilist.co/anime/9201, https://kitsu.io/anime/5628, https://myanimelist.net/anime/9201].
 Duration [1800]seconds does not match [1680]seconds. Not merging [https://anidb.net/anime/7973] into [https://anilist.co/anime/9611, https://kitsu.io/anime/5808, https://myanimelist.net/anime/9611].
 Duration [1800]seconds does not match [1680]seconds. Not merging [https://anidb.net/anime/8239] into [https://myanimelist.net/anime/17483].
-Duration [1800]seconds does not match [1680]seconds. Not merging [https://anidb.net/anime/8505] into [https://anilist.co/anime/9618].
 Duration [1800]seconds does not match [1680]seconds. Not merging [https://anidb.net/anime/8602] into [https://anilist.co/anime/12437, https://kitsu.io/anime/6731, https://myanimelist.net/anime/12437].
 Duration [1800]seconds does not match [1680]seconds. Not merging [https://anidb.net/anime/8607] into [https://myanimelist.net/anime/11355].
 Duration [1800]seconds does not match [1680]seconds. Not merging [https://anidb.net/anime/8914] into [https://anilist.co/anime/12685, https://kitsu.io/anime/6791, https://myanimelist.net/anime/12685].
@@ -4733,8 +4750,8 @@ Duration [1800]seconds does not match [1680]seconds. Not merging [https://kitsu.
 Duration [1800]seconds does not match [1680]seconds. Not merging [https://kitsu.io/anime/7257] into [https://myanimelist.net/anime/15439].
 Duration [1800]seconds does not match [1680]seconds. Not merging [https://kitsu.io/anime/7968] into [https://myanimelist.net/anime/20221].
 Duration [1800]seconds does not match [1680]seconds. Not merging [https://kitsu.io/anime/8364] into [https://myanimelist.net/anime/17483].
+Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/10006] into [https://anilist.co/anime/19953].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/10308] into [https://anilist.co/anime/103375, https://kitsu.io/anime/9162, https://myanimelist.net/anime/21025].
-Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/10325] into [https://anilist.co/anime/20576].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/11020] into [https://anilist.co/anime/20721, https://kitsu.io/anime/10228, https://myanimelist.net/anime/29301].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/1156] into [https://anilist.co/anime/1900, https://kitsu.io/anime/1710, https://myanimelist.net/anime/1900].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/11741] into [https://kitsu.io/anime/12430, https://myanimelist.net/anime/32598].
@@ -4743,6 +4760,7 @@ Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/1252] into [https://anilist.co/anime/3267, https://kitsu.io/anime/2893, https://myanimelist.net/anime/3267].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/128] into [https://anilist.co/anime/1596, https://kitsu.io/anime/1436, https://myanimelist.net/anime/1596].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/12861] into [https://anilist.co/anime/103940, https://kitsu.io/anime/14005, https://myanimelist.net/anime/35387].
+Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/13590] into [https://anilist.co/anime/103775].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/155] into [https://kitsu.io/anime/1051, https://myanimelist.net/anime/1170].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/1632] into [https://kitsu.io/anime/1793, https://myanimelist.net/anime/1992].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/1754] into [https://anilist.co/anime/4014, https://kitsu.io/anime/3412, https://myanimelist.net/anime/4014].
@@ -4768,11 +4786,9 @@ Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/5470] into [https://anilist.co/anime/3318, https://kitsu.io/anime/2932, https://myanimelist.net/anime/3318].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/5592] into [https://anilist.co/anime/4166, https://kitsu.io/anime/3500, https://myanimelist.net/anime/4166].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/5612] into [https://anilist.co/anime/4617, https://kitsu.io/anime/3714, https://myanimelist.net/anime/4617].
-Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/567] into [https://anilist.co/anime/537].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/597] into [https://anilist.co/anime/1283, https://kitsu.io/anime/1157, https://myanimelist.net/anime/1283].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/6071] into [https://kitsu.io/anime/3918, https://myanimelist.net/anime/5080].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/619] into [https://anilist.co/anime/6016, https://kitsu.io/anime/1191, https://myanimelist.net/anime/6016].
-Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/6489] into [https://anilist.co/anime/6050, https://kitsu.io/anime/4399].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/693] into [https://anilist.co/anime/571, https://kitsu.io/anime/528, https://myanimelist.net/anime/571].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/7255] into [https://kitsu.io/anime/5025, https://myanimelist.net/anime/7549].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/7522] into [https://anilist.co/anime/8634, https://kitsu.io/anime/5410, https://myanimelist.net/anime/8634].
@@ -4791,6 +4807,7 @@ Duration [1800]seconds does not match [1740]seconds. Not merging [https://anidb.
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anilist.co/anime/104148] into [https://kitsu.io/anime/9118, https://myanimelist.net/anime/23129].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anilist.co/anime/1170] into [https://kitsu.io/anime/1051, https://myanimelist.net/anime/1170].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anilist.co/anime/1317] into [https://myanimelist.net/anime/1317].
+Duration [1800]seconds does not match [1740]seconds. Not merging [https://anilist.co/anime/1379] into [https://kitsu.io/anime/1233].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anilist.co/anime/1811] into [https://kitsu.io/anime/1629, https://myanimelist.net/anime/1811].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anilist.co/anime/1927] into [https://myanimelist.net/anime/1927].
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://anilist.co/anime/1992] into [https://kitsu.io/anime/1793, https://myanimelist.net/anime/1992].
@@ -4809,6 +4826,7 @@ Duration [1800]seconds does not match [1740]seconds. Not merging [https://kitsu.
 Duration [1800]seconds does not match [1740]seconds. Not merging [https://kitsu.io/anime/6675] into [https://myanimelist.net/anime/12141].
 Duration [1800]seconds does not match [1860]seconds. Not merging [https://anidb.net/anime/2248] into [https://kitsu.io/anime/9187, https://myanimelist.net/anime/23779].
 Duration [1800]seconds does not match [1860]seconds. Not merging [https://anidb.net/anime/2351] into [https://myanimelist.net/anime/10780].
+Duration [1800]seconds does not match [1860]seconds. Not merging [https://anidb.net/anime/683] into [https://anilist.co/anime/1553, https://kitsu.io/anime/1393].
 Duration [1800]seconds does not match [1860]seconds. Not merging [https://anidb.net/anime/7121] into [https://anilist.co/anime/10077, https://kitsu.io/anime/6024, https://myanimelist.net/anime/10077].
 Duration [1800]seconds does not match [1860]seconds. Not merging [https://anidb.net/anime/7223] into [https://myanimelist.net/anime/2092].
 Duration [1800]seconds does not match [1860]seconds. Not merging [https://anidb.net/anime/7235] into [https://anilist.co/anime/9509, https://kitsu.io/anime/5764, https://myanimelist.net/anime/9509].
@@ -4824,6 +4842,7 @@ Duration [1800]seconds does not match [1860]seconds. Not merging [https://anidb.
 Duration [1800]seconds does not match [1860]seconds. Not merging [https://anidb.net/anime/9375] into [https://anilist.co/anime/20491, https://kitsu.io/anime/8171, https://myanimelist.net/anime/20469].
 Duration [1800]seconds does not match [1860]seconds. Not merging [https://anilist.co/anime/10780] into [https://myanimelist.net/anime/10780].
 Duration [1800]seconds does not match [1860]seconds. Not merging [https://anilist.co/anime/2092] into [https://myanimelist.net/anime/2092].
+Duration [1800]seconds does not match [1860]seconds. Not merging [https://kitsu.io/anime/12239] into [https://anilist.co/anime/87489].
 Duration [1800]seconds does not match [1860]seconds. Not merging [https://kitsu.io/anime/1891] into [https://myanimelist.net/anime/2092].
 Duration [1800]seconds does not match [1860]seconds. Not merging [https://kitsu.io/anime/6346] into [https://myanimelist.net/anime/10780].
 Duration [1800]seconds does not match [1920]seconds. Not merging [https://anidb.net/anime/139] into [https://kitsu.io/anime/1753, https://myanimelist.net/anime/1944].
@@ -4841,10 +4860,11 @@ Duration [1800]seconds does not match [1980]seconds. Not merging [https://anilis
 Duration [1800]seconds does not match [1980]seconds. Not merging [https://anilist.co/anime/2143] into [https://kitsu.io/anime/1940, https://myanimelist.net/anime/2143].
 Duration [1800]seconds does not match [1980]seconds. Not merging [https://anilist.co/anime/2291] into [https://kitsu.io/anime/2076, https://myanimelist.net/anime/2291].
 Duration [1800]seconds does not match [1980]seconds. Not merging [https://anilist.co/anime/9077] into [https://kitsu.io/anime/5596, https://myanimelist.net/anime/9077].
+Duration [1800]seconds does not match [2040]seconds. Not merging [https://anidb.net/anime/4898] into [https://anilist.co/anime/9832].
 Duration [1800]seconds does not match [2040]seconds. Not merging [https://anilist.co/anime/5819] into [https://kitsu.io/anime/4287, https://myanimelist.net/anime/5819].
+Duration [1800]seconds does not match [2100]seconds. Not merging [https://anidb.net/anime/139] into [https://anilist.co/anime/1944].
 Duration [1800]seconds does not match [2100]seconds. Not merging [https://anidb.net/anime/788] into [https://anilist.co/anime/666, https://kitsu.io/anime/610, https://myanimelist.net/anime/666].
 Duration [1800]seconds does not match [2100]seconds. Not merging [https://anilist.co/anime/18827] into [https://myanimelist.net/anime/18827].
-Duration [1800]seconds does not match [2100]seconds. Not merging [https://anilist.co/anime/2317] into [https://anidb.net/anime/885].
 Duration [1800]seconds does not match [2100]seconds. Not merging [https://kitsu.io/anime/9849] into [https://myanimelist.net/anime/18827].
 Duration [1800]seconds does not match [2160]seconds. Not merging [https://anidb.net/anime/683] into [https://myanimelist.net/anime/1553].
 Duration [1800]seconds does not match [2160]seconds. Not merging [https://anidb.net/anime/7867] into [https://anilist.co/anime/19517, https://myanimelist.net/anime/19517].
@@ -4854,7 +4874,7 @@ Duration [1800]seconds does not match [2220]seconds. Not merging [https://anidb.
 Duration [1800]seconds does not match [2220]seconds. Not merging [https://anilist.co/anime/2317] into [https://kitsu.io/anime/2099, https://myanimelist.net/anime/2317].
 Duration [1800]seconds does not match [2280]seconds. Not merging [https://anilist.co/anime/21002] into [https://kitsu.io/anime/9098, https://myanimelist.net/anime/27387].
 Duration [1800]seconds does not match [2400]seconds. Not merging [https://anilist.co/anime/12905] into [https://kitsu.io/anime/6845, https://myanimelist.net/anime/12905].
-Duration [1800]seconds does not match [2400]seconds. Not merging [https://anilist.co/anime/9177] into [https://anidb.net/anime/4180].
+Duration [1800]seconds does not match [2400]seconds. Not merging [https://anilist.co/anime/21002] into [https://anidb.net/anime/10800].
 Duration [1800]seconds does not match [2460]seconds. Not merging [https://anilist.co/anime/9177] into [https://kitsu.io/anime/5625, https://myanimelist.net/anime/9177].
 Duration [1800]seconds does not match [2460]seconds. Not merging [https://anilist.co/anime/9748] into [https://myanimelist.net/anime/9748].
 Duration [1800]seconds does not match [2460]seconds. Not merging [https://kitsu.io/anime/5848] into [https://myanimelist.net/anime/9748].
@@ -4862,16 +4882,17 @@ Duration [1800]seconds does not match [2520]seconds. Not merging [https://anilis
 Duration [1800]seconds does not match [2640]seconds. Not merging [https://anilist.co/anime/2712] into [https://kitsu.io/anime/2473, https://myanimelist.net/anime/2712].
 Duration [1800]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/2087] into [https://anilist.co/anime/105195].
 Duration [1800]seconds does not match [2700]seconds. Not merging [https://anilist.co/anime/2143] into [https://anidb.net/anime/4871].
-Duration [1800]seconds does not match [2700]seconds. Not merging [https://anilist.co/anime/2712] into [https://anidb.net/anime/3997].
 Duration [1800]seconds does not match [2880]seconds. Not merging [https://anilist.co/anime/10304] into [https://kitsu.io/anime/6121, https://myanimelist.net/anime/10304].
 Duration [1800]seconds does not match [2880]seconds. Not merging [https://anilist.co/anime/5876] into [https://myanimelist.net/anime/5876].
 Duration [1800]seconds does not match [2880]seconds. Not merging [https://kitsu.io/anime/4317] into [https://myanimelist.net/anime/5876].
 Duration [1800]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/6526] into [https://kitsu.io/anime/4979, https://myanimelist.net/anime/7453].
-Duration [1800]seconds does not match [3000]seconds. Not merging [https://anidb.net/anime/2092] into [https://anilist.co/anime/7435].
-Duration [1800]seconds does not match [3420]seconds. Not merging [https://anilist.co/anime/12441] into [https://kitsu.io/anime/6733].
+Duration [1800]seconds does not match [3000]seconds. Not merging [https://anidb.net/anime/2092] into [https://anilist.co/anime/7435, https://kitsu.io/anime/4970].
+Duration [1800]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/5876] into [https://anidb.net/anime/7462].
+Duration [1800]seconds does not match [3000]seconds. Not merging [https://kitsu.io/anime/4317] into [https://anidb.net/anime/7462].
+Duration [1800]seconds does not match [3180]seconds. Not merging [https://anidb.net/anime/5997] into [https://anilist.co/anime/6965].
 Duration [1800]seconds does not match [3540]seconds. Not merging [https://kitsu.io/anime/13993] into [https://myanimelist.net/anime/36688].
 Duration [1800]seconds does not match [360]seconds. Not merging [https://anilist.co/anime/17985] into [https://kitsu.io/anime/9013, https://myanimelist.net/anime/17985].
-Duration [1800]seconds does not match [3600]seconds. Not merging [https://kitsu.io/anime/13993] into [https://anidb.net/anime/13543, https://anilist.co/anime/100451].
+Duration [1800]seconds does not match [3600]seconds. Not merging [https://kitsu.io/anime/13993] into [https://anidb.net/anime/13543].
 Duration [1800]seconds does not match [4800]seconds. Not merging [https://anilist.co/anime/2256] into [https://myanimelist.net/anime/2256].
 Duration [1800]seconds does not match [540]seconds. Not merging [https://anidb.net/anime/7840] into [https://kitsu.io/anime/10663, https://myanimelist.net/anime/30124].
 Duration [1800]seconds does not match [600]seconds. Not merging [https://anidb.net/anime/7852] into [https://kitsu.io/anime/9541, https://myanimelist.net/anime/22569].
@@ -4882,7 +4903,6 @@ Duration [1800]seconds does not match [780]seconds. Not merging [https://kitsu.i
 Duration [1800]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/2259] into [https://anilist.co/anime/9519, https://kitsu.io/anime/5769, https://myanimelist.net/anime/9519].
 Duration [1800]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/7841] into [https://kitsu.io/anime/10664, https://myanimelist.net/anime/30125].
 Duration [1800]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/11937] into [https://myanimelist.net/anime/35047].
-Duration [1800]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/7839] into [https://anilist.co/anime/17479, https://kitsu.io/anime/8962].
 Duration [1800]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/7843] into [https://kitsu.io/anime/9000, https://myanimelist.net/anime/17955].
 Duration [1800]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/8797] into [https://kitsu.io/anime/9660, https://myanimelist.net/anime/21869].
 Duration [1800]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/12769] into [https://anidb.net/anime/2903, https://kitsu.io/anime/6809, https://myanimelist.net/anime/12769].
@@ -4890,30 +4910,27 @@ Duration [1800]seconds does not match [900]seconds. Not merging [https://anilist
 Duration [1800]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/18085] into [https://kitsu.io/anime/9305, https://myanimelist.net/anime/18085].
 Duration [1860]seconds does not match [1740]seconds. Not merging [https://anilist.co/anime/2456] into [https://myanimelist.net/anime/2456].
 Duration [1860]seconds does not match [1740]seconds. Not merging [https://kitsu.io/anime/2230] into [https://myanimelist.net/anime/2456].
-Duration [1860]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/1553] into [https://anidb.net/anime/683].
 Duration [1860]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/5927] into [https://kitsu.io/anime/4344, https://myanimelist.net/anime/5927].
 Duration [1860]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/6546] into [https://kitsu.io/anime/4603, https://myanimelist.net/anime/6546].
-Duration [1860]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/87489] into [https://kitsu.io/anime/12239].
-Duration [1860]seconds does not match [1800]seconds. Not merging [https://kitsu.io/anime/1393] into [https://anidb.net/anime/683].
-Duration [1860]seconds does not match [2100]seconds. Not merging [https://anilist.co/anime/18087] into [https://anidb.net/anime/7868].
-Duration [1860]seconds does not match [2100]seconds. Not merging [https://anilist.co/anime/2625] into [https://anidb.net/anime/7767].
 Duration [1860]seconds does not match [2160]seconds. Not merging [https://anilist.co/anime/1553] into [https://myanimelist.net/anime/1553].
 Duration [1860]seconds does not match [2160]seconds. Not merging [https://kitsu.io/anime/1393] into [https://myanimelist.net/anime/1553].
 Duration [1860]seconds does not match [3120]seconds. Not merging [https://kitsu.io/anime/9491] into [https://myanimelist.net/anime/23647].
+Duration [1860]seconds does not match [3300]seconds. Not merging [https://kitsu.io/anime/9491] into [https://anidb.net/anime/2608].
 Duration [1860]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/18087] into [https://kitsu.io/anime/9014, https://myanimelist.net/anime/18087].
 Duration [1920]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/609] into [https://kitsu.io/anime/564, https://myanimelist.net/anime/609].
 Duration [1920]seconds does not match [1860]seconds. Not merging [https://anilist.co/anime/19759] into [https://kitsu.io/anime/7973, https://myanimelist.net/anime/19759].
 Duration [1920]seconds does not match [1860]seconds. Not merging [https://anilist.co/anime/21629] into [https://kitsu.io/anime/11806, https://myanimelist.net/anime/32668].
 Duration [1920]seconds does not match [2100]seconds. Not merging [https://anilist.co/anime/21629] into [https://anidb.net/anime/11915].
+Duration [1980]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/21231] into [https://anidb.net/anime/11169].
 Duration [1980]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/3007] into [https://kitsu.io/anime/2718, https://myanimelist.net/anime/3007].
 Duration [1980]seconds does not match [1860]seconds. Not merging [https://anilist.co/anime/21231] into [https://kitsu.io/anime/11114, https://myanimelist.net/anime/31050].
 Duration [1980]seconds does not match [2580]seconds. Not merging [https://anilist.co/anime/12981] into [https://kitsu.io/anime/6862, https://myanimelist.net/anime/12981].
 Duration [2040]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/10918] into [https://kitsu.io/anime/6406, https://myanimelist.net/anime/10918].
-Duration [2040]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/9832] into [https://anidb.net/anime/4898].
 Duration [2040]seconds does not match [1920]seconds. Not merging [https://anilist.co/anime/9832] into [https://kitsu.io/anime/5894, https://myanimelist.net/anime/9832].
 Duration [2040]seconds does not match [2100]seconds. Not merging [https://kitsu.io/anime/2375] into [https://anidb.net/anime/530].
 Duration [2100]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14162] into [https://kitsu.io/anime/41036, https://myanimelist.net/anime/37208].
 Duration [2100]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/5137] into [https://kitsu.io/anime/4102].
+Duration [2100]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/14162] into [https://anilist.co/anime/101972].
 Duration [2100]seconds does not match [1620]seconds. Not merging [https://anidb.net/anime/631] into [https://anilist.co/anime/822, https://kitsu.io/anime/729, https://myanimelist.net/anime/822].
 Duration [2100]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/1185] into [https://anilist.co/anime/2881, https://kitsu.io/anime/2618, https://myanimelist.net/anime/2881].
 Duration [2100]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/1249] into [https://anilist.co/anime/2071, https://kitsu.io/anime/1870, https://myanimelist.net/anime/2071].
@@ -4927,7 +4944,7 @@ Duration [2100]seconds does not match [1800]seconds. Not merging [https://anidb.
 Duration [2100]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/4859] into [https://anilist.co/anime/2093, https://kitsu.io/anime/1892, https://myanimelist.net/anime/2093].
 Duration [2100]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/574] into [https://anilist.co/anime/362, https://kitsu.io/anime/329, https://myanimelist.net/anime/362].
 Duration [2100]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/654] into [https://anilist.co/anime/647, https://kitsu.io/anime/595, https://myanimelist.net/anime/647].
-Duration [2100]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/1944] into [https://anidb.net/anime/139].
+Duration [2100]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/885] into [https://anilist.co/anime/2317].
 Duration [2100]seconds does not match [1860]seconds. Not merging [https://anidb.net/anime/11915] into [https://kitsu.io/anime/11806, https://myanimelist.net/anime/32668].
 Duration [2100]seconds does not match [1860]seconds. Not merging [https://anidb.net/anime/3603] into [https://anilist.co/anime/5927].
 Duration [2100]seconds does not match [1860]seconds. Not merging [https://anidb.net/anime/5137] into [https://anilist.co/anime/5447, https://myanimelist.net/anime/5447].
@@ -4935,9 +4952,10 @@ Duration [2100]seconds does not match [1860]seconds. Not merging [https://anidb.
 Duration [2100]seconds does not match [1860]seconds. Not merging [https://anidb.net/anime/6366] into [https://anilist.co/anime/8539, https://kitsu.io/anime/5380, https://myanimelist.net/anime/8539].
 Duration [2100]seconds does not match [1860]seconds. Not merging [https://anidb.net/anime/7456] into [https://anilist.co/anime/8492, https://kitsu.io/anime/5357, https://myanimelist.net/anime/8492].
 Duration [2100]seconds does not match [1860]seconds. Not merging [https://anidb.net/anime/7767] into [https://kitsu.io/anime/2389, https://myanimelist.net/anime/2625].
+Duration [2100]seconds does not match [1860]seconds. Not merging [https://anidb.net/anime/7868] into [https://anilist.co/anime/18087].
 Duration [2100]seconds does not match [1920]seconds. Not merging [https://anidb.net/anime/1027] into [https://anilist.co/anime/601, https://kitsu.io/anime/556, https://myanimelist.net/anime/601].
 Duration [2100]seconds does not match [1920]seconds. Not merging [https://anidb.net/anime/13162] into [https://anilist.co/anime/99732, https://kitsu.io/anime/13756, https://myanimelist.net/anime/35982].
-Duration [2100]seconds does not match [1920]seconds. Not merging [https://anidb.net/anime/13643] into [https://kitsu.io/anime/14096, https://myanimelist.net/anime/36915].
+Duration [2100]seconds does not match [1920]seconds. Not merging [https://anidb.net/anime/13643] into [https://anilist.co/anime/100728, https://kitsu.io/anime/14096, https://myanimelist.net/anime/36915].
 Duration [2100]seconds does not match [1920]seconds. Not merging [https://anidb.net/anime/3355] into [https://kitsu.io/anime/1779, https://myanimelist.net/anime/1977].
 Duration [2100]seconds does not match [1920]seconds. Not merging [https://anidb.net/anime/3490] into [https://kitsu.io/anime/5818, https://myanimelist.net/anime/9646].
 Duration [2100]seconds does not match [1920]seconds. Not merging [https://anidb.net/anime/468] into [https://anilist.co/anime/976, https://kitsu.io/anime/866, https://myanimelist.net/anime/976].
@@ -4968,7 +4986,6 @@ Duration [2100]seconds does not match [2280]seconds. Not merging [https://anidb.
 Duration [2100]seconds does not match [2400]seconds. Not merging [https://anidb.net/anime/4445] into [https://anilist.co/anime/5907, https://kitsu.io/anime/4330, https://myanimelist.net/anime/5907].
 Duration [2100]seconds does not match [2400]seconds. Not merging [https://anidb.net/anime/9415] into [https://anilist.co/anime/16257, https://kitsu.io/anime/7397, https://myanimelist.net/anime/16257].
 Duration [2100]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/4660] into [https://anilist.co/anime/11203, https://kitsu.io/anime/6473, https://myanimelist.net/anime/11203].
-Duration [2100]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/2465] into [https://anidb.net/anime/840].
 Duration [2100]seconds does not match [600]seconds. Not merging [https://anidb.net/anime/7868] into [https://kitsu.io/anime/9014, https://myanimelist.net/anime/18087].
 Duration [2100]seconds does not match [720]seconds. Not merging [https://anilist.co/anime/1428] into [https://myanimelist.net/anime/1428].
 Duration [2100]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/4672] into [https://anilist.co/anime/2701, https://kitsu.io/anime/2463, https://myanimelist.net/anime/2701].
@@ -4976,26 +4993,22 @@ Duration [2100]seconds does not match [900]seconds. Not merging [https://anidb.n
 Duration [2160]seconds does not match [2040]seconds. Not merging [https://anilist.co/anime/105899] into [https://myanimelist.net/anime/38346].
 Duration [2220]seconds does not match [2160]seconds. Not merging [https://anilist.co/anime/6857] into [https://kitsu.io/anime/4756, https://myanimelist.net/anime/6857].
 Duration [2220]seconds does not match [2400]seconds. Not merging [https://anilist.co/anime/6857] into [https://anidb.net/anime/6895].
-Duration [2220]seconds does not match [2400]seconds. Not merging [https://anilist.co/anime/7482] into [https://anidb.net/anime/5010].
-Duration [2280]seconds does not match [2100]seconds. Not merging [https://anilist.co/anime/17573] into [https://anidb.net/anime/9754].
 Duration [2280]seconds does not match [2100]seconds. Not merging [https://kitsu.io/anime/7999] into [https://anidb.net/anime/9754].
 Duration [2280]seconds does not match [2220]seconds. Not merging [https://anilist.co/anime/1647] into [https://kitsu.io/anime/1481, https://myanimelist.net/anime/1647].
 Duration [2280]seconds does not match [2340]seconds. Not merging [https://anilist.co/anime/1497] into [https://myanimelist.net/anime/1497].
 Duration [2280]seconds does not match [2340]seconds. Not merging [https://kitsu.io/anime/1343] into [https://myanimelist.net/anime/1497].
-Duration [2280]seconds does not match [2400]seconds. Not merging [https://anilist.co/anime/1497] into [https://anidb.net/anime/3469].
-Duration [2280]seconds does not match [2400]seconds. Not merging [https://anilist.co/anime/1647] into [https://anidb.net/anime/928].
-Duration [2280]seconds does not match [2400]seconds. Not merging [https://anilist.co/anime/18619] into [https://anidb.net/anime/10009].
-Duration [2280]seconds does not match [2400]seconds. Not merging [https://kitsu.io/anime/1343] into [https://anidb.net/anime/3469].
 Duration [2340]seconds does not match [1920]seconds. Not merging [https://anilist.co/anime/3472] into [https://myanimelist.net/anime/3472].
 Duration [2340]seconds does not match [1920]seconds. Not merging [https://kitsu.io/anime/3034] into [https://myanimelist.net/anime/3472].
 Duration [2340]seconds does not match [2280]seconds. Not merging [https://anilist.co/anime/10050] into [https://kitsu.io/anime/6011, https://myanimelist.net/anime/10050].
 Duration [2340]seconds does not match [2400]seconds. Not merging [https://anilist.co/anime/10050] into [https://anidb.net/anime/8049].
 Duration [2340]seconds does not match [2400]seconds. Not merging [https://anilist.co/anime/104394] into [https://anidb.net/anime/9064, https://kitsu.io/anime/9197, https://myanimelist.net/anime/24869].
+Duration [2340]seconds does not match [2400]seconds. Not merging [https://anilist.co/anime/3472] into [https://anidb.net/anime/3470].
+Duration [2340]seconds does not match [2400]seconds. Not merging [https://kitsu.io/anime/3034] into [https://anidb.net/anime/3470].
 Duration [240]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/10902] into [https://kitsu.io/anime/9970, https://myanimelist.net/anime/28207].
 Duration [240]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/12875] into [https://kitsu.io/anime/14056, https://myanimelist.net/anime/35407].
+Duration [240]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/13358] into [https://kitsu.io/anime/13898].
 Duration [240]seconds does not match [120]seconds. Not merging [https://anilist.co/anime/5322] into [https://kitsu.io/anime/4057, https://myanimelist.net/anime/5322].
-Duration [240]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/14258] into [https://kitsu.io/anime/42018].
-Duration [240]seconds does not match [1560]seconds. Not merging [https://anilist.co/anime/104009] into [https://kitsu.io/anime/42018].
+Duration [240]seconds does not match [120]seconds. Not merging [https://kitsu.io/anime/11534] into [https://anidb.net/anime/10414].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/10124] into [https://anilist.co/anime/18799, https://kitsu.io/anime/8775, https://myanimelist.net/anime/18799].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/10228] into [https://kitsu.io/anime/8099, https://myanimelist.net/anime/21067].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/10269] into [https://kitsu.io/anime/9062, https://myanimelist.net/anime/21277].
@@ -5009,7 +5022,6 @@ Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.ne
 Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/10785] into [https://anilist.co/anime/20816, https://kitsu.io/anime/8812, https://myanimelist.net/anime/25875].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/10879] into [https://kitsu.io/anime/9949, https://myanimelist.net/anime/27927].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/10887] into [https://kitsu.io/anime/9957, https://myanimelist.net/anime/27957].
-Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/10902] into [https://anilist.co/anime/20929].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/11081] into [https://kitsu.io/anime/10620, https://myanimelist.net/anime/30127].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/11084] into [https://kitsu.io/anime/10667, https://myanimelist.net/anime/30131].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/11172] into [https://kitsu.io/anime/10924, https://myanimelist.net/anime/30746].
@@ -5045,6 +5057,7 @@ Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.ne
 Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/12192] into [https://anilist.co/anime/21837, https://kitsu.io/anime/12482, https://myanimelist.net/anime/33392].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/12214] into [https://anilist.co/anime/103409, https://kitsu.io/anime/10431, https://myanimelist.net/anime/29766].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/12226] into [https://kitsu.io/anime/12556, https://myanimelist.net/anime/33462].
+Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/12360] into [https://anilist.co/anime/10870].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/12465] into [https://anilist.co/anime/97715, https://kitsu.io/anime/12706, https://myanimelist.net/anime/34222].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/12471] into [https://anilist.co/anime/102160, https://kitsu.io/anime/12572, https://myanimelist.net/anime/33534].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/12557] into [https://myanimelist.net/anime/34411].
@@ -5108,7 +5121,7 @@ Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.ne
 Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/7429] into [https://anilist.co/anime/6607, https://kitsu.io/anime/4632, https://myanimelist.net/anime/6607].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/7894] into [https://kitsu.io/anime/10843, https://myanimelist.net/anime/30241].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/8331] into [https://anilist.co/anime/18047, https://kitsu.io/anime/8914, https://myanimelist.net/anime/18047].
-Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/8365] into [https://anilist.co/anime/15527].
+Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/8365] into [https://anilist.co/anime/15527, https://kitsu.io/anime/8835].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/8393] into [https://kitsu.io/anime/6297, https://myanimelist.net/anime/10691].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/8444] into [https://anilist.co/anime/9732, https://kitsu.io/anime/5839, https://myanimelist.net/anime/9732].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/8768] into [https://anilist.co/anime/11543, https://kitsu.io/anime/6533, https://myanimelist.net/anime/11543].
@@ -5182,6 +5195,7 @@ Duration [240]seconds does not match [180]seconds. Not merging [https://anilist.
 Duration [240]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/21343] into [https://kitsu.io/anime/11369, https://myanimelist.net/anime/31578].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/21570] into [https://myanimelist.net/anime/32454].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/21666] into [https://kitsu.io/anime/11871, https://myanimelist.net/anime/32829].
+Duration [240]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/21897] into [https://anidb.net/anime/12322].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/6628] into [https://myanimelist.net/anime/6628].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/9056] into [https://anidb.net/anime/7954, https://kitsu.io/anime/5589, https://myanimelist.net/anime/9056].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/9733] into [https://kitsu.io/anime/5840, https://myanimelist.net/anime/9733].
@@ -5196,7 +5210,6 @@ Duration [240]seconds does not match [180]seconds. Not merging [https://anilist.
 Duration [240]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/99790] into [https://myanimelist.net/anime/36119].
 Duration [240]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/99950] into [https://kitsu.io/anime/10463, https://myanimelist.net/anime/29943].
 Duration [240]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/10580] into [https://anidb.net/anime/13344, https://anilist.co/anime/102626, https://myanimelist.net/anime/29989].
-Duration [240]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/11533] into [https://anidb.net/anime/9628].
 Duration [240]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/11685] into [https://myanimelist.net/anime/32454].
 Duration [240]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/11849] into [https://anilist.co/anime/103952, https://myanimelist.net/anime/32767].
 Duration [240]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/13065] into [https://myanimelist.net/anime/34411].
@@ -5218,8 +5231,7 @@ Duration [240]seconds does not match [180]seconds. Not merging [https://kitsu.io
 Duration [240]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/5671] into [https://myanimelist.net/anime/9318].
 Duration [240]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/8833] into [https://myanimelist.net/anime/20929].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/11072] into [https://anilist.co/anime/21052, https://kitsu.io/anime/10588, https://myanimelist.net/anime/30013].
-Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/11081] into [https://anilist.co/anime/21059].
-Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/11172] into [https://anilist.co/anime/21156].
+Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/11498] into [https://anilist.co/anime/21302].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/11636] into [https://kitsu.io/anime/11019, https://myanimelist.net/anime/30893].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/11864] into [https://kitsu.io/anime/11811].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/11925] into [https://anilist.co/anime/21641, https://kitsu.io/anime/11829, https://myanimelist.net/anime/32697].
@@ -5227,43 +5239,46 @@ Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.ne
 Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/12226] into [https://anilist.co/anime/21854].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/12388] into [https://kitsu.io/anime/10378, https://myanimelist.net/anime/29821].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/12527] into [https://anilist.co/anime/3923, https://kitsu.io/anime/3354, https://myanimelist.net/anime/3923].
-Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/12921] into [https://kitsu.io/anime/13245].
+Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/13559] into [https://anilist.co/anime/100871].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/13753] into [https://kitsu.io/anime/41086].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/14021] into [https://anilist.co/anime/102453].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/14489] into [https://myanimelist.net/anime/38673].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/4312] into [https://anilist.co/anime/17613, https://kitsu.io/anime/9030, https://myanimelist.net/anime/17613].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/4442] into [https://anilist.co/anime/2967, https://kitsu.io/anime/2685, https://myanimelist.net/anime/2967].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/4601] into [https://anilist.co/anime/1812, https://kitsu.io/anime/1630, https://myanimelist.net/anime/1812].
+Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/8043] into [https://anilist.co/anime/6505].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/8043] into [https://kitsu.io/anime/4585, https://myanimelist.net/anime/6505].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/9119] into [https://kitsu.io/anime/9911, https://myanimelist.net/anime/22585].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/100762] into [https://kitsu.io/anime/41016].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/101002] into [https://kitsu.io/anime/41086].
-Duration [240]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/10536] into [https://kitsu.io/anime/6230].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/105387] into [https://myanimelist.net/anime/38673].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/110465] into [https://kitsu.io/anime/8495, https://myanimelist.net/anime/20557].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/17637] into [https://anidb.net/anime/9622, https://kitsu.io/anime/7734, https://myanimelist.net/anime/17637].
+Duration [240]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/21568] into [https://kitsu.io/anime/11811].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/5322] into [https://anidb.net/anime/10758].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/6560] into [https://anidb.net/anime/8471].
-Duration [240]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/9733] into [https://anidb.net/anime/8436].
 Duration [240]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/99391] into [https://kitsu.io/anime/13901, https://myanimelist.net/anime/35818].
+Duration [240]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/10827] into [https://anidb.net/anime/12926].
+Duration [240]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/13679] into [https://anidb.net/anime/13313].
+Duration [240]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/13742] into [https://anidb.net/anime/13380].
 Duration [240]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/13905] into [https://anilist.co/anime/100133].
 Duration [240]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/14131] into [https://anidb.net/anime/13599, https://anilist.co/anime/100644, https://myanimelist.net/anime/36847].
 Duration [240]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/14152] into [https://myanimelist.net/anime/36196].
 Duration [240]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/41486] into [https://anilist.co/anime/103717, https://myanimelist.net/anime/37172].
+Duration [240]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/4611] into [https://anidb.net/anime/8471].
+Duration [240]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/8838] into [https://anilist.co/anime/20846].
 Duration [240]seconds does not match [360]seconds. Not merging [https://anidb.net/anime/10122] into [https://anilist.co/anime/18831, https://kitsu.io/anime/8593, https://myanimelist.net/anime/18831].
 Duration [240]seconds does not match [360]seconds. Not merging [https://anidb.net/anime/13531] into [https://anilist.co/anime/103181, https://kitsu.io/anime/41633, https://myanimelist.net/anime/36626].
 Duration [240]seconds does not match [360]seconds. Not merging [https://anidb.net/anime/9442] into [https://anilist.co/anime/103730, https://kitsu.io/anime/8474, https://myanimelist.net/anime/24047].
 Duration [240]seconds does not match [420]seconds. Not merging [https://kitsu.io/anime/41335] into [https://anilist.co/anime/108729, https://myanimelist.net/anime/37933].
 Duration [240]seconds does not match [60]seconds. Not merging [https://kitsu.io/anime/10827] into [https://myanimelist.net/anime/30427].
 Duration [240]seconds does not match [60]seconds. Not merging [https://kitsu.io/anime/13868] into [https://anilist.co/anime/103529, https://myanimelist.net/anime/36093].
-Duration [240]seconds does not match [60]seconds. Not merging [https://kitsu.io/anime/41144] into [https://anilist.co/anime/101279].
 Duration [240]seconds does not match [600]seconds. Not merging [https://anidb.net/anime/13204] into [https://anilist.co/anime/7459, https://kitsu.io/anime/4983, https://myanimelist.net/anime/7459].
 Duration [2400]seconds does not match [1260]seconds. Not merging [https://kitsu.io/anime/12803] into [https://myanimelist.net/anime/34259].
-Duration [2400]seconds does not match [1560]seconds. Not merging [https://anilist.co/anime/2702] into [https://anidb.net/anime/4702].
 Duration [2400]seconds does not match [1560]seconds. Not merging [https://kitsu.io/anime/6621] into [https://myanimelist.net/anime/11867].
-Duration [2400]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/10800] into [https://anilist.co/anime/21002].
 Duration [2400]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/11755] into [https://kitsu.io/anime/11495, https://myanimelist.net/anime/32012].
 Duration [2400]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/276] into [https://kitsu.io/anime/1400, https://myanimelist.net/anime/1560].
+Duration [2400]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/4180] into [https://anilist.co/anime/9177].
 Duration [2400]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/7691] into [https://anilist.co/anime/10564, https://kitsu.io/anime/6243, https://myanimelist.net/anime/10564].
 Duration [2400]seconds does not match [1800]seconds. Not merging [https://kitsu.io/anime/6621] into [https://anidb.net/anime/6301].
 Duration [2400]seconds does not match [1860]seconds. Not merging [https://anidb.net/anime/13379] into [https://kitsu.io/anime/40863, https://myanimelist.net/anime/36118].
@@ -5282,18 +5297,22 @@ Duration [2400]seconds does not match [2220]seconds. Not merging [https://anidb.
 Duration [2400]seconds does not match [2220]seconds. Not merging [https://anidb.net/anime/1388] into [https://anilist.co/anime/1115, https://kitsu.io/anime/999, https://myanimelist.net/anime/1115].
 Duration [2400]seconds does not match [2220]seconds. Not merging [https://anidb.net/anime/14070] into [https://myanimelist.net/anime/37827].
 Duration [2400]seconds does not match [2220]seconds. Not merging [https://anidb.net/anime/4955] into [https://myanimelist.net/anime/21489].
+Duration [2400]seconds does not match [2220]seconds. Not merging [https://anidb.net/anime/5010] into [https://anilist.co/anime/7482].
 Duration [2400]seconds does not match [2220]seconds. Not merging [https://anidb.net/anime/5275] into [https://anilist.co/anime/3011, https://kitsu.io/anime/2722, https://myanimelist.net/anime/3011].
 Duration [2400]seconds does not match [2220]seconds. Not merging [https://anidb.net/anime/6355] into [https://anilist.co/anime/6148, https://kitsu.io/anime/4444, https://myanimelist.net/anime/6148].
 Duration [2400]seconds does not match [2220]seconds. Not merging [https://anidb.net/anime/7230] into [https://anilist.co/anime/7591, https://kitsu.io/anime/5043, https://myanimelist.net/anime/7591].
 Duration [2400]seconds does not match [2220]seconds. Not merging [https://anidb.net/anime/928] into [https://kitsu.io/anime/1481, https://myanimelist.net/anime/1647].
 Duration [2400]seconds does not match [2220]seconds. Not merging [https://anilist.co/anime/104392] into [https://myanimelist.net/anime/21489].
 Duration [2400]seconds does not match [2220]seconds. Not merging [https://kitsu.io/anime/9582] into [https://myanimelist.net/anime/21489].
+Duration [2400]seconds does not match [2280]seconds. Not merging [https://anidb.net/anime/10009] into [https://anilist.co/anime/18619].
 Duration [2400]seconds does not match [2280]seconds. Not merging [https://anidb.net/anime/10800] into [https://kitsu.io/anime/9098, https://myanimelist.net/anime/27387].
+Duration [2400]seconds does not match [2280]seconds. Not merging [https://anidb.net/anime/3469] into [https://anilist.co/anime/1497, https://kitsu.io/anime/1343].
 Duration [2400]seconds does not match [2280]seconds. Not merging [https://anidb.net/anime/347] into [https://kitsu.io/anime/1330, https://myanimelist.net/anime/1484].
 Duration [2400]seconds does not match [2280]seconds. Not merging [https://anidb.net/anime/4013] into [https://anilist.co/anime/3462, https://myanimelist.net/anime/3462].
 Duration [2400]seconds does not match [2280]seconds. Not merging [https://anidb.net/anime/6976] into [https://kitsu.io/anime/9780].
 Duration [2400]seconds does not match [2280]seconds. Not merging [https://anidb.net/anime/7696] into [https://kitsu.io/anime/9356, https://myanimelist.net/anime/17473].
 Duration [2400]seconds does not match [2280]seconds. Not merging [https://anidb.net/anime/773] into [https://kitsu.io/anime/1617, https://myanimelist.net/anime/1797].
+Duration [2400]seconds does not match [2280]seconds. Not merging [https://anidb.net/anime/928] into [https://anilist.co/anime/1647].
 Duration [2400]seconds does not match [2280]seconds. Not merging [https://anilist.co/anime/1484] into [https://kitsu.io/anime/1330, https://myanimelist.net/anime/1484].
 Duration [2400]seconds does not match [2280]seconds. Not merging [https://anilist.co/anime/17473] into [https://kitsu.io/anime/9356, https://myanimelist.net/anime/17473].
 Duration [2400]seconds does not match [2280]seconds. Not merging [https://anilist.co/anime/1797] into [https://kitsu.io/anime/1617, https://myanimelist.net/anime/1797].
@@ -5303,7 +5322,6 @@ Duration [2400]seconds does not match [2340]seconds. Not merging [https://anidb.
 Duration [2400]seconds does not match [2340]seconds. Not merging [https://anidb.net/anime/2287] into [https://anilist.co/anime/3276, https://kitsu.io/anime/2902, https://myanimelist.net/anime/3276].
 Duration [2400]seconds does not match [2340]seconds. Not merging [https://anidb.net/anime/3191] into [https://anilist.co/anime/3215, https://kitsu.io/anime/2861, https://myanimelist.net/anime/3215].
 Duration [2400]seconds does not match [2340]seconds. Not merging [https://anidb.net/anime/3469] into [https://myanimelist.net/anime/1497].
-Duration [2400]seconds does not match [2340]seconds. Not merging [https://anidb.net/anime/3470] into [https://anilist.co/anime/3472, https://kitsu.io/anime/3034].
 Duration [2400]seconds does not match [2340]seconds. Not merging [https://anidb.net/anime/4004] into [https://anilist.co/anime/2526, https://kitsu.io/anime/2291, https://myanimelist.net/anime/2526].
 Duration [2400]seconds does not match [2340]seconds. Not merging [https://anidb.net/anime/67] into [https://anilist.co/anime/474, https://kitsu.io/anime/436, https://myanimelist.net/anime/474].
 Duration [2400]seconds does not match [2340]seconds. Not merging [https://anidb.net/anime/7327] into [https://kitsu.io/anime/8877, https://myanimelist.net/anime/21179].
@@ -5314,7 +5332,7 @@ Duration [2400]seconds does not match [2340]seconds. Not merging [https://anidb.
 Duration [2400]seconds does not match [2340]seconds. Not merging [https://anilist.co/anime/100110] into [https://kitsu.io/anime/8877, https://myanimelist.net/anime/21179].
 Duration [2400]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/42256] into [https://myanimelist.net/anime/38653].
 Duration [2400]seconds does not match [2460]seconds. Not merging [https://anidb.net/anime/4180] into [https://kitsu.io/anime/5625, https://myanimelist.net/anime/9177].
-Duration [2400]seconds does not match [2460]seconds. Not merging [https://anidb.net/anime/59] into [https://anilist.co/anime/1952, https://kitsu.io/anime/1758].
+Duration [2400]seconds does not match [2460]seconds. Not merging [https://anidb.net/anime/59] into [https://kitsu.io/anime/1758].
 Duration [2400]seconds does not match [2460]seconds. Not merging [https://anidb.net/anime/9498] into [https://kitsu.io/anime/9625, https://myanimelist.net/anime/21975].
 Duration [2400]seconds does not match [2460]seconds. Not merging [https://anilist.co/anime/2397] into [https://myanimelist.net/anime/2397].
 Duration [2400]seconds does not match [2460]seconds. Not merging [https://kitsu.io/anime/6621] into [https://anilist.co/anime/11867].
@@ -5328,8 +5346,9 @@ Duration [2400]seconds does not match [2580]seconds. Not merging [https://anidb.
 Duration [2400]seconds does not match [2580]seconds. Not merging [https://anidb.net/anime/7185] into [https://anilist.co/anime/7279, https://myanimelist.net/anime/7279].
 Duration [2400]seconds does not match [2580]seconds. Not merging [https://anidb.net/anime/7780] into [https://kitsu.io/anime/13224, https://myanimelist.net/anime/32622].
 Duration [2400]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/919] into [https://kitsu.io/anime/458, https://myanimelist.net/anime/498].
-Duration [2400]seconds does not match [2700]seconds. Not merging [https://anilist.co/anime/2397] into [https://anidb.net/anime/1149].
+Duration [2400]seconds does not match [2700]seconds. Not merging [https://anilist.co/anime/1280] into [https://anidb.net/anime/611].
 Duration [2400]seconds does not match [2700]seconds. Not merging [https://anilist.co/anime/498] into [https://kitsu.io/anime/458, https://myanimelist.net/anime/498].
+Duration [2400]seconds does not match [2700]seconds. Not merging [https://anilist.co/anime/5151] into [https://anidb.net/anime/5265].
 Duration [2400]seconds does not match [2700]seconds. Not merging [https://anilist.co/anime/9349] into [https://anidb.net/anime/3135, https://kitsu.io/anime/5696, https://myanimelist.net/anime/9349].
 Duration [2400]seconds does not match [3120]seconds. Not merging [https://anidb.net/anime/11] into [https://kitsu.io/anime/728, https://myanimelist.net/anime/821].
 Duration [2400]seconds does not match [3120]seconds. Not merging [https://anilist.co/anime/821] into [https://kitsu.io/anime/728, https://myanimelist.net/anime/821].
@@ -5339,6 +5358,7 @@ Duration [2460]seconds does not match [1800]seconds. Not merging [https://anilis
 Duration [2460]seconds does not match [2340]seconds. Not merging [https://anilist.co/anime/20970] into [https://kitsu.io/anime/9149, https://myanimelist.net/anime/25801].
 Duration [2460]seconds does not match [2400]seconds. Not merging [https://anidb.net/anime/12328] into [https://myanimelist.net/anime/39827].
 Duration [2460]seconds does not match [2400]seconds. Not merging [https://anilist.co/anime/100656] into [https://anidb.net/anime/13611, https://kitsu.io/anime/14041, https://myanimelist.net/anime/36861].
+Duration [2460]seconds does not match [2400]seconds. Not merging [https://anilist.co/anime/1952] into [https://anidb.net/anime/59].
 Duration [2460]seconds does not match [2580]seconds. Not merging [https://anilist.co/anime/1952] into [https://myanimelist.net/anime/1952].
 Duration [2460]seconds does not match [2580]seconds. Not merging [https://anilist.co/anime/5928] into [https://myanimelist.net/anime/5928].
 Duration [2460]seconds does not match [2580]seconds. Not merging [https://kitsu.io/anime/1758] into [https://myanimelist.net/anime/1952].
@@ -5351,12 +5371,12 @@ Duration [2520]seconds does not match [2640]seconds. Not merging [https://anilis
 Duration [2520]seconds does not match [2700]seconds. Not merging [https://anilist.co/anime/1658] into [https://anidb.net/anime/1871].
 Duration [2520]seconds does not match [2700]seconds. Not merging [https://anilist.co/anime/5177] into [https://anidb.net/anime/6322].
 Duration [2520]seconds does not match [2700]seconds. Not merging [https://anilist.co/anime/8643] into [https://anidb.net/anime/4755, https://kitsu.io/anime/5412, https://myanimelist.net/anime/8643].
-Duration [2580]seconds does not match [2700]seconds. Not merging [https://anilist.co/anime/1146] into [https://anidb.net/anime/2508].
+Duration [2640]seconds does not match [1200]seconds. Not merging [https://kitsu.io/anime/41460] into [https://anidb.net/anime/13992].
 Duration [2700]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/12526] into [https://kitsu.io/anime/12726, https://myanimelist.net/anime/34350].
 Duration [2700]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/6085] into [https://kitsu.io/anime/3973, https://myanimelist.net/anime/5192].
-Duration [2700]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/12526] into [https://anilist.co/anime/97821].
 Duration [2700]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/2648] into [https://anilist.co/anime/5926, https://kitsu.io/anime/4343, https://myanimelist.net/anime/5926].
 Duration [2700]seconds does not match [1740]seconds. Not merging [https://anilist.co/anime/9342] into [https://kitsu.io/anime/5689, https://myanimelist.net/anime/9342].
+Duration [2700]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/3997] into [https://anilist.co/anime/2712].
 Duration [2700]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/5295] into [https://anilist.co/anime/6096, https://kitsu.io/anime/4425, https://myanimelist.net/anime/6096].
 Duration [2700]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/6611] into [https://anilist.co/anime/12905].
 Duration [2700]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/7463] into [https://anilist.co/anime/6384, https://kitsu.io/anime/4542, https://myanimelist.net/anime/6384].
@@ -5374,11 +5394,10 @@ Duration [2700]seconds does not match [2220]seconds. Not merging [https://anidb.
 Duration [2700]seconds does not match [2220]seconds. Not merging [https://anilist.co/anime/5585] into [https://kitsu.io/anime/4182, https://myanimelist.net/anime/5585].
 Duration [2700]seconds does not match [2340]seconds. Not merging [https://anidb.net/anime/1871] into [https://kitsu.io/anime/1489, https://myanimelist.net/anime/1658].
 Duration [2700]seconds does not match [2340]seconds. Not merging [https://anidb.net/anime/2059] into [https://kitsu.io/anime/2791, https://myanimelist.net/anime/3095].
-Duration [2700]seconds does not match [2400]seconds. Not merging [https://anidb.net/anime/1149] into [https://kitsu.io/anime/7827].
+Duration [2700]seconds does not match [2400]seconds. Not merging [https://anidb.net/anime/1149] into [https://anilist.co/anime/2397, https://kitsu.io/anime/7827].
 Duration [2700]seconds does not match [2400]seconds. Not merging [https://anidb.net/anime/2528] into [https://anilist.co/anime/3031, https://kitsu.io/anime/2737, https://myanimelist.net/anime/3031].
 Duration [2700]seconds does not match [2400]seconds. Not merging [https://anidb.net/anime/4411] into [https://kitsu.io/anime/1396, https://myanimelist.net/anime/1556].
 Duration [2700]seconds does not match [2400]seconds. Not merging [https://anidb.net/anime/5078] into [https://anilist.co/anime/8889, https://kitsu.io/anime/5519, https://myanimelist.net/anime/8889].
-Duration [2700]seconds does not match [2400]seconds. Not merging [https://anidb.net/anime/5265] into [https://anilist.co/anime/5151].
 Duration [2700]seconds does not match [2400]seconds. Not merging [https://anidb.net/anime/6611] into [https://kitsu.io/anime/6845, https://myanimelist.net/anime/12905].
 Duration [2700]seconds does not match [2400]seconds. Not merging [https://anidb.net/anime/9069] into [https://anilist.co/anime/13303, https://kitsu.io/anime/6935, https://myanimelist.net/anime/13303].
 Duration [2700]seconds does not match [2400]seconds. Not merging [https://anilist.co/anime/1556] into [https://kitsu.io/anime/1396, https://myanimelist.net/anime/1556].
@@ -5399,6 +5418,7 @@ Duration [2700]seconds does not match [2520]seconds. Not merging [https://anidb.
 Duration [2700]seconds does not match [2520]seconds. Not merging [https://anidb.net/anime/5260] into [https://kitsu.io/anime/9765, https://myanimelist.net/anime/23819].
 Duration [2700]seconds does not match [2520]seconds. Not merging [https://anidb.net/anime/8359] into [https://anilist.co/anime/10603, https://kitsu.io/anime/6262, https://myanimelist.net/anime/10603].
 Duration [2700]seconds does not match [2520]seconds. Not merging [https://anidb.net/anime/844] into [https://myanimelist.net/anime/434].
+Duration [2700]seconds does not match [2520]seconds. Not merging [https://anidb.net/anime/8488] into [https://anilist.co/anime/4941].
 Duration [2700]seconds does not match [2520]seconds. Not merging [https://anilist.co/anime/2419] into [https://kitsu.io/anime/2195, https://myanimelist.net/anime/2419].
 Duration [2700]seconds does not match [2520]seconds. Not merging [https://anilist.co/anime/434] into [https://myanimelist.net/anime/434].
 Duration [2700]seconds does not match [2520]seconds. Not merging [https://anilist.co/anime/5990] into [https://myanimelist.net/anime/5990].
@@ -5414,6 +5434,7 @@ Duration [2700]seconds does not match [2580]seconds. Not merging [https://anidb.
 Duration [2700]seconds does not match [2580]seconds. Not merging [https://anidb.net/anime/8138] into [https://myanimelist.net/anime/10260].
 Duration [2700]seconds does not match [2580]seconds. Not merging [https://anidb.net/anime/946] into [https://anilist.co/anime/1244, https://kitsu.io/anime/1119, https://myanimelist.net/anime/1244].
 Duration [2700]seconds does not match [2580]seconds. Not merging [https://anidb.net/anime/951] into [https://anilist.co/anime/3898, https://kitsu.io/anime/3332, https://myanimelist.net/anime/3898].
+Duration [2700]seconds does not match [2580]seconds. Not merging [https://anidb.net/anime/952] into [https://anilist.co/anime/4406].
 Duration [2700]seconds does not match [2580]seconds. Not merging [https://anidb.net/anime/952] into [https://kitsu.io/anime/3597, https://myanimelist.net/anime/4406].
 Duration [2700]seconds does not match [2580]seconds. Not merging [https://anilist.co/anime/16255] into [https://kitsu.io/anime/7396, https://myanimelist.net/anime/16255].
 Duration [2700]seconds does not match [2580]seconds. Not merging [https://anilist.co/anime/6447] into [https://myanimelist.net/anime/6447].
@@ -5435,14 +5456,13 @@ Duration [2700]seconds does not match [2640]seconds. Not merging [https://anilis
 Duration [2700]seconds does not match [2640]seconds. Not merging [https://anilist.co/anime/8898] into [https://kitsu.io/anime/5525, https://myanimelist.net/anime/8898].
 Duration [2700]seconds does not match [2640]seconds. Not merging [https://kitsu.io/anime/8491] into [https://myanimelist.net/anime/23363].
 Duration [2700]seconds does not match [2760]seconds. Not merging [https://anidb.net/anime/1526] into [https://kitsu.io/anime/2100, https://myanimelist.net/anime/2318].
-Duration [2700]seconds does not match [2760]seconds. Not merging [https://anidb.net/anime/3138] into [https://anilist.co/anime/5554, https://kitsu.io/anime/4157].
+Duration [2700]seconds does not match [2760]seconds. Not merging [https://anidb.net/anime/3488] into [https://anilist.co/anime/10554, https://kitsu.io/anime/6240].
 Duration [2700]seconds does not match [2760]seconds. Not merging [https://anidb.net/anime/419] into [https://anilist.co/anime/917, https://kitsu.io/anime/817, https://myanimelist.net/anime/917].
 Duration [2700]seconds does not match [2760]seconds. Not merging [https://anidb.net/anime/51] into [https://anilist.co/anime/191, https://kitsu.io/anime/168, https://myanimelist.net/anime/191].
 Duration [2700]seconds does not match [2760]seconds. Not merging [https://anidb.net/anime/52] into [https://kitsu.io/anime/169, https://myanimelist.net/anime/192].
 Duration [2700]seconds does not match [2760]seconds. Not merging [https://anidb.net/anime/9589] into [https://anilist.co/anime/16782, https://kitsu.io/anime/7515, https://myanimelist.net/anime/16782].
 Duration [2700]seconds does not match [2760]seconds. Not merging [https://anilist.co/anime/151] into [https://myanimelist.net/anime/151].
 Duration [2700]seconds does not match [2760]seconds. Not merging [https://kitsu.io/anime/129] into [https://myanimelist.net/anime/151].
-Duration [2700]seconds does not match [2820]seconds. Not merging [https://anidb.net/anime/1487] into [https://anilist.co/anime/1285].
 Duration [2700]seconds does not match [2820]seconds. Not merging [https://anidb.net/anime/1487] into [https://kitsu.io/anime/1159, https://myanimelist.net/anime/1285].
 Duration [2700]seconds does not match [2820]seconds. Not merging [https://anidb.net/anime/1803] into [https://kitsu.io/anime/1618, https://myanimelist.net/anime/1798].
 Duration [2700]seconds does not match [2820]seconds. Not merging [https://anidb.net/anime/4233] into [https://kitsu.io/anime/2691, https://myanimelist.net/anime/2974].
@@ -5459,34 +5479,29 @@ Duration [2700]seconds does not match [2880]seconds. Not merging [https://anilis
 Duration [2700]seconds does not match [2880]seconds. Not merging [https://kitsu.io/anime/4348] into [https://myanimelist.net/anime/5931].
 Duration [2700]seconds does not match [2880]seconds. Not merging [https://kitsu.io/anime/574] into [https://myanimelist.net/anime/619].
 Duration [2700]seconds does not match [2940]seconds. Not merging [https://anidb.net/anime/7295] into [https://anilist.co/anime/7897, https://kitsu.io/anime/5152, https://myanimelist.net/anime/7897].
-Duration [2700]seconds does not match [3000]seconds. Not merging [https://anidb.net/anime/1526] into [https://anilist.co/anime/2318].
 Duration [2700]seconds does not match [3000]seconds. Not merging [https://anidb.net/anime/457] into [https://anilist.co/anime/1043, https://kitsu.io/anime/933, https://myanimelist.net/anime/1043].
-Duration [2700]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/1340] into [https://anidb.net/anime/1223].
-Duration [2700]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/2053] into [https://anidb.net/anime/1588].
 Duration [2700]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/2064] into [https://anidb.net/anime/2115, https://kitsu.io/anime/1863, https://myanimelist.net/anime/2064].
-Duration [2700]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/6076] into [https://anidb.net/anime/4317].
-Duration [2700]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/619] into [https://anidb.net/anime/2249].
+Duration [2700]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/3127] into [https://anidb.net/anime/4434].
+Duration [2700]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/5931] into [https://anidb.net/anime/4006].
 Duration [2700]seconds does not match [3000]seconds. Not merging [https://kitsu.io/anime/574] into [https://anidb.net/anime/2249].
 Duration [2700]seconds does not match [3300]seconds. Not merging [https://anidb.net/anime/6759] into [https://kitsu.io/anime/6398, https://myanimelist.net/anime/10901].
 Duration [2700]seconds does not match [3300]seconds. Not merging [https://anidb.net/anime/9457] into [https://kitsu.io/anime/7596, https://myanimelist.net/anime/17157].
 Duration [2700]seconds does not match [3300]seconds. Not merging [https://anilist.co/anime/3599] into [https://anidb.net/anime/975, https://kitsu.io/anime/3131, https://myanimelist.net/anime/3599].
-Duration [2700]seconds does not match [3360]seconds. Not merging [https://anidb.net/anime/9457] into [https://anilist.co/anime/17157].
 Duration [2700]seconds does not match [4980]seconds. Not merging [https://anidb.net/anime/8138] into [https://kitsu.io/anime/6104].
 Duration [2760]seconds does not match [1980]seconds. Not merging [https://anilist.co/anime/5554] into [https://myanimelist.net/anime/5554].
 Duration [2760]seconds does not match [1980]seconds. Not merging [https://kitsu.io/anime/4157] into [https://myanimelist.net/anime/5554].
-Duration [2760]seconds does not match [2700]seconds. Not merging [https://anilist.co/anime/10554] into [https://anidb.net/anime/3488].
-Duration [2760]seconds does not match [2700]seconds. Not merging [https://kitsu.io/anime/6240] into [https://anidb.net/anime/3488].
+Duration [2760]seconds does not match [2700]seconds. Not merging [https://anilist.co/anime/5554] into [https://anidb.net/anime/3138].
+Duration [2760]seconds does not match [2700]seconds. Not merging [https://kitsu.io/anime/4157] into [https://anidb.net/anime/3138].
 Duration [2760]seconds does not match [2820]seconds. Not merging [https://kitsu.io/anime/1009] into [https://myanimelist.net/anime/1126].
 Duration [2760]seconds does not match [2820]seconds. Not merging [https://kitsu.io/anime/2414] into [https://myanimelist.net/anime/2650].
 Duration [2760]seconds does not match [3000]seconds. Not merging [https://kitsu.io/anime/1009] into [https://anidb.net/anime/225].
+Duration [2820]seconds does not match [2700]seconds. Not merging [https://anilist.co/anime/1285] into [https://anidb.net/anime/1487].
 Duration [2820]seconds does not match [2760]seconds. Not merging [https://anilist.co/anime/2068] into [https://myanimelist.net/anime/2068].
 Duration [2820]seconds does not match [2760]seconds. Not merging [https://anilist.co/anime/2199] into [https://kitsu.io/anime/1990, https://myanimelist.net/anime/2199].
 Duration [2820]seconds does not match [2760]seconds. Not merging [https://anilist.co/anime/98095] into [https://kitsu.io/anime/12827, https://myanimelist.net/anime/34475].
 Duration [2820]seconds does not match [2760]seconds. Not merging [https://kitsu.io/anime/1867] into [https://myanimelist.net/anime/2068].
 Duration [2820]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/105196] into [https://anidb.net/anime/2409, https://kitsu.io/anime/9384, https://myanimelist.net/anime/21749].
 Duration [2820]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/16480] into [https://kitsu.io/anime/7438, https://myanimelist.net/anime/16480].
-Duration [2820]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/16994] into [https://anidb.net/anime/7689].
-Duration [2820]seconds does not match [3000]seconds. Not merging [https://kitsu.io/anime/7563] into [https://anidb.net/anime/7689].
 Duration [2820]seconds does not match [3300]seconds. Not merging [https://anilist.co/anime/2068] into [https://anidb.net/anime/2889].
 Duration [2880]seconds does not match [2220]seconds. Not merging [https://anilist.co/anime/1168] into [https://myanimelist.net/anime/1168].
 Duration [2880]seconds does not match [2220]seconds. Not merging [https://kitsu.io/anime/1049] into [https://myanimelist.net/anime/1168].
@@ -5494,31 +5509,32 @@ Duration [2880]seconds does not match [2820]seconds. Not merging [https://anilis
 Duration [2880]seconds does not match [2820]seconds. Not merging [https://anilist.co/anime/6097] into [https://myanimelist.net/anime/6097].
 Duration [2880]seconds does not match [2820]seconds. Not merging [https://kitsu.io/anime/12892] into [https://myanimelist.net/anime/34375].
 Duration [2880]seconds does not match [2820]seconds. Not merging [https://kitsu.io/anime/2356] into [https://myanimelist.net/anime/2592].
-Duration [2880]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/108339] into [https://anidb.net/anime/8845, https://kitsu.io/anime/9809].
+Duration [2880]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/108339] into [https://kitsu.io/anime/9809].
+Duration [2880]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/2592] into [https://anidb.net/anime/1479].
 Duration [2880]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/5584] into [https://kitsu.io/anime/4181, https://myanimelist.net/anime/5584].
+Duration [2880]seconds does not match [3000]seconds. Not merging [https://kitsu.io/anime/2356] into [https://anidb.net/anime/1479].
 Duration [2940]seconds does not match [2700]seconds. Not merging [https://kitsu.io/anime/8194] into [https://anidb.net/anime/10298, https://myanimelist.net/anime/21497].
 Duration [2940]seconds does not match [2820]seconds. Not merging [https://anilist.co/anime/3306] into [https://kitsu.io/anime/2924, https://myanimelist.net/anime/3306].
 Duration [2940]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/21368] into [https://kitsu.io/anime/11563, https://myanimelist.net/anime/31829].
+Duration [2940]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/3306] into [https://anidb.net/anime/4314].
 Duration [2940]seconds does not match [3000]seconds. Not merging [https://kitsu.io/anime/695] into [https://anidb.net/anime/3296].
 Duration [2940]seconds does not match [3000]seconds. Not merging [https://kitsu.io/anime/695] into [https://anilist.co/anime/777, https://myanimelist.net/anime/777].
 Duration [300]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/10143] into [https://anilist.co/anime/102416, https://kitsu.io/anime/8925, https://myanimelist.net/anime/20707].
 Duration [300]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/10758] into [https://kitsu.io/anime/4057, https://myanimelist.net/anime/5322].
 Duration [300]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/11814] into [https://kitsu.io/anime/12368, https://myanimelist.net/anime/31673].
 Duration [300]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/14478] into [https://kitsu.io/anime/41912, https://myanimelist.net/anime/38068].
-Duration [300]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/15083] into [https://anilist.co/anime/21810].
 Duration [300]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/15083] into [https://kitsu.io/anime/12258, https://myanimelist.net/anime/33290].
 Duration [300]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/6221] into [https://kitsu.io/anime/6432, https://myanimelist.net/anime/10989].
 Duration [300]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/7451] into [https://anilist.co/anime/6658, https://kitsu.io/anime/4652, https://myanimelist.net/anime/6658].
 Duration [300]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/7452] into [https://anilist.co/anime/8353, https://kitsu.io/anime/5303, https://myanimelist.net/anime/8353].
 Duration [300]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/8456] into [https://anilist.co/anime/7295, https://kitsu.io/anime/4931, https://myanimelist.net/anime/7295].
-Duration [300]seconds does not match [120]seconds. Not merging [https://anilist.co/anime/1105] into [https://anidb.net/anime/2714].
 Duration [300]seconds does not match [120]seconds. Not merging [https://anilist.co/anime/110693] into [https://kitsu.io/anime/41912, https://myanimelist.net/anime/38068].
 Duration [300]seconds does not match [120]seconds. Not merging [https://kitsu.io/anime/12606] into [https://anidb.net/anime/12435, https://myanimelist.net/anime/34156].
 Duration [300]seconds does not match [120]seconds. Not merging [https://kitsu.io/anime/12838] into [https://myanimelist.net/anime/34456].
 Duration [300]seconds does not match [120]seconds. Not merging [https://kitsu.io/anime/13899] into [https://myanimelist.net/anime/36166].
-Duration [300]seconds does not match [1260]seconds. Not merging [https://anilist.co/anime/8723] into [https://kitsu.io/anime/5460].
 Duration [300]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/5537] into [https://anilist.co/anime/4444, https://kitsu.io/anime/3611, https://myanimelist.net/anime/4444].
 Duration [300]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/7584] into [https://myanimelist.net/anime/17106].
+Duration [300]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/8723] into [https://anidb.net/anime/5136].
 Duration [300]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/10255] into [https://kitsu.io/anime/8092, https://myanimelist.net/anime/21267].
 Duration [300]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/10580] into [https://kitsu.io/anime/8498, https://myanimelist.net/anime/23551].
 Duration [300]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/11246] into [https://anilist.co/anime/21200, https://kitsu.io/anime/10945, https://myanimelist.net/anime/30777].
@@ -5527,6 +5543,7 @@ Duration [300]seconds does not match [180]seconds. Not merging [https://anidb.ne
 Duration [300]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/12831] into [https://anilist.co/anime/98752, https://kitsu.io/anime/13745, https://myanimelist.net/anime/34928].
 Duration [300]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/13380] into [https://myanimelist.net/anime/36119].
 Duration [300]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/14323] into [https://kitsu.io/anime/9841, https://myanimelist.net/anime/20529].
+Duration [300]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/14657] into [https://anilist.co/anime/109149, https://myanimelist.net/anime/39230].
 Duration [300]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/6354] into [https://kitsu.io/anime/10821, https://myanimelist.net/anime/30235].
 Duration [300]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/7187] into [https://anilist.co/anime/7561, https://myanimelist.net/anime/7561].
 Duration [300]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/7213] into [https://kitsu.io/anime/12366, https://myanimelist.net/anime/33123].
@@ -5535,10 +5552,9 @@ Duration [300]seconds does not match [180]seconds. Not merging [https://anidb.ne
 Duration [300]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/8436] into [https://kitsu.io/anime/5840, https://myanimelist.net/anime/9733].
 Duration [300]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/8544] into [https://anilist.co/anime/11189, https://kitsu.io/anime/6471, https://myanimelist.net/anime/11189].
 Duration [300]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/8685] into [https://anilist.co/anime/11487, https://kitsu.io/anime/6518, https://myanimelist.net/anime/11487].
-Duration [300]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/8769] into [https://anilist.co/anime/11511].
+Duration [300]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/9009] into [https://anilist.co/anime/7020].
 Duration [300]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/9257] into [https://anilist.co/anime/14355, https://kitsu.io/anime/7117, https://myanimelist.net/anime/14355].
 Duration [300]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/9488] into [https://anilist.co/anime/13405, https://kitsu.io/anime/6955, https://myanimelist.net/anime/13405].
-Duration [300]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/9522] into [https://anilist.co/anime/16405].
 Duration [300]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/9583] into [https://anilist.co/anime/16908, https://kitsu.io/anime/7548, https://myanimelist.net/anime/16908].
 Duration [300]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/100871] into [https://kitsu.io/anime/40587, https://myanimelist.net/anime/36728].
 Duration [300]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/10908] into [https://anidb.net/anime/8634, https://kitsu.io/anime/6402, https://myanimelist.net/anime/10908].
@@ -5554,19 +5570,19 @@ Duration [300]seconds does not match [180]seconds. Not merging [https://anilist.
 Duration [300]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/21782] into [https://kitsu.io/anime/12103, https://myanimelist.net/anime/33222].
 Duration [300]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/21854] into [https://kitsu.io/anime/12556, https://myanimelist.net/anime/33462].
 Duration [300]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/7189] into [https://anidb.net/anime/7028, https://myanimelist.net/anime/7189].
+Duration [300]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/97819] into [https://anidb.net/anime/12331].
 Duration [300]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/97819] into [https://kitsu.io/anime/12098, https://myanimelist.net/anime/31402].
 Duration [300]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/99055] into [https://myanimelist.net/anime/35730].
 Duration [300]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/11493] into [https://anilist.co/anime/21477, https://myanimelist.net/anime/32039].
 Duration [300]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/13235] into [https://myanimelist.net/anime/34823].
 Duration [300]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/13245] into [https://myanimelist.net/anime/35015].
-Duration [300]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/13899] into [https://anidb.net/anime/13398, https://anilist.co/anime/100282].
 Duration [300]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/14202] into [https://myanimelist.net/anime/36864].
 Duration [300]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/41014] into [https://myanimelist.net/anime/37320].
 Duration [300]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/41016] into [https://myanimelist.net/anime/36943].
 Duration [300]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/41086] into [https://myanimelist.net/anime/37188].
 Duration [300]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/41146] into [https://myanimelist.net/anime/37258].
 Duration [300]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/41292] into [https://anidb.net/anime/14077, https://anilist.co/anime/101632, https://myanimelist.net/anime/37873].
-Duration [300]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/42401] into [https://myanimelist.net/anime/39963].
+Duration [300]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/4834] into [https://anilist.co/anime/7020].
 Duration [300]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/4898] into [https://anidb.net/anime/7028, https://myanimelist.net/anime/7189].
 Duration [300]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/8598] into [https://myanimelist.net/anime/23679].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/10123] into [https://anilist.co/anime/13195, https://kitsu.io/anime/6908, https://myanimelist.net/anime/13195].
@@ -5614,7 +5630,6 @@ Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.ne
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/12751] into [https://anilist.co/anime/103542, https://kitsu.io/anime/12159, https://myanimelist.net/anime/33217].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/12802] into [https://anilist.co/anime/104100, https://kitsu.io/anime/8849, https://myanimelist.net/anime/22093].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/12841] into [https://anilist.co/anime/103417, https://kitsu.io/anime/13536, https://myanimelist.net/anime/35654].
-Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/12926] into [https://kitsu.io/anime/10827].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/12930] into [https://anilist.co/anime/102235, https://kitsu.io/anime/11523, https://myanimelist.net/anime/31873].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/12931] into [https://anilist.co/anime/103491, https://myanimelist.net/anime/29355].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/12947] into [https://kitsu.io/anime/13302, https://myanimelist.net/anime/35069].
@@ -5636,9 +5651,8 @@ Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.ne
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/13216] into [https://kitsu.io/anime/40969, https://myanimelist.net/anime/36551].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/13219] into [https://anilist.co/anime/98978, https://myanimelist.net/anime/35714].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/13234] into [https://kitsu.io/anime/8943, https://myanimelist.net/anime/25049].
-Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/13313] into [https://kitsu.io/anime/13679].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/13315] into [https://anilist.co/anime/102607, https://kitsu.io/anime/8870, https://myanimelist.net/anime/23043].
-Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/13380] into [https://anilist.co/anime/99790, https://kitsu.io/anime/13742].
+Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/13380] into [https://anilist.co/anime/99790].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/13796] into [https://anilist.co/anime/102554, https://kitsu.io/anime/11246, https://myanimelist.net/anime/30907].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/13877] into [https://anilist.co/anime/102787, https://kitsu.io/anime/40862, https://myanimelist.net/anime/36104].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/14088] into [https://anilist.co/anime/101743, https://myanimelist.net/anime/37893].
@@ -5664,9 +5678,9 @@ Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.ne
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/8385] into [https://anilist.co/anime/15529, https://kitsu.io/anime/8875, https://myanimelist.net/anime/15529].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/8386] into [https://anilist.co/anime/17151, https://kitsu.io/anime/8856, https://myanimelist.net/anime/17151].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/8432] into [https://anilist.co/anime/10445, https://kitsu.io/anime/6184, https://myanimelist.net/anime/10445].
+Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/8436] into [https://anilist.co/anime/9733].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/8437] into [https://anilist.co/anime/6666, https://kitsu.io/anime/4653, https://myanimelist.net/anime/6666].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/8461] into [https://anilist.co/anime/9801, https://kitsu.io/anime/5878, https://myanimelist.net/anime/9801].
-Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/8471] into [https://kitsu.io/anime/4611].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/8492] into [https://anilist.co/anime/13519, https://kitsu.io/anime/6987, https://myanimelist.net/anime/13519].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/8769] into [https://kitsu.io/anime/6525, https://myanimelist.net/anime/11511].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/8813] into [https://anilist.co/anime/12157, https://kitsu.io/anime/6679, https://myanimelist.net/anime/12157].
@@ -5708,10 +5722,10 @@ Duration [300]seconds does not match [240]seconds. Not merging [https://anilist.
 Duration [300]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/20669] into [https://kitsu.io/anime/8359, https://myanimelist.net/anime/22537].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/20726] into [https://anidb.net/anime/10727, https://kitsu.io/anime/8580, https://myanimelist.net/anime/24699].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/20750] into [https://kitsu.io/anime/8467, https://myanimelist.net/anime/23989].
-Duration [300]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/20846] into [https://kitsu.io/anime/8838].
+Duration [300]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/21059] into [https://anidb.net/anime/11081].
+Duration [300]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/21156] into [https://anidb.net/anime/11172].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/21179] into [https://anidb.net/anime/11213, https://kitsu.io/anime/10907, https://myanimelist.net/anime/30705].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/21192] into [https://kitsu.io/anime/10920, https://myanimelist.net/anime/30782].
-Duration [300]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/21302] into [https://anidb.net/anime/11498].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/21320] into [https://anidb.net/anime/11540, https://kitsu.io/anime/11347, https://myanimelist.net/anime/31519].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/21473] into [https://kitsu.io/anime/11484, https://myanimelist.net/anime/31994].
 Duration [300]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/21612] into [https://anidb.net/anime/11903, https://kitsu.io/anime/11785, https://myanimelist.net/anime/32606].
@@ -5738,12 +5752,11 @@ Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/10504] into [https://anilist.co/anime/102393, https://myanimelist.net/anime/29679].
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/11489] into [https://anilist.co/anime/103398, https://myanimelist.net/anime/32031].
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/11493] into [https://anidb.net/anime/11764].
-Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/11811] into [https://anilist.co/anime/21568].
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/11840] into [https://myanimelist.net/anime/32707].
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/12274] into [https://anidb.net/anime/12223, https://anilist.co/anime/21842, https://myanimelist.net/anime/33447].
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/12548] into [https://myanimelist.net/anime/38290].
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/12849] into [https://myanimelist.net/anime/33887].
-Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/13245] into [https://anilist.co/anime/98425].
+Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/13245] into [https://anidb.net/anime/12921, https://anilist.co/anime/98425].
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/13576] into [https://anilist.co/anime/98978, https://myanimelist.net/anime/35714].
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/13716] into [https://anilist.co/anime/100619, https://myanimelist.net/anime/36125].
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/13776] into [https://myanimelist.net/anime/36228].
@@ -5752,13 +5765,13 @@ Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/14202] into [https://anidb.net/anime/13613, https://anilist.co/anime/100645].
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/3016] into [https://myanimelist.net/anime/3447].
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/41054] into [https://anidb.net/anime/13897, https://anilist.co/anime/101314, https://myanimelist.net/anime/37448].
-Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/41146] into [https://anidb.net/anime/13781].
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/41146] into [https://anilist.co/anime/101042].
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/41431] into [https://myanimelist.net/anime/37021].
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/42264] into [https://anilist.co/anime/108848].
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/4654] into [https://myanimelist.net/anime/6667].
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/4834] into [https://myanimelist.net/anime/7020].
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/4977] into [https://myanimelist.net/anime/7451].
+Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/6230] into [https://anilist.co/anime/10536].
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/6925] into [https://anilist.co/anime/13255, https://myanimelist.net/anime/13255].
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/8867] into [https://myanimelist.net/anime/25549].
 Duration [300]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/9205] into [https://myanimelist.net/anime/25965].
@@ -5769,20 +5782,20 @@ Duration [300]seconds does not match [360]seconds. Not merging [https://anidb.ne
 Duration [300]seconds does not match [360]seconds. Not merging [https://anidb.net/anime/13268] into [https://kitsu.io/anime/12171, https://myanimelist.net/anime/32892].
 Duration [300]seconds does not match [360]seconds. Not merging [https://anidb.net/anime/6936] into [https://anilist.co/anime/109346, https://myanimelist.net/anime/28051].
 Duration [300]seconds does not match [360]seconds. Not merging [https://anidb.net/anime/6993] into [https://anilist.co/anime/7811].
-Duration [300]seconds does not match [360]seconds. Not merging [https://anidb.net/anime/7446] into [https://kitsu.io/anime/5175].
+Duration [300]seconds does not match [360]seconds. Not merging [https://anidb.net/anime/7446] into [https://anilist.co/anime/8025, https://kitsu.io/anime/5175].
 Duration [300]seconds does not match [360]seconds. Not merging [https://anidb.net/anime/7955] into [https://anilist.co/anime/9536, https://kitsu.io/anime/5780, https://myanimelist.net/anime/9536].
 Duration [300]seconds does not match [360]seconds. Not merging [https://anidb.net/anime/9558] into [https://anilist.co/anime/17068, https://kitsu.io/anime/8776, https://myanimelist.net/anime/17068].
 Duration [300]seconds does not match [360]seconds. Not merging [https://anilist.co/anime/104545] into [https://myanimelist.net/anime/30086].
-Duration [300]seconds does not match [360]seconds. Not merging [https://anilist.co/anime/104547] into [https://anidb.net/anime/11507].
 Duration [300]seconds does not match [360]seconds. Not merging [https://anilist.co/anime/20686] into [https://anidb.net/anime/10453, https://kitsu.io/anime/8357, https://myanimelist.net/anime/22759].
 Duration [300]seconds does not match [360]seconds. Not merging [https://kitsu.io/anime/10191] into [https://anilist.co/anime/109346, https://myanimelist.net/anime/28051].
 Duration [300]seconds does not match [360]seconds. Not merging [https://kitsu.io/anime/10638] into [https://myanimelist.net/anime/30086].
 Duration [300]seconds does not match [360]seconds. Not merging [https://kitsu.io/anime/12048] into [https://myanimelist.net/anime/33154].
+Duration [300]seconds does not match [360]seconds. Not merging [https://kitsu.io/anime/41431] into [https://anilist.co/anime/101970].
 Duration [300]seconds does not match [360]seconds. Not merging [https://kitsu.io/anime/42113] into [https://myanimelist.net/anime/38456].
 Duration [300]seconds does not match [360]seconds. Not merging [https://kitsu.io/anime/8373] into [https://myanimelist.net/anime/22635].
-Duration [300]seconds does not match [420]seconds. Not merging [https://anidb.net/anime/9455] into [https://anilist.co/anime/15781].
 Duration [300]seconds does not match [420]seconds. Not merging [https://anidb.net/anime/9455] into [https://kitsu.io/anime/7307, https://myanimelist.net/anime/15781].
 Duration [300]seconds does not match [420]seconds. Not merging [https://anilist.co/anime/104006] into [https://anidb.net/anime/13957, https://myanimelist.net/anime/37562].
+Duration [300]seconds does not match [420]seconds. Not merging [https://anilist.co/anime/21768] into [https://anidb.net/anime/12074].
 Duration [300]seconds does not match [4500]seconds. Not merging [https://anidb.net/anime/8744] into [https://kitsu.io/anime/3775, https://myanimelist.net/anime/4761].
 Duration [300]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/36] into [https://myanimelist.net/anime/637].
 Duration [300]seconds does not match [480]seconds. Not merging [https://anilist.co/anime/637] into [https://myanimelist.net/anime/637].
@@ -5793,7 +5806,7 @@ Duration [300]seconds does not match [60]seconds. Not merging [https://anidb.net
 Duration [300]seconds does not match [600]seconds. Not merging [https://anidb.net/anime/1163] into [https://anilist.co/anime/2182].
 Duration [300]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/9015] into [https://myanimelist.net/anime/9015].
 Duration [300]seconds does not match [600]seconds. Not merging [https://kitsu.io/anime/5577] into [https://myanimelist.net/anime/9015].
-Duration [300]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/7082] into [https://anilist.co/anime/8220].
+Duration [300]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/7082] into [https://anilist.co/anime/8220, https://kitsu.io/anime/5251].
 Duration [300]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/6841] into [https://anilist.co/anime/7498, https://myanimelist.net/anime/7498].
 Duration [300]seconds does not match [780]seconds. Not merging [https://anilist.co/anime/104547] into [https://kitsu.io/anime/10613, https://myanimelist.net/anime/30059].
 Duration [300]seconds does not match [780]seconds. Not merging [https://kitsu.io/anime/5003] into [https://anilist.co/anime/7498, https://myanimelist.net/anime/7498].
@@ -5804,15 +5817,15 @@ Duration [3000]seconds does not match [1440]seconds. Not merging [https://anidb.
 Duration [3000]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/13493] into [https://myanimelist.net/anime/36474].
 Duration [3000]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/14661] into [https://anilist.co/anime/107663, https://kitsu.io/anime/42148, https://myanimelist.net/anime/39198].
 Duration [3000]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/11370] into [https://kitsu.io/anime/11209, https://myanimelist.net/anime/31240].
+Duration [3000]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/13493] into [https://anilist.co/anime/100182].
 Duration [3000]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/191] into [https://anilist.co/anime/245, https://kitsu.io/anime/220, https://myanimelist.net/anime/245].
 Duration [3000]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/8791] into [https://anilist.co/anime/12031, https://kitsu.io/anime/6648, https://myanimelist.net/anime/12031].
+Duration [3000]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/9839] into [https://anilist.co/anime/7303].
 Duration [3000]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/11350] into [https://myanimelist.net/anime/31181].
 Duration [3000]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/8160] into [https://anilist.co/anime/10087].
 Duration [3000]seconds does not match [1680]seconds. Not merging [https://anidb.net/anime/8160] into [https://kitsu.io/anime/6028, https://myanimelist.net/anime/10087].
 Duration [3000]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/560] into [https://anilist.co/anime/2775, https://kitsu.io/anime/2531, https://myanimelist.net/anime/2775].
 Duration [3000]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/3429] into [https://anilist.co/anime/19515, https://kitsu.io/anime/9377, https://myanimelist.net/anime/19515].
-Duration [3000]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/7462] into [https://anilist.co/anime/5876, https://kitsu.io/anime/4317].
-Duration [3000]seconds does not match [1800]seconds. Not merging [https://kitsu.io/anime/4970] into [https://anidb.net/anime/2092].
 Duration [3000]seconds does not match [1920]seconds. Not merging [https://anidb.net/anime/6102] into [https://anilist.co/anime/20353, https://kitsu.io/anime/9825, https://myanimelist.net/anime/20353].
 Duration [3000]seconds does not match [1920]seconds. Not merging [https://anidb.net/anime/848] into [https://anilist.co/anime/1185, https://kitsu.io/anime/1065, https://myanimelist.net/anime/1185].
 Duration [3000]seconds does not match [2040]seconds. Not merging [https://anidb.net/anime/420] into [https://anilist.co/anime/1079, https://myanimelist.net/anime/1079].
@@ -5828,19 +5841,22 @@ Duration [3000]seconds does not match [2700]seconds. Not merging [https://anidb.
 Duration [3000]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/1477] into [https://anilist.co/anime/3448, https://kitsu.io/anime/3017, https://myanimelist.net/anime/3448].
 Duration [3000]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/1533] into [https://anilist.co/anime/1742, https://kitsu.io/anime/1562, https://myanimelist.net/anime/1742].
 Duration [3000]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/1568] into [https://anilist.co/anime/1476, https://kitsu.io/anime/1322, https://myanimelist.net/anime/1476].
+Duration [3000]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/1588] into [https://anilist.co/anime/2053].
 Duration [3000]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/1870] into [https://anilist.co/anime/2797, https://kitsu.io/anime/2553, https://myanimelist.net/anime/2797].
 Duration [3000]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/2124] into [https://anilist.co/anime/1452, https://kitsu.io/anime/1302, https://myanimelist.net/anime/1452].
+Duration [3000]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/2249] into [https://anilist.co/anime/619].
 Duration [3000]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/254] into [https://anilist.co/anime/2332, https://kitsu.io/anime/2112, https://myanimelist.net/anime/2332].
 Duration [3000]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/2755] into [https://anilist.co/anime/10481, https://kitsu.io/anime/6200, https://myanimelist.net/anime/10481].
 Duration [3000]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/2769] into [https://anilist.co/anime/6060, https://kitsu.io/anime/4402, https://myanimelist.net/anime/6060].
 Duration [3000]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/2790] into [https://kitsu.io/anime/1868, https://myanimelist.net/anime/2069].
 Duration [3000]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/3] into [https://myanimelist.net/anime/1225].
-Duration [3000]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/4006] into [https://anilist.co/anime/5931, https://kitsu.io/anime/4348].
-Duration [3000]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/4434] into [https://anilist.co/anime/3127].
+Duration [3000]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/4006] into [https://kitsu.io/anime/4348].
+Duration [3000]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/4317] into [https://anilist.co/anime/6076].
 Duration [3000]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/6304] into [https://anilist.co/anime/5781, https://kitsu.io/anime/4274, https://myanimelist.net/anime/5781].
 Duration [3000]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/7687] into [https://anilist.co/anime/1297, https://kitsu.io/anime/1169, https://myanimelist.net/anime/1297].
 Duration [3000]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/9184] into [https://kitsu.io/anime/9637, https://myanimelist.net/anime/25891].
 Duration [3000]seconds does not match [2700]seconds. Not merging [https://anilist.co/anime/17649] into [https://anidb.net/anime/4720, https://kitsu.io/anime/9685, https://myanimelist.net/anime/17649].
+Duration [3000]seconds does not match [2700]seconds. Not merging [https://anilist.co/anime/2318] into [https://anidb.net/anime/1526].
 Duration [3000]seconds does not match [2760]seconds. Not merging [https://anidb.net/anime/10016] into [https://anilist.co/anime/20567, https://kitsu.io/anime/8007, https://myanimelist.net/anime/21635].
 Duration [3000]seconds does not match [2760]seconds. Not merging [https://anidb.net/anime/10127] into [https://kitsu.io/anime/10108, https://myanimelist.net/anime/28353].
 Duration [3000]seconds does not match [2760]seconds. Not merging [https://anidb.net/anime/12359] into [https://anilist.co/anime/87539, https://kitsu.io/anime/12641, https://myanimelist.net/anime/34549].
@@ -5872,12 +5888,12 @@ Duration [3000]seconds does not match [2820]seconds. Not merging [https://anidb.
 Duration [3000]seconds does not match [2820]seconds. Not merging [https://anidb.net/anime/4314] into [https://kitsu.io/anime/2924, https://myanimelist.net/anime/3306].
 Duration [3000]seconds does not match [2820]seconds. Not merging [https://anidb.net/anime/5474] into [https://anilist.co/anime/3214, https://kitsu.io/anime/2860, https://myanimelist.net/anime/3214].
 Duration [3000]seconds does not match [2820]seconds. Not merging [https://anidb.net/anime/6514] into [https://anilist.co/anime/6419, https://kitsu.io/anime/4554, https://myanimelist.net/anime/6419].
+Duration [3000]seconds does not match [2820]seconds. Not merging [https://anidb.net/anime/7689] into [https://anilist.co/anime/16994, https://kitsu.io/anime/7563].
 Duration [3000]seconds does not match [2820]seconds. Not merging [https://anilist.co/anime/18061] into [https://kitsu.io/anime/9670, https://myanimelist.net/anime/18061].
 Duration [3000]seconds does not match [2880]seconds. Not merging [https://anidb.net/anime/1035] into [https://anilist.co/anime/3787, https://kitsu.io/anime/3253, https://myanimelist.net/anime/3787].
 Duration [3000]seconds does not match [2880]seconds. Not merging [https://anidb.net/anime/1146] into [https://anilist.co/anime/1767, https://kitsu.io/anime/1587, https://myanimelist.net/anime/1767].
 Duration [3000]seconds does not match [2880]seconds. Not merging [https://anidb.net/anime/12224] into [https://anilist.co/anime/21847, https://kitsu.io/anime/12498, https://myanimelist.net/anime/33454].
 Duration [3000]seconds does not match [2880]seconds. Not merging [https://anidb.net/anime/130] into [https://anilist.co/anime/785, https://kitsu.io/anime/701, https://myanimelist.net/anime/785].
-Duration [3000]seconds does not match [2880]seconds. Not merging [https://anidb.net/anime/1479] into [https://anilist.co/anime/2592, https://kitsu.io/anime/2356].
 Duration [3000]seconds does not match [2880]seconds. Not merging [https://anidb.net/anime/1713] into [https://anilist.co/anime/4058, https://kitsu.io/anime/3437, https://myanimelist.net/anime/4058].
 Duration [3000]seconds does not match [2880]seconds. Not merging [https://anidb.net/anime/2101] into [https://anilist.co/anime/8208, https://kitsu.io/anime/2505, https://myanimelist.net/anime/8208].
 Duration [3000]seconds does not match [2880]seconds. Not merging [https://anidb.net/anime/2133] into [https://kitsu.io/anime/2899, https://myanimelist.net/anime/3273].
@@ -5898,6 +5914,7 @@ Duration [3000]seconds does not match [2880]seconds. Not merging [https://anidb.
 Duration [3000]seconds does not match [2880]seconds. Not merging [https://anidb.net/anime/578] into [https://anilist.co/anime/1270, https://kitsu.io/anime/1145, https://myanimelist.net/anime/1270].
 Duration [3000]seconds does not match [2880]seconds. Not merging [https://anidb.net/anime/7462] into [https://myanimelist.net/anime/5876].
 Duration [3000]seconds does not match [2880]seconds. Not merging [https://anidb.net/anime/7688] into [https://anilist.co/anime/1296, https://kitsu.io/anime/1168, https://myanimelist.net/anime/1296].
+Duration [3000]seconds does not match [2880]seconds. Not merging [https://anidb.net/anime/8845] into [https://anilist.co/anime/108339].
 Duration [3000]seconds does not match [2880]seconds. Not merging [https://anidb.net/anime/941] into [https://anilist.co/anime/1468, https://kitsu.io/anime/1314, https://myanimelist.net/anime/1468].
 Duration [3000]seconds does not match [2880]seconds. Not merging [https://anilist.co/anime/2019] into [https://myanimelist.net/anime/2019].
 Duration [3000]seconds does not match [2880]seconds. Not merging [https://anilist.co/anime/3273] into [https://kitsu.io/anime/2899, https://myanimelist.net/anime/3273].
@@ -5908,12 +5925,13 @@ Duration [3000]seconds does not match [2940]seconds. Not merging [https://anidb.
 Duration [3000]seconds does not match [2940]seconds. Not merging [https://anidb.net/anime/11165] into [https://kitsu.io/anime/10894, https://myanimelist.net/anime/30473].
 Duration [3000]seconds does not match [2940]seconds. Not merging [https://anidb.net/anime/1262] into [https://anilist.co/anime/1451, https://kitsu.io/anime/1301, https://myanimelist.net/anime/1451].
 Duration [3000]seconds does not match [2940]seconds. Not merging [https://anidb.net/anime/12728] into [https://kitsu.io/anime/12903, https://myanimelist.net/anime/34756].
-Duration [3000]seconds does not match [2940]seconds. Not merging [https://anidb.net/anime/4314] into [https://anilist.co/anime/3306].
 Duration [3000]seconds does not match [2940]seconds. Not merging [https://anidb.net/anime/5013] into [https://anilist.co/anime/2094, https://kitsu.io/anime/1893, https://myanimelist.net/anime/2094].
 Duration [3000]seconds does not match [2940]seconds. Not merging [https://anidb.net/anime/7920] into [https://anilist.co/anime/8250, https://kitsu.io/anime/5270, https://myanimelist.net/anime/8250].
 Duration [3000]seconds does not match [2940]seconds. Not merging [https://anidb.net/anime/8931] into [https://anilist.co/anime/12783, https://kitsu.io/anime/6812, https://myanimelist.net/anime/12783].
 Duration [3000]seconds does not match [2940]seconds. Not merging [https://anilist.co/anime/1009] into [https://kitsu.io/anime/899, https://myanimelist.net/anime/1009].
 Duration [3000]seconds does not match [3060]seconds. Not merging [https://anidb.net/anime/10535] into [https://anilist.co/anime/20978, https://kitsu.io/anime/8340, https://myanimelist.net/anime/23293].
+Duration [3000]seconds does not match [3060]seconds. Not merging [https://anidb.net/anime/2085] into [https://anilist.co/anime/105193].
+Duration [3000]seconds does not match [3060]seconds. Not merging [https://anidb.net/anime/2779] into [https://anilist.co/anime/5353].
 Duration [3000]seconds does not match [3060]seconds. Not merging [https://anidb.net/anime/4997] into [https://anilist.co/anime/3362, https://kitsu.io/anime/2957, https://myanimelist.net/anime/3362].
 Duration [3000]seconds does not match [3060]seconds. Not merging [https://anidb.net/anime/6078] into [https://kitsu.io/anime/9631, https://myanimelist.net/anime/21967].
 Duration [3000]seconds does not match [3060]seconds. Not merging [https://anidb.net/anime/7392] into [https://anilist.co/anime/11791, https://kitsu.io/anime/6602, https://myanimelist.net/anime/11791].
@@ -5925,6 +5943,7 @@ Duration [3000]seconds does not match [3060]seconds. Not merging [https://anidb.
 Duration [3000]seconds does not match [3060]seconds. Not merging [https://anidb.net/anime/9317] into [https://anilist.co/anime/14145, https://kitsu.io/anime/7088, https://myanimelist.net/anime/14145].
 Duration [3000]seconds does not match [3060]seconds. Not merging [https://anilist.co/anime/8888] into [https://kitsu.io/anime/5518].
 Duration [3000]seconds does not match [3060]seconds. Not merging [https://anilist.co/anime/8888] into [https://myanimelist.net/anime/8888].
+Duration [3000]seconds does not match [3060]seconds. Not merging [https://kitsu.io/anime/41972] into [https://anilist.co/anime/106169].
 Duration [3000]seconds does not match [3120]seconds. Not merging [https://anidb.net/anime/2060] into [https://kitsu.io/anime/2237, https://myanimelist.net/anime/2463].
 Duration [3000]seconds does not match [3120]seconds. Not merging [https://anidb.net/anime/7094] into [https://anilist.co/anime/17903, https://kitsu.io/anime/9089, https://myanimelist.net/anime/17903].
 Duration [3000]seconds does not match [3180]seconds. Not merging [https://anidb.net/anime/2218] into [https://anilist.co/anime/3758, https://kitsu.io/anime/3234, https://myanimelist.net/anime/3758].
@@ -5938,24 +5957,21 @@ Duration [3000]seconds does not match [3660]seconds. Not merging [https://anidb.
 Duration [3000]seconds does not match [4320]seconds. Not merging [https://anidb.net/anime/3141] into [https://anilist.co/anime/4680, https://kitsu.io/anime/3734, https://myanimelist.net/anime/4680].
 Duration [3000]seconds does not match [5160]seconds. Not merging [https://anidb.net/anime/7492] into [https://kitsu.io/anime/9320, https://myanimelist.net/anime/24089].
 Duration [3000]seconds does not match [5520]seconds. Not merging [https://anidb.net/anime/3354] into [https://anilist.co/anime/2387, https://kitsu.io/anime/2164, https://myanimelist.net/anime/2387].
+Duration [3000]seconds does not match [5520]seconds. Not merging [https://anidb.net/anime/420] into [https://kitsu.io/anime/964].
 Duration [3000]seconds does not match [660]seconds. Not merging [https://kitsu.io/anime/10368] into [https://anidb.net/anime/13686, https://myanimelist.net/anime/29750].
-Duration [3060]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/105193] into [https://anidb.net/anime/2085].
-Duration [3060]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/106169] into [https://kitsu.io/anime/41972].
 Duration [3060]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/1076] into [https://anidb.net/anime/3133, https://kitsu.io/anime/962, https://myanimelist.net/anime/1076].
-Duration [3060]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/5353] into [https://anidb.net/anime/2779].
 Duration [3060]seconds does not match [3000]seconds. Not merging [https://kitsu.io/anime/13232] into [https://myanimelist.net/anime/35086].
 Duration [3060]seconds does not match [6840]seconds. Not merging [https://anilist.co/anime/100658] into [https://kitsu.io/anime/11907, https://myanimelist.net/anime/32888].
 Duration [3120]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/7774] into [https://anilist.co/anime/19023, https://myanimelist.net/anime/19023].
 Duration [3120]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/7774] into [https://anidb.net/anime/9417].
 Duration [3120]seconds does not match [3060]seconds. Not merging [https://anilist.co/anime/98094] into [https://kitsu.io/anime/12505, https://myanimelist.net/anime/33546].
-Duration [3180]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/12951] into [https://anidb.net/anime/4677, https://kitsu.io/anime/6852, https://myanimelist.net/anime/12951].
-Duration [3180]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/6965] into [https://anidb.net/anime/5997].
 Duration [3180]seconds does not match [3600]seconds. Not merging [https://anilist.co/anime/2811] into [https://kitsu.io/anime/2566, https://myanimelist.net/anime/2811].
 Duration [3240]seconds does not match [3180]seconds. Not merging [https://anilist.co/anime/20449] into [https://kitsu.io/anime/8419, https://myanimelist.net/anime/23319].
+Duration [3240]seconds does not match [3300]seconds. Not merging [https://anilist.co/anime/20449] into [https://anidb.net/anime/10549].
 Duration [3240]seconds does not match [3300]seconds. Not merging [https://anilist.co/anime/2099] into [https://anidb.net/anime/2334].
+Duration [3300]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/13788] into [https://kitsu.io/anime/41759].
+Duration [3300]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/569] into [https://kitsu.io/anime/1334].
 Duration [3300]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/21432] into [https://kitsu.io/anime/11602, https://myanimelist.net/anime/31645].
-Duration [3300]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/21432] into [https://anidb.net/anime/11607].
-Duration [3300]seconds does not match [1860]seconds. Not merging [https://anidb.net/anime/2608] into [https://kitsu.io/anime/9491].
 Duration [3300]seconds does not match [1980]seconds. Not merging [https://anidb.net/anime/1655] into [https://anilist.co/anime/3061, https://kitsu.io/anime/2760, https://myanimelist.net/anime/3061].
 Duration [3300]seconds does not match [2700]seconds. Not merging [https://anidb.net/anime/1732] into [https://anilist.co/anime/2078, https://kitsu.io/anime/1877, https://myanimelist.net/anime/2078].
 Duration [3300]seconds does not match [2760]seconds. Not merging [https://anidb.net/anime/2889] into [https://myanimelist.net/anime/2068].
@@ -5999,7 +6015,6 @@ Duration [3300]seconds does not match [3180]seconds. Not merging [https://anidb.
 Duration [3300]seconds does not match [3180]seconds. Not merging [https://anidb.net/anime/9971] into [https://kitsu.io/anime/7862, https://myanimelist.net/anime/19489].
 Duration [3300]seconds does not match [3180]seconds. Not merging [https://anilist.co/anime/18063] into [https://kitsu.io/anime/9056, https://myanimelist.net/anime/18063].
 Duration [3300]seconds does not match [3180]seconds. Not merging [https://anilist.co/anime/8297] into [https://kitsu.io/anime/5284, https://myanimelist.net/anime/8297].
-Duration [3300]seconds does not match [3240]seconds. Not merging [https://anidb.net/anime/10549] into [https://anilist.co/anime/20449].
 Duration [3300]seconds does not match [3240]seconds. Not merging [https://anidb.net/anime/1350] into [https://kitsu.io/anime/1296, https://myanimelist.net/anime/1443].
 Duration [3300]seconds does not match [3240]seconds. Not merging [https://anidb.net/anime/1412] into [https://anilist.co/anime/2293, https://kitsu.io/anime/2078, https://myanimelist.net/anime/2293].
 Duration [3300]seconds does not match [3240]seconds. Not merging [https://anidb.net/anime/2033] into [https://anilist.co/anime/3602, https://kitsu.io/anime/3135, https://myanimelist.net/anime/3602].
@@ -6016,7 +6031,6 @@ Duration [3300]seconds does not match [3240]seconds. Not merging [https://anidb.
 Duration [3300]seconds does not match [3240]seconds. Not merging [https://anilist.co/anime/108054] into [https://kitsu.io/anime/9265, https://myanimelist.net/anime/23975].
 Duration [3300]seconds does not match [3240]seconds. Not merging [https://anilist.co/anime/16007] into [https://myanimelist.net/anime/16007].
 Duration [3300]seconds does not match [3240]seconds. Not merging [https://kitsu.io/anime/7357] into [https://myanimelist.net/anime/16007].
-Duration [3300]seconds does not match [3360]seconds. Not merging [https://anidb.net/anime/2364] into [https://anilist.co/anime/9388].
 Duration [3300]seconds does not match [3360]seconds. Not merging [https://anidb.net/anime/7556] into [https://kitsu.io/anime/9632, https://myanimelist.net/anime/21971].
 Duration [3300]seconds does not match [3360]seconds. Not merging [https://anilist.co/anime/1761] into [https://kitsu.io/anime/1581, https://myanimelist.net/anime/1761].
 Duration [3300]seconds does not match [3360]seconds. Not merging [https://anilist.co/anime/2600] into [https://kitsu.io/anime/2364, https://myanimelist.net/anime/2600].
@@ -6028,22 +6042,24 @@ Duration [3300]seconds does not match [3420]seconds. Not merging [https://anilis
 Duration [3300]seconds does not match [3480]seconds. Not merging [https://anilist.co/anime/2599] into [https://kitsu.io/anime/2363, https://myanimelist.net/anime/2599].
 Duration [3300]seconds does not match [3600]seconds. Not merging [https://anidb.net/anime/1350] into [https://anilist.co/anime/1443].
 Duration [3300]seconds does not match [3600]seconds. Not merging [https://anidb.net/anime/1859] into [https://kitsu.io/anime/2566, https://myanimelist.net/anime/2811].
+Duration [3300]seconds does not match [3600]seconds. Not merging [https://anilist.co/anime/1761] into [https://anidb.net/anime/1077].
 Duration [3300]seconds does not match [3600]seconds. Not merging [https://anilist.co/anime/2690] into [https://anidb.net/anime/4026].
 Duration [3300]seconds does not match [3900]seconds. Not merging [https://anidb.net/anime/569] into [https://myanimelist.net/anime/1488].
-Duration [3300]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/12398] into [https://kitsu.io/anime/12530].
+Duration [3300]seconds does not match [4020]seconds. Not merging [https://anidb.net/anime/569] into [https://anilist.co/anime/1488].
+Duration [3360]seconds does not match [2700]seconds. Not merging [https://anilist.co/anime/17157] into [https://anidb.net/anime/9457].
 Duration [3360]seconds does not match [3300]seconds. Not merging [https://anilist.co/anime/12005] into [https://kitsu.io/anime/6642, https://myanimelist.net/anime/12005].
 Duration [3360]seconds does not match [3300]seconds. Not merging [https://anilist.co/anime/17157] into [https://kitsu.io/anime/7596, https://myanimelist.net/anime/17157].
-Duration [3360]seconds does not match [3300]seconds. Not merging [https://anilist.co/anime/2906] into [https://anidb.net/anime/1784].
+Duration [3360]seconds does not match [3300]seconds. Not merging [https://anilist.co/anime/9388] into [https://anidb.net/anime/2364].
 Duration [3360]seconds does not match [3300]seconds. Not merging [https://kitsu.io/anime/5714] into [https://anidb.net/anime/2364].
 Duration [3360]seconds does not match [3540]seconds. Not merging [https://anilist.co/anime/15197] into [https://myanimelist.net/anime/15197].
 Duration [3360]seconds does not match [3540]seconds. Not merging [https://anilist.co/anime/1795] into [https://kitsu.io/anime/1615, https://myanimelist.net/anime/1795].
 Duration [3360]seconds does not match [3600]seconds. Not merging [https://anilist.co/anime/1795] into [https://anidb.net/anime/1174].
 Duration [3360]seconds does not match [3900]seconds. Not merging [https://kitsu.io/anime/12962] into [https://myanimelist.net/anime/34304].
+Duration [3420]seconds does not match [1800]seconds. Not merging [https://kitsu.io/anime/6733] into [https://anilist.co/anime/12441].
 Duration [3480]seconds does not match [3420]seconds. Not merging [https://anilist.co/anime/107313] into [https://kitsu.io/anime/42186, https://myanimelist.net/anime/39487].
 Duration [3480]seconds does not match [3540]seconds. Not merging [https://anilist.co/anime/19195] into [https://kitsu.io/anime/8183, https://myanimelist.net/anime/19195].
 Duration [3480]seconds does not match [3540]seconds. Not merging [https://kitsu.io/anime/3249] into [https://myanimelist.net/anime/3783].
 Duration [3480]seconds does not match [3600]seconds. Not merging [https://anilist.co/anime/20670] into [https://anidb.net/anime/10548].
-Duration [3540]seconds does not match [3600]seconds. Not merging [https://anilist.co/anime/2100] into [https://anidb.net/anime/2638].
 Duration [3540]seconds does not match [3600]seconds. Not merging [https://anilist.co/anime/3817] into [https://anidb.net/anime/1705].
 Duration [3540]seconds does not match [3600]seconds. Not merging [https://anilist.co/anime/6336] into [https://anidb.net/anime/6517].
 Duration [360]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/13065] into [https://kitsu.io/anime/10570, https://myanimelist.net/anime/29970].
@@ -6052,7 +6068,6 @@ Duration [360]seconds does not match [1560]seconds. Not merging [https://kitsu.i
 Duration [360]seconds does not match [180]seconds. Not merging [https://anidb.net/anime/13129] into [https://kitsu.io/anime/12576, https://myanimelist.net/anime/33908].
 Duration [360]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/13915] into [https://anidb.net/anime/13423, https://myanimelist.net/anime/36265].
 Duration [360]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/11220] into [https://kitsu.io/anime/6271, https://myanimelist.net/anime/10627].
-Duration [360]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/101082] into [https://kitsu.io/anime/12968].
 Duration [360]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/101970] into [https://myanimelist.net/anime/37021].
 Duration [360]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/15751] into [https://kitsu.io/anime/7303, https://myanimelist.net/anime/15751].
 Duration [360]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/18523] into [https://kitsu.io/anime/7719, https://myanimelist.net/anime/18523].
@@ -6083,6 +6098,7 @@ Duration [360]seconds does not match [300]seconds. Not merging [https://anidb.ne
 Duration [360]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/11443] into [https://anilist.co/anime/104591, https://kitsu.io/anime/10822, https://myanimelist.net/anime/30395].
 Duration [360]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/11448] into [https://anilist.co/anime/107110, https://kitsu.io/anime/8445, https://myanimelist.net/anime/22661].
 Duration [360]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/11505] into [https://anilist.co/anime/103482, https://kitsu.io/anime/10573, https://myanimelist.net/anime/29973].
+Duration [360]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/11507] into [https://anilist.co/anime/104547].
 Duration [360]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/11519] into [https://anilist.co/anime/99213, https://kitsu.io/anime/10373, https://myanimelist.net/anime/29777].
 Duration [360]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/11627] into [https://anilist.co/anime/103533, https://kitsu.io/anime/11797, https://myanimelist.net/anime/31506].
 Duration [360]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/11765] into [https://anilist.co/anime/103693, https://myanimelist.net/anime/28305].
@@ -6107,6 +6123,7 @@ Duration [360]seconds does not match [300]seconds. Not merging [https://anidb.ne
 Duration [360]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/14324] into [https://anilist.co/anime/103518, https://kitsu.io/anime/12188, https://myanimelist.net/anime/32755].
 Duration [360]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/14353] into [https://kitsu.io/anime/10493, https://myanimelist.net/anime/29647].
 Duration [360]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/14361] into [https://kitsu.io/anime/10500, https://myanimelist.net/anime/29669].
+Duration [360]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/15005] into [https://anilist.co/anime/110287].
 Duration [360]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/15005] into [https://myanimelist.net/anime/40100].
 Duration [360]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/15088] into [https://kitsu.io/anime/41916, https://myanimelist.net/anime/38092].
 Duration [360]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/2534] into [https://anilist.co/anime/1958, https://kitsu.io/anime/1764, https://myanimelist.net/anime/1958].
@@ -6130,7 +6147,6 @@ Duration [360]seconds does not match [300]seconds. Not merging [https://anidb.ne
 Duration [360]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/100071] into [https://kitsu.io/anime/11906, https://myanimelist.net/anime/32886].
 Duration [360]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/100666] into [https://myanimelist.net/anime/36875].
 Duration [360]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/101904] into [https://kitsu.io/anime/12266, https://myanimelist.net/anime/33449].
-Duration [360]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/101970] into [https://kitsu.io/anime/41431].
 Duration [360]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/102564] into [https://anidb.net/anime/12910, https://kitsu.io/anime/12896, https://myanimelist.net/anime/34716].
 Duration [360]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/102581] into [https://myanimelist.net/anime/21861].
 Duration [360]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/102772] into [https://kitsu.io/anime/12075, https://myanimelist.net/anime/31925].
@@ -6153,7 +6169,6 @@ Duration [360]seconds does not match [300]seconds. Not merging [https://anilist.
 Duration [360]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/5017] into [https://anidb.net/anime/4390, https://kitsu.io/anime/3883, https://myanimelist.net/anime/5017].
 Duration [360]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/7024] into [https://anidb.net/anime/7937].
 Duration [360]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/7026] into [https://kitsu.io/anime/4839, https://myanimelist.net/anime/7026].
-Duration [360]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/8025] into [https://anidb.net/anime/7446].
 Duration [360]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/97955] into [https://kitsu.io/anime/10984, https://myanimelist.net/anime/30739].
 Duration [360]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/9907] into [https://kitsu.io/anime/5935, https://myanimelist.net/anime/9907].
 Duration [360]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/99716] into [https://kitsu.io/anime/8823, https://myanimelist.net/anime/23365].
@@ -6169,11 +6184,11 @@ Duration [360]seconds does not match [300]seconds. Not merging [https://kitsu.io
 Duration [360]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/8315] into [https://anilist.co/anime/103422, https://myanimelist.net/anime/23051].
 Duration [360]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/8713] into [https://myanimelist.net/anime/21861].
 Duration [360]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/8845] into [https://anilist.co/anime/102635, https://myanimelist.net/anime/21089].
-Duration [360]seconds does not match [420]seconds. Not merging [https://anidb.net/anime/11219] into [https://anilist.co/anime/21183].
 Duration [360]seconds does not match [420]seconds. Not merging [https://anidb.net/anime/1125] into [https://anilist.co/anime/3288, https://kitsu.io/anime/2911, https://myanimelist.net/anime/3288].
 Duration [360]seconds does not match [420]seconds. Not merging [https://anidb.net/anime/2445] into [https://anilist.co/anime/864].
 Duration [360]seconds does not match [420]seconds. Not merging [https://anidb.net/anime/8534] into [https://kitsu.io/anime/6341, https://myanimelist.net/anime/10766].
 Duration [360]seconds does not match [420]seconds. Not merging [https://anilist.co/anime/10766] into [https://kitsu.io/anime/6341, https://myanimelist.net/anime/10766].
+Duration [360]seconds does not match [420]seconds. Not merging [https://anilist.co/anime/12755] into [https://anidb.net/anime/8906].
 Duration [360]seconds does not match [420]seconds. Not merging [https://anilist.co/anime/98595] into [https://kitsu.io/anime/12592, https://myanimelist.net/anime/34006].
 Duration [360]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/5067] into [https://anilist.co/anime/3516, https://kitsu.io/anime/3067, https://myanimelist.net/anime/3516].
 Duration [360]seconds does not match [480]seconds. Not merging [https://anilist.co/anime/11663] into [https://kitsu.io/anime/6556, https://myanimelist.net/anime/11663].
@@ -6182,9 +6197,11 @@ Duration [360]seconds does not match [540]seconds. Not merging [https://kitsu.io
 Duration [360]seconds does not match [60]seconds. Not merging [https://anilist.co/anime/8025] into [https://myanimelist.net/anime/8025].
 Duration [360]seconds does not match [60]seconds. Not merging [https://kitsu.io/anime/5175] into [https://myanimelist.net/anime/8025].
 Duration [360]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/11507] into [https://kitsu.io/anime/10613, https://myanimelist.net/anime/30059].
+Duration [360]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/13928] into [https://anilist.co/anime/102367].
 Duration [360]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/13928] into [https://kitsu.io/anime/9549, https://myanimelist.net/anime/27465].
 Duration [3600]seconds does not match [180]seconds. Not merging [https://kitsu.io/anime/12095] into [https://anidb.net/anime/12507, https://myanimelist.net/anime/32927].
 Duration [3600]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/4965] into [https://anilist.co/anime/10139, https://kitsu.io/anime/6053, https://myanimelist.net/anime/10139].
+Duration [3600]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/100451] into [https://kitsu.io/anime/13993].
 Duration [3600]seconds does not match [2220]seconds. Not merging [https://anidb.net/anime/519] into [https://kitsu.io/anime/1582, https://myanimelist.net/anime/1762].
 Duration [3600]seconds does not match [2580]seconds. Not merging [https://anilist.co/anime/851] into [https://kitsu.io/anime/753, https://myanimelist.net/anime/851].
 Duration [3600]seconds does not match [2640]seconds. Not merging [https://anilist.co/anime/12037] into [https://myanimelist.net/anime/12037].
@@ -6193,7 +6210,6 @@ Duration [3600]seconds does not match [2700]seconds. Not merging [https://anidb.
 Duration [3600]seconds does not match [2700]seconds. Not merging [https://anilist.co/anime/14381] into [https://anidb.net/anime/9014, https://kitsu.io/anime/7122, https://myanimelist.net/anime/14381].
 Duration [3600]seconds does not match [2700]seconds. Not merging [https://anilist.co/anime/20540] into [https://anidb.net/anime/10298, https://myanimelist.net/anime/21497].
 Duration [3600]seconds does not match [2760]seconds. Not merging [https://anilist.co/anime/8149] into [https://kitsu.io/anime/8921, https://myanimelist.net/anime/8149].
-Duration [3600]seconds does not match [2880]seconds. Not merging [https://kitsu.io/anime/7884] into [https://anilist.co/anime/102430].
 Duration [3600]seconds does not match [2940]seconds. Not merging [https://anilist.co/anime/20540] into [https://kitsu.io/anime/8194].
 Duration [3600]seconds does not match [3000]seconds. Not merging [https://anidb.net/anime/1591] into [https://kitsu.io/anime/1209, https://myanimelist.net/anime/1355].
 Duration [3600]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/1355] into [https://kitsu.io/anime/1209, https://myanimelist.net/anime/1355].
@@ -6202,7 +6218,6 @@ Duration [3600]seconds does not match [3060]seconds. Not merging [https://anilis
 Duration [3600]seconds does not match [3180]seconds. Not merging [https://anidb.net/anime/10150] into [https://anilist.co/anime/20550, https://kitsu.io/anime/8288, https://myanimelist.net/anime/20963].
 Duration [3600]seconds does not match [3240]seconds. Not merging [https://anidb.net/anime/2160] into [https://myanimelist.net/anime/27557].
 Duration [3600]seconds does not match [3240]seconds. Not merging [https://anilist.co/anime/1443] into [https://kitsu.io/anime/1296, https://myanimelist.net/anime/1443].
-Duration [3600]seconds does not match [3300]seconds. Not merging [https://anidb.net/anime/1077] into [https://anilist.co/anime/1761].
 Duration [3600]seconds does not match [3300]seconds. Not merging [https://anidb.net/anime/365] into [https://anilist.co/anime/2262, https://kitsu.io/anime/2050, https://myanimelist.net/anime/2262].
 Duration [3600]seconds does not match [3300]seconds. Not merging [https://anidb.net/anime/4098] into [https://anilist.co/anime/1959, https://kitsu.io/anime/1765, https://myanimelist.net/anime/1959].
 Duration [3600]seconds does not match [3300]seconds. Not merging [https://anidb.net/anime/5893] into [https://myanimelist.net/anime/9499].
@@ -6250,6 +6265,7 @@ Duration [3600]seconds does not match [3540]seconds. Not merging [https://anidb.
 Duration [3600]seconds does not match [3540]seconds. Not merging [https://anidb.net/anime/13759] into [https://myanimelist.net/anime/35952].
 Duration [3600]seconds does not match [3540]seconds. Not merging [https://anidb.net/anime/1466] into [https://anilist.co/anime/6090, https://kitsu.io/anime/4420, https://myanimelist.net/anime/6090].
 Duration [3600]seconds does not match [3540]seconds. Not merging [https://anidb.net/anime/1837] into [https://anilist.co/anime/2621, https://kitsu.io/anime/2385, https://myanimelist.net/anime/2621].
+Duration [3600]seconds does not match [3540]seconds. Not merging [https://anidb.net/anime/2638] into [https://anilist.co/anime/2100].
 Duration [3600]seconds does not match [3540]seconds. Not merging [https://anidb.net/anime/3508] into [https://kitsu.io/anime/3238, https://myanimelist.net/anime/3762].
 Duration [3600]seconds does not match [3540]seconds. Not merging [https://anidb.net/anime/375] into [https://anilist.co/anime/1101, https://kitsu.io/anime/986, https://myanimelist.net/anime/1101].
 Duration [3600]seconds does not match [3540]seconds. Not merging [https://anidb.net/anime/4099] into [https://anilist.co/anime/7192, https://kitsu.io/anime/4899, https://myanimelist.net/anime/7192].
@@ -6267,30 +6283,30 @@ Duration [3600]seconds does not match [3720]seconds. Not merging [https://anidb.
 Duration [3600]seconds does not match [3900]seconds. Not merging [https://anidb.net/anime/12510] into [https://myanimelist.net/anime/34304].
 Duration [3600]seconds does not match [3900]seconds. Not merging [https://anidb.net/anime/6493] into [https://anilist.co/anime/6281, https://myanimelist.net/anime/6281].
 Duration [3600]seconds does not match [3900]seconds. Not merging [https://anidb.net/anime/9369] into [https://anilist.co/anime/8783, https://kitsu.io/anime/5494, https://myanimelist.net/anime/8783].
+Duration [3600]seconds does not match [3900]seconds. Not merging [https://anilist.co/anime/10937] into [https://anidb.net/anime/8517].
 Duration [3600]seconds does not match [3960]seconds. Not merging [https://anidb.net/anime/6493] into [https://kitsu.io/anime/4506].
 Duration [3600]seconds does not match [4260]seconds. Not merging [https://anilist.co/anime/10937] into [https://myanimelist.net/anime/10937].
 Duration [3600]seconds does not match [5100]seconds. Not merging [https://kitsu.io/anime/41398] into [https://myanimelist.net/anime/37398].
 Duration [3600]seconds does not match [5220]seconds. Not merging [https://anidb.net/anime/11526] into [https://kitsu.io/anime/11352].
 Duration [3600]seconds does not match [5400]seconds. Not merging [https://anidb.net/anime/9594] into [https://anilist.co/anime/16752].
+Duration [3600]seconds does not match [60]seconds. Not merging [https://anilist.co/anime/21453] into [https://kitsu.io/anime/11260].
 Duration [3660]seconds does not match [3540]seconds. Not merging [https://anilist.co/anime/3762] into [https://kitsu.io/anime/3238, https://myanimelist.net/anime/3762].
 Duration [3660]seconds does not match [3600]seconds. Not merging [https://anilist.co/anime/2062] into [https://kitsu.io/anime/1861, https://myanimelist.net/anime/2062].
-Duration [3660]seconds does not match [3600]seconds. Not merging [https://anilist.co/anime/3762] into [https://anidb.net/anime/3508].
 Duration [3660]seconds does not match [3720]seconds. Not merging [https://kitsu.io/anime/41466] into [https://myanimelist.net/anime/37970].
 Duration [3660]seconds does not match [3780]seconds. Not merging [https://kitsu.io/anime/41466] into [https://anilist.co/anime/103643].
-Duration [3660]seconds does not match [3900]seconds. Not merging [https://anilist.co/anime/2062] into [https://anidb.net/anime/2113].
 Duration [3660]seconds does not match [3900]seconds. Not merging [https://kitsu.io/anime/41466] into [https://anidb.net/anime/14130].
 Duration [3780]seconds does not match [3720]seconds. Not merging [https://anilist.co/anime/103643] into [https://myanimelist.net/anime/37970].
-Duration [3780]seconds does not match [3900]seconds. Not merging [https://anilist.co/anime/103643] into [https://anidb.net/anime/14130].
 Duration [3840]seconds does not match [3780]seconds. Not merging [https://anilist.co/anime/20625] into [https://kitsu.io/anime/8492, https://myanimelist.net/anime/23225].
 Duration [3900]seconds does not match [3600]seconds. Not merging [https://anidb.net/anime/2113] into [https://kitsu.io/anime/1861, https://myanimelist.net/anime/2062].
-Duration [3900]seconds does not match [3600]seconds. Not merging [https://anidb.net/anime/8517] into [https://anilist.co/anime/10937].
 Duration [3900]seconds does not match [3600]seconds. Not merging [https://anidb.net/anime/9597] into [https://anilist.co/anime/16798, https://kitsu.io/anime/7522, https://myanimelist.net/anime/16798].
+Duration [3900]seconds does not match [3660]seconds. Not merging [https://anidb.net/anime/2113] into [https://anilist.co/anime/2062].
 Duration [3900]seconds does not match [3720]seconds. Not merging [https://anidb.net/anime/14130] into [https://myanimelist.net/anime/37970].
 Duration [3900]seconds does not match [3720]seconds. Not merging [https://anidb.net/anime/2219] into [https://anilist.co/anime/8494, https://kitsu.io/anime/5359, https://myanimelist.net/anime/8494].
 Duration [3900]seconds does not match [3720]seconds. Not merging [https://anidb.net/anime/2226] into [https://anilist.co/anime/3847, https://kitsu.io/anime/3299, https://myanimelist.net/anime/3847].
 Duration [3900]seconds does not match [3720]seconds. Not merging [https://anidb.net/anime/440] into [https://anilist.co/anime/378, https://kitsu.io/anime/345, https://myanimelist.net/anime/378].
 Duration [3900]seconds does not match [3780]seconds. Not merging [https://anidb.net/anime/1196] into [https://kitsu.io/anime/939, https://myanimelist.net/anime/1049].
 Duration [3900]seconds does not match [3780]seconds. Not merging [https://anidb.net/anime/12431] into [https://kitsu.io/anime/12565, https://myanimelist.net/anime/34136].
+Duration [3900]seconds does not match [3780]seconds. Not merging [https://anidb.net/anime/14130] into [https://anilist.co/anime/103643].
 Duration [3900]seconds does not match [3780]seconds. Not merging [https://anidb.net/anime/8957] into [https://anilist.co/anime/12965, https://kitsu.io/anime/6858, https://myanimelist.net/anime/12965].
 Duration [3900]seconds does not match [3780]seconds. Not merging [https://anilist.co/anime/97669] into [https://kitsu.io/anime/12565, https://myanimelist.net/anime/34136].
 Duration [3900]seconds does not match [3840]seconds. Not merging [https://anidb.net/anime/2227] into [https://anilist.co/anime/3755, https://kitsu.io/anime/3232, https://myanimelist.net/anime/3755].
@@ -6304,7 +6320,6 @@ Duration [3900]seconds does not match [4200]seconds. Not merging [https://anidb.
 Duration [3900]seconds does not match [4260]seconds. Not merging [https://anidb.net/anime/8517] into [https://myanimelist.net/anime/10937].
 Duration [3900]seconds does not match [4380]seconds. Not merging [https://anidb.net/anime/7927] into [https://anilist.co/anime/9521, https://kitsu.io/anime/5771, https://myanimelist.net/anime/9521].
 Duration [3900]seconds does not match [5400]seconds. Not merging [https://anidb.net/anime/9608] into [https://myanimelist.net/anime/16748].
-Duration [3900]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/13006] into [https://kitsu.io/anime/40723].
 Duration [3900]seconds does not match [7200]seconds. Not merging [https://anidb.net/anime/12763] into [https://anilist.co/anime/98206, https://myanimelist.net/anime/34830].
 Duration [3900]seconds does not match [7200]seconds. Not merging [https://kitsu.io/anime/13464] into [https://anilist.co/anime/98206, https://myanimelist.net/anime/34830].
 Duration [3960]seconds does not match [3900]seconds. Not merging [https://anilist.co/anime/2042] into [https://kitsu.io/anime/1841, https://myanimelist.net/anime/2042].
@@ -6312,7 +6327,7 @@ Duration [3960]seconds does not match [3900]seconds. Not merging [https://kitsu.
 Duration [3960]seconds does not match [4080]seconds. Not merging [https://anilist.co/anime/12053] into [https://kitsu.io/anime/6653, https://myanimelist.net/anime/12053].
 Duration [3960]seconds does not match [4200]seconds. Not merging [https://anilist.co/anime/2042] into [https://anidb.net/anime/730].
 Duration [3960]seconds does not match [4260]seconds. Not merging [https://anilist.co/anime/2622] into [https://kitsu.io/anime/2386, https://myanimelist.net/anime/2622].
-Duration [4020]seconds does not match [3300]seconds. Not merging [https://anilist.co/anime/1488] into [https://anidb.net/anime/569].
+Duration [4020]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/1488] into [https://kitsu.io/anime/1334].
 Duration [4020]seconds does not match [3900]seconds. Not merging [https://anilist.co/anime/14175] into [https://anidb.net/anime/8827].
 Duration [4020]seconds does not match [3900]seconds. Not merging [https://anilist.co/anime/1488] into [https://myanimelist.net/anime/1488].
 Duration [4020]seconds does not match [3960]seconds. Not merging [https://anilist.co/anime/14175] into [https://kitsu.io/anime/7090, https://myanimelist.net/anime/14175].
@@ -6320,11 +6335,9 @@ Duration [4080]seconds does not match [1080]seconds. Not merging [https://anilis
 Duration [4080]seconds does not match [3840]seconds. Not merging [https://anilist.co/anime/21399] into [https://kitsu.io/anime/11406, https://myanimelist.net/anime/31757].
 Duration [4080]seconds does not match [4020]seconds. Not merging [https://kitsu.io/anime/2460] into [https://anilist.co/anime/2698, https://myanimelist.net/anime/2698].
 Duration [4140]seconds does not match [4200]seconds. Not merging [https://anilist.co/anime/1525] into [https://anidb.net/anime/7117].
-Duration [4140]seconds does not match [4200]seconds. Not merging [https://anilist.co/anime/16812] into [https://anidb.net/anime/9593].
 Duration [420]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/11465] into [https://myanimelist.net/anime/31369].
 Duration [420]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/6206] into [https://anilist.co/anime/6482].
 Duration [420]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/10633] into [https://kitsu.io/anime/8527, https://myanimelist.net/anime/24437].
-Duration [420]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/12074] into [https://anilist.co/anime/21768].
 Duration [420]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/6020] into [https://kitsu.io/anime/4595, https://myanimelist.net/anime/6523].
 Duration [420]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/21183] into [https://kitsu.io/anime/11526, https://myanimelist.net/anime/31865].
 Duration [420]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/8426] into [https://myanimelist.net/anime/19845].
@@ -6353,7 +6366,6 @@ Duration [420]seconds does not match [360]seconds. Not merging [https://anidb.ne
 Duration [420]seconds does not match [360]seconds. Not merging [https://anidb.net/anime/8572] into [https://myanimelist.net/anime/7032].
 Duration [420]seconds does not match [360]seconds. Not merging [https://anidb.net/anime/8753] into [https://anilist.co/anime/11679, https://myanimelist.net/anime/11679].
 Duration [420]seconds does not match [360]seconds. Not merging [https://anidb.net/anime/8757] into [https://anilist.co/anime/11689, https://kitsu.io/anime/6563, https://myanimelist.net/anime/11689].
-Duration [420]seconds does not match [360]seconds. Not merging [https://anidb.net/anime/8906] into [https://anilist.co/anime/12755].
 Duration [420]seconds does not match [360]seconds. Not merging [https://anidb.net/anime/9169] into [https://anilist.co/anime/17293, https://kitsu.io/anime/7629, https://myanimelist.net/anime/17293].
 Duration [420]seconds does not match [360]seconds. Not merging [https://anidb.net/anime/9660] into [https://anilist.co/anime/104345, https://kitsu.io/anime/10727, https://myanimelist.net/anime/30217].
 Duration [420]seconds does not match [360]seconds. Not merging [https://anilist.co/anime/109349] into [https://kitsu.io/anime/10496, https://myanimelist.net/anime/29653].
@@ -6363,6 +6375,7 @@ Duration [420]seconds does not match [360]seconds. Not merging [https://anilist.
 Duration [420]seconds does not match [360]seconds. Not merging [https://anilist.co/anime/18457] into [https://kitsu.io/anime/8234, https://myanimelist.net/anime/18457].
 Duration [420]seconds does not match [360]seconds. Not merging [https://anilist.co/anime/1890] into [https://kitsu.io/anime/1700, https://myanimelist.net/anime/1890].
 Duration [420]seconds does not match [360]seconds. Not merging [https://anilist.co/anime/19217] into [https://kitsu.io/anime/8822, https://myanimelist.net/anime/19217].
+Duration [420]seconds does not match [360]seconds. Not merging [https://anilist.co/anime/21183] into [https://anidb.net/anime/11219].
 Duration [420]seconds does not match [360]seconds. Not merging [https://anilist.co/anime/21767] into [https://myanimelist.net/anime/23057].
 Duration [420]seconds does not match [360]seconds. Not merging [https://anilist.co/anime/7032] into [https://myanimelist.net/anime/7032].
 Duration [420]seconds does not match [360]seconds. Not merging [https://anilist.co/anime/97594] into [https://kitsu.io/anime/8322, https://myanimelist.net/anime/23065].
@@ -6376,11 +6389,12 @@ Duration [420]seconds does not match [360]seconds. Not merging [https://kitsu.io
 Duration [420]seconds does not match [360]seconds. Not merging [https://kitsu.io/anime/6559] into [https://anilist.co/anime/11679, https://myanimelist.net/anime/11679].
 Duration [420]seconds does not match [360]seconds. Not merging [https://kitsu.io/anime/8318] into [https://myanimelist.net/anime/23057].
 Duration [420]seconds does not match [360]seconds. Not merging [https://kitsu.io/anime/8320] into [https://anilist.co/anime/104456, https://myanimelist.net/anime/23061].
+Duration [420]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/10633] into [https://anilist.co/anime/18205].
 Duration [420]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/6206] into [https://kitsu.io/anime/4577, https://myanimelist.net/anime/6482].
 Duration [420]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/672] into [https://kitsu.io/anime/2483, https://myanimelist.net/anime/2723].
+Duration [420]seconds does not match [480]seconds. Not merging [https://anilist.co/anime/18231] into [https://kitsu.io/anime/7847].
 Duration [420]seconds does not match [480]seconds. Not merging [https://anilist.co/anime/2723] into [https://kitsu.io/anime/2483, https://myanimelist.net/anime/2723].
 Duration [420]seconds does not match [480]seconds. Not merging [https://anilist.co/anime/6368] into [https://kitsu.io/anime/4533, https://myanimelist.net/anime/6368].
-Duration [420]seconds does not match [480]seconds. Not merging [https://anilist.co/anime/6823] into [https://anidb.net/anime/5957].
 Duration [420]seconds does not match [480]seconds. Not merging [https://kitsu.io/anime/10012] into [https://myanimelist.net/anime/28149].
 Duration [420]seconds does not match [540]seconds. Not merging [https://anidb.net/anime/6844] into [https://kitsu.io/anime/4999, https://myanimelist.net/anime/7494].
 Duration [420]seconds does not match [540]seconds. Not merging [https://kitsu.io/anime/10012] into [https://anidb.net/anime/10896].
@@ -6388,6 +6402,7 @@ Duration [420]seconds does not match [540]seconds. Not merging [https://kitsu.io
 Duration [420]seconds does not match [540]seconds. Not merging [https://kitsu.io/anime/3587] into [https://myanimelist.net/anime/4391].
 Duration [420]seconds does not match [600]seconds. Not merging [https://anidb.net/anime/12824] into [https://anilist.co/anime/99660, https://kitsu.io/anime/11282, https://myanimelist.net/anime/31233].
 Duration [420]seconds does not match [600]seconds. Not merging [https://anidb.net/anime/7854] into [https://kitsu.io/anime/9312, https://myanimelist.net/anime/22483].
+Duration [420]seconds does not match [600]seconds. Not merging [https://kitsu.io/anime/3587] into [https://anidb.net/anime/6706].
 Duration [4200]seconds does not match [2820]seconds. Not merging [https://anidb.net/anime/9694] into [https://anilist.co/anime/18357, https://kitsu.io/anime/9052, https://myanimelist.net/anime/18357].
 Duration [4200]seconds does not match [3600]seconds. Not merging [https://anidb.net/anime/6986] into [https://kitsu.io/anime/8507, https://myanimelist.net/anime/20587].
 Duration [4200]seconds does not match [3600]seconds. Not merging [https://anilist.co/anime/21289] into [https://kitsu.io/anime/11053, https://myanimelist.net/anime/30952].
@@ -6411,10 +6426,10 @@ Duration [4200]seconds does not match [4140]seconds. Not merging [https://anidb.
 Duration [4200]seconds does not match [4140]seconds. Not merging [https://anidb.net/anime/576] into [https://anilist.co/anime/2454, https://kitsu.io/anime/2228, https://myanimelist.net/anime/2454].
 Duration [4200]seconds does not match [4140]seconds. Not merging [https://anidb.net/anime/5775] into [https://anilist.co/anime/5900, https://kitsu.io/anime/4327, https://myanimelist.net/anime/5900].
 Duration [4200]seconds does not match [4140]seconds. Not merging [https://anidb.net/anime/6233] into [https://kitsu.io/anime/5777, https://myanimelist.net/anime/9531].
+Duration [4200]seconds does not match [4140]seconds. Not merging [https://anidb.net/anime/9593] into [https://anilist.co/anime/16812].
 Duration [4200]seconds does not match [4140]seconds. Not merging [https://anilist.co/anime/21314] into [https://myanimelist.net/anime/31486].
 Duration [4200]seconds does not match [4140]seconds. Not merging [https://anilist.co/anime/97631] into [https://kitsu.io/anime/12598, https://myanimelist.net/anime/34032].
 Duration [4200]seconds does not match [4140]seconds. Not merging [https://kitsu.io/anime/11350] into [https://myanimelist.net/anime/31486].
-Duration [4200]seconds does not match [4260]seconds. Not merging [https://anidb.net/anime/10227] into [https://anilist.co/anime/20549].
 Duration [4200]seconds does not match [4260]seconds. Not merging [https://anidb.net/anime/10227] into [https://kitsu.io/anime/8252, https://myanimelist.net/anime/21031].
 Duration [4200]seconds does not match [4260]seconds. Not merging [https://anidb.net/anime/1464] into [https://kitsu.io/anime/2386, https://myanimelist.net/anime/2622].
 Duration [4200]seconds does not match [4260]seconds. Not merging [https://anidb.net/anime/3147] into [https://anilist.co/anime/8953, https://kitsu.io/anime/5546, https://myanimelist.net/anime/8953].
@@ -6432,9 +6447,9 @@ Duration [4200]seconds does not match [4740]seconds. Not merging [https://anidb.
 Duration [4200]seconds does not match [5100]seconds. Not merging [https://anidb.net/anime/8912] into [https://kitsu.io/anime/9773, https://myanimelist.net/anime/23537].
 Duration [4200]seconds does not match [5220]seconds. Not merging [https://anidb.net/anime/1863] into [https://anilist.co/anime/2045, https://kitsu.io/anime/1844, https://myanimelist.net/anime/2045].
 Duration [4200]seconds does not match [5400]seconds. Not merging [https://anidb.net/anime/5945] into [https://kitsu.io/anime/2885, https://myanimelist.net/anime/3252].
+Duration [4200]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/9719] into [https://kitsu.io/anime/7689].
 Duration [4200]seconds does not match [6060]seconds. Not merging [https://anidb.net/anime/326] into [https://kitsu.io/anime/22].
 Duration [4200]seconds does not match [6240]seconds. Not merging [https://anidb.net/anime/326] into [https://myanimelist.net/anime/31].
-Duration [4200]seconds does not match [6360]seconds. Not merging [https://anidb.net/anime/166] into [https://kitsu.io/anime/834].
 Duration [4260]seconds does not match [4500]seconds. Not merging [https://anilist.co/anime/98779] into [https://anidb.net/anime/13187].
 Duration [4320]seconds does not match [4860]seconds. Not merging [https://anilist.co/anime/17699] into [https://kitsu.io/anime/7684, https://myanimelist.net/anime/17699].
 Duration [4380]seconds does not match [4800]seconds. Not merging [https://anilist.co/anime/9818] into [https://anidb.net/anime/6180].
@@ -6445,6 +6460,7 @@ Duration [4440]seconds does not match [4500]seconds. Not merging [https://anilis
 Duration [4440]seconds does not match [4500]seconds. Not merging [https://kitsu.io/anime/2523] into [https://anidb.net/anime/4055, https://myanimelist.net/anime/2765].
 Duration [4440]seconds does not match [4500]seconds. Not merging [https://kitsu.io/anime/2642] into [https://anidb.net/anime/2532, https://myanimelist.net/anime/2915].
 Duration [4500]seconds does not match [1320]seconds. Not merging [https://kitsu.io/anime/157] into [https://anilist.co/anime/180, https://myanimelist.net/anime/180].
+Duration [4500]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/157] into [https://anidb.net/anime/177].
 Duration [4500]seconds does not match [4200]seconds. Not merging [https://anidb.net/anime/3150] into [https://myanimelist.net/anime/9242].
 Duration [4500]seconds does not match [4200]seconds. Not merging [https://anidb.net/anime/4207] into [https://kitsu.io/anime/4418, https://myanimelist.net/anime/6078].
 Duration [4500]seconds does not match [4200]seconds. Not merging [https://anidb.net/anime/6580] into [https://anilist.co/anime/6554, https://kitsu.io/anime/4607, https://myanimelist.net/anime/6554].
@@ -6478,8 +6494,8 @@ Duration [4500]seconds does not match [4560]seconds. Not merging [https://anidb.
 Duration [4500]seconds does not match [4620]seconds. Not merging [https://anidb.net/anime/2627] into [https://anilist.co/anime/4733, https://kitsu.io/anime/3769, https://myanimelist.net/anime/4733].
 Duration [4500]seconds does not match [4800]seconds. Not merging [https://anidb.net/anime/2020] into [https://anilist.co/anime/5272, https://kitsu.io/anime/4025, https://myanimelist.net/anime/5272].
 Duration [4500]seconds does not match [4800]seconds. Not merging [https://anidb.net/anime/3411] into [https://anilist.co/anime/6695, https://kitsu.io/anime/4674].
-Duration [4500]seconds does not match [5160]seconds. Not merging [https://anidb.net/anime/990] into [https://anilist.co/anime/528].
 Duration [4500]seconds does not match [5280]seconds. Not merging [https://anilist.co/anime/21500] into [https://kitsu.io/anime/11546, https://myanimelist.net/anime/32108].
+Duration [4500]seconds does not match [5460]seconds. Not merging [https://anidb.net/anime/5215] into [https://anilist.co/anime/6796].
 Duration [4500]seconds does not match [5880]seconds. Not merging [https://anidb.net/anime/1497] into [https://anilist.co/anime/20381, https://myanimelist.net/anime/20381].
 Duration [4500]seconds does not match [5880]seconds. Not merging [https://kitsu.io/anime/9355] into [https://anilist.co/anime/20381, https://myanimelist.net/anime/20381].
 Duration [4500]seconds does not match [6000]seconds. Not merging [https://anidb.net/anime/7528] into [https://anilist.co/anime/5157, https://kitsu.io/anime/3955, https://myanimelist.net/anime/5157].
@@ -6491,19 +6507,13 @@ Duration [4620]seconds does not match [5100]seconds. Not merging [https://anilis
 Duration [4620]seconds does not match [5220]seconds. Not merging [https://anilist.co/anime/10342] into [https://kitsu.io/anime/6136, https://myanimelist.net/anime/10342].
 Duration [4620]seconds does not match [5400]seconds. Not merging [https://anilist.co/anime/10342] into [https://anidb.net/anime/1514].
 Duration [4680]seconds does not match [300]seconds. Not merging [https://anilist.co/anime/20519] into [https://anilist.co/anime/21014, https://kitsu.io/anime/8400, https://myanimelist.net/anime/23399].
-Duration [4680]seconds does not match [4800]seconds. Not merging [https://anilist.co/anime/20519] into [https://anidb.net/anime/10326].
-Duration [4680]seconds does not match [4800]seconds. Not merging [https://anilist.co/anime/21426] into [https://anidb.net/anime/11790].
 Duration [4680]seconds does not match [4800]seconds. Not merging [https://kitsu.io/anime/1930] into [https://anidb.net/anime/1187, https://anilist.co/anime/2133, https://myanimelist.net/anime/2133].
 Duration [4680]seconds does not match [4800]seconds. Not merging [https://kitsu.io/anime/8903] into [https://anidb.net/anime/10966].
 Duration [4680]seconds does not match [4980]seconds. Not merging [https://anilist.co/anime/20519] into [https://kitsu.io/anime/8135, https://myanimelist.net/anime/21647].
-Duration [4680]seconds does not match [5400]seconds. Not merging [https://anilist.co/anime/1112] into [https://anidb.net/anime/462].
 Duration [4740]seconds does not match [4920]seconds. Not merging [https://kitsu.io/anime/339] into [https://myanimelist.net/anime/372].
-Duration [4740]seconds does not match [5760]seconds. Not merging [https://anilist.co/anime/12517] into [https://kitsu.io/anime/6757].
 Duration [480]seconds does not match [120]seconds. Not merging [https://anilist.co/anime/3243] into [https://anidb.net/anime/9463].
-Duration [480]seconds does not match [120]seconds. Not merging [https://kitsu.io/anime/2879] into [https://anidb.net/anime/9463].
 Duration [480]seconds does not match [120]seconds. Not merging [https://kitsu.io/anime/5819] into [https://myanimelist.net/anime/9650].
 Duration [480]seconds does not match [1200]seconds. Not merging [https://kitsu.io/anime/7929] into [https://myanimelist.net/anime/40384].
-Duration [480]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/2554] into [https://anilist.co/anime/2366].
 Duration [480]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/11066] into [https://kitsu.io/anime/10465, https://myanimelist.net/anime/29941].
 Duration [480]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/21044] into [https://kitsu.io/anime/10465, https://myanimelist.net/anime/29941].
 Duration [480]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/11430] into [https://kitsu.io/anime/10334, https://myanimelist.net/anime/29003].
@@ -6547,6 +6557,7 @@ Duration [480]seconds does not match [420]seconds. Not merging [https://anidb.ne
 Duration [480]seconds does not match [420]seconds. Not merging [https://anidb.net/anime/14352] into [https://kitsu.io/anime/10492, https://myanimelist.net/anime/29645].
 Duration [480]seconds does not match [420]seconds. Not merging [https://anidb.net/anime/14355] into [https://anilist.co/anime/109390, https://kitsu.io/anime/10495, https://myanimelist.net/anime/29651].
 Duration [480]seconds does not match [420]seconds. Not merging [https://anidb.net/anime/14530] into [https://anilist.co/anime/106239, https://kitsu.io/anime/42093, https://myanimelist.net/anime/38814].
+Duration [480]seconds does not match [420]seconds. Not merging [https://anidb.net/anime/5957] into [https://anilist.co/anime/6823].
 Duration [480]seconds does not match [420]seconds. Not merging [https://anidb.net/anime/9809] into [https://kitsu.io/anime/7761, https://myanimelist.net/anime/18139].
 Duration [480]seconds does not match [420]seconds. Not merging [https://anilist.co/anime/101104] into [https://kitsu.io/anime/40594, https://myanimelist.net/anime/36692].
 Duration [480]seconds does not match [420]seconds. Not merging [https://anilist.co/anime/101917] into [https://kitsu.io/anime/41742, https://myanimelist.net/anime/37164].
@@ -6555,7 +6566,6 @@ Duration [480]seconds does not match [420]seconds. Not merging [https://anilist.
 Duration [480]seconds does not match [420]seconds. Not merging [https://anilist.co/anime/104959] into [https://myanimelist.net/anime/38435].
 Duration [480]seconds does not match [420]seconds. Not merging [https://anilist.co/anime/109365] into [https://kitsu.io/anime/10204, https://myanimelist.net/anime/28049].
 Duration [480]seconds does not match [420]seconds. Not merging [https://anilist.co/anime/18139] into [https://kitsu.io/anime/7761, https://myanimelist.net/anime/18139].
-Duration [480]seconds does not match [420]seconds. Not merging [https://anilist.co/anime/18205] into [https://anidb.net/anime/10633].
 Duration [480]seconds does not match [420]seconds. Not merging [https://anilist.co/anime/20557] into [https://kitsu.io/anime/8205, https://myanimelist.net/anime/21587].
 Duration [480]seconds does not match [420]seconds. Not merging [https://anilist.co/anime/20999] into [https://kitsu.io/anime/10138, https://myanimelist.net/anime/29017].
 Duration [480]seconds does not match [420]seconds. Not merging [https://anilist.co/anime/21208] into [https://kitsu.io/anime/10923, https://myanimelist.net/anime/30641].
@@ -6574,14 +6584,14 @@ Duration [480]seconds does not match [420]seconds. Not merging [https://anilist.
 Duration [480]seconds does not match [420]seconds. Not merging [https://anilist.co/anime/99431] into [https://kitsu.io/anime/9720, https://myanimelist.net/anime/27539].
 Duration [480]seconds does not match [420]seconds. Not merging [https://kitsu.io/anime/11230] into [https://anilist.co/anime/104427, https://myanimelist.net/anime/31267].
 Duration [480]seconds does not match [420]seconds. Not merging [https://kitsu.io/anime/4891] into [https://anidb.net/anime/4398, https://myanimelist.net/anime/7171].
-Duration [480]seconds does not match [420]seconds. Not merging [https://kitsu.io/anime/7847] into [https://anilist.co/anime/18231].
 Duration [480]seconds does not match [420]seconds. Not merging [https://kitsu.io/anime/8316] into [https://myanimelist.net/anime/23053].
-Duration [480]seconds does not match [540]seconds. Not merging [https://anilist.co/anime/19307] into [https://anidb.net/anime/8499].
+Duration [480]seconds does not match [540]seconds. Not merging [https://anilist.co/anime/109618] into [https://anidb.net/anime/13727].
+Duration [480]seconds does not match [540]seconds. Not merging [https://kitsu.io/anime/40641] into [https://anidb.net/anime/12363].
 Duration [480]seconds does not match [600]seconds. Not merging [https://anidb.net/anime/5170] into [https://anilist.co/anime/19991, https://kitsu.io/anime/9942, https://myanimelist.net/anime/19991].
+Duration [480]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/10859] into [https://anidb.net/anime/8516].
 Duration [480]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/21435] into [https://anidb.net/anime/11792].
 Duration [480]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/8460] into [https://anidb.net/anime/7432].
 Duration [480]seconds does not match [600]seconds. Not merging [https://kitsu.io/anime/12474] into [https://myanimelist.net/anime/33808].
-Duration [480]seconds does not match [600]seconds. Not merging [https://kitsu.io/anime/5344] into [https://anidb.net/anime/7432].
 Duration [4800]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/10326] into [https://anilist.co/anime/21014, https://kitsu.io/anime/8400, https://myanimelist.net/anime/23399].
 Duration [4800]seconds does not match [3960]seconds. Not merging [https://anidb.net/anime/10318] into [https://anilist.co/anime/20644, https://kitsu.io/anime/8149, https://myanimelist.net/anime/21569].
 Duration [4800]seconds does not match [4200]seconds. Not merging [https://anidb.net/anime/9629] into [https://anilist.co/anime/18305, https://kitsu.io/anime/8818, https://myanimelist.net/anime/18305].
@@ -6590,13 +6600,14 @@ Duration [4800]seconds does not match [4320]seconds. Not merging [https://anilis
 Duration [4800]seconds does not match [4320]seconds. Not merging [https://kitsu.io/anime/4674] into [https://myanimelist.net/anime/6695].
 Duration [4800]seconds does not match [4500]seconds. Not merging [https://anidb.net/anime/2214] into [https://anilist.co/anime/3842, https://kitsu.io/anime/3294, https://myanimelist.net/anime/3842].
 Duration [4800]seconds does not match [4500]seconds. Not merging [https://anidb.net/anime/2895] into [https://anilist.co/anime/2715, https://kitsu.io/anime/2476, https://myanimelist.net/anime/2715].
-Duration [4800]seconds does not match [4560]seconds. Not merging [https://anidb.net/anime/12449] into [https://anilist.co/anime/102365].
 Duration [4800]seconds does not match [4560]seconds. Not merging [https://anidb.net/anime/12449] into [https://kitsu.io/anime/9548, https://myanimelist.net/anime/27463].
 Duration [4800]seconds does not match [4560]seconds. Not merging [https://anidb.net/anime/3680] into [https://anilist.co/anime/17675, https://kitsu.io/anime/9525, https://myanimelist.net/anime/17675].
 Duration [4800]seconds does not match [4560]seconds. Not merging [https://anidb.net/anime/8559] into [https://kitsu.io/anime/6460, https://myanimelist.net/anime/11101].
 Duration [4800]seconds does not match [4560]seconds. Not merging [https://anilist.co/anime/16586] into [https://kitsu.io/anime/7467, https://myanimelist.net/anime/16586].
 Duration [4800]seconds does not match [4620]seconds. Not merging [https://anidb.net/anime/1053] into [https://anilist.co/anime/2141, https://kitsu.io/anime/1938, https://myanimelist.net/anime/2141].
 Duration [4800]seconds does not match [4620]seconds. Not merging [https://anidb.net/anime/4397] into [https://anilist.co/anime/1857, https://kitsu.io/anime/1674, https://myanimelist.net/anime/1857].
+Duration [4800]seconds does not match [4680]seconds. Not merging [https://anidb.net/anime/10326] into [https://anilist.co/anime/20519].
+Duration [4800]seconds does not match [4680]seconds. Not merging [https://anidb.net/anime/11790] into [https://anilist.co/anime/21426].
 Duration [4800]seconds does not match [4680]seconds. Not merging [https://anidb.net/anime/13682] into [https://anilist.co/anime/103388, https://kitsu.io/anime/12394, https://myanimelist.net/anime/33238].
 Duration [4800]seconds does not match [4680]seconds. Not merging [https://anidb.net/anime/1861] into [https://anilist.co/anime/4513, https://kitsu.io/anime/3658, https://myanimelist.net/anime/4513].
 Duration [4800]seconds does not match [4680]seconds. Not merging [https://anidb.net/anime/4316] into [https://kitsu.io/anime/2841, https://myanimelist.net/anime/3178].
@@ -6608,6 +6619,7 @@ Duration [4800]seconds does not match [4680]seconds. Not merging [https://anidb.
 Duration [4800]seconds does not match [4680]seconds. Not merging [https://anilist.co/anime/3178] into [https://kitsu.io/anime/2841, https://myanimelist.net/anime/3178].
 Duration [4800]seconds does not match [4740]seconds. Not merging [https://anidb.net/anime/1023] into [https://kitsu.io/anime/459, https://myanimelist.net/anime/499].
 Duration [4800]seconds does not match [4740]seconds. Not merging [https://anidb.net/anime/2794] into [https://anilist.co/anime/1329, https://myanimelist.net/anime/1329].
+Duration [4800]seconds does not match [4740]seconds. Not merging [https://anidb.net/anime/2794] into [https://kitsu.io/anime/1186].
 Duration [4800]seconds does not match [4740]seconds. Not merging [https://anidb.net/anime/369] into [https://anilist.co/anime/219, https://kitsu.io/anime/195, https://myanimelist.net/anime/219].
 Duration [4800]seconds does not match [4740]seconds. Not merging [https://anidb.net/anime/6386] into [https://anilist.co/anime/11097, https://kitsu.io/anime/6458, https://myanimelist.net/anime/11097].
 Duration [4800]seconds does not match [4740]seconds. Not merging [https://anidb.net/anime/812] into [https://anilist.co/anime/2000, https://kitsu.io/anime/1800, https://myanimelist.net/anime/2000].
@@ -6617,11 +6629,12 @@ Duration [4800]seconds does not match [4740]seconds. Not merging [https://anidb.
 Duration [4800]seconds does not match [4740]seconds. Not merging [https://anilist.co/anime/101525] into [https://myanimelist.net/anime/37735].
 Duration [4800]seconds does not match [4860]seconds. Not merging [https://anidb.net/anime/9180] into [https://kitsu.io/anime/11874].
 Duration [4800]seconds does not match [4860]seconds. Not merging [https://anidb.net/anime/9671] into [https://kitsu.io/anime/7684, https://myanimelist.net/anime/17699].
+Duration [4800]seconds does not match [4920]seconds. Not merging [https://anidb.net/anime/1023] into [https://anilist.co/anime/499].
 Duration [4800]seconds does not match [4920]seconds. Not merging [https://anidb.net/anime/9567] into [https://anilist.co/anime/107341, https://kitsu.io/anime/9201, https://myanimelist.net/anime/23031].
 Duration [4800]seconds does not match [4980]seconds. Not merging [https://anidb.net/anime/10326] into [https://kitsu.io/anime/8135, https://myanimelist.net/anime/21647].
 Duration [4800]seconds does not match [5100]seconds. Not merging [https://anidb.net/anime/2367] into [https://anilist.co/anime/5013, https://kitsu.io/anime/3880, https://myanimelist.net/anime/5013].
 Duration [4800]seconds does not match [5100]seconds. Not merging [https://anidb.net/anime/8789] into [https://anilist.co/anime/10763, https://kitsu.io/anime/6338, https://myanimelist.net/anime/10763].
-Duration [4800]seconds does not match [5100]seconds. Not merging [https://anilist.co/anime/2272] into [https://anidb.net/anime/4012].
+Duration [4800]seconds does not match [5100]seconds. Not merging [https://anilist.co/anime/2393] into [https://anidb.net/anime/2717].
 Duration [4800]seconds does not match [5160]seconds. Not merging [https://anilist.co/anime/2272] into [https://myanimelist.net/anime/2272].
 Duration [4800]seconds does not match [5160]seconds. Not merging [https://kitsu.io/anime/2058] into [https://myanimelist.net/anime/2272].
 Duration [4800]seconds does not match [540]seconds. Not merging [https://kitsu.io/anime/12293] into [https://anilist.co/anime/21864, https://myanimelist.net/anime/33511].
@@ -6632,32 +6645,27 @@ Duration [4860]seconds does not match [4920]seconds. Not merging [https://anilis
 Duration [4920]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/10627] into [https://kitsu.io/anime/6271, https://myanimelist.net/anime/10627].
 Duration [4920]seconds does not match [4740]seconds. Not merging [https://anilist.co/anime/499] into [https://kitsu.io/anime/459, https://myanimelist.net/anime/499].
 Duration [4920]seconds does not match [4800]seconds. Not merging [https://anilist.co/anime/437] into [https://anidb.net/anime/154, https://kitsu.io/anime/400, https://myanimelist.net/anime/437].
-Duration [4920]seconds does not match [4800]seconds. Not merging [https://anilist.co/anime/499] into [https://anidb.net/anime/1023].
 Duration [4920]seconds does not match [4980]seconds. Not merging [https://anilist.co/anime/21400] into [https://kitsu.io/anime/11407, https://myanimelist.net/anime/31758].
 Duration [4920]seconds does not match [5100]seconds. Not merging [https://anilist.co/anime/108815] into [https://anidb.net/anime/10409].
+Duration [4920]seconds does not match [5100]seconds. Not merging [https://kitsu.io/anime/4534] into [https://anidb.net/anime/6636].
 Duration [4920]seconds does not match [5220]seconds. Not merging [https://anilist.co/anime/9957] into [https://kitsu.io/anime/5964, https://myanimelist.net/anime/9957].
+Duration [4920]seconds does not match [5400]seconds. Not merging [https://anilist.co/anime/9957] into [https://anidb.net/anime/6697].
 Duration [4920]seconds does not match [5400]seconds. Not merging [https://kitsu.io/anime/405] into [https://myanimelist.net/anime/442].
 Duration [4980]seconds does not match [2580]seconds. Not merging [https://kitsu.io/anime/6104] into [https://myanimelist.net/anime/10260].
 Duration [4980]seconds does not match [4200]seconds. Not merging [https://anidb.net/anime/14606] into [https://anilist.co/anime/18317, https://kitsu.io/anime/9737, https://myanimelist.net/anime/18317].
 Duration [4980]seconds does not match [4860]seconds. Not merging [https://anilist.co/anime/102426] into [https://myanimelist.net/anime/36021].
 Duration [4980]seconds does not match [4920]seconds. Not merging [https://anilist.co/anime/43] into [https://myanimelist.net/anime/43].
 Duration [4980]seconds does not match [4920]seconds. Not merging [https://kitsu.io/anime/25] into [https://myanimelist.net/anime/43].
-Duration [4980]seconds does not match [5100]seconds. Not merging [https://anilist.co/anime/102426] into [https://anidb.net/anime/12843].
-Duration [4980]seconds does not match [5100]seconds. Not merging [https://anilist.co/anime/14669] into [https://anidb.net/anime/9294].
-Duration [4980]seconds does not match [5100]seconds. Not merging [https://anilist.co/anime/43] into [https://anidb.net/anime/61].
-Duration [4980]seconds does not match [5100]seconds. Not merging [https://kitsu.io/anime/25] into [https://anidb.net/anime/61].
 Duration [4980]seconds does not match [5160]seconds. Not merging [https://anidb.net/anime/14611] into [https://kitsu.io/anime/10670, https://myanimelist.net/anime/30134].
 Duration [5040]seconds does not match [4020]seconds. Not merging [https://anilist.co/anime/9095] into [https://kitsu.io/anime/5601, https://myanimelist.net/anime/9095].
 Duration [5100]seconds does not match [1380]seconds. Not merging [https://anidb.net/anime/14294] into [https://myanimelist.net/anime/33499].
 Duration [5100]seconds does not match [4200]seconds. Not merging [https://anidb.net/anime/6985] into [https://anilist.co/anime/13947, https://kitsu.io/anime/7058, https://myanimelist.net/anime/13947].
 Duration [5100]seconds does not match [4200]seconds. Not merging [https://anidb.net/anime/9645] into [https://anilist.co/anime/18301, https://kitsu.io/anime/9754, https://myanimelist.net/anime/18301].
-Duration [5100]seconds does not match [4620]seconds. Not merging [https://anidb.net/anime/1032] into [https://kitsu.io/anime/1616].
 Duration [5100]seconds does not match [4740]seconds. Not merging [https://anidb.net/anime/2640] into [https://anilist.co/anime/2607, https://kitsu.io/anime/2371, https://myanimelist.net/anime/2607].
 Duration [5100]seconds does not match [4740]seconds. Not merging [https://anidb.net/anime/7341] into [https://anilist.co/anime/19773, https://kitsu.io/anime/9800, https://myanimelist.net/anime/19773].
 Duration [5100]seconds does not match [4800]seconds. Not merging [https://anidb.net/anime/10861] into [https://kitsu.io/anime/8328, https://myanimelist.net/anime/19781].
 Duration [5100]seconds does not match [4800]seconds. Not merging [https://anidb.net/anime/13997] into [https://anilist.co/anime/18329, https://kitsu.io/anime/9757, https://myanimelist.net/anime/18329].
 Duration [5100]seconds does not match [4800]seconds. Not merging [https://anidb.net/anime/1951] into [https://anilist.co/anime/2656].
-Duration [5100]seconds does not match [4800]seconds. Not merging [https://anidb.net/anime/2717] into [https://anilist.co/anime/2393].
 Duration [5100]seconds does not match [4800]seconds. Not merging [https://anidb.net/anime/5813] into [https://anilist.co/anime/5921, https://kitsu.io/anime/4338, https://myanimelist.net/anime/5921].
 Duration [5100]seconds does not match [4800]seconds. Not merging [https://anidb.net/anime/9611] into [https://anilist.co/anime/16818, https://kitsu.io/anime/7532, https://myanimelist.net/anime/16818].
 Duration [5100]seconds does not match [4860]seconds. Not merging [https://anidb.net/anime/1032] into [https://myanimelist.net/anime/1796].
@@ -6675,12 +6683,15 @@ Duration [5100]seconds does not match [4920]seconds. Not merging [https://anidb.
 Duration [5100]seconds does not match [4920]seconds. Not merging [https://anidb.net/anime/9019] into [https://anilist.co/anime/9365, https://kitsu.io/anime/5704, https://myanimelist.net/anime/9365].
 Duration [5100]seconds does not match [4920]seconds. Not merging [https://anidb.net/anime/9869] into [https://anilist.co/anime/18627, https://kitsu.io/anime/9689, https://myanimelist.net/anime/18627].
 Duration [5100]seconds does not match [4980]seconds. Not merging [https://anidb.net/anime/12070] into [https://anilist.co/anime/21779, https://myanimelist.net/anime/33130].
+Duration [5100]seconds does not match [4980]seconds. Not merging [https://anidb.net/anime/12843] into [https://anilist.co/anime/102426].
 Duration [5100]seconds does not match [4980]seconds. Not merging [https://anidb.net/anime/14800] into [https://kitsu.io/anime/3472, https://myanimelist.net/anime/4112].
 Duration [5100]seconds does not match [4980]seconds. Not merging [https://anidb.net/anime/2198] into [https://anilist.co/anime/4948, https://kitsu.io/anime/3865, https://myanimelist.net/anime/4948].
 Duration [5100]seconds does not match [4980]seconds. Not merging [https://anidb.net/anime/2200] into [https://anilist.co/anime/7610, https://kitsu.io/anime/5051, https://myanimelist.net/anime/7610].
 Duration [5100]seconds does not match [4980]seconds. Not merging [https://anidb.net/anime/4944] into [https://anilist.co/anime/6071, https://kitsu.io/anime/4411, https://myanimelist.net/anime/6071].
+Duration [5100]seconds does not match [4980]seconds. Not merging [https://anidb.net/anime/61] into [https://anilist.co/anime/43, https://kitsu.io/anime/25].
 Duration [5100]seconds does not match [4980]seconds. Not merging [https://anidb.net/anime/627] into [https://anilist.co/anime/1824, https://kitsu.io/anime/1641, https://myanimelist.net/anime/1824].
 Duration [5100]seconds does not match [4980]seconds. Not merging [https://anidb.net/anime/6633] into [https://anilist.co/anime/9495, https://kitsu.io/anime/5753, https://myanimelist.net/anime/9495].
+Duration [5100]seconds does not match [4980]seconds. Not merging [https://anidb.net/anime/9294] into [https://anilist.co/anime/14669].
 Duration [5100]seconds does not match [4980]seconds. Not merging [https://anidb.net/anime/961] into [https://anilist.co/anime/1494, https://kitsu.io/anime/1340, https://myanimelist.net/anime/1494].
 Duration [5100]seconds does not match [4980]seconds. Not merging [https://anilist.co/anime/4672] into [https://myanimelist.net/anime/4672].
 Duration [5100]seconds does not match [4980]seconds. Not merging [https://kitsu.io/anime/3732] into [https://myanimelist.net/anime/4672].
@@ -6695,41 +6706,38 @@ Duration [5100]seconds does not match [5040]seconds. Not merging [https://anidb.
 Duration [5100]seconds does not match [5040]seconds. Not merging [https://anidb.net/anime/8337] into [https://anilist.co/anime/4713, https://kitsu.io/anime/3754, https://myanimelist.net/anime/4713].
 Duration [5100]seconds does not match [5040]seconds. Not merging [https://anilist.co/anime/10689] into [https://myanimelist.net/anime/10689].
 Duration [5100]seconds does not match [5040]seconds. Not merging [https://anilist.co/anime/10693] into [https://kitsu.io/anime/6298, https://myanimelist.net/anime/10693].
-Duration [5100]seconds does not match [5040]seconds. Not merging [https://kitsu.io/anime/10922] into [https://anilist.co/anime/21191].
 Duration [5100]seconds does not match [5040]seconds. Not merging [https://kitsu.io/anime/10922] into [https://myanimelist.net/anime/30778].
 Duration [5100]seconds does not match [5160]seconds. Not merging [https://anidb.net/anime/8788] into [https://kitsu.io/anime/6652, https://myanimelist.net/anime/12049].
-Duration [5100]seconds does not match [5400]seconds. Not merging [https://anidb.net/anime/1040] into [https://anilist.co/anime/1107].
 Duration [5100]seconds does not match [5400]seconds. Not merging [https://anidb.net/anime/5436] into [https://anilist.co/anime/5535, https://kitsu.io/anime/4140, https://myanimelist.net/anime/5535].
 Duration [5100]seconds does not match [5400]seconds. Not merging [https://anidb.net/anime/8613] into [https://kitsu.io/anime/9370, https://myanimelist.net/anime/22111].
 Duration [5100]seconds does not match [5640]seconds. Not merging [https://anidb.net/anime/2753] into [https://kitsu.io/anime/5109, https://myanimelist.net/anime/7752].
 Duration [5100]seconds does not match [5880]seconds. Not merging [https://anidb.net/anime/10048] into [https://kitsu.io/anime/8327, https://myanimelist.net/anime/19687].
-Duration [5100]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/12070] into [https://kitsu.io/anime/12044].
+Duration [5160]seconds does not match [4500]seconds. Not merging [https://anilist.co/anime/528] into [https://anidb.net/anime/990].
 Duration [5160]seconds does not match [5100]seconds. Not merging [https://anilist.co/anime/2756] into [https://kitsu.io/anime/2516, https://myanimelist.net/anime/2756].
-Duration [5160]seconds does not match [5400]seconds. Not merging [https://anilist.co/anime/1111] into [https://anidb.net/anime/463].
 Duration [5160]seconds does not match [5400]seconds. Not merging [https://anilist.co/anime/1378] into [https://anidb.net/anime/1036].
 Duration [5160]seconds does not match [5400]seconds. Not merging [https://anilist.co/anime/19957] into [https://anidb.net/anime/7710, https://kitsu.io/anime/9329, https://myanimelist.net/anime/19957].
 Duration [5160]seconds does not match [5400]seconds. Not merging [https://kitsu.io/anime/1632] into [https://anidb.net/anime/4388, https://anilist.co/anime/1815, https://myanimelist.net/anime/1815].
 Duration [5220]seconds does not match [1800]seconds. Not merging [https://kitsu.io/anime/1205] into [https://anidb.net/anime/779, https://anilist.co/anime/1350, https://myanimelist.net/anime/1350].
 Duration [5220]seconds does not match [3540]seconds. Not merging [https://kitsu.io/anime/11352] into [https://myanimelist.net/anime/31485].
-Duration [5220]seconds does not match [5400]seconds. Not merging [https://anilist.co/anime/1033] into [https://anidb.net/anime/570].
+Duration [5220]seconds does not match [5400]seconds. Not merging [https://anilist.co/anime/1686] into [https://anidb.net/anime/4515].
+Duration [5220]seconds does not match [5400]seconds. Not merging [https://anilist.co/anime/449] into [https://anidb.net/anime/2321].
 Duration [5220]seconds does not match [5400]seconds. Not merging [https://kitsu.io/anime/923] into [https://anidb.net/anime/570].
 Duration [5220]seconds does not match [5580]seconds. Not merging [https://anilist.co/anime/3745] into [https://myanimelist.net/anime/3745].
 Duration [5220]seconds does not match [5580]seconds. Not merging [https://kitsu.io/anime/3226] into [https://myanimelist.net/anime/3745].
+Duration [5280]seconds does not match [2400]seconds. Not merging [https://kitsu.io/anime/13736] into [https://anilist.co/anime/2397, https://kitsu.io/anime/7827].
 Duration [5280]seconds does not match [2460]seconds. Not merging [https://kitsu.io/anime/13736] into [https://myanimelist.net/anime/2397].
 Duration [5280]seconds does not match [5220]seconds. Not merging [https://kitsu.io/anime/412] into [https://anilist.co/anime/449].
 Duration [5280]seconds does not match [5220]seconds. Not merging [https://kitsu.io/anime/412] into [https://myanimelist.net/anime/449].
+Duration [5280]seconds does not match [5400]seconds. Not merging [https://kitsu.io/anime/13744] into [https://anidb.net/anime/13410].
 Duration [5280]seconds does not match [5400]seconds. Not merging [https://kitsu.io/anime/412] into [https://anidb.net/anime/2321].
 Duration [5340]seconds does not match [5280]seconds. Not merging [https://anilist.co/anime/20640] into [https://kitsu.io/anime/8499, https://myanimelist.net/anime/22819].
 Duration [5340]seconds does not match [5400]seconds. Not merging [https://anilist.co/anime/102058] into [https://anidb.net/anime/11467, https://myanimelist.net/anime/31373].
 Duration [5340]seconds does not match [5400]seconds. Not merging [https://anilist.co/anime/14807] into [https://kitsu.io/anime/7167, https://myanimelist.net/anime/14807].
-Duration [5340]seconds does not match [60]seconds. Not merging [https://anilist.co/anime/102058] into [https://kitsu.io/anime/11673].
-Duration [5340]seconds does not match [6000]seconds. Not merging [https://kitsu.io/anime/6103] into [https://anilist.co/anime/10259].
 Duration [5340]seconds does not match [6060]seconds. Not merging [https://kitsu.io/anime/1704] into [https://anilist.co/anime/1894, https://myanimelist.net/anime/1894].
 Duration [540]seconds does not match [120]seconds. Not merging [https://anidb.net/anime/6612] into [https://kitsu.io/anime/4228, https://myanimelist.net/anime/5661].
 Duration [540]seconds does not match [120]seconds. Not merging [https://anilist.co/anime/21285] into [https://kitsu.io/anime/11158, https://myanimelist.net/anime/31139].
 Duration [540]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/6566] into [https://myanimelist.net/anime/6519].
 Duration [540]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/5953] into [https://anilist.co/anime/9941, https://myanimelist.net/anime/9941].
-Duration [540]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/5953] into [https://anidb.net/anime/8101].
 Duration [540]seconds does not match [1680]seconds. Not merging [https://anilist.co/anime/1679] into [https://kitsu.io/anime/1509, https://myanimelist.net/anime/1679].
 Duration [540]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/6837] into [https://kitsu.io/anime/40771, https://myanimelist.net/anime/35492].
 Duration [540]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/6837] into [https://anilist.co/anime/103930].
@@ -6742,12 +6750,9 @@ Duration [540]seconds does not match [480]seconds. Not merging [https://anidb.ne
 Duration [540]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/11562] into [https://anilist.co/anime/102711, https://kitsu.io/anime/10563, https://myanimelist.net/anime/29954].
 Duration [540]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/11588] into [https://kitsu.io/anime/10653, https://myanimelist.net/anime/30105].
 Duration [540]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/12082] into [https://anilist.co/anime/97958, https://kitsu.io/anime/12179, https://myanimelist.net/anime/33192].
-Duration [540]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/12363] into [https://anilist.co/anime/97605].
-Duration [540]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/12363] into [https://kitsu.io/anime/40641].
 Duration [540]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/12915] into [https://anilist.co/anime/99152, https://kitsu.io/anime/13324, https://myanimelist.net/anime/35006].
 Duration [540]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/13582] into [https://anilist.co/anime/100527].
 Duration [540]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/13582] into [https://kitsu.io/anime/14093, https://myanimelist.net/anime/36797].
-Duration [540]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/13727] into [https://anilist.co/anime/109618].
 Duration [540]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/14046] into [https://kitsu.io/anime/41737, https://myanimelist.net/anime/37145].
 Duration [540]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/14373] into [https://anilist.co/anime/104074, https://kitsu.io/anime/42138, https://myanimelist.net/anime/38250].
 Duration [540]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/3479] into [https://kitsu.io/anime/3037, https://myanimelist.net/anime/3475].
@@ -6756,6 +6761,7 @@ Duration [540]seconds does not match [480]seconds. Not merging [https://anidb.ne
 Duration [540]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/6691] into [https://anilist.co/anime/5872, https://kitsu.io/anime/4313, https://myanimelist.net/anime/5872].
 Duration [540]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/6727] into [https://anilist.co/anime/6848, https://kitsu.io/anime/4749, https://myanimelist.net/anime/6848].
 Duration [540]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/7024] into [https://anilist.co/anime/109330, https://kitsu.io/anime/8960, https://myanimelist.net/anime/21765].
+Duration [540]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/8499] into [https://anilist.co/anime/19307].
 Duration [540]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/8499] into [https://kitsu.io/anime/8570, https://myanimelist.net/anime/40194].
 Duration [540]seconds does not match [480]seconds. Not merging [https://anilist.co/anime/101094] into [https://kitsu.io/anime/10686, https://myanimelist.net/anime/30155].
 Duration [540]seconds does not match [480]seconds. Not merging [https://anilist.co/anime/10122] into [https://kitsu.io/anime/6047, https://myanimelist.net/anime/10122].
@@ -6776,14 +6782,14 @@ Duration [540]seconds does not match [600]seconds. Not merging [https://anidb.ne
 Duration [540]seconds does not match [600]seconds. Not merging [https://anidb.net/anime/6755] into [https://anilist.co/anime/5469, https://kitsu.io/anime/4112, https://myanimelist.net/anime/5469].
 Duration [540]seconds does not match [600]seconds. Not merging [https://anidb.net/anime/8046] into [https://kitsu.io/anime/6155, https://myanimelist.net/anime/10375].
 Duration [540]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/4394] into [https://kitsu.io/anime/3590, https://myanimelist.net/anime/4394].
-Duration [540]seconds does not match [600]seconds. Not merging [https://kitsu.io/anime/10918] into [https://anidb.net/anime/13639].
+Duration [540]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/7659] into [https://anidb.net/anime/8422].
+Duration [540]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/8446] into [https://anidb.net/anime/12923].
 Duration [540]seconds does not match [600]seconds. Not merging [https://kitsu.io/anime/12848] into [https://myanimelist.net/anime/34416].
 Duration [540]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/11238] into [https://anilist.co/anime/21288].
-Duration [540]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/3492] into [https://anilist.co/anime/10916].
 Duration [540]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/3492] into [https://kitsu.io/anime/6404, https://myanimelist.net/anime/10916].
 Duration [540]seconds does not match [7200]seconds. Not merging [https://anidb.net/anime/6566] into [https://anilist.co/anime/6519, https://kitsu.io/anime/4592].
 Duration [540]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/8446] into [https://kitsu.io/anime/5338, https://myanimelist.net/anime/8446].
-Duration [5400]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/603] into [https://kitsu.io/anime/1127].
+Duration [540]seconds does not match [960]seconds. Not merging [https://anidb.net/anime/10787] into [https://kitsu.io/anime/9893].
 Duration [5400]seconds does not match [1800]seconds. Not merging [https://anidb.net/anime/9039] into [https://anilist.co/anime/13553, https://kitsu.io/anime/6992, https://myanimelist.net/anime/13553].
 Duration [5400]seconds does not match [3000]seconds. Not merging [https://anidb.net/anime/5230] into [https://anilist.co/anime/10964, https://kitsu.io/anime/6427, https://myanimelist.net/anime/10964].
 Duration [5400]seconds does not match [3060]seconds. Not merging [https://anidb.net/anime/1500] into [https://anilist.co/anime/13047, https://kitsu.io/anime/6870, https://myanimelist.net/anime/13047].
@@ -6791,11 +6797,12 @@ Duration [5400]seconds does not match [3360]seconds. Not merging [https://anilis
 Duration [5400]seconds does not match [3540]seconds. Not merging [https://anidb.net/anime/6694] into [https://kitsu.io/anime/9360, https://myanimelist.net/anime/23613].
 Duration [5400]seconds does not match [3900]seconds. Not merging [https://anilist.co/anime/16778] into [https://kitsu.io/anime/7513, https://myanimelist.net/anime/16778].
 Duration [5400]seconds does not match [4200]seconds. Not merging [https://anilist.co/anime/16786] into [https://anidb.net/anime/8950].
+Duration [5400]seconds does not match [4200]seconds. Not merging [https://anilist.co/anime/3252] into [https://anidb.net/anime/5945].
 Duration [5400]seconds does not match [4320]seconds. Not merging [https://anidb.net/anime/3623] into [https://anilist.co/anime/6728, https://kitsu.io/anime/4687, https://myanimelist.net/anime/6728].
 Duration [5400]seconds does not match [4320]seconds. Not merging [https://anidb.net/anime/4297] into [https://kitsu.io/anime/6551, https://myanimelist.net/anime/11625].
 Duration [5400]seconds does not match [4320]seconds. Not merging [https://anilist.co/anime/11625] into [https://kitsu.io/anime/6551, https://myanimelist.net/anime/11625].
+Duration [5400]seconds does not match [4680]seconds. Not merging [https://anidb.net/anime/462] into [https://anilist.co/anime/1112].
 Duration [5400]seconds does not match [4920]seconds. Not merging [https://anidb.net/anime/5382] into [https://anilist.co/anime/5293].
-Duration [5400]seconds does not match [4920]seconds. Not merging [https://anidb.net/anime/6697] into [https://anilist.co/anime/9957].
 Duration [5400]seconds does not match [4920]seconds. Not merging [https://anidb.net/anime/9894] into [https://anilist.co/anime/102697, https://kitsu.io/anime/11277, https://myanimelist.net/anime/31205].
 Duration [5400]seconds does not match [4920]seconds. Not merging [https://anilist.co/anime/1107] into [https://kitsu.io/anime/992, https://myanimelist.net/anime/1107].
 Duration [5400]seconds does not match [4920]seconds. Not merging [https://anilist.co/anime/21097] into [https://kitsu.io/anime/10529, https://myanimelist.net/anime/29863].
@@ -6803,6 +6810,7 @@ Duration [5400]seconds does not match [4980]seconds. Not merging [https://anidb.
 Duration [5400]seconds does not match [5100]seconds. Not merging [https://anidb.net/anime/13484] into [https://myanimelist.net/anime/36444].
 Duration [5400]seconds does not match [5100]seconds. Not merging [https://anidb.net/anime/2190] into [https://anilist.co/anime/884, https://kitsu.io/anime/784, https://myanimelist.net/anime/884].
 Duration [5400]seconds does not match [5100]seconds. Not merging [https://anidb.net/anime/5789] into [https://kitsu.io/anime/9346, https://myanimelist.net/anime/25305].
+Duration [5400]seconds does not match [5100]seconds. Not merging [https://anilist.co/anime/1107] into [https://anidb.net/anime/1040].
 Duration [5400]seconds does not match [5160]seconds. Not merging [https://anidb.net/anime/1264] into [https://anilist.co/anime/1776, https://kitsu.io/anime/1596, https://myanimelist.net/anime/1776].
 Duration [5400]seconds does not match [5160]seconds. Not merging [https://anidb.net/anime/1467] into [https://anilist.co/anime/2972].
 Duration [5400]seconds does not match [5160]seconds. Not merging [https://anidb.net/anime/2011] into [https://anilist.co/anime/1825, https://kitsu.io/anime/1642, https://myanimelist.net/anime/1825].
@@ -6811,20 +6819,20 @@ Duration [5400]seconds does not match [5160]seconds. Not merging [https://anidb.
 Duration [5400]seconds does not match [5160]seconds. Not merging [https://anidb.net/anime/303] into [https://anilist.co/anime/523, https://kitsu.io/anime/482, https://myanimelist.net/anime/523].
 Duration [5400]seconds does not match [5160]seconds. Not merging [https://anidb.net/anime/3412] into [https://anilist.co/anime/2178, https://kitsu.io/anime/1972, https://myanimelist.net/anime/2178].
 Duration [5400]seconds does not match [5160]seconds. Not merging [https://anidb.net/anime/4456] into [https://anilist.co/anime/5862, https://kitsu.io/anime/4307, https://myanimelist.net/anime/5862].
+Duration [5400]seconds does not match [5160]seconds. Not merging [https://anidb.net/anime/463] into [https://anilist.co/anime/1111].
 Duration [5400]seconds does not match [5160]seconds. Not merging [https://anidb.net/anime/7353] into [https://anilist.co/anime/17721, https://kitsu.io/anime/9556, https://myanimelist.net/anime/17721].
 Duration [5400]seconds does not match [5160]seconds. Not merging [https://anidb.net/anime/8022] into [https://anilist.co/anime/10261, https://kitsu.io/anime/6105, https://myanimelist.net/anime/10261].
 Duration [5400]seconds does not match [5220]seconds. Not merging [https://anidb.net/anime/11387] into [https://anilist.co/anime/5238, https://kitsu.io/anime/4006, https://myanimelist.net/anime/5238].
 Duration [5400]seconds does not match [5220]seconds. Not merging [https://anidb.net/anime/13463] into [https://anilist.co/anime/103965, https://myanimelist.net/anime/38133].
 Duration [5400]seconds does not match [5220]seconds. Not merging [https://anidb.net/anime/1514] into [https://kitsu.io/anime/6136, https://myanimelist.net/anime/10342].
 Duration [5400]seconds does not match [5220]seconds. Not merging [https://anidb.net/anime/1566] into [https://anilist.co/anime/1474, https://kitsu.io/anime/1320, https://myanimelist.net/anime/1474].
-Duration [5400]seconds does not match [5220]seconds. Not merging [https://anidb.net/anime/2321] into [https://anilist.co/anime/449].
+Duration [5400]seconds does not match [5220]seconds. Not merging [https://anidb.net/anime/570] into [https://anilist.co/anime/1033].
 Duration [5400]seconds does not match [5220]seconds. Not merging [https://anidb.net/anime/603] into [https://anilist.co/anime/1252, https://myanimelist.net/anime/1252].
 Duration [5400]seconds does not match [5220]seconds. Not merging [https://anidb.net/anime/6697] into [https://kitsu.io/anime/5964, https://myanimelist.net/anime/9957].
 Duration [5400]seconds does not match [5220]seconds. Not merging [https://anidb.net/anime/8174] into [https://anilist.co/anime/10115, https://kitsu.io/anime/6043, https://myanimelist.net/anime/10115].
 Duration [5400]seconds does not match [5220]seconds. Not merging [https://anidb.net/anime/8388] into [https://anilist.co/anime/10629, https://kitsu.io/anime/6273, https://myanimelist.net/anime/10629].
 Duration [5400]seconds does not match [5220]seconds. Not merging [https://kitsu.io/anime/4591] into [https://myanimelist.net/anime/6518].
 Duration [5400]seconds does not match [5280]seconds. Not merging [https://anidb.net/anime/10482] into [https://kitsu.io/anime/8499, https://myanimelist.net/anime/22819].
-Duration [5400]seconds does not match [5280]seconds. Not merging [https://anidb.net/anime/13410] into [https://anilist.co/anime/101913, https://kitsu.io/anime/13744].
 Duration [5400]seconds does not match [5280]seconds. Not merging [https://anidb.net/anime/2199] into [https://anilist.co/anime/4481, https://kitsu.io/anime/3635, https://myanimelist.net/anime/4481].
 Duration [5400]seconds does not match [5280]seconds. Not merging [https://anidb.net/anime/2902] into [https://anilist.co/anime/5053, https://kitsu.io/anime/3907, https://myanimelist.net/anime/5053].
 Duration [5400]seconds does not match [5280]seconds. Not merging [https://anidb.net/anime/332] into [https://anilist.co/anime/578, https://kitsu.io/anime/534, https://myanimelist.net/anime/578].
@@ -6855,7 +6863,7 @@ Duration [5400]seconds does not match [5340]seconds. Not merging [https://kitsu.
 Duration [5400]seconds does not match [5460]seconds. Not merging [https://anidb.net/anime/3136] into [https://kitsu.io/anime/9510, https://myanimelist.net/anime/22275].
 Duration [5400]seconds does not match [5460]seconds. Not merging [https://anidb.net/anime/3681] into [https://anilist.co/anime/5943, https://kitsu.io/anime/4356, https://myanimelist.net/anime/5943].
 Duration [5400]seconds does not match [5460]seconds. Not merging [https://anidb.net/anime/422] into [https://anilist.co/anime/46, https://kitsu.io/anime/28, https://myanimelist.net/anime/46].
-Duration [5400]seconds does not match [5460]seconds. Not merging [https://anilist.co/anime/11705] into [https://kitsu.io/anime/6571].
+Duration [5400]seconds does not match [5460]seconds. Not merging [https://anidb.net/anime/8557] into [https://kitsu.io/anime/6571].
 Duration [5400]seconds does not match [5460]seconds. Not merging [https://kitsu.io/anime/1266] into [https://myanimelist.net/anime/1413].
 Duration [5400]seconds does not match [5520]seconds. Not merging [https://anidb.net/anime/3121] into [https://anilist.co/anime/760, https://kitsu.io/anime/682, https://myanimelist.net/anime/760].
 Duration [5400]seconds does not match [5520]seconds. Not merging [https://anidb.net/anime/3137] into [https://anilist.co/anime/21630, https://kitsu.io/anime/9505, https://myanimelist.net/anime/23865].
@@ -6868,60 +6876,60 @@ Duration [5400]seconds does not match [5640]seconds. Not merging [https://anidb.
 Duration [5400]seconds does not match [5640]seconds. Not merging [https://anilist.co/anime/19135] into [https://myanimelist.net/anime/19135].
 Duration [5400]seconds does not match [5640]seconds. Not merging [https://kitsu.io/anime/7805] into [https://myanimelist.net/anime/19135].
 Duration [5400]seconds does not match [5700]seconds. Not merging [https://anidb.net/anime/7493] into [https://kitsu.io/anime/9243, https://myanimelist.net/anime/17665].
-Duration [5400]seconds does not match [5700]seconds. Not merging [https://anilist.co/anime/100356] into [https://anidb.net/anime/14622].
+Duration [5400]seconds does not match [5700]seconds. Not merging [https://anidb.net/anime/8674] into [https://anilist.co/anime/13239].
+Duration [5400]seconds does not match [5700]seconds. Not merging [https://anilist.co/anime/101078] into [https://anidb.net/anime/13400].
 Duration [5400]seconds does not match [5700]seconds. Not merging [https://anilist.co/anime/19135] into [https://anidb.net/anime/4132].
 Duration [5400]seconds does not match [5700]seconds. Not merging [https://anilist.co/anime/19653] into [https://anidb.net/anime/9989].
-Duration [5400]seconds does not match [5700]seconds. Not merging [https://anilist.co/anime/504] into [https://anidb.net/anime/873].
-Duration [5400]seconds does not match [5700]seconds. Not merging [https://kitsu.io/anime/463] into [https://anidb.net/anime/873].
 Duration [5400]seconds does not match [5700]seconds. Not merging [https://kitsu.io/anime/7805] into [https://anidb.net/anime/4132].
 Duration [5400]seconds does not match [5760]seconds. Not merging [https://anilist.co/anime/504] into [https://myanimelist.net/anime/504].
 Duration [5400]seconds does not match [5760]seconds. Not merging [https://kitsu.io/anime/463] into [https://myanimelist.net/anime/504].
+Duration [5400]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/13288] into [https://kitsu.io/anime/14213].
 Duration [5400]seconds does not match [6660]seconds. Not merging [https://anidb.net/anime/5681] into [https://kitsu.io/anime/4816, https://myanimelist.net/anime/6978].
 Duration [5460]seconds does not match [4380]seconds. Not merging [https://anilist.co/anime/6796] into [https://kitsu.io/anime/4720, https://myanimelist.net/anime/6796].
-Duration [5460]seconds does not match [4500]seconds. Not merging [https://anilist.co/anime/6796] into [https://anidb.net/anime/5215].
 Duration [5460]seconds does not match [5340]seconds. Not merging [https://kitsu.io/anime/6571] into [https://myanimelist.net/anime/11705].
 Duration [5460]seconds does not match [5400]seconds. Not merging [https://anilist.co/anime/17665] into [https://anidb.net/anime/7493].
-Duration [5460]seconds does not match [5400]seconds. Not merging [https://kitsu.io/anime/11667] into [https://anidb.net/anime/11839].
-Duration [5460]seconds does not match [5400]seconds. Not merging [https://kitsu.io/anime/6571] into [https://anidb.net/anime/8557].
+Duration [5460]seconds does not match [5400]seconds. Not merging [https://anilist.co/anime/5019] into [https://anidb.net/anime/6065].
+Duration [5460]seconds does not match [5400]seconds. Not merging [https://kitsu.io/anime/6571] into [https://anilist.co/anime/11705].
 Duration [5460]seconds does not match [5700]seconds. Not merging [https://anilist.co/anime/17665] into [https://kitsu.io/anime/9243, https://myanimelist.net/anime/17665].
-Duration [5460]seconds does not match [5700]seconds. Not merging [https://anilist.co/anime/3175] into [https://anidb.net/anime/756].
+Duration [5460]seconds does not match [5700]seconds. Not merging [https://anilist.co/anime/2657] into [https://anidb.net/anime/6593].
 Duration [5460]seconds does not match [5700]seconds. Not merging [https://anilist.co/anime/713] into [https://anidb.net/anime/1667].
 Duration [5460]seconds does not match [6000]seconds. Not merging [https://anilist.co/anime/4970] into [https://kitsu.io/anime/3870, https://myanimelist.net/anime/4970].
 Duration [5520]seconds does not match [2040]seconds. Not merging [https://kitsu.io/anime/964] into [https://anilist.co/anime/1079, https://myanimelist.net/anime/1079].
-Duration [5520]seconds does not match [3000]seconds. Not merging [https://kitsu.io/anime/964] into [https://anidb.net/anime/420].
 Duration [5520]seconds does not match [5400]seconds. Not merging [https://anilist.co/anime/1413] into [https://anidb.net/anime/1941, https://kitsu.io/anime/1266].
 Duration [5520]seconds does not match [5460]seconds. Not merging [https://anilist.co/anime/1413] into [https://myanimelist.net/anime/1413].
 Duration [5520]seconds does not match [5580]seconds. Not merging [https://kitsu.io/anime/1515] into [https://myanimelist.net/anime/1686].
 Duration [5520]seconds does not match [5640]seconds. Not merging [https://kitsu.io/anime/572] into [https://anilist.co/anime/617, https://myanimelist.net/anime/617].
+Duration [5520]seconds does not match [5700]seconds. Not merging [https://anilist.co/anime/2671] into [https://anidb.net/anime/6597].
 Duration [5520]seconds does not match [5700]seconds. Not merging [https://kitsu.io/anime/572] into [https://anidb.net/anime/277].
 Duration [5520]seconds does not match [5880]seconds. Not merging [https://anilist.co/anime/14407] into [https://kitsu.io/anime/7124, https://myanimelist.net/anime/14407].
+Duration [5580]seconds does not match [5400]seconds. Not merging [https://anilist.co/anime/12917] into [https://anidb.net/anime/10317].
 Duration [5580]seconds does not match [5520]seconds. Not merging [https://anilist.co/anime/98469] into [https://myanimelist.net/anime/35134].
 Duration [5580]seconds does not match [5520]seconds. Not merging [https://kitsu.io/anime/3606] into [https://anilist.co/anime/4437, https://myanimelist.net/anime/4437].
 Duration [5580]seconds does not match [5640]seconds. Not merging [https://kitsu.io/anime/3817] into [https://myanimelist.net/anime/4835].
 Duration [5580]seconds does not match [5640]seconds. Not merging [https://kitsu.io/anime/696] into [https://anilist.co/anime/779].
 Duration [5580]seconds does not match [5640]seconds. Not merging [https://kitsu.io/anime/696] into [https://myanimelist.net/anime/779].
-Duration [5580]seconds does not match [5700]seconds. Not merging [https://anilist.co/anime/2668] into [https://anidb.net/anime/6599].
+Duration [5580]seconds does not match [5700]seconds. Not merging [https://anilist.co/anime/20786] into [https://anidb.net/anime/10636].
+Duration [5580]seconds does not match [5700]seconds. Not merging [https://anilist.co/anime/5878] into [https://anidb.net/anime/3622].
+Duration [5580]seconds does not match [5700]seconds. Not merging [https://anilist.co/anime/7045] into [https://anidb.net/anime/6583].
 Duration [5580]seconds does not match [5820]seconds. Not merging [https://anilist.co/anime/155] into [https://myanimelist.net/anime/155].
 Duration [5580]seconds does not match [5820]seconds. Not merging [https://kitsu.io/anime/133] into [https://myanimelist.net/anime/155].
-Duration [5580]seconds does not match [6000]seconds. Not merging [https://anilist.co/anime/155] into [https://anidb.net/anime/429].
-Duration [5580]seconds does not match [6000]seconds. Not merging [https://anilist.co/anime/2661] into [https://anidb.net/anime/6588].
-Duration [5580]seconds does not match [6000]seconds. Not merging [https://kitsu.io/anime/133] into [https://anidb.net/anime/429].
 Duration [5640]seconds does not match [360]seconds. Not merging [https://kitsu.io/anime/2895] into [https://anilist.co/anime/4469, https://kitsu.io/anime/3625, https://myanimelist.net/anime/4469].
 Duration [5640]seconds does not match [5580]seconds. Not merging [https://anilist.co/anime/1723] into [https://myanimelist.net/anime/1723].
 Duration [5640]seconds does not match [5580]seconds. Not merging [https://kitsu.io/anime/2895] into [https://anilist.co/anime/3269, https://myanimelist.net/anime/3269].
-Duration [5640]seconds does not match [5700]seconds. Not merging [https://anilist.co/anime/1140] into [https://anidb.net/anime/3385].
 Duration [5640]seconds does not match [5700]seconds. Not merging [https://anilist.co/anime/1140] into [https://myanimelist.net/anime/1140].
+Duration [5640]seconds does not match [5700]seconds. Not merging [https://anilist.co/anime/1723] into [https://anidb.net/anime/4402].
 Duration [5640]seconds does not match [5700]seconds. Not merging [https://kitsu.io/anime/1025] into [https://myanimelist.net/anime/1144].
+Duration [5640]seconds does not match [60]seconds. Not merging [https://anilist.co/anime/1140] into [https://kitsu.io/anime/1021].
 Duration [5700]seconds does not match [2820]seconds. Not merging [https://anilist.co/anime/1911] into [https://myanimelist.net/anime/1911].
 Duration [5700]seconds does not match [2820]seconds. Not merging [https://kitsu.io/anime/1721] into [https://myanimelist.net/anime/1911].
 Duration [5700]seconds does not match [4860]seconds. Not merging [https://anidb.net/anime/6983] into [https://anilist.co/anime/7376, https://kitsu.io/anime/4956, https://myanimelist.net/anime/7376].
 Duration [5700]seconds does not match [5400]seconds. Not merging [https://anidb.net/anime/12837] into [https://anilist.co/anime/98384, https://kitsu.io/anime/13570, https://myanimelist.net/anime/34944].
-Duration [5700]seconds does not match [5400]seconds. Not merging [https://anidb.net/anime/13400] into [https://anilist.co/anime/101078].
+Duration [5700]seconds does not match [5400]seconds. Not merging [https://anidb.net/anime/14622] into [https://anilist.co/anime/100356, https://kitsu.io/anime/11127].
 Duration [5700]seconds does not match [5400]seconds. Not merging [https://anidb.net/anime/3061] into [https://anilist.co/anime/1539, https://kitsu.io/anime/1380, https://myanimelist.net/anime/1539].
 Duration [5700]seconds does not match [5400]seconds. Not merging [https://anidb.net/anime/4191] into [https://anilist.co/anime/1943, https://kitsu.io/anime/1752, https://myanimelist.net/anime/1943].
 Duration [5700]seconds does not match [5400]seconds. Not merging [https://anidb.net/anime/7304] into [https://anilist.co/anime/8098, https://myanimelist.net/anime/8098].
 Duration [5700]seconds does not match [5400]seconds. Not merging [https://anidb.net/anime/7713] into [https://kitsu.io/anime/5436, https://myanimelist.net/anime/8677].
-Duration [5700]seconds does not match [5400]seconds. Not merging [https://anilist.co/anime/13239] into [https://anidb.net/anime/8674].
+Duration [5700]seconds does not match [5400]seconds. Not merging [https://anidb.net/anime/873] into [https://anilist.co/anime/504, https://kitsu.io/anime/463].
 Duration [5700]seconds does not match [5460]seconds. Not merging [https://anidb.net/anime/10370] into [https://anilist.co/anime/20878, https://kitsu.io/anime/8179, https://myanimelist.net/anime/21867].
 Duration [5700]seconds does not match [5460]seconds. Not merging [https://anidb.net/anime/1361] into [https://kitsu.io/anime/2203, https://myanimelist.net/anime/2429].
 Duration [5700]seconds does not match [5460]seconds. Not merging [https://anidb.net/anime/14840] into [https://kitsu.io/anime/42340, https://myanimelist.net/anime/39741].
@@ -6929,27 +6937,24 @@ Duration [5700]seconds does not match [5460]seconds. Not merging [https://anidb.
 Duration [5700]seconds does not match [5460]seconds. Not merging [https://anidb.net/anime/1869] into [https://anilist.co/anime/1901, https://kitsu.io/anime/1711, https://myanimelist.net/anime/1901].
 Duration [5700]seconds does not match [5460]seconds. Not merging [https://anidb.net/anime/2272] into [https://anilist.co/anime/8500, https://kitsu.io/anime/5362, https://myanimelist.net/anime/8500].
 Duration [5700]seconds does not match [5460]seconds. Not merging [https://anidb.net/anime/5479] into [https://anilist.co/anime/4943, https://kitsu.io/anime/3863, https://myanimelist.net/anime/4943].
-Duration [5700]seconds does not match [5460]seconds. Not merging [https://anidb.net/anime/6593] into [https://anilist.co/anime/2657].
+Duration [5700]seconds does not match [5460]seconds. Not merging [https://anidb.net/anime/756] into [https://anilist.co/anime/3175].
 Duration [5700]seconds does not match [5460]seconds. Not merging [https://anidb.net/anime/7724] into [https://kitsu.io/anime/7636, https://myanimelist.net/anime/17313].
 Duration [5700]seconds does not match [5460]seconds. Not merging [https://anilist.co/anime/109190] into [https://kitsu.io/anime/42340, https://myanimelist.net/anime/39741].
 Duration [5700]seconds does not match [5520]seconds. Not merging [https://anidb.net/anime/1217] into [https://anilist.co/anime/759, https://kitsu.io/anime/681, https://myanimelist.net/anime/759].
 Duration [5700]seconds does not match [5520]seconds. Not merging [https://anidb.net/anime/12732] into [https://anilist.co/anime/101874, https://kitsu.io/anime/12784, https://myanimelist.net/anime/34048].
 Duration [5700]seconds does not match [5520]seconds. Not merging [https://anidb.net/anime/236] into [https://anilist.co/anime/493, https://kitsu.io/anime/454, https://myanimelist.net/anime/493].
 Duration [5700]seconds does not match [5520]seconds. Not merging [https://anidb.net/anime/4119] into [https://anilist.co/anime/20143, https://kitsu.io/anime/9872, https://myanimelist.net/anime/20143].
-Duration [5700]seconds does not match [5520]seconds. Not merging [https://anidb.net/anime/6597] into [https://anilist.co/anime/2671].
 Duration [5700]seconds does not match [5520]seconds. Not merging [https://anidb.net/anime/8279] into [https://anilist.co/anime/10687, https://kitsu.io/anime/6293, https://myanimelist.net/anime/10687].
 Duration [5700]seconds does not match [5520]seconds. Not merging [https://anilist.co/anime/105655] into [https://myanimelist.net/anime/38720].
-Duration [5700]seconds does not match [5580]seconds. Not merging [https://anidb.net/anime/10636] into [https://anilist.co/anime/20786].
 Duration [5700]seconds does not match [5580]seconds. Not merging [https://anidb.net/anime/12644] into [https://myanimelist.net/anime/34036].
 Duration [5700]seconds does not match [5580]seconds. Not merging [https://anidb.net/anime/13176] into [https://kitsu.io/anime/13524, https://myanimelist.net/anime/35608].
 Duration [5700]seconds does not match [5580]seconds. Not merging [https://anidb.net/anime/13641] into [https://anilist.co/anime/103353, https://kitsu.io/anime/14185, https://myanimelist.net/anime/36661].
 Duration [5700]seconds does not match [5580]seconds. Not merging [https://anidb.net/anime/2556] into [https://anilist.co/anime/2491, https://kitsu.io/anime/2261, https://myanimelist.net/anime/2491].
 Duration [5700]seconds does not match [5580]seconds. Not merging [https://anidb.net/anime/306] into [https://anilist.co/anime/416, https://kitsu.io/anime/380, https://myanimelist.net/anime/416].
-Duration [5700]seconds does not match [5580]seconds. Not merging [https://anidb.net/anime/3622] into [https://anilist.co/anime/5878].
 Duration [5700]seconds does not match [5580]seconds. Not merging [https://anidb.net/anime/4122] into [https://anilist.co/anime/6735, https://kitsu.io/anime/4692, https://myanimelist.net/anime/6735].
 Duration [5700]seconds does not match [5580]seconds. Not merging [https://anidb.net/anime/4402] into [https://myanimelist.net/anime/1723].
-Duration [5700]seconds does not match [5580]seconds. Not merging [https://anidb.net/anime/6583] into [https://anilist.co/anime/7045].
 Duration [5700]seconds does not match [5580]seconds. Not merging [https://anidb.net/anime/6589] into [https://anilist.co/anime/5084, https://kitsu.io/anime/3921, https://myanimelist.net/anime/5084].
+Duration [5700]seconds does not match [5580]seconds. Not merging [https://anidb.net/anime/6599] into [https://anilist.co/anime/2668].
 Duration [5700]seconds does not match [5580]seconds. Not merging [https://anidb.net/anime/7043] into [https://anilist.co/anime/7473, https://kitsu.io/anime/4990, https://myanimelist.net/anime/7473].
 Duration [5700]seconds does not match [5580]seconds. Not merging [https://anidb.net/anime/8203] into [https://anilist.co/anime/9745, https://kitsu.io/anime/5847, https://myanimelist.net/anime/9745].
 Duration [5700]seconds does not match [5580]seconds. Not merging [https://anidb.net/anime/9989] into [https://kitsu.io/anime/7874, https://myanimelist.net/anime/19653].
@@ -6965,7 +6970,6 @@ Duration [5700]seconds does not match [5640]seconds. Not merging [https://anidb.
 Duration [5700]seconds does not match [5640]seconds. Not merging [https://anidb.net/anime/359] into [https://anilist.co/anime/1006, https://myanimelist.net/anime/1006].
 Duration [5700]seconds does not match [5640]seconds. Not merging [https://anidb.net/anime/4097] into [https://kitsu.io/anime/427, https://myanimelist.net/anime/465].
 Duration [5700]seconds does not match [5640]seconds. Not merging [https://anidb.net/anime/4132] into [https://myanimelist.net/anime/19135].
-Duration [5700]seconds does not match [5640]seconds. Not merging [https://anidb.net/anime/4402] into [https://anilist.co/anime/1723].
 Duration [5700]seconds does not match [5640]seconds. Not merging [https://anidb.net/anime/5037] into [https://anilist.co/anime/6942, https://kitsu.io/anime/4796, https://myanimelist.net/anime/6942].
 Duration [5700]seconds does not match [5640]seconds. Not merging [https://anidb.net/anime/7258] into [https://anilist.co/anime/7711, https://kitsu.io/anime/5090, https://myanimelist.net/anime/7711].
 Duration [5700]seconds does not match [5640]seconds. Not merging [https://anilist.co/anime/13239] into [https://kitsu.io/anime/6919, https://myanimelist.net/anime/13239].
@@ -6978,8 +6982,8 @@ Duration [5700]seconds does not match [5760]seconds. Not merging [https://anidb.
 Duration [5700]seconds does not match [5820]seconds. Not merging [https://anidb.net/anime/321] into [https://anilist.co/anime/393, https://kitsu.io/anime/360, https://myanimelist.net/anime/393].
 Duration [5700]seconds does not match [5820]seconds. Not merging [https://anidb.net/anime/8272] into [https://kitsu.io/anime/5851, https://myanimelist.net/anime/9751].
 Duration [5700]seconds does not match [5880]seconds. Not merging [https://anidb.net/anime/7166] into [https://anilist.co/anime/18759, https://myanimelist.net/anime/18759].
-Duration [5700]seconds does not match [5880]seconds. Not merging [https://anidb.net/anime/7166] into [https://kitsu.io/anime/9812].
 Duration [5700]seconds does not match [5880]seconds. Not merging [https://anidb.net/anime/9201] into [https://kitsu.io/anime/11440].
+Duration [5700]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/7304] into [https://kitsu.io/anime/5194].
 Duration [5700]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/8271] into [https://kitsu.io/anime/5869].
 Duration [5700]seconds does not match [6000]seconds. Not merging [https://anidb.net/anime/9164] into [https://anilist.co/anime/13935, https://kitsu.io/anime/7055, https://myanimelist.net/anime/13935].
 Duration [5700]seconds does not match [6120]seconds. Not merging [https://anidb.net/anime/1646] into [https://anilist.co/anime/2623, https://kitsu.io/anime/2387, https://myanimelist.net/anime/2623].
@@ -6987,20 +6991,21 @@ Duration [5700]seconds does not match [660]seconds. Not merging [https://anilist
 Duration [5700]seconds does not match [6840]seconds. Not merging [https://anidb.net/anime/7342] into [https://kitsu.io/anime/6179, https://myanimelist.net/anime/10435].
 Duration [5700]seconds does not match [6840]seconds. Not merging [https://anilist.co/anime/10435] into [https://kitsu.io/anime/6179, https://myanimelist.net/anime/10435].
 Duration [5700]seconds does not match [6900]seconds. Not merging [https://anidb.net/anime/8509] into [https://kitsu.io/anime/9203, https://myanimelist.net/anime/23523].
-Duration [5700]seconds does not match [7200]seconds. Not merging [https://anidb.net/anime/399] into [https://anilist.co/anime/484].
-Duration [5700]seconds does not match [7200]seconds. Not merging [https://anidb.net/anime/7724] into [https://anilist.co/anime/17313].
+Duration [5760]seconds does not match [4740]seconds. Not merging [https://kitsu.io/anime/6757] into [https://anilist.co/anime/12517].
 Duration [5760]seconds does not match [5340]seconds. Not merging [https://anilist.co/anime/20802] into [https://kitsu.io/anime/8684, https://myanimelist.net/anime/25687].
 Duration [5760]seconds does not match [5580]seconds. Not merging [https://kitsu.io/anime/1544] into [https://myanimelist.net/anime/1723].
 Duration [5760]seconds does not match [5640]seconds. Not merging [https://kitsu.io/anime/1544] into [https://anilist.co/anime/1723].
 Duration [5760]seconds does not match [5700]seconds. Not merging [https://kitsu.io/anime/1544] into [https://anidb.net/anime/4402].
 Duration [5760]seconds does not match [5820]seconds. Not merging [https://kitsu.io/anime/833] into [https://myanimelist.net/anime/936].
-Duration [5760]seconds does not match [6000]seconds. Not merging [https://anilist.co/anime/100723] into [https://anidb.net/anime/13633].
 Duration [5820]seconds does not match [4920]seconds. Not merging [https://anilist.co/anime/8278] into [https://kitsu.io/anime/5275, https://myanimelist.net/anime/8278].
 Duration [5820]seconds does not match [5700]seconds. Not merging [https://anilist.co/anime/9751] into [https://anidb.net/anime/8272].
 Duration [5820]seconds does not match [5760]seconds. Not merging [https://anilist.co/anime/20936] into [https://kitsu.io/anime/8813, https://myanimelist.net/anime/24591].
 Duration [5820]seconds does not match [5760]seconds. Not merging [https://kitsu.io/anime/11454] into [https://anilist.co/anime/21464, https://myanimelist.net/anime/31853].
 Duration [5820]seconds does not match [5880]seconds. Not merging [https://anilist.co/anime/2236] into [https://kitsu.io/anime/2027, https://myanimelist.net/anime/2236].
-Duration [5820]seconds does not match [6000]seconds. Not merging [https://anilist.co/anime/21412] into [https://anidb.net/anime/11211].
+Duration [5820]seconds does not match [6000]seconds. Not merging [https://anilist.co/anime/13271] into [https://anidb.net/anime/9323].
+Duration [5820]seconds does not match [6000]seconds. Not merging [https://anilist.co/anime/2236] into [https://anidb.net/anime/4151].
+Duration [5820]seconds does not match [6000]seconds. Not merging [https://anilist.co/anime/2675] into [https://anidb.net/anime/5046].
+Duration [5820]seconds does not match [6000]seconds. Not merging [https://anilist.co/anime/8278] into [https://anidb.net/anime/8750].
 Duration [5820]seconds does not match [6000]seconds. Not merging [https://kitsu.io/anime/11454] into [https://anidb.net/anime/11709].
 Duration [5880]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/12160] into [https://anidb.net/anime/14843, https://anilist.co/anime/103743, https://myanimelist.net/anime/32092].
 Duration [5880]seconds does not match [5340]seconds. Not merging [https://anilist.co/anime/4926] into [https://kitsu.io/anime/3851, https://myanimelist.net/anime/4926].
@@ -7008,9 +7013,8 @@ Duration [5880]seconds does not match [5700]seconds. Not merging [https://kitsu.
 Duration [5880]seconds does not match [5700]seconds. Not merging [https://kitsu.io/anime/4989] into [https://myanimelist.net/anime/7472].
 Duration [5880]seconds does not match [5940]seconds. Not merging [https://kitsu.io/anime/1234] into [https://anilist.co/anime/1380, https://myanimelist.net/anime/1380].
 Duration [5880]seconds does not match [6000]seconds. Not merging [https://anilist.co/anime/2678] into [https://anidb.net/anime/6584].
+Duration [5880]seconds does not match [6000]seconds. Not merging [https://anilist.co/anime/451] into [https://anidb.net/anime/1320].
 Duration [5880]seconds does not match [6000]seconds. Not merging [https://kitsu.io/anime/1234] into [https://anidb.net/anime/771].
-Duration [5880]seconds does not match [6000]seconds. Not merging [https://kitsu.io/anime/414] into [https://anidb.net/anime/1320].
-Duration [5940]seconds does not match [6000]seconds. Not merging [https://anilist.co/anime/452] into [https://kitsu.io/anime/415].
 Duration [60]seconds does not match [10]seconds. Not merging [https://anidb.net/anime/11671] into [https://kitsu.io/anime/11412, https://myanimelist.net/anime/31686].
 Duration [60]seconds does not match [10]seconds. Not merging [https://anilist.co/anime/101087] into [https://kitsu.io/anime/11412, https://myanimelist.net/anime/31686].
 Duration [60]seconds does not match [12]seconds. Not merging [https://anidb.net/anime/7260] into [https://myanimelist.net/anime/4966].
@@ -7024,7 +7028,6 @@ Duration [60]seconds does not match [120]seconds. Not merging [https://anilist.c
 Duration [60]seconds does not match [120]seconds. Not merging [https://anilist.co/anime/5661] into [https://kitsu.io/anime/4228, https://myanimelist.net/anime/5661].
 Duration [60]seconds does not match [120]seconds. Not merging [https://anilist.co/anime/9361] into [https://kitsu.io/anime/5702, https://myanimelist.net/anime/9361].
 Duration [60]seconds does not match [120]seconds. Not merging [https://kitsu.io/anime/10634] into [https://anilist.co/anime/104349, https://myanimelist.net/anime/30081].
-Duration [60]seconds does not match [120]seconds. Not merging [https://kitsu.io/anime/41278] into [https://myanimelist.net/anime/37852].
 Duration [60]seconds does not match [13]seconds. Not merging [https://anilist.co/anime/103347] into [https://myanimelist.net/anime/36281].
 Duration [60]seconds does not match [13]seconds. Not merging [https://kitsu.io/anime/13837] into [https://myanimelist.net/anime/36281].
 Duration [60]seconds does not match [1320]seconds. Not merging [https://anidb.net/anime/11410] into [https://kitsu.io/anime/11173, https://myanimelist.net/anime/39148].
@@ -7042,6 +7045,7 @@ Duration [60]seconds does not match [1440]seconds. Not merging [https://kitsu.io
 Duration [60]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/6058] into [https://anilist.co/anime/10156, https://myanimelist.net/anime/10156].
 Duration [60]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/6220] into [https://anilist.co/anime/10521, https://myanimelist.net/anime/10521].
 Duration [60]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/6616] into [https://anilist.co/anime/11843, https://myanimelist.net/anime/11843].
+Duration [60]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/7203] into [https://anilist.co/anime/15051].
 Duration [60]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/7677] into [https://anilist.co/anime/18465, https://myanimelist.net/anime/18465].
 Duration [60]seconds does not match [1440]seconds. Not merging [https://kitsu.io/anime/8011] into [https://anilist.co/anime/19685, https://myanimelist.net/anime/19685].
 Duration [60]seconds does not match [15]seconds. Not merging [https://anidb.net/anime/11394] into [https://kitsu.io/anime/10236, https://myanimelist.net/anime/29347].
@@ -7074,8 +7078,9 @@ Duration [60]seconds does not match [15]seconds. Not merging [https://kitsu.io/a
 Duration [60]seconds does not match [15]seconds. Not merging [https://kitsu.io/anime/41242] into [https://myanimelist.net/anime/37792].
 Duration [60]seconds does not match [15]seconds. Not merging [https://kitsu.io/anime/41279] into [https://myanimelist.net/anime/37853].
 Duration [60]seconds does not match [15]seconds. Not merging [https://kitsu.io/anime/41339] into [https://myanimelist.net/anime/37421].
-Duration [60]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/13918] into [https://anidb.net/anime/12942].
 Duration [60]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/4071] into [https://anidb.net/anime/6284].
+Duration [60]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/5349] into [https://anidb.net/anime/7512].
+Duration [60]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/7203] into [https://anidb.net/anime/9271].
 Duration [60]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/7677] into [https://anidb.net/anime/9676].
 Duration [60]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/8011] into [https://anidb.net/anime/9524].
 Duration [60]seconds does not match [16]seconds. Not merging [https://anidb.net/anime/11400] into [https://kitsu.io/anime/10804, https://myanimelist.net/anime/30396].
@@ -7101,6 +7106,7 @@ Duration [60]seconds does not match [22]seconds. Not merging [https://kitsu.io/a
 Duration [60]seconds does not match [23]seconds. Not merging [https://anilist.co/anime/102596] into [https://myanimelist.net/anime/36799].
 Duration [60]seconds does not match [23]seconds. Not merging [https://kitsu.io/anime/14243] into [https://myanimelist.net/anime/36799].
 Duration [60]seconds does not match [24]seconds. Not merging [https://anilist.co/anime/17843] into [https://kitsu.io/anime/7736, https://myanimelist.net/anime/17843].
+Duration [60]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/101279] into [https://kitsu.io/anime/41144].
 Duration [60]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/12219] into [https://anilist.co/anime/103794, https://myanimelist.net/anime/32856].
 Duration [60]seconds does not match [2400]seconds. Not merging [https://kitsu.io/anime/4927] into [https://anidb.net/anime/7185].
 Duration [60]seconds does not match [25]seconds. Not merging [https://kitsu.io/anime/11145] into [https://myanimelist.net/anime/31121].
@@ -7222,9 +7228,7 @@ Duration [60]seconds does not match [35]seconds. Not merging [https://kitsu.io/a
 Duration [60]seconds does not match [3540]seconds. Not merging [https://kitsu.io/anime/11260] into [https://myanimelist.net/anime/31055].
 Duration [60]seconds does not match [36]seconds. Not merging [https://anidb.net/anime/11520] into [https://kitsu.io/anime/10566, https://myanimelist.net/anime/29957].
 Duration [60]seconds does not match [36]seconds. Not merging [https://anilist.co/anime/102359] into [https://kitsu.io/anime/10566, https://myanimelist.net/anime/29957].
-Duration [60]seconds does not match [360]seconds. Not merging [https://anilist.co/anime/102707] into [https://anidb.net/anime/11419].
 Duration [60]seconds does not match [360]seconds. Not merging [https://kitsu.io/anime/12574] into [https://myanimelist.net/anime/33914].
-Duration [60]seconds does not match [3600]seconds. Not merging [https://kitsu.io/anime/11260] into [https://anilist.co/anime/21453].
 Duration [60]seconds does not match [3600]seconds. Not merging [https://kitsu.io/anime/12959] into [https://anidb.net/anime/12618, https://anilist.co/anime/98240, https://myanimelist.net/anime/34504].
 Duration [60]seconds does not match [37]seconds. Not merging [https://anidb.net/anime/11392] into [https://myanimelist.net/anime/29978].
 Duration [60]seconds does not match [37]seconds. Not merging [https://anilist.co/anime/102065] into [https://myanimelist.net/anime/29978].
@@ -7255,7 +7259,6 @@ Duration [60]seconds does not match [42]seconds. Not merging [https://anilist.co
 Duration [60]seconds does not match [42]seconds. Not merging [https://kitsu.io/anime/10348] into [https://myanimelist.net/anime/29801].
 Duration [60]seconds does not match [4200]seconds. Not merging [https://kitsu.io/anime/40723] into [https://myanimelist.net/anime/35206].
 Duration [60]seconds does not match [4200]seconds. Not merging [https://kitsu.io/anime/41702] into [https://anidb.net/anime/13688, https://anilist.co/anime/101101, https://myanimelist.net/anime/36995].
-Duration [60]seconds does not match [4200]seconds. Not merging [https://kitsu.io/anime/7689] into [https://anidb.net/anime/9719].
 Duration [60]seconds does not match [4380]seconds. Not merging [https://kitsu.io/anime/41590] into [https://myanimelist.net/anime/35690].
 Duration [60]seconds does not match [44]seconds. Not merging [https://anilist.co/anime/103445] into [https://kitsu.io/anime/12972, https://myanimelist.net/anime/34633].
 Duration [60]seconds does not match [44]seconds. Not merging [https://anilist.co/anime/103538] into [https://kitsu.io/anime/12996, https://myanimelist.net/anime/34423].
@@ -7281,6 +7284,7 @@ Duration [60]seconds does not match [51]seconds. Not merging [https://anidb.net/
 Duration [60]seconds does not match [51]seconds. Not merging [https://anilist.co/anime/102499] into [https://kitsu.io/anime/11828, https://myanimelist.net/anime/32634].
 Duration [60]seconds does not match [51]seconds. Not merging [https://anilist.co/anime/103776] into [https://myanimelist.net/anime/36050].
 Duration [60]seconds does not match [51]seconds. Not merging [https://kitsu.io/anime/13702] into [https://myanimelist.net/anime/36050].
+Duration [60]seconds does not match [5100]seconds. Not merging [https://kitsu.io/anime/12044] into [https://anidb.net/anime/12070].
 Duration [60]seconds does not match [5100]seconds. Not merging [https://kitsu.io/anime/40951] into [https://myanimelist.net/anime/36444].
 Duration [60]seconds does not match [5100]seconds. Not merging [https://kitsu.io/anime/41851] into [https://anidb.net/anime/13708, https://anilist.co/anime/103958, https://myanimelist.net/anime/37816].
 Duration [60]seconds does not match [52]seconds. Not merging [https://anidb.net/anime/8000] into [https://kitsu.io/anime/5353, https://myanimelist.net/anime/8486].
@@ -7298,10 +7302,11 @@ Duration [60]seconds does not match [53]seconds. Not merging [https://anidb.net/
 Duration [60]seconds does not match [53]seconds. Not merging [https://anidb.net/anime/8961] into [https://kitsu.io/anime/6830, https://myanimelist.net/anime/12865].
 Duration [60]seconds does not match [53]seconds. Not merging [https://anilist.co/anime/12865] into [https://kitsu.io/anime/6830, https://myanimelist.net/anime/12865].
 Duration [60]seconds does not match [53]seconds. Not merging [https://anilist.co/anime/98959] into [https://myanimelist.net/anime/35624].
+Duration [60]seconds does not match [5340]seconds. Not merging [https://kitsu.io/anime/11673] into [https://anilist.co/anime/102058].
 Duration [60]seconds does not match [5340]seconds. Not merging [https://kitsu.io/anime/12461] into [https://anilist.co/anime/87506, https://myanimelist.net/anime/33729].
-Duration [60]seconds does not match [5340]seconds. Not merging [https://kitsu.io/anime/12555] into [https://anilist.co/anime/97757].
 Duration [60]seconds does not match [5340]seconds. Not merging [https://kitsu.io/anime/12555] into [https://myanimelist.net/anime/34100].
 Duration [60]seconds does not match [5340]seconds. Not merging [https://kitsu.io/anime/13655] into [https://myanimelist.net/anime/35110].
+Duration [60]seconds does not match [5340]seconds. Not merging [https://kitsu.io/anime/14213] into [https://anilist.co/anime/99547].
 Duration [60]seconds does not match [5340]seconds. Not merging [https://kitsu.io/anime/14213] into [https://myanimelist.net/anime/35949].
 Duration [60]seconds does not match [5340]seconds. Not merging [https://kitsu.io/anime/41754] into [https://myanimelist.net/anime/37228].
 Duration [60]seconds does not match [54]seconds. Not merging [https://anidb.net/anime/11535] into [https://kitsu.io/anime/10041, https://myanimelist.net/anime/28439].
@@ -7321,20 +7326,17 @@ Duration [60]seconds does not match [55]seconds. Not merging [https://kitsu.io/a
 Duration [60]seconds does not match [5520]seconds. Not merging [https://kitsu.io/anime/41589] into [https://anilist.co/anime/104467, https://myanimelist.net/anime/35691].
 Duration [60]seconds does not match [5580]seconds. Not merging [https://kitsu.io/anime/12462] into [https://anilist.co/anime/87507, https://myanimelist.net/anime/33730].
 Duration [60]seconds does not match [56]seconds. Not merging [https://kitsu.io/anime/13491] into [https://myanimelist.net/anime/35156].
-Duration [60]seconds does not match [5640]seconds. Not merging [https://kitsu.io/anime/1021] into [https://anilist.co/anime/1140].
 Duration [60]seconds does not match [5640]seconds. Not merging [https://kitsu.io/anime/10983] into [https://anilist.co/anime/104162, https://myanimelist.net/anime/30738].
 Duration [60]seconds does not match [57]seconds. Not merging [https://anidb.net/anime/11625] into [https://kitsu.io/anime/11471, https://myanimelist.net/anime/31586].
 Duration [60]seconds does not match [57]seconds. Not merging [https://anilist.co/anime/102075] into [https://kitsu.io/anime/11471, https://myanimelist.net/anime/31586].
 Duration [60]seconds does not match [57]seconds. Not merging [https://anilist.co/anime/103718] into [https://myanimelist.net/anime/35980].
 Duration [60]seconds does not match [57]seconds. Not merging [https://kitsu.io/anime/13947] into [https://myanimelist.net/anime/35980].
-Duration [60]seconds does not match [5700]seconds. Not merging [https://kitsu.io/anime/1021] into [https://anidb.net/anime/3385].
 Duration [60]seconds does not match [5700]seconds. Not merging [https://kitsu.io/anime/1021] into [https://myanimelist.net/anime/1140].
 Duration [60]seconds does not match [5700]seconds. Not merging [https://kitsu.io/anime/10704] into [https://myanimelist.net/anime/30178].
 Duration [60]seconds does not match [5700]seconds. Not merging [https://kitsu.io/anime/10983] into [https://anidb.net/anime/11225].
 Duration [60]seconds does not match [5700]seconds. Not merging [https://kitsu.io/anime/13562] into [https://myanimelist.net/anime/33845].
 Duration [60]seconds does not match [5700]seconds. Not merging [https://kitsu.io/anime/13747] into [https://anilist.co/anime/98516, https://myanimelist.net/anime/34820].
 Duration [60]seconds does not match [5700]seconds. Not merging [https://kitsu.io/anime/41507] into [https://anilist.co/anime/102985, https://myanimelist.net/anime/33706].
-Duration [60]seconds does not match [5700]seconds. Not merging [https://kitsu.io/anime/5194] into [https://anidb.net/anime/7304].
 Duration [60]seconds does not match [5760]seconds. Not merging [https://kitsu.io/anime/11540] into [https://anilist.co/anime/100289, https://myanimelist.net/anime/31978].
 Duration [60]seconds does not match [5760]seconds. Not merging [https://kitsu.io/anime/11549] into [https://myanimelist.net/anime/34962].
 Duration [60]seconds does not match [5760]seconds. Not merging [https://kitsu.io/anime/5869] into [https://anilist.co/anime/9790, https://myanimelist.net/anime/9790].
@@ -7345,12 +7347,8 @@ Duration [60]seconds does not match [5820]seconds. Not merging [https://kitsu.io
 Duration [60]seconds does not match [5880]seconds. Not merging [https://kitsu.io/anime/13567] into [https://myanimelist.net/anime/35191].
 Duration [60]seconds does not match [5880]seconds. Not merging [https://kitsu.io/anime/14083] into [https://myanimelist.net/anime/36936].
 Duration [60]seconds does not match [59]seconds. Not merging [https://anilist.co/anime/103326] into [https://kitsu.io/anime/10840, https://myanimelist.net/anime/30408].
-Duration [60]seconds does not match [6000]seconds. Not merging [https://kitsu.io/anime/11449] into [https://anidb.net/anime/11696].
 Duration [60]seconds does not match [6000]seconds. Not merging [https://kitsu.io/anime/11449] into [https://myanimelist.net/anime/31812].
-Duration [60]seconds does not match [6000]seconds. Not merging [https://kitsu.io/anime/14083] into [https://anidb.net/anime/13174].
-Duration [60]seconds does not match [6060]seconds. Not merging [https://kitsu.io/anime/11449] into [https://anilist.co/anime/21425].
-Duration [60]seconds does not match [6060]seconds. Not merging [https://kitsu.io/anime/41631] into [https://anilist.co/anime/103359].
-Duration [60]seconds does not match [6180]seconds. Not merging [https://kitsu.io/anime/14083] into [https://anilist.co/anime/100749].
+Duration [60]seconds does not match [6180]seconds. Not merging [https://kitsu.io/anime/12504] into [https://anilist.co/anime/87499].
 Duration [60]seconds does not match [6240]seconds. Not merging [https://kitsu.io/anime/12504] into [https://myanimelist.net/anime/33724].
 Duration [60]seconds does not match [6300]seconds. Not merging [https://kitsu.io/anime/10950] into [https://myanimelist.net/anime/30869].
 Duration [60]seconds does not match [6300]seconds. Not merging [https://kitsu.io/anime/12502] into [https://myanimelist.net/anime/33520].
@@ -7359,11 +7357,9 @@ Duration [60]seconds does not match [6360]seconds. Not merging [https://kitsu.io
 Duration [60]seconds does not match [6600]seconds. Not merging [https://kitsu.io/anime/12501] into [https://myanimelist.net/anime/33519].
 Duration [60]seconds does not match [6600]seconds. Not merging [https://kitsu.io/anime/5613] into [https://anidb.net/anime/8090].
 Duration [60]seconds does not match [6600]seconds. Not merging [https://kitsu.io/anime/5613] into [https://myanimelist.net/anime/9135].
-Duration [60]seconds does not match [7200]seconds. Not merging [https://kitsu.io/anime/11549] into [https://anilist.co/anime/98402].
-Duration [60]seconds does not match [7200]seconds. Not merging [https://kitsu.io/anime/13623] into [https://anilist.co/anime/99302].
+Duration [600]seconds does not match [1380]seconds. Not merging [https://anilist.co/anime/4737] into [https://kitsu.io/anime/3770].
 Duration [600]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/21022] into [https://kitsu.io/anime/9723, https://myanimelist.net/anime/21999].
 Duration [600]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/9455] into [https://kitsu.io/anime/5741, https://myanimelist.net/anime/9455].
-Duration [600]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/9455] into [https://anidb.net/anime/4701].
 Duration [600]seconds does not match [1920]seconds. Not merging [https://anidb.net/anime/8851] into [https://anilist.co/anime/102911, https://kitsu.io/anime/9571, https://myanimelist.net/anime/22523].
 Duration [600]seconds does not match [240]seconds. Not merging [https://anidb.net/anime/3066] into [https://myanimelist.net/anime/40299].
 Duration [600]seconds does not match [300]seconds. Not merging [https://anidb.net/anime/13431] into [https://kitsu.io/anime/13902, https://myanimelist.net/anime/36288].
@@ -7378,7 +7374,6 @@ Duration [600]seconds does not match [360]seconds. Not merging [https://kitsu.io
 Duration [600]seconds does not match [420]seconds. Not merging [https://anidb.net/anime/11792] into [https://kitsu.io/anime/11599, https://myanimelist.net/anime/31815].
 Duration [600]seconds does not match [420]seconds. Not merging [https://anidb.net/anime/14277] into [https://anilist.co/anime/104380, https://kitsu.io/anime/12456, https://myanimelist.net/anime/33691].
 Duration [600]seconds does not match [420]seconds. Not merging [https://anidb.net/anime/6317] into [https://anilist.co/anime/9221, https://kitsu.io/anime/5637, https://myanimelist.net/anime/9221].
-Duration [600]seconds does not match [420]seconds. Not merging [https://anidb.net/anime/6706] into [https://kitsu.io/anime/3587].
 Duration [600]seconds does not match [420]seconds. Not merging [https://anidb.net/anime/7049] into [https://anilist.co/anime/2631].
 Duration [600]seconds does not match [420]seconds. Not merging [https://anidb.net/anime/8576] into [https://anilist.co/anime/11685, https://kitsu.io/anime/6561, https://myanimelist.net/anime/11685].
 Duration [600]seconds does not match [420]seconds. Not merging [https://anidb.net/anime/9109] into [https://anilist.co/anime/13971, https://kitsu.io/anime/7064, https://myanimelist.net/anime/13971].
@@ -7388,9 +7383,9 @@ Duration [600]seconds does not match [480]seconds. Not merging [https://anidb.ne
 Duration [600]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/4102] into [https://anilist.co/anime/11695, https://kitsu.io/anime/6566, https://myanimelist.net/anime/11695].
 Duration [600]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/6850] into [https://anilist.co/anime/102405, https://kitsu.io/anime/9283, https://myanimelist.net/anime/23265].
 Duration [600]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/6891] into [https://kitsu.io/anime/10223, https://myanimelist.net/anime/28055].
+Duration [600]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/7432] into [https://kitsu.io/anime/5344].
 Duration [600]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/8065] into [https://anilist.co/anime/11729, https://kitsu.io/anime/6576, https://myanimelist.net/anime/11729].
 Duration [600]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/8422] into [https://kitsu.io/anime/5071, https://myanimelist.net/anime/7659].
-Duration [600]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/8516] into [https://anilist.co/anime/10859].
 Duration [600]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/9683] into [https://anilist.co/anime/103017, https://kitsu.io/anime/11340, https://myanimelist.net/anime/39872].
 Duration [600]seconds does not match [480]seconds. Not merging [https://anidb.net/anime/9928] into [https://kitsu.io/anime/7803, https://myanimelist.net/anime/19125].
 Duration [600]seconds does not match [480]seconds. Not merging [https://anilist.co/anime/101916] into [https://anidb.net/anime/13191, https://kitsu.io/anime/13688, https://myanimelist.net/anime/35626].
@@ -7414,6 +7409,7 @@ Duration [600]seconds does not match [540]seconds. Not merging [https://anidb.ne
 Duration [600]seconds does not match [540]seconds. Not merging [https://anidb.net/anime/13414] into [https://kitsu.io/anime/41251, https://myanimelist.net/anime/37801].
 Duration [600]seconds does not match [540]seconds. Not merging [https://anidb.net/anime/13542] into [https://myanimelist.net/anime/35992].
 Duration [600]seconds does not match [540]seconds. Not merging [https://anidb.net/anime/13554] into [https://kitsu.io/anime/12027, https://myanimelist.net/anime/33105].
+Duration [600]seconds does not match [540]seconds. Not merging [https://anidb.net/anime/13639] into [https://kitsu.io/anime/10918].
 Duration [600]seconds does not match [540]seconds. Not merging [https://anidb.net/anime/13748] into [https://anilist.co/anime/101095, https://kitsu.io/anime/13072, https://myanimelist.net/anime/33883].
 Duration [600]seconds does not match [540]seconds. Not merging [https://anidb.net/anime/14330] into [https://kitsu.io/anime/12345, https://myanimelist.net/anime/33349].
 Duration [600]seconds does not match [540]seconds. Not merging [https://anidb.net/anime/14331] into [https://kitsu.io/anime/12344, https://myanimelist.net/anime/33335].
@@ -7431,7 +7427,6 @@ Duration [600]seconds does not match [540]seconds. Not merging [https://anidb.ne
 Duration [600]seconds does not match [540]seconds. Not merging [https://anidb.net/anime/7681] into [https://anilist.co/anime/9965, https://kitsu.io/anime/5968, https://myanimelist.net/anime/9965].
 Duration [600]seconds does not match [540]seconds. Not merging [https://anidb.net/anime/7938] into [https://anilist.co/anime/6950, https://kitsu.io/anime/4801, https://myanimelist.net/anime/6950].
 Duration [600]seconds does not match [540]seconds. Not merging [https://anidb.net/anime/8059] into [https://anilist.co/anime/20153, https://kitsu.io/anime/8909, https://myanimelist.net/anime/20153].
-Duration [600]seconds does not match [540]seconds. Not merging [https://anidb.net/anime/8422] into [https://anilist.co/anime/7659].
 Duration [600]seconds does not match [540]seconds. Not merging [https://anidb.net/anime/8582] into [https://anilist.co/anime/7029, https://kitsu.io/anime/4842, https://myanimelist.net/anime/7029].
 Duration [600]seconds does not match [540]seconds. Not merging [https://anidb.net/anime/8614] into [https://kitsu.io/anime/4838, https://myanimelist.net/anime/7025].
 Duration [600]seconds does not match [540]seconds. Not merging [https://anilist.co/anime/102168] into [https://kitsu.io/anime/12775, https://myanimelist.net/anime/33659].
@@ -7461,7 +7456,6 @@ Duration [600]seconds does not match [660]seconds. Not merging [https://anidb.ne
 Duration [600]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/6502] into [https://anilist.co/anime/6481, https://kitsu.io/anime/4576, https://myanimelist.net/anime/6481].
 Duration [600]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/7911] into [https://anilist.co/anime/8526, https://kitsu.io/anime/5375, https://myanimelist.net/anime/8526].
 Duration [600]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/8119] into [https://anilist.co/anime/9943].
-Duration [600]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/8231] into [https://anilist.co/anime/10323].
 Duration [600]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/8867] into [https://kitsu.io/anime/7043, https://myanimelist.net/anime/13835].
 Duration [600]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/9157] into [https://anilist.co/anime/13807, https://kitsu.io/anime/7033, https://myanimelist.net/anime/13807].
 Duration [600]seconds does not match [660]seconds. Not merging [https://kitsu.io/anime/12930] into [https://myanimelist.net/anime/31785].
@@ -7474,7 +7468,7 @@ Duration [600]seconds does not match [720]seconds. Not merging [https://kitsu.io
 Duration [600]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/13723] into [https://anilist.co/anime/104364, https://kitsu.io/anime/41343, https://myanimelist.net/anime/37927].
 Duration [600]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/13724] into [https://myanimelist.net/anime/28829].
 Duration [600]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/2773] into [https://anilist.co/anime/2475, https://kitsu.io/anime/2248, https://myanimelist.net/anime/2475].
-Duration [600]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/3493] into [https://myanimelist.net/anime/10917].
+Duration [600]seconds does not match [900]seconds. Not merging [https://anidb.net/anime/3056] into [https://anilist.co/anime/4742].
 Duration [600]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/10236] into [https://kitsu.io/anime/6088, https://myanimelist.net/anime/10236].
 Duration [600]seconds does not match [900]seconds. Not merging [https://kitsu.io/anime/11557] into [https://myanimelist.net/anime/31617].
 Duration [600]seconds does not match [900]seconds. Not merging [https://kitsu.io/anime/12276] into [https://anilist.co/anime/102599, https://myanimelist.net/anime/33209].
@@ -7485,7 +7479,9 @@ Duration [6000]seconds does not match [120]seconds. Not merging [https://anidb.n
 Duration [6000]seconds does not match [3000]seconds. Not merging [https://anilist.co/anime/5986] into [https://kitsu.io/anime/4372, https://myanimelist.net/anime/5986].
 Duration [6000]seconds does not match [4920]seconds. Not merging [https://anidb.net/anime/8750] into [https://kitsu.io/anime/5275, https://myanimelist.net/anime/8278].
 Duration [6000]seconds does not match [5280]seconds. Not merging [https://anidb.net/anime/4293] into [https://anilist.co/anime/3720, https://kitsu.io/anime/3211, https://myanimelist.net/anime/3720].
+Duration [6000]seconds does not match [5340]seconds. Not merging [https://anilist.co/anime/10259] into [https://kitsu.io/anime/6103].
 Duration [6000]seconds does not match [5460]seconds. Not merging [https://anidb.net/anime/6590] into [https://anilist.co/anime/2662].
+Duration [6000]seconds does not match [5580]seconds. Not merging [https://anidb.net/anime/6588] into [https://anilist.co/anime/2661].
 Duration [6000]seconds does not match [5580]seconds. Not merging [https://kitsu.io/anime/12915] into [https://myanimelist.net/anime/34428].
 Duration [6000]seconds does not match [5640]seconds. Not merging [https://anidb.net/anime/5178] into [https://anilist.co/anime/2472, https://kitsu.io/anime/2245, https://myanimelist.net/anime/2472].
 Duration [6000]seconds does not match [5640]seconds. Not merging [https://anilist.co/anime/21683] into [https://kitsu.io/anime/13266, https://myanimelist.net/anime/33218].
@@ -7501,18 +7497,17 @@ Duration [6000]seconds does not match [5760]seconds. Not merging [https://anidb.
 Duration [6000]seconds does not match [5760]seconds. Not merging [https://anidb.net/anime/4588] into [https://anilist.co/anime/3367, https://kitsu.io/anime/2960, https://myanimelist.net/anime/3367].
 Duration [6000]seconds does not match [5760]seconds. Not merging [https://anidb.net/anime/4626] into [https://anilist.co/anime/6217, https://kitsu.io/anime/4480, https://myanimelist.net/anime/6217].
 Duration [6000]seconds does not match [5760]seconds. Not merging [https://anidb.net/anime/6550] into [https://anilist.co/anime/8368, https://kitsu.io/anime/5317, https://myanimelist.net/anime/8368].
+Duration [6000]seconds does not match [5820]seconds. Not merging [https://anidb.net/anime/12646] into [https://anilist.co/anime/98298].
 Duration [6000]seconds does not match [5820]seconds. Not merging [https://anidb.net/anime/12917] into [https://anilist.co/anime/104090, https://kitsu.io/anime/12860, https://myanimelist.net/anime/33828].
 Duration [6000]seconds does not match [5820]seconds. Not merging [https://anidb.net/anime/14108] into [https://anilist.co/anime/101926, https://kitsu.io/anime/41371, https://myanimelist.net/anime/38021].
 Duration [6000]seconds does not match [5820]seconds. Not merging [https://anidb.net/anime/3506] into [https://anilist.co/anime/1983, https://kitsu.io/anime/1785, https://myanimelist.net/anime/1983].
 Duration [6000]seconds does not match [5820]seconds. Not merging [https://anidb.net/anime/4674] into [https://anilist.co/anime/2665].
 Duration [6000]seconds does not match [5820]seconds. Not merging [https://anidb.net/anime/4703] into [https://anilist.co/anime/8359, https://kitsu.io/anime/5308, https://myanimelist.net/anime/8359].
-Duration [6000]seconds does not match [5820]seconds. Not merging [https://anidb.net/anime/5046] into [https://anilist.co/anime/2675].
 Duration [6000]seconds does not match [5820]seconds. Not merging [https://anidb.net/anime/6108] into [https://anilist.co/anime/3446, https://kitsu.io/anime/3015, https://myanimelist.net/anime/3446].
 Duration [6000]seconds does not match [5820]seconds. Not merging [https://anidb.net/anime/8079] into [https://anilist.co/anime/9544, https://kitsu.io/anime/5784, https://myanimelist.net/anime/9544].
-Duration [6000]seconds does not match [5820]seconds. Not merging [https://anidb.net/anime/8750] into [https://anilist.co/anime/8278].
 Duration [6000]seconds does not match [5880]seconds. Not merging [https://anidb.net/anime/10886] into [https://kitsu.io/anime/9978, https://myanimelist.net/anime/27969].
 Duration [6000]seconds does not match [5880]seconds. Not merging [https://anidb.net/anime/13174] into [https://myanimelist.net/anime/36936].
-Duration [6000]seconds does not match [5880]seconds. Not merging [https://anidb.net/anime/1320] into [https://anilist.co/anime/451].
+Duration [6000]seconds does not match [5880]seconds. Not merging [https://anidb.net/anime/1320] into [https://kitsu.io/anime/414].
 Duration [6000]seconds does not match [5880]seconds. Not merging [https://anidb.net/anime/6299] into [https://anilist.co/anime/5998, https://myanimelist.net/anime/5998].
 Duration [6000]seconds does not match [5880]seconds. Not merging [https://anidb.net/anime/7093] into [https://anilist.co/anime/7598, https://myanimelist.net/anime/7598].
 Duration [6000]seconds does not match [5880]seconds. Not merging [https://anidb.net/anime/7621] into [https://anilist.co/anime/8487, https://kitsu.io/anime/5354, https://myanimelist.net/anime/8487].
@@ -7523,20 +7518,20 @@ Duration [6000]seconds does not match [5940]seconds. Not merging [https://anidb.
 Duration [6000]seconds does not match [5940]seconds. Not merging [https://anidb.net/anime/771] into [https://anilist.co/anime/1380, https://myanimelist.net/anime/1380].
 Duration [6000]seconds does not match [5940]seconds. Not merging [https://anidb.net/anime/8425] into [https://kitsu.io/anime/6319, https://myanimelist.net/anime/10723].
 Duration [6000]seconds does not match [5940]seconds. Not merging [https://anidb.net/anime/8857] into [https://anilist.co/anime/12477, https://kitsu.io/anime/6742, https://myanimelist.net/anime/12477].
-Duration [6000]seconds does not match [5940]seconds. Not merging [https://anidb.net/anime/890] into [https://myanimelist.net/anime/468].
 Duration [6000]seconds does not match [5940]seconds. Not merging [https://anilist.co/anime/10723] into [https://kitsu.io/anime/6319, https://myanimelist.net/anime/10723].
 Duration [6000]seconds does not match [5940]seconds. Not merging [https://anilist.co/anime/1116] into [https://myanimelist.net/anime/1116].
 Duration [6000]seconds does not match [5940]seconds. Not merging [https://kitsu.io/anime/1000] into [https://myanimelist.net/anime/1116].
+Duration [6000]seconds does not match [5940]seconds. Not merging [https://kitsu.io/anime/415] into [https://anilist.co/anime/452].
 Duration [6000]seconds does not match [5940]seconds. Not merging [https://kitsu.io/anime/430] into [https://myanimelist.net/anime/468].
 Duration [6000]seconds does not match [5940]seconds. Not merging [https://kitsu.io/anime/980] into [https://anilist.co/anime/1095, https://myanimelist.net/anime/1095].
+Duration [6000]seconds does not match [60]seconds. Not merging [https://anidb.net/anime/13174] into [https://kitsu.io/anime/14083].
 Duration [6000]seconds does not match [6060]seconds. Not merging [https://anidb.net/anime/10022] into [https://kitsu.io/anime/7914, https://myanimelist.net/anime/20021].
-Duration [6000]seconds does not match [6060]seconds. Not merging [https://anidb.net/anime/11696] into [https://anilist.co/anime/21425].
 Duration [6000]seconds does not match [6060]seconds. Not merging [https://anidb.net/anime/1208] into [https://anilist.co/anime/317, https://kitsu.io/anime/7776, https://myanimelist.net/anime/317].
 Duration [6000]seconds does not match [6060]seconds. Not merging [https://anidb.net/anime/13207] into [https://myanimelist.net/anime/35678].
 Duration [6000]seconds does not match [6060]seconds. Not merging [https://anidb.net/anime/5107] into [https://anilist.co/anime/2890, https://kitsu.io/anime/2624, https://myanimelist.net/anime/2890].
 Duration [6000]seconds does not match [6060]seconds. Not merging [https://anilist.co/anime/20021] into [https://kitsu.io/anime/7914, https://myanimelist.net/anime/20021].
 Duration [6000]seconds does not match [6060]seconds. Not merging [https://kitsu.io/anime/13297] into [https://anilist.co/anime/100561].
-Duration [6000]seconds does not match [6120]seconds. Not merging [https://anidb.net/anime/83] into [https://kitsu.io/anime/527].
+Duration [6000]seconds does not match [6120]seconds. Not merging [https://anidb.net/anime/2185] into [https://kitsu.io/anime/2194].
 Duration [6000]seconds does not match [6120]seconds. Not merging [https://anidb.net/anime/8312] into [https://anilist.co/anime/10589, https://kitsu.io/anime/6256, https://myanimelist.net/anime/10589].
 Duration [6000]seconds does not match [6120]seconds. Not merging [https://anidb.net/anime/9921] into [https://anilist.co/anime/19115, https://kitsu.io/anime/7801, https://myanimelist.net/anime/19115].
 Duration [6000]seconds does not match [6120]seconds. Not merging [https://anilist.co/anime/16434] into [https://myanimelist.net/anime/16434].
@@ -7545,9 +7540,12 @@ Duration [6000]seconds does not match [6120]seconds. Not merging [https://kitsu.
 Duration [6000]seconds does not match [6180]seconds. Not merging [https://anidb.net/anime/13174] into [https://anilist.co/anime/100749].
 Duration [6000]seconds does not match [6180]seconds. Not merging [https://anidb.net/anime/2185] into [https://myanimelist.net/anime/2418].
 Duration [6000]seconds does not match [6300]seconds. Not merging [https://anidb.net/anime/11207] into [https://anilist.co/anime/14007, https://kitsu.io/anime/7067, https://myanimelist.net/anime/14007].
+Duration [6000]seconds does not match [6360]seconds. Not merging [https://anidb.net/anime/13149] into [https://kitsu.io/anime/13515].
 Duration [6000]seconds does not match [6420]seconds. Not merging [https://kitsu.io/anime/1219] into [https://myanimelist.net/anime/1365].
 Duration [6000]seconds does not match [6900]seconds. Not merging [https://anidb.net/anime/13657] into [https://anilist.co/anime/101302, https://myanimelist.net/anime/36946].
 Duration [6000]seconds does not match [7200]seconds. Not merging [https://anidb.net/anime/5047] into [https://anilist.co/anime/2670].
+Duration [6060]seconds does not match [60]seconds. Not merging [https://anilist.co/anime/103359] into [https://kitsu.io/anime/41631].
+Duration [6060]seconds does not match [6000]seconds. Not merging [https://anilist.co/anime/21425] into [https://anidb.net/anime/11696].
 Duration [6060]seconds does not match [6000]seconds. Not merging [https://anilist.co/anime/8141] into [https://kitsu.io/anime/5211, https://myanimelist.net/anime/8141].
 Duration [6060]seconds does not match [6000]seconds. Not merging [https://kitsu.io/anime/41046] into [https://anidb.net/anime/13657].
 Duration [6060]seconds does not match [6240]seconds. Not merging [https://kitsu.io/anime/22] into [https://myanimelist.net/anime/31].
@@ -7555,15 +7553,16 @@ Duration [6060]seconds does not match [6300]seconds. Not merging [https://anilis
 Duration [6060]seconds does not match [6900]seconds. Not merging [https://kitsu.io/anime/41046] into [https://anilist.co/anime/101302, https://myanimelist.net/anime/36946].
 Duration [6120]seconds does not match [5880]seconds. Not merging [https://kitsu.io/anime/5048] into [https://anilist.co/anime/7598, https://myanimelist.net/anime/7598].
 Duration [6120]seconds does not match [6000]seconds. Not merging [https://kitsu.io/anime/1283] into [https://anilist.co/anime/1430, https://myanimelist.net/anime/1430].
-Duration [6120]seconds does not match [6000]seconds. Not merging [https://kitsu.io/anime/2194] into [https://anidb.net/anime/2185].
 Duration [6120]seconds does not match [6000]seconds. Not merging [https://kitsu.io/anime/5048] into [https://anidb.net/anime/7093].
+Duration [6120]seconds does not match [6000]seconds. Not merging [https://kitsu.io/anime/527] into [https://anidb.net/anime/83].
 Duration [6120]seconds does not match [6180]seconds. Not merging [https://kitsu.io/anime/2194] into [https://anilist.co/anime/2418].
 Duration [6120]seconds does not match [6180]seconds. Not merging [https://kitsu.io/anime/2194] into [https://myanimelist.net/anime/2418].
 Duration [6120]seconds does not match [6300]seconds. Not merging [https://kitsu.io/anime/1283] into [https://anidb.net/anime/320].
 Duration [6180]seconds does not match [5880]seconds. Not merging [https://anilist.co/anime/100749] into [https://myanimelist.net/anime/36936].
-Duration [6180]seconds does not match [60]seconds. Not merging [https://anilist.co/anime/87499] into [https://kitsu.io/anime/12504].
+Duration [6180]seconds does not match [60]seconds. Not merging [https://anilist.co/anime/100749] into [https://kitsu.io/anime/14083].
 Duration [6180]seconds does not match [6120]seconds. Not merging [https://anilist.co/anime/6675] into [https://kitsu.io/anime/4659, https://myanimelist.net/anime/6675].
 Duration [6180]seconds does not match [6240]seconds. Not merging [https://anilist.co/anime/87499] into [https://myanimelist.net/anime/33724].
+Duration [6180]seconds does not match [6300]seconds. Not merging [https://anilist.co/anime/6675] into [https://anidb.net/anime/6529].
 Duration [6180]seconds does not match [6300]seconds. Not merging [https://anilist.co/anime/87499] into [https://anidb.net/anime/12284].
 Duration [6180]seconds does not match [6300]seconds. Not merging [https://kitsu.io/anime/12682] into [https://myanimelist.net/anime/34244].
 Duration [6240]seconds does not match [6180]seconds. Not merging [https://anilist.co/anime/21638] into [https://kitsu.io/anime/11475].
@@ -7576,7 +7575,6 @@ Duration [6300]seconds does not match [6000]seconds. Not merging [https://anidb.
 Duration [6300]seconds does not match [6000]seconds. Not merging [https://anidb.net/anime/3146] into [https://kitsu.io/anime/1215, https://myanimelist.net/anime/1361].
 Duration [6300]seconds does not match [6000]seconds. Not merging [https://anidb.net/anime/4058] into [https://anilist.co/anime/1906, https://kitsu.io/anime/1716, https://myanimelist.net/anime/1906].
 Duration [6300]seconds does not match [6000]seconds. Not merging [https://anidb.net/anime/6784] into [https://kitsu.io/anime/4788, https://myanimelist.net/anime/6922].
-Duration [6300]seconds does not match [6000]seconds. Not merging [https://anidb.net/anime/6959] into [https://anilist.co/anime/6408].
 Duration [6300]seconds does not match [6000]seconds. Not merging [https://anidb.net/anime/7287] into [https://kitsu.io/anime/5211, https://myanimelist.net/anime/8141].
 Duration [6300]seconds does not match [6000]seconds. Not merging [https://anidb.net/anime/8156] into [https://anilist.co/anime/10259].
 Duration [6300]seconds does not match [6060]seconds. Not merging [https://anidb.net/anime/2760] into [https://myanimelist.net/anime/7900].
@@ -7588,7 +7586,6 @@ Duration [6300]seconds does not match [6120]seconds. Not merging [https://anidb.
 Duration [6300]seconds does not match [6120]seconds. Not merging [https://anidb.net/anime/6529] into [https://kitsu.io/anime/4659, https://myanimelist.net/anime/6675].
 Duration [6300]seconds does not match [6180]seconds. Not merging [https://anidb.net/anime/10313] into [https://anilist.co/anime/20555, https://kitsu.io/anime/8159, https://myanimelist.net/anime/21557].
 Duration [6300]seconds does not match [6180]seconds. Not merging [https://anidb.net/anime/620] into [https://anilist.co/anime/544, https://kitsu.io/anime/502, https://myanimelist.net/anime/544].
-Duration [6300]seconds does not match [6180]seconds. Not merging [https://anidb.net/anime/6529] into [https://anilist.co/anime/6675].
 Duration [6300]seconds does not match [6180]seconds. Not merging [https://anidb.net/anime/7523] into [https://kitsu.io/anime/9220, https://myanimelist.net/anime/8416].
 Duration [6300]seconds does not match [6180]seconds. Not merging [https://anidb.net/anime/8699] into [https://anilist.co/anime/11755, https://kitsu.io/anime/6588, https://myanimelist.net/anime/11755].
 Duration [6300]seconds does not match [6180]seconds. Not merging [https://anidb.net/anime/9088] into [https://kitsu.io/anime/6953, https://myanimelist.net/anime/13391].
@@ -7603,20 +7600,22 @@ Duration [6300]seconds does not match [6360]seconds. Not merging [https://anilis
 Duration [6300]seconds does not match [6900]seconds. Not merging [https://anidb.net/anime/12962] into [https://myanimelist.net/anime/35082].
 Duration [6300]seconds does not match [6900]seconds. Not merging [https://anilist.co/anime/100878] into [https://kitsu.io/anime/14173, https://myanimelist.net/anime/37055].
 Duration [6300]seconds does not match [7200]seconds. Not merging [https://anidb.net/anime/12649] into [https://kitsu.io/anime/13061].
+Duration [6300]seconds does not match [7200]seconds. Not merging [https://anidb.net/anime/13016] into [https://anilist.co/anime/98998, https://kitsu.io/anime/13643].
 Duration [6360]seconds does not match [3960]seconds. Not merging [https://kitsu.io/anime/834] into [https://anilist.co/anime/937, https://myanimelist.net/anime/937].
+Duration [6360]seconds does not match [4200]seconds. Not merging [https://kitsu.io/anime/834] into [https://anidb.net/anime/166].
 Duration [6360]seconds does not match [5760]seconds. Not merging [https://anilist.co/anime/3785] into [https://kitsu.io/anime/3251, https://myanimelist.net/anime/3785].
 Duration [6360]seconds does not match [5760]seconds. Not merging [https://kitsu.io/anime/13515] into [https://anilist.co/anime/102304, https://myanimelist.net/anime/35432].
 Duration [6360]seconds does not match [6000]seconds. Not merging [https://anilist.co/anime/1361] into [https://kitsu.io/anime/1215, https://myanimelist.net/anime/1361].
-Duration [6360]seconds does not match [6000]seconds. Not merging [https://kitsu.io/anime/13515] into [https://anidb.net/anime/13149].
 Duration [6360]seconds does not match [6300]seconds. Not merging [https://anilist.co/anime/1361] into [https://anidb.net/anime/3146].
 Duration [6360]seconds does not match [6300]seconds. Not merging [https://anilist.co/anime/21498] into [https://myanimelist.net/anime/32086].
 Duration [6360]seconds does not match [6300]seconds. Not merging [https://kitsu.io/anime/11547] into [https://anilist.co/anime/21596, https://myanimelist.net/anime/32551].
 Duration [6360]seconds does not match [6600]seconds. Not merging [https://kitsu.io/anime/6288] into [https://anidb.net/anime/8375, https://anilist.co/anime/10681].
 Duration [6360]seconds does not match [6600]seconds. Not merging [https://kitsu.io/anime/6288] into [https://myanimelist.net/anime/10681].
 Duration [6420]seconds does not match [6360]seconds. Not merging [https://anilist.co/anime/21519] into [https://kitsu.io/anime/11614, https://myanimelist.net/anime/32281].
+Duration [6420]seconds does not match [6600]seconds. Not merging [https://anilist.co/anime/21519] into [https://anidb.net/anime/11829].
+Duration [6420]seconds does not match [6600]seconds. Not merging [https://kitsu.io/anime/8274] into [https://anilist.co/anime/17947].
 Duration [6420]seconds does not match [6660]seconds. Not merging [https://kitsu.io/anime/8274] into [https://myanimelist.net/anime/17947].
 Duration [6420]seconds does not match [6840]seconds. Not merging [https://kitsu.io/anime/4754] into [https://myanimelist.net/anime/6855].
-Duration [6540]seconds does not match [6600]seconds. Not merging [https://anilist.co/anime/99084] into [https://anidb.net/anime/13228].
 Duration [6540]seconds does not match [6600]seconds. Not merging [https://kitsu.io/anime/6942] into [https://anidb.net/anime/9074, https://myanimelist.net/anime/13335].
 Duration [660]seconds does not match [1020]seconds. Not merging [https://kitsu.io/anime/11577] into [https://anilist.co/anime/99527].
 Duration [660]seconds does not match [1080]seconds. Not merging [https://anilist.co/anime/7621] into [https://kitsu.io/anime/5057, https://myanimelist.net/anime/7621].
@@ -7629,9 +7628,11 @@ Duration [660]seconds does not match [360]seconds. Not merging [https://anilist.
 Duration [660]seconds does not match [480]seconds. Not merging [https://anilist.co/anime/21288] into [https://kitsu.io/anime/10988, https://myanimelist.net/anime/30757].
 Duration [660]seconds does not match [540]seconds. Not merging [https://anidb.net/anime/14286] into [https://kitsu.io/anime/12363, https://myanimelist.net/anime/32623].
 Duration [660]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/101248] into [https://anidb.net/anime/11470, https://kitsu.io/anime/11316, https://myanimelist.net/anime/31377].
+Duration [660]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/10323] into [https://anidb.net/anime/8231].
 Duration [660]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/104417] into [https://anidb.net/anime/13724].
 Duration [660]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/109353] into [https://kitsu.io/anime/10381, https://myanimelist.net/anime/29793].
 Duration [660]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/13673] into [https://kitsu.io/anime/7010, https://myanimelist.net/anime/13673].
+Duration [660]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/19391] into [https://kitsu.io/anime/7889].
 Duration [660]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/19391] into [https://myanimelist.net/anime/19391].
 Duration [660]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/21490] into [https://kitsu.io/anime/11669, https://myanimelist.net/anime/31980].
 Duration [660]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/7524] into [https://kitsu.io/anime/5014, https://myanimelist.net/anime/7524].
@@ -7645,9 +7646,9 @@ Duration [660]seconds does not match [780]seconds. Not merging [https://kitsu.io
 Duration [660]seconds does not match [780]seconds. Not merging [https://kitsu.io/anime/12231] into [https://anilist.co/anime/99710, https://myanimelist.net/anime/33309].
 Duration [660]seconds does not match [780]seconds. Not merging [https://kitsu.io/anime/5358] into [https://myanimelist.net/anime/8493].
 Duration [660]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/109353] into [https://anidb.net/anime/14369].
-Duration [660]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/13673] into [https://anidb.net/anime/8968].
-Duration [660]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/8503] into [https://anidb.net/anime/4659].
-Duration [660]seconds does not match [900]seconds. Not merging [https://kitsu.io/anime/12231] into [https://anidb.net/anime/12967].
+Duration [660]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/17076] into [https://anidb.net/anime/6854].
+Duration [660]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/7524] into [https://anidb.net/anime/6893].
+Duration [660]seconds does not match [900]seconds. Not merging [https://kitsu.io/anime/41342] into [https://anidb.net/anime/14094].
 Duration [660]seconds does not match [960]seconds. Not merging [https://anilist.co/anime/7229] into [https://kitsu.io/anime/4904, https://myanimelist.net/anime/7229].
 Duration [6600]seconds does not match [4080]seconds. Not merging [https://anidb.net/anime/2220] into [https://kitsu.io/anime/2747, https://myanimelist.net/anime/3043].
 Duration [6600]seconds does not match [5280]seconds. Not merging [https://anidb.net/anime/3107] into [https://anilist.co/anime/8365, https://kitsu.io/anime/5314, https://myanimelist.net/anime/8365].
@@ -7660,7 +7661,6 @@ Duration [6600]seconds does not match [6360]seconds. Not merging [https://anidb.
 Duration [6600]seconds does not match [6360]seconds. Not merging [https://anidb.net/anime/9208] into [https://anilist.co/anime/14293, https://kitsu.io/anime/7110, https://myanimelist.net/anime/14293].
 Duration [6600]seconds does not match [6360]seconds. Not merging [https://kitsu.io/anime/11537] into [https://anilist.co/anime/21498].
 Duration [6600]seconds does not match [6360]seconds. Not merging [https://kitsu.io/anime/12063] into [https://myanimelist.net/anime/33204].
-Duration [6600]seconds does not match [6420]seconds. Not merging [https://anidb.net/anime/11829] into [https://anilist.co/anime/21519].
 Duration [6600]seconds does not match [6420]seconds. Not merging [https://anidb.net/anime/12191] into [https://anilist.co/anime/102062, https://kitsu.io/anime/12296, https://myanimelist.net/anime/32751].
 Duration [6600]seconds does not match [6420]seconds. Not merging [https://anidb.net/anime/3436] into [https://anilist.co/anime/1961, https://kitsu.io/anime/1767, https://myanimelist.net/anime/1961].
 Duration [6600]seconds does not match [6420]seconds. Not merging [https://anidb.net/anime/5297] into [https://anilist.co/anime/2751, https://kitsu.io/anime/2511, https://myanimelist.net/anime/2751].
@@ -7668,11 +7668,11 @@ Duration [6600]seconds does not match [6420]seconds. Not merging [https://anidb.
 Duration [6600]seconds does not match [6420]seconds. Not merging [https://anidb.net/anime/867] into [https://myanimelist.net/anime/1365].
 Duration [6600]seconds does not match [6420]seconds. Not merging [https://anidb.net/anime/8940] into [https://anilist.co/anime/12859].
 Duration [6600]seconds does not match [6420]seconds. Not merging [https://anidb.net/anime/8940] into [https://kitsu.io/anime/6827, https://myanimelist.net/anime/12859].
-Duration [6600]seconds does not match [6420]seconds. Not merging [https://anilist.co/anime/17947] into [https://kitsu.io/anime/8274].
 Duration [6600]seconds does not match [6480]seconds. Not merging [https://anidb.net/anime/2052] into [https://kitsu.io/anime/1220, https://myanimelist.net/anime/1366].
 Duration [6600]seconds does not match [6480]seconds. Not merging [https://anidb.net/anime/395] into [https://anilist.co/anime/1096, https://kitsu.io/anime/981, https://myanimelist.net/anime/1096].
 Duration [6600]seconds does not match [6480]seconds. Not merging [https://anidb.net/anime/4989] into [https://anilist.co/anime/2029, https://kitsu.io/anime/1828, https://myanimelist.net/anime/2029].
 Duration [6600]seconds does not match [6480]seconds. Not merging [https://anilist.co/anime/18429] into [https://kitsu.io/anime/7723, https://myanimelist.net/anime/18429].
+Duration [6600]seconds does not match [6540]seconds. Not merging [https://anidb.net/anime/13228] into [https://anilist.co/anime/99084].
 Duration [6600]seconds does not match [6540]seconds. Not merging [https://anidb.net/anime/2279] into [https://anilist.co/anime/2311, https://kitsu.io/anime/2093, https://myanimelist.net/anime/2311].
 Duration [6600]seconds does not match [6540]seconds. Not merging [https://anidb.net/anime/78] into [https://anilist.co/anime/522, https://kitsu.io/anime/481, https://myanimelist.net/anime/522].
 Duration [6600]seconds does not match [6540]seconds. Not merging [https://anidb.net/anime/8121] into [https://kitsu.io/anime/5967, https://myanimelist.net/anime/9963].
@@ -7680,12 +7680,13 @@ Duration [6600]seconds does not match [6540]seconds. Not merging [https://anidb.
 Duration [6600]seconds does not match [6660]seconds. Not merging [https://anidb.net/anime/9788] into [https://myanimelist.net/anime/17947].
 Duration [6600]seconds does not match [6660]seconds. Not merging [https://anilist.co/anime/17947] into [https://myanimelist.net/anime/17947].
 Duration [6600]seconds does not match [6660]seconds. Not merging [https://anilist.co/anime/3153] into [https://myanimelist.net/anime/3153].
-Duration [6600]seconds does not match [6660]seconds. Not merging [https://kitsu.io/anime/12063] into [https://anilist.co/anime/21788].
 Duration [6600]seconds does not match [6660]seconds. Not merging [https://kitsu.io/anime/2826] into [https://myanimelist.net/anime/3153].
 Duration [6600]seconds does not match [6720]seconds. Not merging [https://anidb.net/anime/6171] into [https://anilist.co/anime/3784, https://kitsu.io/anime/3250, https://myanimelist.net/anime/3784].
 Duration [6600]seconds does not match [6900]seconds. Not merging [https://anilist.co/anime/21729] into [https://anidb.net/anime/12054, https://kitsu.io/anime/12020, https://myanimelist.net/anime/33082].
 Duration [6600]seconds does not match [7140]seconds. Not merging [https://kitsu.io/anime/11423] into [https://anilist.co/anime/21403, https://myanimelist.net/anime/31765].
 Duration [6660]seconds does not match [6360]seconds. Not merging [https://anilist.co/anime/21788] into [https://myanimelist.net/anime/33204].
+Duration [6660]seconds does not match [6600]seconds. Not merging [https://anilist.co/anime/21788] into [https://kitsu.io/anime/12063].
+Duration [6660]seconds does not match [6900]seconds. Not merging [https://anilist.co/anime/99614] into [https://anidb.net/anime/13301].
 Duration [6720]seconds does not match [6660]seconds. Not merging [https://kitsu.io/anime/12772] into [https://myanimelist.net/anime/34430].
 Duration [6720]seconds does not match [7020]seconds. Not merging [https://anidb.net/anime/13303] into [https://myanimelist.net/anime/39116].
 Duration [6720]seconds does not match [7020]seconds. Not merging [https://anilist.co/anime/108989] into [https://myanimelist.net/anime/39116].
@@ -7696,7 +7697,6 @@ Duration [6840]seconds does not match [6300]seconds. Not merging [https://anilis
 Duration [6840]seconds does not match [6900]seconds. Not merging [https://kitsu.io/anime/2] into [https://anidb.net/anime/219, https://anilist.co/anime/5, https://myanimelist.net/anime/5].
 Duration [6900]seconds does not match [6660]seconds. Not merging [https://anidb.net/anime/10430] into [https://kitsu.io/anime/8416, https://myanimelist.net/anime/23249].
 Duration [6900]seconds does not match [6660]seconds. Not merging [https://anidb.net/anime/13261] into [https://kitsu.io/anime/13602, https://myanimelist.net/anime/35848].
-Duration [6900]seconds does not match [6660]seconds. Not merging [https://anidb.net/anime/13301] into [https://anilist.co/anime/99614].
 Duration [6900]seconds does not match [6660]seconds. Not merging [https://anidb.net/anime/1416] into [https://anilist.co/anime/2560, https://kitsu.io/anime/2325, https://myanimelist.net/anime/2560].
 Duration [6900]seconds does not match [6660]seconds. Not merging [https://anidb.net/anime/14221] into [https://anilist.co/anime/103221, https://kitsu.io/anime/41489, https://myanimelist.net/anime/37981].
 Duration [6900]seconds does not match [6660]seconds. Not merging [https://anidb.net/anime/4054] into [https://anilist.co/anime/2154, https://kitsu.io/anime/1950, https://myanimelist.net/anime/2154].
@@ -7717,6 +7717,7 @@ Duration [6900]seconds does not match [6840]seconds. Not merging [https://anidb.
 Duration [6900]seconds does not match [6840]seconds. Not merging [https://anilist.co/anime/106286] into [https://kitsu.io/anime/42028, https://myanimelist.net/anime/38826].
 Duration [6900]seconds does not match [6840]seconds. Not merging [https://kitsu.io/anime/8737] into [https://anilist.co/anime/20919, https://myanimelist.net/anime/23279].
 Duration [6900]seconds does not match [7020]seconds. Not merging [https://anidb.net/anime/12738] into [https://anilist.co/anime/98249, https://myanimelist.net/anime/34792].
+Duration [6900]seconds does not match [7200]seconds. Not merging [https://anidb.net/anime/5432] into [https://anilist.co/anime/2673].
 Duration [6960]seconds does not match [6360]seconds. Not merging [https://anilist.co/anime/21485] into [https://kitsu.io/anime/11551, https://myanimelist.net/anime/32051].
 Duration [6960]seconds does not match [7200]seconds. Not merging [https://anilist.co/anime/758] into [https://anidb.net/anime/580, https://myanimelist.net/anime/758].
 Duration [6960]seconds does not match [7200]seconds. Not merging [https://kitsu.io/anime/680] into [https://anidb.net/anime/580, https://myanimelist.net/anime/758].
@@ -7726,13 +7727,14 @@ Duration [7020]seconds does not match [7200]seconds. Not merging [https://anilis
 Duration [7080]seconds does not match [6960]seconds. Not merging [https://anilist.co/anime/11981] into [https://kitsu.io/anime/6638, https://myanimelist.net/anime/11981].
 Duration [7080]seconds does not match [7140]seconds. Not merging [https://anilist.co/anime/20981] into [https://myanimelist.net/anime/28805].
 Duration [7080]seconds does not match [7140]seconds. Not merging [https://kitsu.io/anime/10065] into [https://myanimelist.net/anime/28805].
+Duration [7080]seconds does not match [7200]seconds. Not merging [https://anilist.co/anime/20981] into [https://anidb.net/anime/10967].
+Duration [7080]seconds does not match [7200]seconds. Not merging [https://kitsu.io/anime/10065] into [https://anidb.net/anime/10967].
 Duration [7140]seconds does not match [7080]seconds. Not merging [https://kitsu.io/anime/8672] into [https://myanimelist.net/anime/23775].
 Duration [720]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/2814] into [https://kitsu.io/anime/2568, https://myanimelist.net/anime/2814].
 Duration [720]seconds does not match [1500]seconds. Not merging [https://kitsu.io/anime/41378] into [https://anidb.net/anime/12362].
 Duration [720]seconds does not match [240]seconds. Not merging [https://anilist.co/anime/8220] into [https://myanimelist.net/anime/8220].
 Duration [720]seconds does not match [240]seconds. Not merging [https://kitsu.io/anime/5251] into [https://myanimelist.net/anime/8220].
 Duration [720]seconds does not match [2820]seconds. Not merging [https://anilist.co/anime/17603] into [https://anidb.net/anime/7363, https://kitsu.io/anime/9758, https://myanimelist.net/anime/17603].
-Duration [720]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/5251] into [https://anidb.net/anime/7082].
 Duration [720]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/110646] into [https://myanimelist.net/anime/39676].
 Duration [720]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/9624] into [https://myanimelist.net/anime/9624].
 Duration [720]seconds does not match [600]seconds. Not merging [https://kitsu.io/anime/5812] into [https://myanimelist.net/anime/9624].
@@ -7755,10 +7757,10 @@ Duration [720]seconds does not match [840]seconds. Not merging [https://anilist.
 Duration [720]seconds does not match [840]seconds. Not merging [https://anilist.co/anime/20915] into [https://kitsu.io/anime/8399, https://myanimelist.net/anime/22745].
 Duration [720]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/100093] into [https://anidb.net/anime/13440].
 Duration [720]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/119] into [https://anidb.net/anime/2372].
-Duration [720]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/20700] into [https://anidb.net/anime/10443].
+Duration [720]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/9624] into [https://anidb.net/anime/8106].
 Duration [720]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/980] into [https://anidb.net/anime/444].
+Duration [720]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/98104] into [https://anidb.net/anime/12709].
 Duration [720]seconds does not match [900]seconds. Not merging [https://kitsu.io/anime/12863] into [https://anidb.net/anime/12709].
-Duration [720]seconds does not match [900]seconds. Not merging [https://kitsu.io/anime/13862] into [https://anilist.co/anime/108990].
 Duration [720]seconds does not match [900]seconds. Not merging [https://kitsu.io/anime/13862] into [https://myanimelist.net/anime/39760].
 Duration [7200]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/6519] into [https://myanimelist.net/anime/6519].
 Duration [7200]seconds does not match [1200]seconds. Not merging [https://kitsu.io/anime/4592] into [https://myanimelist.net/anime/6519].
@@ -7770,12 +7772,14 @@ Duration [7200]seconds does not match [3900]seconds. Not merging [https://kitsu.
 Duration [7200]seconds does not match [5400]seconds. Not merging [https://anilist.co/anime/3603] into [https://anidb.net/anime/4918, https://kitsu.io/anime/3136, https://myanimelist.net/anime/3603].
 Duration [7200]seconds does not match [5400]seconds. Not merging [https://anilist.co/anime/6930] into [https://anidb.net/anime/6383].
 Duration [7200]seconds does not match [5460]seconds. Not merging [https://anilist.co/anime/17313] into [https://kitsu.io/anime/7636, https://myanimelist.net/anime/17313].
+Duration [7200]seconds does not match [5700]seconds. Not merging [https://anilist.co/anime/17313] into [https://anidb.net/anime/7724].
+Duration [7200]seconds does not match [5700]seconds. Not merging [https://anilist.co/anime/484] into [https://anidb.net/anime/399].
 Duration [7200]seconds does not match [5760]seconds. Not merging [https://anilist.co/anime/98402] into [https://myanimelist.net/anime/34962].
 Duration [7200]seconds does not match [5880]seconds. Not merging [https://anilist.co/anime/6930] into [https://kitsu.io/anime/4790, https://myanimelist.net/anime/6930].
+Duration [7200]seconds does not match [60]seconds. Not merging [https://anilist.co/anime/98402] into [https://kitsu.io/anime/11549].
+Duration [7200]seconds does not match [60]seconds. Not merging [https://anilist.co/anime/99302] into [https://kitsu.io/anime/13623].
 Duration [7200]seconds does not match [6000]seconds. Not merging [https://anilist.co/anime/2670] into [https://kitsu.io/anime/2433, https://myanimelist.net/anime/2670].
 Duration [7200]seconds does not match [6120]seconds. Not merging [https://kitsu.io/anime/13061] into [https://anilist.co/anime/97981, https://myanimelist.net/anime/34541].
-Duration [7200]seconds does not match [6300]seconds. Not merging [https://anilist.co/anime/98998] into [https://anidb.net/anime/13016].
-Duration [7200]seconds does not match [6300]seconds. Not merging [https://kitsu.io/anime/13643] into [https://anidb.net/anime/13016].
 Duration [7200]seconds does not match [6360]seconds. Not merging [https://anilist.co/anime/99302] into [https://myanimelist.net/anime/36215].
 Duration [7200]seconds does not match [6600]seconds. Not merging [https://kitsu.io/anime/41081] into [https://anilist.co/anime/101344].
 Duration [7200]seconds does not match [6660]seconds. Not merging [https://anidb.net/anime/334] into [https://anilist.co/anime/1030, https://kitsu.io/anime/920, https://myanimelist.net/anime/1030].
@@ -7786,10 +7790,9 @@ Duration [7200]seconds does not match [7020]seconds. Not merging [https://anidb.
 Duration [7200]seconds does not match [7020]seconds. Not merging [https://anidb.net/anime/6109] into [https://anilist.co/anime/4983, https://kitsu.io/anime/3873, https://myanimelist.net/anime/4983].
 Duration [7200]seconds does not match [7020]seconds. Not merging [https://anidb.net/anime/7126] into [https://kitsu.io/anime/3700, https://myanimelist.net/anime/4596].
 Duration [7200]seconds does not match [7020]seconds. Not merging [https://anidb.net/anime/8832] into [https://anilist.co/anime/12355, https://kitsu.io/anime/6711, https://myanimelist.net/anime/12355].
-Duration [7200]seconds does not match [7080]seconds. Not merging [https://anidb.net/anime/10967] into [https://anilist.co/anime/20981, https://kitsu.io/anime/10065].
 Duration [7200]seconds does not match [7080]seconds. Not merging [https://anidb.net/anime/13853] into [https://anilist.co/anime/101249, https://kitsu.io/anime/41007, https://myanimelist.net/anime/37407].
 Duration [7200]seconds does not match [7080]seconds. Not merging [https://anidb.net/anime/333] into [https://anilist.co/anime/1029, https://kitsu.io/anime/919, https://myanimelist.net/anime/1029].
-Duration [7200]seconds does not match [7080]seconds. Not merging [https://anidb.net/anime/6722] into [https://anilist.co/anime/7536].
+Duration [7200]seconds does not match [7080]seconds. Not merging [https://anidb.net/anime/6722] into [https://kitsu.io/anime/5023].
 Duration [7200]seconds does not match [7080]seconds. Not merging [https://anidb.net/anime/6722] into [https://myanimelist.net/anime/7536].
 Duration [7200]seconds does not match [7140]seconds. Not merging [https://anidb.net/anime/10932] into [https://kitsu.io/anime/9979, https://myanimelist.net/anime/28211].
 Duration [7200]seconds does not match [7140]seconds. Not merging [https://anidb.net/anime/10959] into [https://kitsu.io/anime/10056, https://myanimelist.net/anime/28725].
@@ -7803,13 +7806,11 @@ Duration [7200]seconds does not match [7140]seconds. Not merging [https://anilis
 Duration [7200]seconds does not match [7680]seconds. Not merging [https://kitsu.io/anime/3381] into [https://myanimelist.net/anime/3963].
 Duration [7200]seconds does not match [7800]seconds. Not merging [https://anilist.co/anime/3963] into [https://anidb.net/anime/2813].
 Duration [7200]seconds does not match [840]seconds. Not merging [https://kitsu.io/anime/9764] into [https://myanimelist.net/anime/22993].
-Duration [7200]seconds does not match [900]seconds. Not merging [https://kitsu.io/anime/9764] into [https://anidb.net/anime/7573].
 Duration [7320]seconds does not match [7260]seconds. Not merging [https://anilist.co/anime/2793] into [https://myanimelist.net/anime/2793].
 Duration [7320]seconds does not match [7260]seconds. Not merging [https://kitsu.io/anime/2549] into [https://myanimelist.net/anime/2793].
-Duration [7320]seconds does not match [7500]seconds. Not merging [https://anilist.co/anime/2793] into [https://anidb.net/anime/1315].
-Duration [7320]seconds does not match [7500]seconds. Not merging [https://kitsu.io/anime/2549] into [https://anidb.net/anime/1315].
 Duration [7500]seconds does not match [7260]seconds. Not merging [https://anidb.net/anime/1315] into [https://myanimelist.net/anime/2793].
 Duration [7500]seconds does not match [7260]seconds. Not merging [https://anidb.net/anime/196] into [https://anilist.co/anime/1034, https://kitsu.io/anime/924, https://myanimelist.net/anime/1034].
+Duration [7500]seconds does not match [7320]seconds. Not merging [https://anidb.net/anime/1315] into [https://anilist.co/anime/2793, https://kitsu.io/anime/2549].
 Duration [7500]seconds does not match [7320]seconds. Not merging [https://anidb.net/anime/5714] into [https://anilist.co/anime/7308, https://kitsu.io/anime/4937, https://myanimelist.net/anime/7308].
 Duration [7500]seconds does not match [7380]seconds. Not merging [https://anidb.net/anime/5505] into [https://anilist.co/anime/9866, https://kitsu.io/anime/5910, https://myanimelist.net/anime/9866].
 Duration [7500]seconds does not match [7380]seconds. Not merging [https://anidb.net/anime/6763] into [https://kitsu.io/anime/4789].
@@ -7822,6 +7823,7 @@ Duration [7560]seconds does not match [9360]seconds. Not merging [https://kitsu.
 Duration [7680]seconds does not match [7800]seconds. Not merging [https://anilist.co/anime/3964] into [https://anidb.net/anime/2812].
 Duration [780]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/107300] into [https://myanimelist.net/anime/40091].
 Duration [780]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/107301] into [https://myanimelist.net/anime/40092].
+Duration [780]seconds does not match [1320]seconds. Not merging [https://kitsu.io/anime/13250] into [https://anilist.co/anime/98451].
 Duration [780]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/309] into [https://kitsu.io/anime/280, https://myanimelist.net/anime/309].
 Duration [780]seconds does not match [1440]seconds. Not merging [https://anilist.co/anime/491] into [https://kitsu.io/anime/280, https://myanimelist.net/anime/309].
 Duration [780]seconds does not match [180]seconds. Not merging [https://anilist.co/anime/21796] into [https://kitsu.io/anime/12154].
@@ -7851,24 +7853,18 @@ Duration [780]seconds does not match [720]seconds. Not merging [https://kitsu.io
 Duration [780]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/14654] into [https://anilist.co/anime/102556, https://kitsu.io/anime/13159, https://myanimelist.net/anime/33756].
 Duration [780]seconds does not match [840]seconds. Not merging [https://anilist.co/anime/20480] into [https://kitsu.io/anime/8434, https://myanimelist.net/anime/20505].
 Duration [780]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/104558] into [https://anidb.net/anime/12538].
-Duration [780]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/105074] into [https://anidb.net/anime/14467].
-Duration [780]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/105989] into [https://anidb.net/anime/14519].
-Duration [780]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/107300] into [https://anidb.net/anime/13709].
+Duration [780]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/106051] into [https://anidb.net/anime/14522].
 Duration [780]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/107301] into [https://anidb.net/anime/13710].
+Duration [780]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/10886] into [https://anidb.net/anime/8910].
+Duration [780]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/16910] into [https://anidb.net/anime/9479].
 Duration [780]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/20480] into [https://anidb.net/anime/10956].
 Duration [780]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/21050] into [https://anidb.net/anime/11073].
-Duration [780]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/309] into [https://anidb.net/anime/2840].
 Duration [780]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/6582] into [https://anidb.net/anime/6777].
 Duration [780]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/9040] into [https://anidb.net/anime/7670, https://myanimelist.net/anime/9040].
 Duration [780]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/9045] into [https://anidb.net/anime/7614].
 Duration [780]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/964] into [https://anidb.net/anime/1532].
-Duration [780]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/97609] into [https://anidb.net/anime/12308].
-Duration [780]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/98228] into [https://anidb.net/anime/12745].
-Duration [780]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/99661] into [https://anidb.net/anime/13354].
-Duration [780]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/99734] into [https://anidb.net/anime/13355].
-Duration [780]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/99753] into [https://anidb.net/anime/13376].
+Duration [780]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/98251] into [https://anidb.net/anime/12803].
 Duration [780]seconds does not match [900]seconds. Not merging [https://kitsu.io/anime/5582] into [https://anidb.net/anime/7670, https://myanimelist.net/anime/9040].
-Duration [780]seconds does not match [900]seconds. Not merging [https://kitsu.io/anime/6393] into [https://anidb.net/anime/8910].
 Duration [780]seconds does not match [900]seconds. Not merging [https://kitsu.io/anime/6405] into [https://myanimelist.net/anime/10917].
 Duration [780]seconds does not match [900]seconds. Not merging [https://kitsu.io/anime/7549] into [https://anidb.net/anime/9479].
 Duration [780]seconds does not match [960]seconds. Not merging [https://anilist.co/anime/6867] into [https://kitsu.io/anime/4760, https://myanimelist.net/anime/6867].
@@ -7884,18 +7880,16 @@ Duration [7800]seconds does not match [9360]seconds. Not merging [https://anidb.
 Duration [7800]seconds does not match [9360]seconds. Not merging [https://anilist.co/anime/15227] into [https://myanimelist.net/anime/15227].
 Duration [7860]seconds does not match [7800]seconds. Not merging [https://anilist.co/anime/20954] into [https://kitsu.io/anime/10028, https://myanimelist.net/anime/28851].
 Duration [7980]seconds does not match [7920]seconds. Not merging [https://anilist.co/anime/101812] into [https://kitsu.io/anime/13851, https://myanimelist.net/anime/34439].
-Duration [8100]seconds does not match [7860]seconds. Not merging [https://anidb.net/anime/1472] into [https://myanimelist.net/anime/1626].
+Duration [8100]seconds does not match [7860]seconds. Not merging [https://anidb.net/anime/1472] into [https://anilist.co/anime/1626, https://myanimelist.net/anime/1626].
 Duration [8100]seconds does not match [7860]seconds. Not merging [https://anidb.net/anime/2058] into [https://anilist.co/anime/2722, https://kitsu.io/anime/2482, https://myanimelist.net/anime/2722].
 Duration [8100]seconds does not match [7920]seconds. Not merging [https://anidb.net/anime/1525] into [https://anilist.co/anime/496, https://kitsu.io/anime/456, https://myanimelist.net/anime/496].
 Duration [8100]seconds does not match [8040]seconds. Not merging [https://anidb.net/anime/7] into [https://anilist.co/anime/164].
 Duration [8100]seconds does not match [8400]seconds. Not merging [https://anilist.co/anime/2848] into [https://anidb.net/anime/5056].
 Duration [8100]seconds does not match [8460]seconds. Not merging [https://anilist.co/anime/2848] into [https://kitsu.io/anime/2598, https://myanimelist.net/anime/2848].
-Duration [8100]seconds does not match [9060]seconds. Not merging [https://anidb.net/anime/1472] into [https://kitsu.io/anime/8376].
 Duration [8220]seconds does not match [7200]seconds. Not merging [https://anilist.co/anime/7696] into [https://kitsu.io/anime/5084, https://myanimelist.net/anime/7696].
 Duration [8280]seconds does not match [9000]seconds. Not merging [https://anilist.co/anime/10153] into [https://kitsu.io/anime/6056, https://myanimelist.net/anime/10153].
 Duration [840]seconds does not match [1080]seconds. Not merging [https://anilist.co/anime/98220] into [https://myanimelist.net/anime/34812].
 Duration [840]seconds does not match [1080]seconds. Not merging [https://kitsu.io/anime/13344] into [https://myanimelist.net/anime/34812].
-Duration [840]seconds does not match [720]seconds. Not merging [https://anilist.co/anime/21336] into [https://kitsu.io/anime/11348, https://myanimelist.net/anime/31491].
 Duration [840]seconds does not match [720]seconds. Not merging [https://kitsu.io/anime/13884] into [https://myanimelist.net/anime/35211].
 Duration [840]seconds does not match [720]seconds. Not merging [https://kitsu.io/anime/41070] into [https://anilist.co/anime/101277, https://myanimelist.net/anime/37433].
 Duration [840]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/13803] into [https://myanimelist.net/anime/38341].
@@ -7910,16 +7904,21 @@ Duration [840]seconds does not match [780]seconds. Not merging [https://anilist.
 Duration [840]seconds does not match [780]seconds. Not merging [https://kitsu.io/anime/11309] into [https://myanimelist.net/anime/31319].
 Duration [840]seconds does not match [780]seconds. Not merging [https://kitsu.io/anime/4914] into [https://myanimelist.net/anime/7255].
 Duration [840]seconds does not match [780]seconds. Not merging [https://kitsu.io/anime/9196] into [https://myanimelist.net/anime/26285].
+Duration [840]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/100855] into [https://anidb.net/anime/13705].
+Duration [840]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/105445] into [https://anidb.net/anime/12853].
+Duration [840]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/112] into [https://anidb.net/anime/1314].
 Duration [840]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/11809] into [https://anidb.net/anime/8661].
-Duration [840]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/20485] into [https://anidb.net/anime/10293].
+Duration [840]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/20537] into [https://anidb.net/anime/10295].
 Duration [840]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/21322] into [https://anidb.net/anime/11544, https://kitsu.io/anime/11354, https://myanimelist.net/anime/31537].
 Duration [840]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/2166] into [https://anidb.net/anime/5071].
-Duration [840]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/7255] into [https://anidb.net/anime/6988].
+Duration [840]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/21662] into [https://anidb.net/anime/11840].
 Duration [840]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/7668] into [https://anidb.net/anime/7376, https://kitsu.io/anime/5077, https://myanimelist.net/anime/7668].
 Duration [840]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/98524] into [https://myanimelist.net/anime/34855].
 Duration [840]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/98866] into [https://kitsu.io/anime/13583].
 Duration [840]seconds does not match [900]seconds. Not merging [https://kitsu.io/anime/13294] into [https://myanimelist.net/anime/34855].
-Duration [840]seconds does not match [900]seconds. Not merging [https://kitsu.io/anime/4914] into [https://anidb.net/anime/6988].
+Duration [840]seconds does not match [900]seconds. Not merging [https://kitsu.io/anime/13409] into [https://anidb.net/anime/12880].
+Duration [840]seconds does not match [900]seconds. Not merging [https://kitsu.io/anime/41070] into [https://anidb.net/anime/13875].
+Duration [840]seconds does not match [900]seconds. Not merging [https://kitsu.io/anime/9196] into [https://anidb.net/anime/11333].
 Duration [840]seconds does not match [960]seconds. Not merging [https://anilist.co/anime/21434] into [https://kitsu.io/anime/9148, https://myanimelist.net/anime/26359].
 Duration [8400]seconds does not match [8100]seconds. Not merging [https://anidb.net/anime/13258] into [https://myanimelist.net/anime/35842].
 Duration [8400]seconds does not match [8160]seconds. Not merging [https://anidb.net/anime/604] into [https://myanimelist.net/anime/1141].
@@ -7927,20 +7926,20 @@ Duration [8400]seconds does not match [8160]seconds. Not merging [https://anidb.
 Duration [8400]seconds does not match [8220]seconds. Not merging [https://anidb.net/anime/9515] into [https://anilist.co/anime/16664, https://kitsu.io/anime/7486, https://myanimelist.net/anime/16664].
 Duration [8400]seconds does not match [8340]seconds. Not merging [https://anidb.net/anime/1414] into [https://anilist.co/anime/1287, https://kitsu.io/anime/1161, https://myanimelist.net/anime/1287].
 Duration [8400]seconds does not match [8460]seconds. Not merging [https://anidb.net/anime/5056] into [https://kitsu.io/anime/2598, https://myanimelist.net/anime/2848].
-Duration [8460]seconds does not match [120]seconds. Not merging [https://anilist.co/anime/101813] into [https://kitsu.io/anime/13852].
 Duration [8460]seconds does not match [8400]seconds. Not merging [https://anilist.co/anime/101813] into [https://myanimelist.net/anime/34440].
 Duration [8700]seconds does not match [8400]seconds. Not merging [https://anidb.net/anime/4167] into [https://kitsu.io/anime/977, https://myanimelist.net/anime/1092].
 Duration [8820]seconds does not match [7200]seconds. Not merging [https://anilist.co/anime/7698] into [https://kitsu.io/anime/5086, https://myanimelist.net/anime/7698].
 Duration [900]seconds does not match [1020]seconds. Not merging [https://anidb.net/anime/10880] into [https://anilist.co/anime/8533, https://kitsu.io/anime/5377, https://myanimelist.net/anime/8533].
-Duration [900]seconds does not match [1020]seconds. Not merging [https://anidb.net/anime/5132] into [https://anilist.co/anime/3167].
 Duration [900]seconds does not match [1080]seconds. Not merging [https://anidb.net/anime/5132] into [https://kitsu.io/anime/7661, https://myanimelist.net/anime/3167].
 Duration [900]seconds does not match [1080]seconds. Not merging [https://anidb.net/anime/7438] into [https://anilist.co/anime/9055, https://kitsu.io/anime/5588, https://myanimelist.net/anime/9055].
 Duration [900]seconds does not match [1080]seconds. Not merging [https://anidb.net/anime/845] into [https://anilist.co/anime/2617, https://kitsu.io/anime/2381, https://myanimelist.net/anime/2617].
 Duration [900]seconds does not match [1080]seconds. Not merging [https://anilist.co/anime/2802] into [https://kitsu.io/anime/2558, https://myanimelist.net/anime/2802].
 Duration [900]seconds does not match [1140]seconds. Not merging [https://anidb.net/anime/3375] into [https://kitsu.io/anime/5500, https://myanimelist.net/anime/8812].
 Duration [900]seconds does not match [120]seconds. Not merging [https://kitsu.io/anime/12284] into [https://anidb.net/anime/12115].
+Duration [900]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/13428] into [https://anilist.co/anime/99654].
 Duration [900]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/13709] into [https://myanimelist.net/anime/40091].
 Duration [900]seconds does not match [1200]seconds. Not merging [https://anidb.net/anime/13710] into [https://myanimelist.net/anime/40092].
+Duration [900]seconds does not match [1200]seconds. Not merging [https://kitsu.io/anime/41384] into [https://anidb.net/anime/15074].
 Duration [900]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/1908] into [https://kitsu.io/anime/4830, https://myanimelist.net/anime/7004].
 Duration [900]seconds does not match [1260]seconds. Not merging [https://anidb.net/anime/7275] into [https://anilist.co/anime/7762, https://kitsu.io/anime/5112, https://myanimelist.net/anime/7762].
 Duration [900]seconds does not match [1260]seconds. Not merging [https://anilist.co/anime/7004] into [https://kitsu.io/anime/4830, https://myanimelist.net/anime/7004].
@@ -7949,10 +7948,11 @@ Duration [900]seconds does not match [1440]seconds. Not merging [https://anidb.n
 Duration [900]seconds does not match [1440]seconds. Not merging [https://anidb.net/anime/2840] into [https://kitsu.io/anime/280, https://myanimelist.net/anime/309].
 Duration [900]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/3375] into [https://anilist.co/anime/8812].
 Duration [900]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/3592] into [https://myanimelist.net/anime/39119].
-Duration [900]seconds does not match [1500]seconds. Not merging [https://anidb.net/anime/7474] into [https://anilist.co/anime/8150].
 Duration [900]seconds does not match [1560]seconds. Not merging [https://anidb.net/anime/7782] into [https://kitsu.io/anime/5659, https://myanimelist.net/anime/9291].
 Duration [900]seconds does not match [1560]seconds. Not merging [https://anilist.co/anime/9291] into [https://kitsu.io/anime/5659, https://myanimelist.net/anime/9291].
 Duration [900]seconds does not match [1740]seconds. Not merging [https://anidb.net/anime/14121] into [https://kitsu.io/anime/40629, https://myanimelist.net/anime/34868].
+Duration [900]seconds does not match [1800]seconds. Not merging [https://anilist.co/anime/17479] into [https://anidb.net/anime/7839].
+Duration [900]seconds does not match [1800]seconds. Not merging [https://kitsu.io/anime/8962] into [https://anidb.net/anime/7839].
 Duration [900]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/12284] into [https://myanimelist.net/anime/33262].
 Duration [900]seconds does not match [300]seconds. Not merging [https://kitsu.io/anime/4110] into [https://myanimelist.net/anime/5466].
 Duration [900]seconds does not match [360]seconds. Not merging [https://anidb.net/anime/4784] into [https://anilist.co/anime/102032, https://kitsu.io/anime/8981, https://myanimelist.net/anime/22345].
@@ -7982,7 +7982,6 @@ Duration [900]seconds does not match [600]seconds. Not merging [https://anidb.ne
 Duration [900]seconds does not match [600]seconds. Not merging [https://anidb.net/anime/8106] into [https://myanimelist.net/anime/9624].
 Duration [900]seconds does not match [600]seconds. Not merging [https://anidb.net/anime/8968] into [https://kitsu.io/anime/7010, https://myanimelist.net/anime/13673].
 Duration [900]seconds does not match [600]seconds. Not merging [https://anidb.net/anime/9431] into [https://anilist.co/anime/15787, https://kitsu.io/anime/7310, https://myanimelist.net/anime/15787].
-Duration [900]seconds does not match [600]seconds. Not merging [https://anilist.co/anime/4742] into [https://anidb.net/anime/3056].
 Duration [900]seconds does not match [600]seconds. Not merging [https://kitsu.io/anime/42151] into [https://anidb.net/anime/14498, https://myanimelist.net/anime/38719].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/10010] into [https://anilist.co/anime/19919, https://kitsu.io/anime/7912, https://myanimelist.net/anime/19919].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/10073] into [https://anilist.co/anime/101974, https://kitsu.io/anime/8691, https://myanimelist.net/anime/20713].
@@ -8008,6 +8007,7 @@ Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.ne
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/12854] into [https://kitsu.io/anime/41595, https://myanimelist.net/anime/35749].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/12856] into [https://anilist.co/anime/104354, https://kitsu.io/anime/40645, https://myanimelist.net/anime/34993].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/12867] into [https://anilist.co/anime/104389, https://kitsu.io/anime/40747, https://myanimelist.net/anime/35394].
+Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/12967] into [https://kitsu.io/anime/12231].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/13002] into [https://anilist.co/anime/8921, https://kitsu.io/anime/5535, https://myanimelist.net/anime/8921].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/13094] into [https://myanimelist.net/anime/38071].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/13095] into [https://myanimelist.net/anime/38072].
@@ -8019,26 +8019,25 @@ Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.ne
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/13528] into [https://anilist.co/anime/99230, https://kitsu.io/anime/13698, https://myanimelist.net/anime/35777].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/13770] into [https://anilist.co/anime/111433, https://myanimelist.net/anime/37948].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/13810] into [https://anilist.co/anime/103334, https://kitsu.io/anime/41246, https://myanimelist.net/anime/37619].
-Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/14094] into [https://kitsu.io/anime/41342].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/14280] into [https://kitsu.io/anime/13082, https://myanimelist.net/anime/33484].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/14875] into [https://anilist.co/anime/104105, https://kitsu.io/anime/14183, https://myanimelist.net/anime/36618].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/2177] into [https://anilist.co/anime/932, https://kitsu.io/anime/829, https://myanimelist.net/anime/932].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/3979] into [https://kitsu.io/anime/8367, https://myanimelist.net/anime/17487].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/4188] into [https://anilist.co/anime/7982, https://kitsu.io/anime/5169, https://myanimelist.net/anime/7982].
+Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/4659] into [https://anilist.co/anime/8503].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/4992] into [https://anilist.co/anime/3929, https://kitsu.io/anime/3356, https://myanimelist.net/anime/3929].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/5551] into [https://anilist.co/anime/4389, https://myanimelist.net/anime/4389].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/6394] into [https://anilist.co/anime/5583, https://kitsu.io/anime/4180, https://myanimelist.net/anime/5583].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/6717] into [https://kitsu.io/anime/4771, https://myanimelist.net/anime/6890].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/6853] into [https://anilist.co/anime/15139, https://kitsu.io/anime/7222, https://myanimelist.net/anime/15139].
-Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/6854] into [https://anilist.co/anime/17076].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/6856] into [https://anilist.co/anime/7500, https://kitsu.io/anime/5004, https://myanimelist.net/anime/7500].
-Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/6893] into [https://anilist.co/anime/7524].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/6897] into [https://kitsu.io/anime/8980, https://myanimelist.net/anime/23971].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/6903] into [https://kitsu.io/anime/8979, https://myanimelist.net/anime/23969].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/6949] into [https://anilist.co/anime/11447, https://kitsu.io/anime/6511, https://myanimelist.net/anime/11447].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/7026] into [https://kitsu.io/anime/11834, https://myanimelist.net/anime/32626].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/7455] into [https://anilist.co/anime/8493, https://kitsu.io/anime/5358].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/8001] into [https://anilist.co/anime/102092, https://kitsu.io/anime/9469, https://myanimelist.net/anime/27437].
+Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/8968] into [https://anilist.co/anime/13673].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/8975] into [https://anilist.co/anime/13165, https://kitsu.io/anime/6898, https://myanimelist.net/anime/13165].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/9405] into [https://anilist.co/anime/15795, https://kitsu.io/anime/7312, https://myanimelist.net/anime/15795].
 Duration [900]seconds does not match [660]seconds. Not merging [https://anidb.net/anime/9534] into [https://anilist.co/anime/17395, https://kitsu.io/anime/7686, https://myanimelist.net/anime/17395].
@@ -8051,6 +8050,7 @@ Duration [900]seconds does not match [660]seconds. Not merging [https://kitsu.io
 Duration [900]seconds does not match [660]seconds. Not merging [https://kitsu.io/anime/3585] into [https://anilist.co/anime/4389, https://myanimelist.net/anime/4389].
 Duration [900]seconds does not match [660]seconds. Not merging [https://kitsu.io/anime/4213] into [https://myanimelist.net/anime/5632].
 Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/10128] into [https://kitsu.io/anime/9288, https://myanimelist.net/anime/26105].
+Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/10443] into [https://anilist.co/anime/20700].
 Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/10588] into [https://kitsu.io/anime/8642, https://myanimelist.net/anime/23605].
 Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/10741] into [https://anilist.co/anime/12433, https://kitsu.io/anime/6730, https://myanimelist.net/anime/12433].
 Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/1099] into [https://anilist.co/anime/114, https://kitsu.io/anime/93, https://myanimelist.net/anime/114].
@@ -8062,7 +8062,6 @@ Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.ne
 Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/12232] into [https://kitsu.io/anime/13147, https://myanimelist.net/anime/33480].
 Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/12308] into [https://kitsu.io/anime/12542, https://myanimelist.net/anime/33771].
 Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/124] into [https://anilist.co/anime/231, https://kitsu.io/anime/206, https://myanimelist.net/anime/231].
-Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/12709] into [https://anilist.co/anime/98104].
 Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/12745] into [https://kitsu.io/anime/13434, https://myanimelist.net/anime/34799].
 Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/12803] into [https://kitsu.io/anime/13259, https://myanimelist.net/anime/34881].
 Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/12814] into [https://kitsu.io/anime/13258, https://myanimelist.net/anime/34902].
@@ -8106,7 +8105,7 @@ Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.ne
 Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/6990] into [https://anilist.co/anime/7258, https://kitsu.io/anime/4916, https://myanimelist.net/anime/7258].
 Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/7399] into [https://anilist.co/anime/8287, https://kitsu.io/anime/5277, https://myanimelist.net/anime/8287].
 Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/7474] into [https://kitsu.io/anime/5217, https://myanimelist.net/anime/8150].
-Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/8106] into [https://anilist.co/anime/9624, https://kitsu.io/anime/5812].
+Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/8106] into [https://kitsu.io/anime/5812].
 Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/9048] into [https://anilist.co/anime/13231, https://kitsu.io/anime/6917, https://myanimelist.net/anime/13231].
 Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/9125] into [https://kitsu.io/anime/7003, https://myanimelist.net/anime/13639].
 Duration [900]seconds does not match [720]seconds. Not merging [https://anidb.net/anime/9277] into [https://anilist.co/anime/14479].
@@ -8121,6 +8120,7 @@ Duration [900]seconds does not match [720]seconds. Not merging [https://anilist.
 Duration [900]seconds does not match [720]seconds. Not merging [https://anilist.co/anime/20772] into [https://kitsu.io/anime/8642, https://myanimelist.net/anime/23605].
 Duration [900]seconds does not match [720]seconds. Not merging [https://anilist.co/anime/21046] into [https://kitsu.io/anime/10454, https://myanimelist.net/anime/29974].
 Duration [900]seconds does not match [720]seconds. Not merging [https://anilist.co/anime/5225] into [https://kitsu.io/anime/3997, https://myanimelist.net/anime/5225].
+Duration [900]seconds does not match [7200]seconds. Not merging [https://anidb.net/anime/7573] into [https://kitsu.io/anime/9764].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/10167] into [https://kitsu.io/anime/9601, https://myanimelist.net/anime/21517].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/10293] into [https://kitsu.io/anime/8201, https://myanimelist.net/anime/21435].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/10386] into [https://anilist.co/anime/20600, https://kitsu.io/anime/8198, https://myanimelist.net/anime/20977].
@@ -8136,27 +8136,33 @@ Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.ne
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/11894] into [https://kitsu.io/anime/11690, https://myanimelist.net/anime/32323].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/11913] into [https://myanimelist.net/anime/32691].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/11957] into [https://kitsu.io/anime/11859, https://myanimelist.net/anime/32807].
-Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/12384] into [https://anilist.co/anime/97616].
+Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/12308] into [https://anilist.co/anime/97609].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/12709] into [https://myanimelist.net/anime/34675].
+Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/12745] into [https://anilist.co/anime/98228].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/12814] into [https://anilist.co/anime/98291].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/12967] into [https://anilist.co/anime/99710, https://myanimelist.net/anime/33309].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/13205] into [https://myanimelist.net/anime/35672].
+Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/13355] into [https://anilist.co/anime/99734].
+Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/13376] into [https://anilist.co/anime/99753].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/13429] into [https://kitsu.io/anime/13777, https://myanimelist.net/anime/36185].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/13570] into [https://anilist.co/anime/102573, https://kitsu.io/anime/41429, https://myanimelist.net/anime/36777].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/13588] into [https://anilist.co/anime/100296, https://kitsu.io/anime/14022, https://myanimelist.net/anime/36455].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/13663] into [https://anilist.co/anime/104184, https://kitsu.io/anime/41752, https://myanimelist.net/anime/37225].
+Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/13709] into [https://anilist.co/anime/107300].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/13735] into [https://kitsu.io/anime/41942, https://myanimelist.net/anime/37106].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/14205] into [https://myanimelist.net/anime/38004].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/14284] into [https://anilist.co/anime/104215, https://kitsu.io/anime/12034, https://myanimelist.net/anime/33116].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/14308] into [https://anilist.co/anime/104284].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/14338] into [https://kitsu.io/anime/10546, https://myanimelist.net/anime/29921].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/14436] into [https://anilist.co/anime/106215].
+Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/14467] into [https://anilist.co/anime/105074].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/14480] into [https://anilist.co/anime/107624, https://kitsu.io/anime/42217, https://myanimelist.net/anime/38664].
-Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/14522] into [https://anilist.co/anime/106051].
+Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/14519] into [https://anilist.co/anime/105989].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/14860] into [https://anilist.co/anime/107743, https://kitsu.io/anime/42157, https://myanimelist.net/anime/39188].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/1942] into [https://anilist.co/anime/1980, https://kitsu.io/anime/1782, https://myanimelist.net/anime/1980].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/2583] into [https://anilist.co/anime/2457, https://kitsu.io/anime/2231, https://myanimelist.net/anime/2457].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/2602] into [https://anilist.co/anime/354, https://kitsu.io/anime/321, https://myanimelist.net/anime/354].
+Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/2840] into [https://anilist.co/anime/309].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/3656] into [https://anilist.co/anime/710, https://kitsu.io/anime/644, https://myanimelist.net/anime/710].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/4379] into [https://anilist.co/anime/3113, https://kitsu.io/anime/2805, https://myanimelist.net/anime/3113].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/5071] into [https://kitsu.io/anime/1961, https://myanimelist.net/anime/2166].
@@ -8173,7 +8179,6 @@ Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.ne
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/8877] into [https://myanimelist.net/anime/12451].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/8910] into [https://myanimelist.net/anime/10886].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/9391] into [https://anilist.co/anime/8632, https://kitsu.io/anime/5409, https://myanimelist.net/anime/8632].
-Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/9479] into [https://anilist.co/anime/16910].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anidb.net/anime/9924] into [https://kitsu.io/anime/9932, https://myanimelist.net/anime/19171].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anilist.co/anime/12561] into [https://myanimelist.net/anime/12561].
 Duration [900]seconds does not match [780]seconds. Not merging [https://anilist.co/anime/17479] into [https://myanimelist.net/anime/17479].
@@ -8189,25 +8194,20 @@ Duration [900]seconds does not match [780]seconds. Not merging [https://kitsu.io
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/10367] into [https://anilist.co/anime/20943, https://kitsu.io/anime/8164, https://myanimelist.net/anime/21781].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/10956] into [https://kitsu.io/anime/8434, https://myanimelist.net/anime/20505].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/1101] into [https://anilist.co/anime/2304, https://kitsu.io/anime/2086, https://myanimelist.net/anime/2304].
-Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/11333] into [https://kitsu.io/anime/9196].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/11411] into [https://anilist.co/anime/102237, https://kitsu.io/anime/11295, https://myanimelist.net/anime/31299].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/11530] into [https://anilist.co/anime/21336].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/11561] into [https://anilist.co/anime/99708, https://kitsu.io/anime/10146, https://myanimelist.net/anime/28673].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/11827] into [https://anilist.co/anime/21520, https://kitsu.io/anime/11613, https://myanimelist.net/anime/32268].
-Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/11840] into [https://anilist.co/anime/21662].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/12053] into [https://kitsu.io/anime/12019, https://myanimelist.net/anime/33080].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/12090] into [https://kitsu.io/anime/12089, https://myanimelist.net/anime/33205].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/12474] into [https://kitsu.io/anime/11554, https://myanimelist.net/anime/32133].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/12562] into [https://kitsu.io/anime/13466, https://myanimelist.net/anime/34420].
-Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/12853] into [https://anilist.co/anime/105445].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/12857] into [https://anilist.co/anime/104405, https://kitsu.io/anime/41525, https://myanimelist.net/anime/34992].
-Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/12880] into [https://kitsu.io/anime/13409].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/12881] into [https://kitsu.io/anime/40754, https://myanimelist.net/anime/35410].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/1314] into [https://kitsu.io/anime/91, https://myanimelist.net/anime/112].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/13351] into [https://anilist.co/anime/98863, https://kitsu.io/anime/12544, https://myanimelist.net/anime/33969].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/13443] into [https://kitsu.io/anime/14014, https://myanimelist.net/anime/36440].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/13609] into [https://anilist.co/anime/100812, https://kitsu.io/anime/13963, https://myanimelist.net/anime/36164].
-Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/13875] into [https://kitsu.io/anime/41070].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/14285] into [https://kitsu.io/anime/12033, https://myanimelist.net/anime/33115].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/14389] into [https://anilist.co/anime/104214].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/14560] into [https://myanimelist.net/anime/38413].
@@ -8218,6 +8218,7 @@ Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.ne
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/4911] into [https://kitsu.io/anime/41792, https://myanimelist.net/anime/37482].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/6403] into [https://kitsu.io/anime/40767, https://myanimelist.net/anime/35488].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/6939] into [https://kitsu.io/anime/12174, https://myanimelist.net/anime/33133].
+Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/6988] into [https://anilist.co/anime/7255, https://kitsu.io/anime/4914].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/7430] into [https://anilist.co/anime/8431, https://kitsu.io/anime/5332, https://myanimelist.net/anime/8431].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/7573] into [https://myanimelist.net/anime/22993].
 Duration [900]seconds does not match [840]seconds. Not merging [https://anidb.net/anime/7878] into [https://anilist.co/anime/9335, https://kitsu.io/anime/5683, https://myanimelist.net/anime/9335].
@@ -8257,22 +8258,16 @@ Duration [900]seconds does not match [960]seconds. Not merging [https://kitsu.io
 Duration [900]seconds does not match [960]seconds. Not merging [https://kitsu.io/anime/6384] into [https://anilist.co/anime/10852].
 Duration [900]seconds does not match [960]seconds. Not merging [https://kitsu.io/anime/8932] into [https://myanimelist.net/anime/23855].
 Duration [9000]seconds does not match [8880]seconds. Not merging [https://anidb.net/anime/13691] into [https://kitsu.io/anime/14129, https://myanimelist.net/anime/36999].
-Duration [9060]seconds does not match [7860]seconds. Not merging [https://anilist.co/anime/1626] into [https://myanimelist.net/anime/1626].
-Duration [9060]seconds does not match [7860]seconds. Not merging [https://kitsu.io/anime/8376] into [https://myanimelist.net/anime/1626].
-Duration [9060]seconds does not match [8100]seconds. Not merging [https://anilist.co/anime/1626] into [https://anidb.net/anime/1472].
+Duration [9060]seconds does not match [7860]seconds. Not merging [https://kitsu.io/anime/8376] into [https://anilist.co/anime/1626, https://myanimelist.net/anime/1626].
+Duration [9060]seconds does not match [8100]seconds. Not merging [https://kitsu.io/anime/8376] into [https://anidb.net/anime/1472].
 Duration [9300]seconds does not match [9120]seconds. Not merging [https://anidb.net/anime/2229] into [https://kitsu.io/anime/2766, https://myanimelist.net/anime/3067].
 Duration [960]seconds does not match [1020]seconds. Not merging [https://anilist.co/anime/2937] into [https://kitsu.io/anime/2660, https://myanimelist.net/anime/2937].
 Duration [960]seconds does not match [1020]seconds. Not merging [https://kitsu.io/anime/11739] into [https://myanimelist.net/anime/32502].
-Duration [960]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/104419] into [https://anidb.net/anime/13601].
-Duration [960]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/110250] into [https://anidb.net/anime/13798].
-Duration [960]seconds does not match [1200]seconds. Not merging [https://anilist.co/anime/3990] into [https://anidb.net/anime/4993].
 Duration [960]seconds does not match [480]seconds. Not merging [https://kitsu.io/anime/9893] into [https://myanimelist.net/anime/25921].
-Duration [960]seconds does not match [540]seconds. Not merging [https://kitsu.io/anime/9893] into [https://anidb.net/anime/10787].
 Duration [960]seconds does not match [600]seconds. Not merging [https://anidb.net/anime/14099] into [https://anilist.co/anime/102003, https://kitsu.io/anime/41307, https://myanimelist.net/anime/37887].
 Duration [960]seconds does not match [840]seconds. Not merging [https://anilist.co/anime/3990] into [https://kitsu.io/anime/3398, https://myanimelist.net/anime/3990].
 Duration [960]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/100168] into [https://anidb.net/anime/13436, https://myanimelist.net/anime/36308].
-Duration [960]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/104419] into [https://myanimelist.net/anime/29812].
-Duration [960]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/21649] into [https://kitsu.io/anime/12203].
+Duration [960]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/104419] into [https://kitsu.io/anime/10452, https://myanimelist.net/anime/29812].
 Duration [960]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/3266] into [https://kitsu.io/anime/2892, https://myanimelist.net/anime/3266].
 Duration [960]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/6413] into [https://anidb.net/anime/6093, https://kitsu.io/anime/4552, https://myanimelist.net/anime/6413].
 Duration [960]seconds does not match [900]seconds. Not merging [https://anilist.co/anime/87501] into [https://kitsu.io/anime/12315, https://myanimelist.net/anime/33566].
@@ -8283,18 +8278,11 @@ Duration [960]seconds does not match [900]seconds. Not merging [https://kitsu.io
 Duration [9900]seconds does not match [9720]seconds. Not merging [https://anidb.net/anime/7221] into [https://anilist.co/anime/7311, https://kitsu.io/anime/4938, https://myanimelist.net/anime/7311].
 Year [1928] does not match [1917]. Not merging [https://anilist.co/anime/104545] into [https://kitsu.io/anime/8234, https://myanimelist.net/anime/18457].
 Year [1928] does not match [1917]. Not merging [https://kitsu.io/anime/10638] into [https://kitsu.io/anime/8234, https://myanimelist.net/anime/18457].
-Year [1929] does not match [1931]. Not merging [https://anilist.co/anime/4398] into [https://anidb.net/anime/5924, https://kitsu.io/anime/3594, https://myanimelist.net/anime/4398].
+Year [1930] does not match [1931]. Not merging [https://anilist.co/anime/4391] into [https://anidb.net/anime/6706].
 Year [1930] does not match [1931]. Not merging [https://anilist.co/anime/4391] into [https://kitsu.io/anime/3587].
 Year [1930] does not match [1931]. Not merging [https://anilist.co/anime/4391] into [https://myanimelist.net/anime/4391].
-Year [1931] does not match [1930]. Not merging [https://anidb.net/anime/6706] into [https://anilist.co/anime/4391].
 Year [1935] does not match [1933]. Not merging [https://anilist.co/anime/6851] into [https://anidb.net/anime/7193, https://kitsu.io/anime/4752, https://myanimelist.net/anime/6851].
-Year [1935] does not match [1936]. Not merging [https://anilist.co/anime/5838] into [https://anidb.net/anime/6718, https://kitsu.io/anime/4298, https://myanimelist.net/anime/5838].
 Year [1942] does not match [1961]. Not merging [https://anidb.net/anime/6821] into [https://anilist.co/anime/109352, https://kitsu.io/anime/10552, https://myanimelist.net/anime/29927].
-Year [1954] does not match [1958]. Not merging [https://kitsu.io/anime/10452] into [https://anidb.net/anime/13601].
-Year [1954] does not match [1958]. Not merging [https://kitsu.io/anime/10452] into [https://myanimelist.net/anime/29812].
-Year [1958] does not match [1954]. Not merging [https://anilist.co/anime/104419] into [https://kitsu.io/anime/10452].
-Year [1961] does not match [1979]. Not merging [https://anilist.co/anime/109391] into [https://anidb.net/anime/5732].
-Year [1962] does not match [1963]. Not merging [https://anilist.co/anime/6535] into [https://anidb.net/anime/2870, https://kitsu.io/anime/4602, https://myanimelist.net/anime/6535].
 Year [1963] does not match [1964]. Not merging [https://anidb.net/anime/2918] into [https://myanimelist.net/anime/19981].
 Year [1963] does not match [1964]. Not merging [https://anilist.co/anime/19981] into [https://myanimelist.net/anime/19981].
 Year [1963] does not match [1964]. Not merging [https://kitsu.io/anime/9590] into [https://myanimelist.net/anime/19981].
@@ -8305,18 +8293,18 @@ Year [1965] does not match [1966]. Not merging [https://anidb.net/anime/5076] in
 Year [1965] does not match [1966]. Not merging [https://anidb.net/anime/9007] into [https://anilist.co/anime/7031, https://kitsu.io/anime/4844, https://myanimelist.net/anime/7031].
 Year [1965] does not match [1966]. Not merging [https://anilist.co/anime/19989] into [https://myanimelist.net/anime/19989].
 Year [1965] does not match [1966]. Not merging [https://kitsu.io/anime/9661] into [https://myanimelist.net/anime/19989].
-Year [1965] does not match [2011]. Not merging [https://anidb.net/anime/13131] into [https://anidb.net/anime/13132].
 Year [1965] does not match [2011]. Not merging [https://anidb.net/anime/13131] into [https://anilist.co/anime/102303, https://kitsu.io/anime/13197, https://myanimelist.net/anime/32847].
 Year [1966] does not match [1967]. Not merging [https://kitsu.io/anime/2953] into [https://myanimelist.net/anime/3356].
-Year [1966] does not match [1969]. Not merging [https://anidb.net/anime/12586] into [https://anilist.co/anime/8719].
 Year [1968] does not match [1967]. Not merging [https://anilist.co/anime/107929] into [https://kitsu.io/anime/12251, https://myanimelist.net/anime/29677].
 Year [1969] does not match [1962]. Not merging [https://anidb.net/anime/14273] into [https://kitsu.io/anime/10553, https://myanimelist.net/anime/29928].
+Year [1969] does not match [1966]. Not merging [https://anilist.co/anime/8719] into [https://anidb.net/anime/12586].
 Year [1969] does not match [1966]. Not merging [https://anilist.co/anime/8719] into [https://kitsu.io/anime/5458, https://myanimelist.net/anime/8719].
 Year [1969] does not match [1970]. Not merging [https://anidb.net/anime/757] into [https://myanimelist.net/anime/1550].
 Year [1969] does not match [1970]. Not merging [https://anilist.co/anime/1550] into [https://myanimelist.net/anime/1550].
 Year [1969] does not match [1970]. Not merging [https://kitsu.io/anime/1391] into [https://myanimelist.net/anime/1550].
 Year [1969] does not match [1978]. Not merging [https://anidb.net/anime/3181] into [https://anilist.co/anime/1428].
 Year [1969] does not match [1978]. Not merging [https://anidb.net/anime/3181] into [https://myanimelist.net/anime/1428].
+Year [1969] does not match [1989]. Not merging [https://anidb.net/anime/3181] into [https://kitsu.io/anime/1281].
 Year [1971] does not match [1961]. Not merging [https://anidb.net/anime/14271] into [https://kitsu.io/anime/11718, https://myanimelist.net/anime/32224].
 Year [1971] does not match [1966]. Not merging [https://kitsu.io/anime/10577] into [https://myanimelist.net/anime/29986].
 Year [1971] does not match [1975]. Not merging [https://anidb.net/anime/2985] into [https://anilist.co/anime/11421, https://kitsu.io/anime/6507, https://myanimelist.net/anime/11421].
@@ -8327,7 +8315,6 @@ Year [1973] does not match [1976]. Not merging [https://anidb.net/anime/14343] i
 Year [1974] does not match [1917]. Not merging [https://anidb.net/anime/14267] into [https://kitsu.io/anime/6333, https://myanimelist.net/anime/10756].
 Year [1974] does not match [1970]. Not merging [https://anidb.net/anime/14936] into [https://anilist.co/anime/10812, https://kitsu.io/anime/6363, https://myanimelist.net/anime/10812].
 Year [1974] does not match [1975]. Not merging [https://anidb.net/anime/14367] into [https://anilist.co/anime/103492, https://kitsu.io/anime/10505, https://myanimelist.net/anime/29681].
-Year [1974] does not match [1981]. Not merging [https://anidb.net/anime/12629] into [https://anilist.co/anime/8681].
 Year [1975] does not match [1972]. Not merging [https://kitsu.io/anime/8437] into [https://myanimelist.net/anime/22255].
 Year [1977] does not match [1976]. Not merging [https://anidb.net/anime/14345] into [https://kitsu.io/anime/10537, https://myanimelist.net/anime/29900].
 Year [1977] does not match [1976]. Not merging [https://anilist.co/anime/109347] into [https://kitsu.io/anime/10537, https://myanimelist.net/anime/29900].
@@ -8337,13 +8324,13 @@ Year [1977] does not match [1978]. Not merging [https://anilist.co/anime/10554] 
 Year [1977] does not match [1978]. Not merging [https://anilist.co/anime/3435] into [https://myanimelist.net/anime/3435].
 Year [1977] does not match [1978]. Not merging [https://kitsu.io/anime/3008] into [https://myanimelist.net/anime/3435].
 Year [1977] does not match [1978]. Not merging [https://kitsu.io/anime/6240] into [https://myanimelist.net/anime/10554].
-Year [1977] does not match [2011]. Not merging [https://anidb.net/anime/11305] into [https://anilist.co/anime/5299].
+Year [1978] does not match [1989]. Not merging [https://anilist.co/anime/1428] into [https://kitsu.io/anime/1281].
+Year [1979] does not match [1961]. Not merging [https://anidb.net/anime/5732] into [https://anilist.co/anime/109391].
 Year [1979] does not match [1961]. Not merging [https://anidb.net/anime/5732] into [https://kitsu.io/anime/9486, https://myanimelist.net/anime/23643].
 Year [1979] does not match [1978]. Not merging [https://anidb.net/anime/6039] into [https://anilist.co/anime/7117, https://kitsu.io/anime/4873, https://myanimelist.net/anime/7117].
 Year [1979] does not match [1978]. Not merging [https://kitsu.io/anime/13828] into [https://anilist.co/anime/103512, https://myanimelist.net/anime/36302].
 Year [1979] does not match [1980]. Not merging [https://anilist.co/anime/2632] into [https://myanimelist.net/anime/2632].
 Year [1979] does not match [1980]. Not merging [https://kitsu.io/anime/2396] into [https://myanimelist.net/anime/2632].
-Year [1979] does not match [1981]. Not merging [https://anidb.net/anime/15058] into [https://anilist.co/anime/8554].
 Year [1979] does not match [1981]. Not merging [https://anilist.co/anime/2634] into [https://myanimelist.net/anime/2634].
 Year [1979] does not match [1981]. Not merging [https://kitsu.io/anime/2398] into [https://myanimelist.net/anime/2634].
 Year [1979] does not match [1982]. Not merging [https://anilist.co/anime/2630] into [https://kitsu.io/anime/2394, https://myanimelist.net/anime/2630].
@@ -8354,11 +8341,12 @@ Year [1980] does not match [1984]. Not merging [https://anidb.net/anime/3665] in
 Year [1980] does not match [1990]. Not merging [https://anidb.net/anime/12613] into [https://myanimelist.net/anime/29457].
 Year [1980] does not match [1990]. Not merging [https://anilist.co/anime/103977] into [https://myanimelist.net/anime/29457].
 Year [1980] does not match [1990]. Not merging [https://kitsu.io/anime/10322] into [https://myanimelist.net/anime/29457].
+Year [1981] does not match [1974]. Not merging [https://anilist.co/anime/8681] into [https://anidb.net/anime/12629].
 Year [1981] does not match [1974]. Not merging [https://anilist.co/anime/8681] into [https://myanimelist.net/anime/8681].
 Year [1981] does not match [1974]. Not merging [https://kitsu.io/anime/5440] into [https://anidb.net/anime/12629].
 Year [1981] does not match [1974]. Not merging [https://kitsu.io/anime/5440] into [https://myanimelist.net/anime/8681].
+Year [1981] does not match [1979]. Not merging [https://anilist.co/anime/8554] into [https://anidb.net/anime/15058].
 Year [1981] does not match [1980]. Not merging [https://anidb.net/anime/13185] into [https://anilist.co/anime/16620, https://kitsu.io/anime/7476, https://myanimelist.net/anime/16620].
-Year [1981] does not match [1984]. Not merging [https://anidb.net/anime/6634] into [https://anilist.co/anime/7252].
 Year [1982] does not match [1963]. Not merging [https://anilist.co/anime/1049] into [https://anidb.net/anime/9326].
 Year [1982] does not match [1963]. Not merging [https://anilist.co/anime/1049] into [https://kitsu.io/anime/13214, https://myanimelist.net/anime/33344].
 Year [1982] does not match [1981]. Not merging [https://anilist.co/anime/5742] into [https://kitsu.io/anime/4262, https://myanimelist.net/anime/5742].
@@ -8373,33 +8361,31 @@ Year [1983] does not match [1984]. Not merging [https://anilist.co/anime/5600] i
 Year [1983] does not match [2013]. Not merging [https://anidb.net/anime/3147] into [https://anilist.co/anime/103759, https://kitsu.io/anime/13863, https://myanimelist.net/anime/36089].
 Year [1984] does not match [1980]. Not merging [https://anidb.net/anime/8950] into [https://anilist.co/anime/16620, https://kitsu.io/anime/7476, https://myanimelist.net/anime/16620].
 Year [1984] does not match [1980]. Not merging [https://anilist.co/anime/16786] into [https://anilist.co/anime/16620, https://kitsu.io/anime/7476, https://myanimelist.net/anime/16620].
+Year [1984] does not match [1981]. Not merging [https://anilist.co/anime/7252] into [https://anidb.net/anime/6634].
 Year [1984] does not match [1981]. Not merging [https://anilist.co/anime/7252] into [https://kitsu.io/anime/4912, https://myanimelist.net/anime/7252].
 Year [1984] does not match [1985]. Not merging [https://anilist.co/anime/8671] into [https://myanimelist.net/anime/8671].
 Year [1984] does not match [1985]. Not merging [https://kitsu.io/anime/5433] into [https://myanimelist.net/anime/8671].
 Year [1985] does not match [1982]. Not merging [https://anilist.co/anime/8677] into [https://anidb.net/anime/7712, https://kitsu.io/anime/14226, https://myanimelist.net/anime/22973].
 Year [1985] does not match [1984]. Not merging [https://anidb.net/anime/12541] into [https://anilist.co/anime/8671, https://kitsu.io/anime/5433].
 Year [1985] does not match [1986]. Not merging [https://anidb.net/anime/4435] into [https://anilist.co/anime/6366, https://kitsu.io/anime/4532, https://myanimelist.net/anime/6366].
+Year [1985] does not match [1987]. Not merging [https://kitsu.io/anime/8913] into [https://anilist.co/anime/17787].
 Year [1985] does not match [2003]. Not merging [https://kitsu.io/anime/6716] into [https://myanimelist.net/anime/12371].
 Year [1985] does not match [2018]. Not merging [https://anidb.net/anime/3988] into [https://myanimelist.net/anime/38367].
 Year [1986] does not match [1983]. Not merging [https://anilist.co/anime/2638] into [https://kitsu.io/anime/2402, https://myanimelist.net/anime/2638].
 Year [1986] does not match [1988]. Not merging [https://anilist.co/anime/2644] into [https://kitsu.io/anime/2408, https://myanimelist.net/anime/2644].
 Year [1986] does not match [1995]. Not merging [https://anidb.net/anime/2251] into [https://anilist.co/anime/1979, https://kitsu.io/anime/1781, https://myanimelist.net/anime/1979].
-Year [1987] does not match [1985]. Not merging [https://anilist.co/anime/17787] into [https://kitsu.io/anime/8913].
+Year [1986] does not match [2018]. Not merging [https://anilist.co/anime/2974] into [https://kitsu.io/anime/42312].
 Year [1987] does not match [1986]. Not merging [https://anilist.co/anime/9950] into [https://anidb.net/anime/8122, https://kitsu.io/anime/5959, https://myanimelist.net/anime/9950].
-Year [1987] does not match [1988]. Not merging [https://kitsu.io/anime/2230] into [https://anidb.net/anime/2899].
 Year [1987] does not match [1990]. Not merging [https://anilist.co/anime/3868] into [https://anidb.net/anime/3542, https://kitsu.io/anime/3310, https://myanimelist.net/anime/3868].
-Year [1988] does not match [1987]. Not merging [https://anidb.net/anime/2899] into [https://anilist.co/anime/2456].
+Year [1988] does not match [1987]. Not merging [https://anidb.net/anime/2899] into [https://anilist.co/anime/2456, https://kitsu.io/anime/2230].
 Year [1988] does not match [1987]. Not merging [https://anidb.net/anime/2899] into [https://myanimelist.net/anime/2456].
 Year [1988] does not match [1987]. Not merging [https://anidb.net/anime/5017] into [https://anilist.co/anime/18557, https://kitsu.io/anime/9319, https://myanimelist.net/anime/18557].
-Year [1988] does not match [1989]. Not merging [https://anidb.net/anime/11823] into [https://anilist.co/anime/14125].
-Year [1988] does not match [2013]. Not merging [https://anidb.net/anime/7260] into [https://anilist.co/anime/104359].
-Year [1988] does not match [2013]. Not merging [https://anilist.co/anime/4966] into [https://anilist.co/anime/104359].
-Year [1988] does not match [2013]. Not merging [https://kitsu.io/anime/3868] into [https://anilist.co/anime/104359].
+Year [1988] does not match [1989]. Not merging [https://anidb.net/anime/11823] into [https://kitsu.io/anime/9524].
 Year [1988] does not match [2016]. Not merging [https://anidb.net/anime/3583] into [https://anilist.co/anime/21398].
-Year [1989] does not match [1978]. Not merging [https://kitsu.io/anime/1281] into [https://anilist.co/anime/1428].
+Year [1988] does not match [2016]. Not merging [https://kitsu.io/anime/6675] into [https://anilist.co/anime/21398].
 Year [1989] does not match [1978]. Not merging [https://kitsu.io/anime/1281] into [https://myanimelist.net/anime/1428].
+Year [1989] does not match [1988]. Not merging [https://anilist.co/anime/14125] into [https://anidb.net/anime/11823].
 Year [1989] does not match [1988]. Not merging [https://anilist.co/anime/14125] into [https://myanimelist.net/anime/14125].
-Year [1989] does not match [1988]. Not merging [https://kitsu.io/anime/9524] into [https://anidb.net/anime/11823].
 Year [1989] does not match [1988]. Not merging [https://kitsu.io/anime/9524] into [https://myanimelist.net/anime/14125].
 Year [1989] does not match [1990]. Not merging [https://anidb.net/anime/2150] into [https://anilist.co/anime/2679].
 Year [1989] does not match [1990]. Not merging [https://anidb.net/anime/2150] into [https://myanimelist.net/anime/2679].
@@ -8416,10 +8402,10 @@ Year [1991] does not match [1997]. Not merging [https://kitsu.io/anime/4578] int
 Year [1991] does not match [2000]. Not merging [https://anidb.net/anime/4448] into [https://anidb.net/anime/1719, https://anilist.co/anime/3463, https://kitsu.io/anime/3028, https://myanimelist.net/anime/3463].
 Year [1991] does not match [2012]. Not merging [https://anidb.net/anime/9189] into [https://anilist.co/anime/20205, https://kitsu.io/anime/9697, https://myanimelist.net/anime/20205].
 Year [1992] does not match [1991]. Not merging [https://kitsu.io/anime/4783] into [https://anilist.co/anime/6907].
-Year [1992] does not match [1993]. Not merging [https://anilist.co/anime/851] into [https://anidb.net/anime/1560].
 Year [1993] does not match [1984]. Not merging [https://anidb.net/anime/12771] into [https://kitsu.io/anime/5465, https://myanimelist.net/anime/8730].
 Year [1993] does not match [1984]. Not merging [https://anilist.co/anime/8730] into [https://kitsu.io/anime/5465, https://myanimelist.net/anime/8730].
 Year [1993] does not match [1992]. Not merging [https://anidb.net/anime/12717] into [https://kitsu.io/anime/12425, https://myanimelist.net/anime/33077].
+Year [1993] does not match [1992]. Not merging [https://anidb.net/anime/1560] into [https://anilist.co/anime/851].
 Year [1993] does not match [1992]. Not merging [https://anidb.net/anime/1560] into [https://kitsu.io/anime/753, https://myanimelist.net/anime/851].
 Year [1993] does not match [1992]. Not merging [https://anidb.net/anime/3172] into [https://kitsu.io/anime/12337, https://myanimelist.net/anime/32628].
 Year [1993] does not match [1992]. Not merging [https://anidb.net/anime/7865] into [https://kitsu.io/anime/9933, https://myanimelist.net/anime/22627].
@@ -8432,11 +8418,12 @@ Year [1993] does not match [1994]. Not merging [https://anilist.co/anime/9768] i
 Year [1993] does not match [1994]. Not merging [https://kitsu.io/anime/5857] into [https://myanimelist.net/anime/9768].
 Year [1994] does not match [1995]. Not merging [https://anidb.net/anime/2760] into [https://kitsu.io/anime/5153].
 Year [1994] does not match [1995]. Not merging [https://anilist.co/anime/1116] into [https://anidb.net/anime/1325].
-Year [1994] does not match [1995]. Not merging [https://kitsu.io/anime/1000] into [https://anidb.net/anime/1325].
 Year [1995] does not match [1983]. Not merging [https://anidb.net/anime/12775] into [https://kitsu.io/anime/41227, https://myanimelist.net/anime/37762].
 Year [1995] does not match [1993]. Not merging [https://anidb.net/anime/7560] into [https://anilist.co/anime/10058, https://kitsu.io/anime/6015, https://myanimelist.net/anime/10058].
+Year [1995] does not match [1994]. Not merging [https://anidb.net/anime/1325] into [https://kitsu.io/anime/1000].
 Year [1995] does not match [1994]. Not merging [https://anidb.net/anime/1325] into [https://myanimelist.net/anime/1116].
 Year [1995] does not match [1994]. Not merging [https://anidb.net/anime/2919] into [https://anilist.co/anime/6718, https://kitsu.io/anime/4683, https://myanimelist.net/anime/6718].
+Year [1995] does not match [1994]. Not merging [https://anilist.co/anime/7900] into [https://anidb.net/anime/2760].
 Year [1995] does not match [1994]. Not merging [https://anilist.co/anime/7900] into [https://myanimelist.net/anime/7900].
 Year [1995] does not match [1994]. Not merging [https://kitsu.io/anime/5153] into [https://myanimelist.net/anime/7900].
 Year [1995] does not match [1996]. Not merging [https://anidb.net/anime/13397] into [https://anilist.co/anime/103125, https://kitsu.io/anime/9258, https://myanimelist.net/anime/23615].
@@ -8460,7 +8447,6 @@ Year [1998] does not match [1993]. Not merging [https://kitsu.io/anime/10268] in
 Year [1998] does not match [1999]. Not merging [https://anidb.net/anime/12894] into [https://myanimelist.net/anime/29507].
 Year [1998] does not match [1999]. Not merging [https://anidb.net/anime/5499] into [https://anilist.co/anime/3914, https://kitsu.io/anime/3345, https://myanimelist.net/anime/3914].
 Year [1998] does not match [1999]. Not merging [https://anidb.net/anime/5730] into [https://anilist.co/anime/8993, https://kitsu.io/anime/5564, https://myanimelist.net/anime/8993].
-Year [1998] does not match [1999]. Not merging [https://anilist.co/anime/11579] into [https://anidb.net/anime/8767].
 Year [1998] does not match [1999]. Not merging [https://anilist.co/anime/11579] into [https://kitsu.io/anime/6540, https://myanimelist.net/anime/11579].
 Year [1998] does not match [1999]. Not merging [https://anilist.co/anime/16261] into [https://kitsu.io/anime/7399, https://myanimelist.net/anime/16261].
 Year [1998] does not match [1999]. Not merging [https://anilist.co/anime/19071] into [https://kitsu.io/anime/7793, https://myanimelist.net/anime/19071].
@@ -8470,6 +8456,7 @@ Year [1998] does not match [1999]. Not merging [https://anilist.co/anime/6797] i
 Year [1998] does not match [1999]. Not merging [https://anilist.co/anime/7643] into [https://myanimelist.net/anime/7643].
 Year [1998] does not match [1999]. Not merging [https://kitsu.io/anime/10259] into [https://myanimelist.net/anime/29507].
 Year [1998] does not match [1999]. Not merging [https://kitsu.io/anime/5064] into [https://myanimelist.net/anime/7643].
+Year [1999] does not match [1998]. Not merging [https://anidb.net/anime/8767] into [https://anilist.co/anime/11579].
 Year [1999] does not match [2000]. Not merging [https://anidb.net/anime/69] into [https://kitsu.io/anime/421, https://myanimelist.net/anime/459].
 Year [1999] does not match [2000]. Not merging [https://anidb.net/anime/83] into [https://myanimelist.net/anime/570].
 Year [1999] does not match [2000]. Not merging [https://kitsu.io/anime/527] into [https://myanimelist.net/anime/570].
@@ -8477,6 +8464,7 @@ Year [1999] does not match [2000]. Not merging [https://kitsu.io/anime/5931] int
 Year [1999] does not match [2006]. Not merging [https://anidb.net/anime/2778] into [https://anidb.net/anime/4054].
 Year [1999] does not match [2006]. Not merging [https://anidb.net/anime/2778] into [https://anilist.co/anime/2154, https://kitsu.io/anime/1950, https://myanimelist.net/anime/2154].
 Year [2000] does not match [1996]. Not merging [https://anidb.net/anime/3119] into [https://anilist.co/anime/10055, https://kitsu.io/anime/6012, https://myanimelist.net/anime/10055].
+Year [2000] does not match [1998]. Not merging [https://kitsu.io/anime/3053] into [https://anilist.co/anime/3499].
 Year [2000] does not match [1999]. Not merging [https://kitsu.io/anime/13736] into [https://kitsu.io/anime/7826, https://myanimelist.net/anime/2961].
 Year [2000] does not match [2001]. Not merging [https://anidb.net/anime/2128] into [https://myanimelist.net/anime/3458].
 Year [2000] does not match [2001]. Not merging [https://anidb.net/anime/461] into [https://anilist.co/anime/1004].
@@ -8498,6 +8486,7 @@ Year [2001] does not match [2002]. Not merging [https://anilist.co/anime/1753] i
 Year [2001] does not match [2002]. Not merging [https://anilist.co/anime/2287] into [https://myanimelist.net/anime/2287].
 Year [2001] does not match [2002]. Not merging [https://anilist.co/anime/5474] into [https://myanimelist.net/anime/5474].
 Year [2001] does not match [2002]. Not merging [https://anilist.co/anime/6579] into [https://myanimelist.net/anime/6579].
+Year [2001] does not match [2002]. Not merging [https://kitsu.io/anime/1164] into [https://anidb.net/anime/537].
 Year [2001] does not match [2002]. Not merging [https://kitsu.io/anime/1164] into [https://myanimelist.net/anime/1290].
 Year [2001] does not match [2002]. Not merging [https://kitsu.io/anime/1573] into [https://myanimelist.net/anime/1753].
 Year [2001] does not match [2002]. Not merging [https://kitsu.io/anime/2072] into [https://myanimelist.net/anime/2287].
@@ -8505,12 +8494,10 @@ Year [2001] does not match [2002]. Not merging [https://kitsu.io/anime/4115] int
 Year [2001] does not match [2002]. Not merging [https://kitsu.io/anime/4620] into [https://myanimelist.net/anime/6579].
 Year [2001] does not match [2002]. Not merging [https://kitsu.io/anime/6933] into [https://myanimelist.net/anime/13287].
 Year [2001] does not match [2002]. Not merging [https://kitsu.io/anime/923] into [https://myanimelist.net/anime/1033].
-Year [2001] does not match [2003]. Not merging [https://anidb.net/anime/4247] into [https://anilist.co/anime/3772].
 Year [2001] does not match [2007]. Not merging [https://anidb.net/anime/12971] into [https://anilist.co/anime/8751, https://kitsu.io/anime/5473, https://myanimelist.net/anime/8751].
 Year [2001] does not match [2009]. Not merging [https://anidb.net/anime/78] into [https://anilist.co/anime/103381, https://kitsu.io/anime/10412, https://myanimelist.net/anime/29765].
 Year [2002] does not match [2003]. Not merging [https://anidb.net/anime/1799] into [https://anilist.co/anime/5129, https://kitsu.io/anime/3940, https://myanimelist.net/anime/5129].
 Year [2002] does not match [2003]. Not merging [https://anidb.net/anime/2759] into [https://myanimelist.net/anime/1667].
-Year [2002] does not match [2003]. Not merging [https://anidb.net/anime/604] into [https://kitsu.io/anime/1022].
 Year [2002] does not match [2003]. Not merging [https://anilist.co/anime/1143] into [https://kitsu.io/anime/1024, https://myanimelist.net/anime/1143].
 Year [2002] does not match [2003]. Not merging [https://anilist.co/anime/16027] into [https://myanimelist.net/anime/16027].
 Year [2002] does not match [2003]. Not merging [https://anilist.co/anime/1667] into [https://myanimelist.net/anime/1667].
@@ -8521,15 +8508,18 @@ Year [2002] does not match [2003]. Not merging [https://kitsu.io/anime/7362] int
 Year [2002] does not match [2012]. Not merging [https://anidb.net/anime/3118] into [https://myanimelist.net/anime/37734].
 Year [2003] does not match [1996]. Not merging [https://kitsu.io/anime/10272] into [https://myanimelist.net/anime/29367].
 Year [2003] does not match [2000]. Not merging [https://anilist.co/anime/1078] into [https://kitsu.io/anime/963, https://myanimelist.net/anime/1078].
+Year [2003] does not match [2001]. Not merging [https://anilist.co/anime/3772] into [https://anidb.net/anime/4247].
 Year [2003] does not match [2001]. Not merging [https://kitsu.io/anime/10242] into [https://myanimelist.net/anime/29373].
 Year [2003] does not match [2002]. Not merging [https://anilist.co/anime/1141] into [https://anidb.net/anime/604].
 Year [2003] does not match [2002]. Not merging [https://anilist.co/anime/1141] into [https://myanimelist.net/anime/1141].
 Year [2003] does not match [2002]. Not merging [https://anilist.co/anime/12359] into [https://anidb.net/anime/7337, https://kitsu.io/anime/6712, https://myanimelist.net/anime/12359].
+Year [2003] does not match [2002]. Not merging [https://kitsu.io/anime/1022] into [https://anidb.net/anime/604].
 Year [2003] does not match [2002]. Not merging [https://kitsu.io/anime/1022] into [https://myanimelist.net/anime/1141].
 Year [2003] does not match [2002]. Not merging [https://kitsu.io/anime/10291] into [https://myanimelist.net/anime/29371].
 Year [2003] does not match [2004]. Not merging [https://anilist.co/anime/12225] into [https://myanimelist.net/anime/12225].
 Year [2003] does not match [2004]. Not merging [https://kitsu.io/anime/6690] into [https://myanimelist.net/anime/12225].
 Year [2003] does not match [2006]. Not merging [https://anidb.net/anime/12447] into [https://anilist.co/anime/8628, https://kitsu.io/anime/5406, https://myanimelist.net/anime/8628].
+Year [2003] does not match [2006]. Not merging [https://kitsu.io/anime/1012] into [https://anilist.co/anime/1129].
 Year [2003] does not match [2016]. Not merging [https://anidb.net/anime/10151] into [https://anilist.co/anime/102788, https://kitsu.io/anime/41237, https://myanimelist.net/anime/37594].
 Year [2004] does not match [1979]. Not merging [https://anidb.net/anime/8457] into [https://myanimelist.net/anime/39082].
 Year [2004] does not match [1997]. Not merging [https://kitsu.io/anime/10119] into [https://myanimelist.net/anime/28569].
@@ -8553,7 +8543,6 @@ Year [2005] does not match [2006]. Not merging [https://kitsu.io/anime/2070] int
 Year [2005] does not match [2006]. Not merging [https://kitsu.io/anime/515] into [https://myanimelist.net/anime/558].
 Year [2005] does not match [2006]. Not merging [https://kitsu.io/anime/5961] into [https://anilist.co/anime/9952, https://myanimelist.net/anime/9952].
 Year [2005] does not match [2006]. Not merging [https://kitsu.io/anime/9544] into [https://myanimelist.net/anime/27451].
-Year [2006] does not match [2003]. Not merging [https://anilist.co/anime/1129] into [https://kitsu.io/anime/1012].
 Year [2006] does not match [2003]. Not merging [https://anilist.co/anime/11445] into [https://kitsu.io/anime/6510, https://myanimelist.net/anime/11445].
 Year [2006] does not match [2005]. Not merging [https://anidb.net/anime/10097] into [https://kitsu.io/anime/9401, https://myanimelist.net/anime/26095].
 Year [2006] does not match [2005]. Not merging [https://anidb.net/anime/9094] into [https://kitsu.io/anime/9955, https://myanimelist.net/anime/21275].
@@ -8564,12 +8553,13 @@ Year [2006] does not match [2007]. Not merging [https://anidb.net/anime/8744] in
 Year [2006] does not match [2007]. Not merging [https://anidb.net/anime/9159] into [https://anilist.co/anime/7363, https://kitsu.io/anime/4950, https://myanimelist.net/anime/7363].
 Year [2006] does not match [2007]. Not merging [https://anilist.co/anime/5136] into [https://myanimelist.net/anime/5136].
 Year [2006] does not match [2007]. Not merging [https://kitsu.io/anime/3944] into [https://myanimelist.net/anime/5136].
+Year [2006] does not match [2007]. Not merging [https://kitsu.io/anime/9206] into [https://anidb.net/anime/10322].
 Year [2006] does not match [2007]. Not merging [https://kitsu.io/anime/9206] into [https://myanimelist.net/anime/25963].
-Year [2006] does not match [2008]. Not merging [https://anilist.co/anime/2192] into [https://kitsu.io/anime/1985].
 Year [2006] does not match [2009]. Not merging [https://anidb.net/anime/4408] into [https://anilist.co/anime/13505, https://kitsu.io/anime/6980, https://myanimelist.net/anime/13505].
 Year [2006] does not match [2009]. Not merging [https://anidb.net/anime/4408] into [https://myanimelist.net/anime/7175].
 Year [2006] does not match [2014]. Not merging [https://anidb.net/anime/9111] into [https://kitsu.io/anime/8908].
 Year [2006] does not match [2014]. Not merging [https://anidb.net/anime/9111] into [https://myanimelist.net/anime/18353].
+Year [2006] does not match [2014]. Not merging [https://anilist.co/anime/18353] into [https://kitsu.io/anime/8908].
 Year [2006] does not match [2014]. Not merging [https://anilist.co/anime/18353] into [https://myanimelist.net/anime/18353].
 Year [2006] does not match [2019]. Not merging [https://anidb.net/anime/4191] into [https://anilist.co/anime/111362].
 Year [2007] does not match [2003]. Not merging [https://anilist.co/anime/12725] into [https://myanimelist.net/anime/12725].
@@ -8582,34 +8572,35 @@ Year [2007] does not match [2008]. Not merging [https://anidb.net/anime/5415] in
 Year [2007] does not match [2008]. Not merging [https://anidb.net/anime/5446] into [https://myanimelist.net/anime/3166].
 Year [2007] does not match [2008]. Not merging [https://anidb.net/anime/5459] into [https://anilist.co/anime/3269, https://myanimelist.net/anime/3269].
 Year [2007] does not match [2008]. Not merging [https://anidb.net/anime/5459] into [https://anilist.co/anime/4469, https://kitsu.io/anime/3625, https://myanimelist.net/anime/4469].
+Year [2007] does not match [2008]. Not merging [https://anidb.net/anime/5459] into [https://kitsu.io/anime/2895].
+Year [2007] does not match [2008]. Not merging [https://anilist.co/anime/106220] into [https://anidb.net/anime/13000].
 Year [2007] does not match [2008]. Not merging [https://anilist.co/anime/106220] into [https://kitsu.io/anime/10798, https://myanimelist.net/anime/30429].
 Year [2007] does not match [2008]. Not merging [https://anilist.co/anime/3166] into [https://myanimelist.net/anime/3166].
 Year [2007] does not match [2008]. Not merging [https://kitsu.io/anime/10313] into [https://myanimelist.net/anime/29401].
 Year [2007] does not match [2008]. Not merging [https://kitsu.io/anime/2835] into [https://myanimelist.net/anime/3166].
 Year [2007] does not match [2010]. Not merging [https://kitsu.io/anime/41248] into [https://myanimelist.net/anime/37742].
 Year [2008] does not match [2005]. Not merging [https://anilist.co/anime/6000] into [https://anidb.net/anime/8858, https://kitsu.io/anime/4381, https://myanimelist.net/anime/6000].
+Year [2008] does not match [2006]. Not merging [https://kitsu.io/anime/1985] into [https://anilist.co/anime/2192].
 Year [2008] does not match [2006]. Not merging [https://kitsu.io/anime/5889] into [https://myanimelist.net/anime/9822].
 Year [2008] does not match [2007]. Not merging [https://anidb.net/anime/10103] into [https://kitsu.io/anime/9712, https://myanimelist.net/anime/26097].
-Year [2008] does not match [2007]. Not merging [https://anidb.net/anime/13000] into [https://anilist.co/anime/106220].
 Year [2008] does not match [2007]. Not merging [https://kitsu.io/anime/10314] into [https://myanimelist.net/anime/29389].
-Year [2008] does not match [2007]. Not merging [https://kitsu.io/anime/2895] into [https://anidb.net/anime/5459].
 Year [2008] does not match [2009]. Not merging [https://anidb.net/anime/6021] into [https://anilist.co/anime/6688, https://kitsu.io/anime/4667, https://myanimelist.net/anime/6688].
 Year [2008] does not match [2009]. Not merging [https://anidb.net/anime/6182] into [https://anilist.co/anime/5112, https://kitsu.io/anime/3935, https://myanimelist.net/anime/5112].
+Year [2008] does not match [2009]. Not merging [https://anidb.net/anime/7302] into [https://anilist.co/anime/6525].
 Year [2008] does not match [2009]. Not merging [https://anidb.net/anime/7302] into [https://kitsu.io/anime/4597, https://myanimelist.net/anime/6525].
 Year [2008] does not match [2009]. Not merging [https://kitsu.io/anime/41535] into [https://myanimelist.net/anime/35107].
 Year [2008] does not match [2018]. Not merging [https://anilist.co/anime/103787] into [https://myanimelist.net/anime/38551].
 Year [2009] does not match [1972]. Not merging [https://anidb.net/anime/11445] into [https://anilist.co/anime/111282, https://myanimelist.net/anime/39876].
 Year [2009] does not match [1972]. Not merging [https://anilist.co/anime/104131] into [https://anilist.co/anime/111282, https://myanimelist.net/anime/39876].
 Year [2009] does not match [1972]. Not merging [https://kitsu.io/anime/10826] into [https://anilist.co/anime/111282, https://myanimelist.net/anime/39876].
+Year [2009] does not match [2007]. Not merging [https://anilist.co/anime/6616] into [https://anidb.net/anime/9140].
 Year [2009] does not match [2007]. Not merging [https://kitsu.io/anime/10109] into [https://myanimelist.net/anime/28563].
 Year [2009] does not match [2008]. Not merging [https://anidb.net/anime/9829] into [https://anilist.co/anime/7261].
-Year [2009] does not match [2008]. Not merging [https://anilist.co/anime/6525] into [https://anidb.net/anime/7302].
 Year [2009] does not match [2008]. Not merging [https://anilist.co/anime/6616] into [https://kitsu.io/anime/10189, https://myanimelist.net/anime/28235].
 Year [2009] does not match [2008]. Not merging [https://anilist.co/anime/6945] into [https://kitsu.io/anime/4797, https://myanimelist.net/anime/6945].
 Year [2009] does not match [2010]. Not merging [https://anidb.net/anime/7009] into [https://anilist.co/anime/7148, https://kitsu.io/anime/4879, https://myanimelist.net/anime/7148].
 Year [2009] does not match [2010]. Not merging [https://anidb.net/anime/7207] into [https://myanimelist.net/anime/7463].
 Year [2009] does not match [2010]. Not merging [https://anidb.net/anime/7997] into [https://myanimelist.net/anime/9595].
-Year [2009] does not match [2010]. Not merging [https://anilist.co/anime/12659] into [https://anidb.net/anime/13088].
 Year [2009] does not match [2010]. Not merging [https://anilist.co/anime/12659] into [https://kitsu.io/anime/6781, https://myanimelist.net/anime/12659].
 Year [2009] does not match [2010]. Not merging [https://anilist.co/anime/6902] into [https://anidb.net/anime/7434].
 Year [2009] does not match [2010]. Not merging [https://anilist.co/anime/6902] into [https://kitsu.io/anime/4780, https://myanimelist.net/anime/6902].
@@ -8619,12 +8610,13 @@ Year [2009] does not match [2010]. Not merging [https://anilist.co/anime/9595] i
 Year [2009] does not match [2010]. Not merging [https://kitsu.io/anime/41536] into [https://myanimelist.net/anime/35108].
 Year [2009] does not match [2010]. Not merging [https://kitsu.io/anime/4901] into [https://myanimelist.net/anime/7211].
 Year [2009] does not match [2010]. Not merging [https://kitsu.io/anime/4985] into [https://myanimelist.net/anime/7463].
-Year [2009] does not match [2010]. Not merging [https://kitsu.io/anime/5029] into [https://anidb.net/anime/7187].
 Year [2009] does not match [2010]. Not merging [https://kitsu.io/anime/5029] into [https://anilist.co/anime/7561, https://myanimelist.net/anime/7561].
 Year [2009] does not match [2010]. Not merging [https://kitsu.io/anime/5802] into [https://myanimelist.net/anime/9595].
 Year [2009] does not match [2012]. Not merging [https://anidb.net/anime/11624] into [https://anilist.co/anime/103449].
 Year [2009] does not match [2012]. Not merging [https://anidb.net/anime/11624] into [https://kitsu.io/anime/11428, https://myanimelist.net/anime/31450].
 Year [2010] does not match [2000]. Not merging [https://kitsu.io/anime/9160] into [https://myanimelist.net/anime/23595].
+Year [2010] does not match [2009]. Not merging [https://anidb.net/anime/13088] into [https://anilist.co/anime/12659].
+Year [2010] does not match [2009]. Not merging [https://anidb.net/anime/7187] into [https://kitsu.io/anime/5029].
 Year [2010] does not match [2009]. Not merging [https://kitsu.io/anime/10296] into [https://myanimelist.net/anime/29403].
 Year [2010] does not match [2011]. Not merging [https://anidb.net/anime/7251] into [https://kitsu.io/anime/6001, https://myanimelist.net/anime/10030].
 Year [2010] does not match [2011]. Not merging [https://anidb.net/anime/7384] into [https://anilist.co/anime/6918, https://kitsu.io/anime/4785, https://myanimelist.net/anime/6918].
@@ -8641,7 +8633,6 @@ Year [2010] does not match [2011]. Not merging [https://kitsu.io/anime/5982] int
 Year [2010] does not match [2011]. Not merging [https://kitsu.io/anime/7808] into [https://myanimelist.net/anime/9598].
 Year [2010] does not match [2012]. Not merging [https://anidb.net/anime/7251] into [https://kitsu.io/anime/6714, https://myanimelist.net/anime/12365].
 Year [2010] does not match [2013]. Not merging [https://anidb.net/anime/12214] into [https://anilist.co/anime/102574, https://kitsu.io/anime/40829, https://myanimelist.net/anime/35706].
-Year [2010] does not match [2015]. Not merging [https://anilist.co/anime/104168] into [https://kitsu.io/anime/13937].
 Year [2010] does not match [2015]. Not merging [https://anilist.co/anime/6408] into [https://myanimelist.net/anime/39323].
 Year [2011] does not match [2004]. Not merging [https://kitsu.io/anime/10245] into [https://anidb.net/anime/14770, https://myanimelist.net/anime/29385].
 Year [2011] does not match [2006]. Not merging [https://anilist.co/anime/106701] into [https://myanimelist.net/anime/40164].
@@ -8652,7 +8643,6 @@ Year [2011] does not match [2010]. Not merging [https://anidb.net/anime/11382] i
 Year [2011] does not match [2010]. Not merging [https://anilist.co/anime/103380] into [https://myanimelist.net/anime/28587].
 Year [2011] does not match [2010]. Not merging [https://anilist.co/anime/10431] into [https://kitsu.io/anime/6178, https://myanimelist.net/anime/10431].
 Year [2011] does not match [2010]. Not merging [https://kitsu.io/anime/10080] into [https://myanimelist.net/anime/28587].
-Year [2011] does not match [2010]. Not merging [https://kitsu.io/anime/11881] into [https://anidb.net/anime/13235].
 Year [2011] does not match [2012]. Not merging [https://anidb.net/anime/10035] into [https://anilist.co/anime/13103, https://kitsu.io/anime/6883, https://myanimelist.net/anime/13103].
 Year [2011] does not match [2012]. Not merging [https://anidb.net/anime/8270] into [https://myanimelist.net/anime/10389].
 Year [2011] does not match [2012]. Not merging [https://anidb.net/anime/8318] into [https://anilist.co/anime/10690, https://kitsu.io/anime/6296, https://myanimelist.net/anime/10690].
@@ -8662,10 +8652,9 @@ Year [2011] does not match [2012]. Not merging [https://anilist.co/anime/10389] 
 Year [2011] does not match [2012]. Not merging [https://kitsu.io/anime/11900] into [https://myanimelist.net/anime/32221].
 Year [2011] does not match [2012]. Not merging [https://kitsu.io/anime/12059] into [https://anilist.co/anime/104567, https://kitsu.io/anime/41804, https://myanimelist.net/anime/37545].
 Year [2011] does not match [2012]. Not merging [https://kitsu.io/anime/6160] into [https://myanimelist.net/anime/10389].
-Year [2011] does not match [2013]. Not merging [https://anilist.co/anime/107191] into [https://anilist.co/anime/98133].
-Year [2012] does not match [1962]. Not merging [https://anilist.co/anime/102034] into [https://anilist.co/anime/6535].
-Year [2012] does not match [1963]. Not merging [https://anilist.co/anime/102034] into [https://anidb.net/anime/2870, https://kitsu.io/anime/4602, https://myanimelist.net/anime/6535].
-Year [2012] does not match [1992]. Not merging [https://anidb.net/anime/11619] into [https://anilist.co/anime/9318].
+Year [2011] does not match [2013]. Not merging [https://anilist.co/anime/107191] into [https://anidb.net/anime/10211].
+Year [2012] does not match [1963]. Not merging [https://anilist.co/anime/102034] into [https://anidb.net/anime/2870, https://anilist.co/anime/6535, https://kitsu.io/anime/4602, https://myanimelist.net/anime/6535].
+Year [2012] does not match [1992]. Not merging [https://anidb.net/anime/11619] into [https://kitsu.io/anime/5671].
 Year [2012] does not match [1992]. Not merging [https://anidb.net/anime/11619] into [https://myanimelist.net/anime/9318].
 Year [2012] does not match [1999]. Not merging [https://anilist.co/anime/13175] into [https://anidb.net/anime/10223].
 Year [2012] does not match [1999]. Not merging [https://anilist.co/anime/13175] into [https://kitsu.io/anime/11045, https://myanimelist.net/anime/30939].
@@ -8680,6 +8669,8 @@ Year [2012] does not match [2013]. Not merging [https://anidb.net/anime/9125] in
 Year [2012] does not match [2013]. Not merging [https://anidb.net/anime/9125] into [https://anilist.co/anime/17679, https://kitsu.io/anime/8280, https://myanimelist.net/anime/17679].
 Year [2012] does not match [2013]. Not merging [https://anidb.net/anime/9330] into [https://anilist.co/anime/14941, https://kitsu.io/anime/7184, https://myanimelist.net/anime/14941].
 Year [2012] does not match [2013]. Not merging [https://anidb.net/anime/9522] into [https://myanimelist.net/anime/16405].
+Year [2012] does not match [2013]. Not merging [https://anilist.co/anime/103497] into [https://anidb.net/anime/11419].
+Year [2012] does not match [2013]. Not merging [https://anilist.co/anime/103497] into [https://anilist.co/anime/102707, https://kitsu.io/anime/11327].
 Year [2012] does not match [2013]. Not merging [https://anilist.co/anime/103497] into [https://anilist.co/anime/103770, https://kitsu.io/anime/10357, https://myanimelist.net/anime/29770].
 Year [2012] does not match [2013]. Not merging [https://anilist.co/anime/103497] into [https://myanimelist.net/anime/31309].
 Year [2012] does not match [2013]. Not merging [https://anilist.co/anime/16347] into [https://myanimelist.net/anime/16347].
@@ -8691,17 +8682,17 @@ Year [2012] does not match [2013]. Not merging [https://kitsu.io/anime/7423] int
 Year [2012] does not match [2014]. Not merging [https://anidb.net/anime/11619] into [https://kitsu.io/anime/8200, https://myanimelist.net/anime/21189].
 Year [2012] does not match [2015]. Not merging [https://anidb.net/anime/11619] into [https://anilist.co/anime/20989, https://kitsu.io/anime/10068, https://myanimelist.net/anime/28841].
 Year [2012] does not match [2015]. Not merging [https://anidb.net/anime/11619] into [https://anilist.co/anime/21107, https://kitsu.io/anime/10845, https://myanimelist.net/anime/30419].
+Year [2012] does not match [2015]. Not merging [https://anilist.co/anime/103497] into [https://anidb.net/anime/11504].
+Year [2012] does not match [2016]. Not merging [https://anidb.net/anime/11619] into [https://anidb.net/anime/11852].
 Year [2012] does not match [2016]. Not merging [https://anidb.net/anime/11619] into [https://anilist.co/anime/21849, https://kitsu.io/anime/12133, https://myanimelist.net/anime/32382].
-Year [2012] does not match [2018]. Not merging [https://kitsu.io/anime/11093] into [https://anilist.co/anime/101525].
 Year [2012] does not match [2018]. Not merging [https://kitsu.io/anime/11093] into [https://myanimelist.net/anime/37735].
 Year [2013] does not match [2009]. Not merging [https://anidb.net/anime/10211] into [https://anilist.co/anime/102300, https://kitsu.io/anime/11416, https://myanimelist.net/anime/30400].
 Year [2013] does not match [2009]. Not merging [https://anilist.co/anime/98133] into [https://anilist.co/anime/102300, https://kitsu.io/anime/11416, https://myanimelist.net/anime/30400].
-Year [2013] does not match [2011]. Not merging [https://anidb.net/anime/10211] into [https://anilist.co/anime/107191].
-Year [2013] does not match [2012]. Not merging [https://anilist.co/anime/102707] into [https://anilist.co/anime/103497].
+Year [2013] does not match [2011]. Not merging [https://anilist.co/anime/98133] into [https://anilist.co/anime/107191].
+Year [2013] does not match [2012]. Not merging [https://anidb.net/anime/9358] into [https://anidb.net/anime/8852].
 Year [2013] does not match [2012]. Not merging [https://anilist.co/anime/102707] into [https://kitsu.io/anime/13070, https://myanimelist.net/anime/34432].
 Year [2013] does not match [2012]. Not merging [https://anilist.co/anime/104362] into [https://kitsu.io/anime/12622, https://myanimelist.net/anime/33583].
 Year [2013] does not match [2012]. Not merging [https://anilist.co/anime/18045] into [https://anilist.co/anime/18053, https://kitsu.io/anime/8815, https://myanimelist.net/anime/18053].
-Year [2013] does not match [2012]. Not merging [https://kitsu.io/anime/11327] into [https://anilist.co/anime/103497].
 Year [2013] does not match [2012]. Not merging [https://kitsu.io/anime/11327] into [https://kitsu.io/anime/13070, https://myanimelist.net/anime/34432].
 Year [2013] does not match [2014]. Not merging [https://anidb.net/anime/10006] into [https://myanimelist.net/anime/19953].
 Year [2013] does not match [2014]. Not merging [https://anidb.net/anime/10242] into [https://myanimelist.net/anime/21433].
@@ -8712,6 +8703,7 @@ Year [2013] does not match [2014]. Not merging [https://anidb.net/anime/10946] i
 Year [2013] does not match [2014]. Not merging [https://anidb.net/anime/9804] into [https://anilist.co/anime/19315].
 Year [2013] does not match [2014]. Not merging [https://anidb.net/anime/9804] into [https://kitsu.io/anime/7845, https://myanimelist.net/anime/19315].
 Year [2013] does not match [2014]. Not merging [https://anidb.net/anime/9882] into [https://anilist.co/anime/19855, https://kitsu.io/anime/7771, https://myanimelist.net/anime/19855].
+Year [2013] does not match [2014]. Not merging [https://anilist.co/anime/19211] into [https://anidb.net/anime/10549].
 Year [2013] does not match [2014]. Not merging [https://anilist.co/anime/19211] into [https://kitsu.io/anime/8419, https://myanimelist.net/anime/23319].
 Year [2013] does not match [2014]. Not merging [https://anilist.co/anime/19953] into [https://myanimelist.net/anime/19953].
 Year [2013] does not match [2014]. Not merging [https://anilist.co/anime/20525] into [https://myanimelist.net/anime/21325].
@@ -8721,34 +8713,32 @@ Year [2013] does not match [2014]. Not merging [https://kitsu.io/anime/9112] int
 Year [2013] does not match [2015]. Not merging [https://anidb.net/anime/11228] into [https://kitsu.io/anime/10797, https://myanimelist.net/anime/30324].
 Year [2013] does not match [2016]. Not merging [https://anilist.co/anime/104167] into [https://kitsu.io/anime/13936].
 Year [2013] does not match [2017]. Not merging [https://anidb.net/anime/11907] into [https://myanimelist.net/anime/39833].
-Year [2014] does not match [2006]. Not merging [https://kitsu.io/anime/8908] into [https://anilist.co/anime/18353].
 Year [2014] does not match [2009]. Not merging [https://anidb.net/anime/10778] into [https://anilist.co/anime/110627, https://myanimelist.net/anime/39540].
 Year [2014] does not match [2013]. Not merging [https://anidb.net/anime/13278] into [https://myanimelist.net/anime/38525].
 Year [2014] does not match [2013]. Not merging [https://anidb.net/anime/13342] into [https://anilist.co/anime/104365, https://kitsu.io/anime/10487, https://myanimelist.net/anime/29603].
 Year [2014] does not match [2013]. Not merging [https://anilist.co/anime/103317] into [https://anidb.net/anime/11036, https://anilist.co/anime/21411, https://kitsu.io/anime/8438, https://myanimelist.net/anime/22249].
 Year [2014] does not match [2015]. Not merging [https://anidb.net/anime/10445] into [https://kitsu.io/anime/9136, https://myanimelist.net/anime/27655].
+Year [2014] does not match [2015]. Not merging [https://anidb.net/anime/10528] into [https://anilist.co/anime/20625].
 Year [2014] does not match [2015]. Not merging [https://anidb.net/anime/10528] into [https://kitsu.io/anime/8492, https://myanimelist.net/anime/23225].
 Year [2014] does not match [2015]. Not merging [https://anidb.net/anime/10548] into [https://kitsu.io/anime/8338, https://myanimelist.net/anime/23317].
 Year [2014] does not match [2015]. Not merging [https://anidb.net/anime/10636] into [https://kitsu.io/anime/8505, https://myanimelist.net/anime/22677].
 Year [2014] does not match [2015]. Not merging [https://anidb.net/anime/10841] into [https://anilist.co/anime/20848, https://kitsu.io/anime/9150, https://myanimelist.net/anime/27629].
-Year [2014] does not match [2015]. Not merging [https://anidb.net/anime/9639] into [https://anilist.co/anime/17080].
+Year [2014] does not match [2015]. Not merging [https://anidb.net/anime/11618] into [https://kitsu.io/anime/12240].
+Year [2014] does not match [2015]. Not merging [https://anidb.net/anime/13567] into [https://kitsu.io/anime/12144].
 Year [2014] does not match [2015]. Not merging [https://anidb.net/anime/9639] into [https://kitsu.io/anime/7575, https://myanimelist.net/anime/17080].
 Year [2014] does not match [2015]. Not merging [https://anilist.co/anime/103317] into [https://anilist.co/anime/104064].
 Year [2014] does not match [2015]. Not merging [https://anilist.co/anime/20632] into [https://kitsu.io/anime/9136, https://myanimelist.net/anime/27655].
 Year [2014] does not match [2015]. Not merging [https://anilist.co/anime/20670] into [https://kitsu.io/anime/8338, https://myanimelist.net/anime/23317].
 Year [2014] does not match [2015]. Not merging [https://anilist.co/anime/20786] into [https://kitsu.io/anime/8505, https://myanimelist.net/anime/22677].
-Year [2014] does not match [2015]. Not merging [https://anilist.co/anime/20823] into [https://anidb.net/anime/10765].
 Year [2014] does not match [2015]. Not merging [https://anilist.co/anime/20823] into [https://kitsu.io/anime/8795, https://myanimelist.net/anime/25689].
 Year [2014] does not match [2015]. Not merging [https://anilist.co/anime/20882] into [https://kitsu.io/anime/8627, https://myanimelist.net/anime/25313].
 Year [2014] does not match [2015]. Not merging [https://kitsu.io/anime/13042] into [https://myanimelist.net/anime/33599].
 Year [2014] does not match [2015]. Not merging [https://kitsu.io/anime/8628] into [https://anilist.co/anime/21011].
-Year [2014] does not match [2016]. Not merging [https://anidb.net/anime/13623] into [https://kitsu.io/anime/12226].
-Year [2014] does not match [2016]. Not merging [https://anilist.co/anime/104068] into [https://kitsu.io/anime/13935].
 Year [2015] does not match [1990]. Not merging [https://anilist.co/anime/21267] into [https://kitsu.io/anime/2855, https://myanimelist.net/anime/3203].
 Year [2015] does not match [2009]. Not merging [https://anidb.net/anime/13076] into [https://anilist.co/anime/104097, https://kitsu.io/anime/12067, https://myanimelist.net/anime/32778].
+Year [2015] does not match [2010]. Not merging [https://kitsu.io/anime/13937] into [https://anilist.co/anime/104168].
 Year [2015] does not match [2011]. Not merging [https://kitsu.io/anime/13930] into [https://anilist.co/anime/104169].
 Year [2015] does not match [2011]. Not merging [https://kitsu.io/anime/13930] into [https://myanimelist.net/anime/39449].
-Year [2015] does not match [2012]. Not merging [https://anidb.net/anime/11504] into [https://anilist.co/anime/103497].
 Year [2015] does not match [2012]. Not merging [https://anidb.net/anime/11504] into [https://kitsu.io/anime/13070, https://myanimelist.net/anime/34432].
 Year [2015] does not match [2013]. Not merging [https://anidb.net/anime/11504] into [https://anidb.net/anime/11419].
 Year [2015] does not match [2013]. Not merging [https://anidb.net/anime/11504] into [https://anilist.co/anime/102707, https://kitsu.io/anime/11327].
@@ -8758,8 +8748,7 @@ Year [2015] does not match [2013]. Not merging [https://anidb.net/anime/11541] i
 Year [2015] does not match [2013]. Not merging [https://anilist.co/anime/101923] into [https://anidb.net/anime/11647, https://kitsu.io/anime/11233, https://myanimelist.net/anime/31310].
 Year [2015] does not match [2013]. Not merging [https://anilist.co/anime/104064] into [https://anidb.net/anime/11036, https://anilist.co/anime/21411, https://kitsu.io/anime/8438, https://myanimelist.net/anime/22249].
 Year [2015] does not match [2013]. Not merging [https://anilist.co/anime/21448] into [https://kitsu.io/anime/10190, https://myanimelist.net/anime/28427].
-Year [2015] does not match [2014]. Not merging [https://anilist.co/anime/20625] into [https://anidb.net/anime/10528].
-Year [2015] does not match [2014]. Not merging [https://kitsu.io/anime/12240] into [https://anidb.net/anime/11618].
+Year [2015] does not match [2014]. Not merging [https://anidb.net/anime/10765] into [https://anilist.co/anime/20823].
 Year [2015] does not match [2014]. Not merging [https://kitsu.io/anime/41162] into [https://anidb.net/anime/14303, https://anilist.co/anime/104384, https://myanimelist.net/anime/34849].
 Year [2015] does not match [2016]. Not merging [https://anidb.net/anime/10576] into [https://anilist.co/anime/21042, https://kitsu.io/anime/8971, https://myanimelist.net/anime/25907].
 Year [2015] does not match [2016]. Not merging [https://anidb.net/anime/11345] into [https://anilist.co/anime/21256, https://kitsu.io/anime/11170, https://myanimelist.net/anime/31163].
@@ -8783,13 +8772,13 @@ Year [2015] does not match [2016]. Not merging [https://kitsu.io/anime/40822] in
 Year [2015] does not match [2017]. Not merging [https://kitsu.io/anime/41050] into [https://anidb.net/anime/13642].
 Year [2015] does not match [2017]. Not merging [https://kitsu.io/anime/41050] into [https://myanimelist.net/anime/36619].
 Year [2015] does not match [2019]. Not merging [https://anilist.co/anime/21054] into [https://anidb.net/anime/14039, https://kitsu.io/anime/42109, https://myanimelist.net/anime/37747].
-Year [2016] does not match [1988]. Not merging [https://anilist.co/anime/21398] into [https://kitsu.io/anime/6675].
 Year [2016] does not match [1988]. Not merging [https://anilist.co/anime/21398] into [https://myanimelist.net/anime/12141].
 Year [2016] does not match [2004]. Not merging [https://anidb.net/anime/8156] into [https://anilist.co/anime/109102, https://myanimelist.net/anime/39264].
 Year [2016] does not match [2004]. Not merging [https://anilist.co/anime/10259] into [https://anilist.co/anime/109102, https://myanimelist.net/anime/39264].
 Year [2016] does not match [2004]. Not merging [https://kitsu.io/anime/6103] into [https://anilist.co/anime/109102, https://myanimelist.net/anime/39264].
 Year [2016] does not match [2013]. Not merging [https://anidb.net/anime/12682] into [https://anilist.co/anime/102615, https://kitsu.io/anime/8723, https://myanimelist.net/anime/20913].
-Year [2016] does not match [2014]. Not merging [https://kitsu.io/anime/12226] into [https://anilist.co/anime/103020].
+Year [2016] does not match [2014]. Not merging [https://kitsu.io/anime/12226] into [https://anidb.net/anime/13623, https://anilist.co/anime/103020].
+Year [2016] does not match [2014]. Not merging [https://kitsu.io/anime/13935] into [https://anilist.co/anime/104068].
 Year [2016] does not match [2015]. Not merging [https://anidb.net/anime/12687] into [https://kitsu.io/anime/41738, https://myanimelist.net/anime/37146].
 Year [2016] does not match [2015]. Not merging [https://anilist.co/anime/103402] into [https://myanimelist.net/anime/32728].
 Year [2016] does not match [2015]. Not merging [https://anilist.co/anime/103715] into [https://kitsu.io/anime/12343, https://myanimelist.net/anime/31505].
@@ -8797,7 +8786,6 @@ Year [2016] does not match [2015]. Not merging [https://anilist.co/anime/21487] 
 Year [2016] does not match [2015]. Not merging [https://anilist.co/anime/21736] into [https://anidb.net/anime/11799].
 Year [2016] does not match [2015]. Not merging [https://kitsu.io/anime/12254] into [https://myanimelist.net/anime/32728].
 Year [2016] does not match [2017]. Not merging [https://anidb.net/anime/11851] into [https://kitsu.io/anime/12569, https://myanimelist.net/anime/34055].
-Year [2016] does not match [2017]. Not merging [https://anidb.net/anime/12351] into [https://anidb.net/anime/12665].
 Year [2016] does not match [2017]. Not merging [https://anidb.net/anime/12457] into [https://anilist.co/anime/104867, https://kitsu.io/anime/12642, https://myanimelist.net/anime/34167].
 Year [2016] does not match [2017]. Not merging [https://anidb.net/anime/12514] into [https://myanimelist.net/anime/34309].
 Year [2016] does not match [2017]. Not merging [https://anidb.net/anime/12595] into [https://myanimelist.net/anime/34488].
@@ -8818,38 +8806,38 @@ Year [2017] does not match [2016]. Not merging [https://kitsu.io/anime/40945] in
 Year [2017] does not match [2018]. Not merging [https://anidb.net/anime/12339] into [https://anilist.co/anime/87495, https://kitsu.io/anime/12558, https://myanimelist.net/anime/33899].
 Year [2017] does not match [2018]. Not merging [https://anidb.net/anime/12757] into [https://anilist.co/anime/98516, https://myanimelist.net/anime/34820].
 Year [2017] does not match [2018]. Not merging [https://anidb.net/anime/12757] into [https://kitsu.io/anime/13747].
-Year [2017] does not match [2018]. Not merging [https://anidb.net/anime/12952] into [https://anilist.co/anime/98437, https://kitsu.io/anime/13237].
 Year [2017] does not match [2018]. Not merging [https://anidb.net/anime/12952] into [https://myanimelist.net/anime/35073].
-Year [2017] does not match [2018]. Not merging [https://anidb.net/anime/13068] into [https://anilist.co/anime/98574].
-Year [2017] does not match [2018]. Not merging [https://anidb.net/anime/13257] into [https://anilist.co/anime/99426].
 Year [2017] does not match [2018]. Not merging [https://anidb.net/anime/13257] into [https://kitsu.io/anime/13615, https://myanimelist.net/anime/35839].
 Year [2017] does not match [2018]. Not merging [https://anidb.net/anime/13410] into [https://myanimelist.net/anime/36194].
 Year [2017] does not match [2018]. Not merging [https://anidb.net/anime/13705] into [https://myanimelist.net/anime/37033].
 Year [2017] does not match [2018]. Not merging [https://anidb.net/anime/13707] into [https://anilist.co/anime/103785].
-Year [2017] does not match [2018]. Not merging [https://anidb.net/anime/14065] into [https://anilist.co/anime/108990].
 Year [2017] does not match [2018]. Not merging [https://anidb.net/anime/14622] into [https://myanimelist.net/anime/38292].
 Year [2017] does not match [2018]. Not merging [https://anilist.co/anime/100356] into [https://myanimelist.net/anime/38292].
 Year [2017] does not match [2018]. Not merging [https://anilist.co/anime/100855] into [https://myanimelist.net/anime/37033].
 Year [2017] does not match [2018]. Not merging [https://anilist.co/anime/102941] into [https://myanimelist.net/anime/36894].
 Year [2017] does not match [2018]. Not merging [https://anilist.co/anime/108056] into [https://kitsu.io/anime/42375, https://myanimelist.net/anime/38658].
 Year [2017] does not match [2018]. Not merging [https://kitsu.io/anime/11127] into [https://myanimelist.net/anime/38292].
+Year [2017] does not match [2018]. Not merging [https://kitsu.io/anime/13110] into [https://anidb.net/anime/12710].
 Year [2017] does not match [2018]. Not merging [https://kitsu.io/anime/13744] into [https://myanimelist.net/anime/36194].
 Year [2017] does not match [2018]. Not merging [https://kitsu.io/anime/14154] into [https://myanimelist.net/anime/37033].
 Year [2017] does not match [2018]. Not merging [https://kitsu.io/anime/14171] into [https://myanimelist.net/anime/36894].
-Year [2017] does not match [2018]. Not merging [https://kitsu.io/anime/40609] into [https://anilist.co/anime/97989].
 Year [2017] does not match [2018]. Not merging [https://kitsu.io/anime/41252] into [https://myanimelist.net/anime/37802].
 Year [2017] does not match [2019]. Not merging [https://kitsu.io/anime/13110] into [https://myanimelist.net/anime/34683].
 Year [2017] does not match [2019]. Not merging [https://kitsu.io/anime/41526] into [https://anidb.net/anime/14293, https://anilist.co/anime/104213, https://myanimelist.net/anime/38201].
-Year [2018] does not match [1986]. Not merging [https://kitsu.io/anime/42312] into [https://anilist.co/anime/2974].
+Year [2018] does not match [2003]. Not merging [https://anilist.co/anime/108818] into [https://anidb.net/anime/13371].
 Year [2018] does not match [2003]. Not merging [https://anilist.co/anime/108818] into [https://anilist.co/anime/102580, https://kitsu.io/anime/10450, https://myanimelist.net/anime/29904].
 Year [2018] does not match [2010]. Not merging [https://kitsu.io/anime/42396] into [https://anilist.co/anime/8142, https://myanimelist.net/anime/8142].
 Year [2018] does not match [2012]. Not merging [https://anidb.net/anime/9285] into [https://kitsu.io/anime/11093].
+Year [2018] does not match [2012]. Not merging [https://anilist.co/anime/101525] into [https://kitsu.io/anime/11093].
 Year [2018] does not match [2016]. Not merging [https://anilist.co/anime/106919] into [https://kitsu.io/anime/42482, https://myanimelist.net/anime/39174].
-Year [2018] does not match [2017]. Not merging [https://anidb.net/anime/12710] into [https://kitsu.io/anime/13110].
 Year [2018] does not match [2017]. Not merging [https://anidb.net/anime/13514] into [https://kitsu.io/anime/41689, https://myanimelist.net/anime/36947].
 Year [2018] does not match [2017]. Not merging [https://anilist.co/anime/108990] into [https://myanimelist.net/anime/39760].
+Year [2018] does not match [2017]. Not merging [https://anilist.co/anime/97989] into [https://kitsu.io/anime/40609].
+Year [2018] does not match [2017]. Not merging [https://anilist.co/anime/98437] into [https://anidb.net/anime/12952].
 Year [2018] does not match [2017]. Not merging [https://anilist.co/anime/98574] into [https://kitsu.io/anime/13885, https://myanimelist.net/anime/35333].
 Year [2018] does not match [2017]. Not merging [https://anilist.co/anime/98875] into [https://kitsu.io/anime/13110].
+Year [2018] does not match [2017]. Not merging [https://anilist.co/anime/99426] into [https://anidb.net/anime/13257].
+Year [2018] does not match [2017]. Not merging [https://kitsu.io/anime/13237] into [https://anidb.net/anime/12952].
 Year [2018] does not match [2017]. Not merging [https://kitsu.io/anime/41228] into [https://anidb.net/anime/13707].
 Year [2018] does not match [2017]. Not merging [https://kitsu.io/anime/42286] into [https://anilist.co/anime/107176, https://myanimelist.net/anime/39165].
 Year [2018] does not match [2019]. Not merging [https://anidb.net/anime/12710] into [https://myanimelist.net/anime/34683].
@@ -8857,23 +8845,23 @@ Year [2018] does not match [2019]. Not merging [https://anidb.net/anime/13246] i
 Year [2018] does not match [2019]. Not merging [https://anidb.net/anime/13909] into [https://myanimelist.net/anime/37472].
 Year [2018] does not match [2019]. Not merging [https://anidb.net/anime/15074] into [https://anilist.co/anime/107219].
 Year [2018] does not match [2019]. Not merging [https://anilist.co/anime/98875] into [https://myanimelist.net/anime/34683].
+Year [2018] does not match [2019]. Not merging [https://kitsu.io/anime/41384] into [https://anilist.co/anime/107219].
 Year [2019] does not match [2006]. Not merging [https://anilist.co/anime/111362] into [https://anilist.co/anime/1943, https://kitsu.io/anime/1752, https://myanimelist.net/anime/1943].
 Year [2019] does not match [2013]. Not merging [https://anilist.co/anime/110279] into [https://anilist.co/anime/19287].
 Year [2019] does not match [2018]. Not merging [https://anidb.net/anime/12220] into [https://anilist.co/anime/104746, https://kitsu.io/anime/42331, https://myanimelist.net/anime/33438].
 Year [2019] does not match [2018]. Not merging [https://anidb.net/anime/14387] into [https://anilist.co/anime/102459, https://kitsu.io/anime/41495, https://myanimelist.net/anime/37947].
-Year [2019] does not match [2018]. Not merging [https://anilist.co/anime/107219] into [https://kitsu.io/anime/41384].
 Year [2019] does not match [2018]. Not merging [https://kitsu.io/anime/42503] into [https://anilist.co/anime/107912, https://myanimelist.net/anime/38409].
 Year [2019] does not match [2018]. Not merging [https://kitsu.io/anime/42504] into [https://anilist.co/anime/107913, https://myanimelist.net/anime/38410].
 Year [2019] does not match [2020]. Not merging [https://anilist.co/anime/105595] into [https://anidb.net/anime/14043, https://myanimelist.net/anime/37765].
 Year [2019] does not match [2020]. Not merging [https://kitsu.io/anime/41290] into [https://anilist.co/anime/101634, https://myanimelist.net/anime/37870].
 Year [2019] does not match [2020]. Not merging [https://kitsu.io/anime/41845] into [https://anidb.net/anime/14043, https://myanimelist.net/anime/37765].
+Year [2019] does not match [2020]. Not merging [https://kitsu.io/anime/42016] into [https://anilist.co/anime/104051, https://myanimelist.net/anime/38256].
 Year [2019] does not match [2020]. Not merging [https://kitsu.io/anime/42329] into [https://anilist.co/anime/101367, https://myanimelist.net/anime/37576].
 Year [2020] does not match [2017]. Not merging [https://anidb.net/anime/13299] into [https://anidb.net/anime/13399, https://anilist.co/anime/101776, https://kitsu.io/anime/40868, https://myanimelist.net/anime/36191].
 Year [2020] does not match [2018]. Not merging [https://anidb.net/anime/13299] into [https://anilist.co/anime/101777, https://kitsu.io/anime/41484, https://myanimelist.net/anime/37406].
 Year [2020] does not match [2018]. Not merging [https://anidb.net/anime/13299] into [https://myanimelist.net/anime/38051].
 Year [2020] does not match [2019]. Not merging [https://anidb.net/anime/13299] into [https://myanimelist.net/anime/40147].
 Year [2020] does not match [2019]. Not merging [https://anidb.net/anime/14990] into [https://myanimelist.net/anime/40052].
-Year [2020] does not match [2019]. Not merging [https://anilist.co/anime/104051] into [https://kitsu.io/anime/42016, https://myanimelist.net/anime/38256].
 Year [2020] does not match [2019]. Not merging [https://anilist.co/anime/107880] into [https://anidb.net/anime/14568, https://anilist.co/anime/106750, https://kitsu.io/anime/42071, https://myanimelist.net/anime/38915].
 Year [2020] does not match [2019]. Not merging [https://anilist.co/anime/110349] into [https://myanimelist.net/anime/40052].
 Year [2020] does not match [2019]. Not merging [https://kitsu.io/anime/42438] into [https://myanimelist.net/anime/40052].
