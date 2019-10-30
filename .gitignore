@@ -2,7 +2,7 @@
 !.gitignore
 !.github/CONTRIBUTING.md
 !.github/thumbs_up.png
-!.travis.yml
+!.github/workflows/json_lint.yml
 !README.md
 !anime-offline-database.json
 !dead-entries.json

@@ -1,0 +1,21 @@
+name: Check JSON files
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1#
+      - name: Setup node environment
+        uses: actions/setup-node@v1
+        with:
+          node-version: '10.x'
+      - name: Install jsonlint
+        run: npm install jsonlint -g
+      - name: Check anime-offline-database.json
+        run: jsonlint -q anime-offline-database.json
+      - name: Check dead-entries.json
+        run: jsonlint -q dead-entries.json
+      - name: Check merge-locks.json
+        run: jsonlint -q merge-locks.json
