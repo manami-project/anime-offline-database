@@ -4,13 +4,14 @@ The purpose of this repository is to create an offline database containing anime
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 44 [2019]**
+Update **week 45 [2019]**
 
-The database consists of **30562** entries composed of:
-+ 16348 entries from myanimelist.net
-+ 10949 entries from anidb.net
-+ 12000 entries from anilist.co
-+ 14674 entries from kitsu.io
+The database consists of **30853** entries composed of:
++ 16366 entries from myanimelist.net
++ 14695 entries from kitsu.io
++ 12704 entries from notify.moe
++ 12020 entries from anilist.co
++ 10952 entries from anidb.net
 
 Missed updates:
 + **2019** _(so far)_: 2
@@ -74,7 +75,7 @@ Example of the structure:
 | data | ```List``` |
 | title | ```String``` |
 | synonyms | ```Set<String>``` |
-| type | ```Enum of [TV, Movie, OVA, ONA, Special, Music]``` |
+| type | ```Enum of [TV, Movie, OVA, ONA, Special]``` |
 | episodes | ```Integer``` |
 | picture | ```URL``` |
 | thumbnail | ```URL``` |
