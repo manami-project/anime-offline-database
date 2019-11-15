@@ -4,14 +4,14 @@ The purpose of this repository is to create an offline database containing anime
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 45 [2019]**
+Update **week 46 [2019]**
 
-The database consists of **30853** entries composed of:
-+ 16366 entries from myanimelist.net
-+ 14695 entries from kitsu.io
+The database consists of **30993** entries composed of:
++ 16383 entries from myanimelist.net
++ 14706 entries from kitsu.io
 + 12704 entries from notify.moe
-+ 12020 entries from anilist.co
-+ 10952 entries from anidb.net
++ 12045 entries from anilist.co
++ 10963 entries from anidb.net
 
 Missed updates:
 + **2019** _(so far)_: 2
@@ -37,17 +37,12 @@ Example of the structure:
                 "https://kitsu.io/anime/1376",
                 "https://myanimelist.net/anime/1535"
             ],
-            "type": "TV",
             "title": "Death Note",
-            "picture": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
-            "relations": [
-                "http://anilist.co/anime/2994",
-                "https://anidb.net/anime/8146",
-                "https://anidb.net/anime/8147",
-                "https://myanimelist.net/anime/2994"
-            ],
-            "thumbnail": "https://cdn.myanimelist.net/images/anime/9/9453t.jpg",
+            "type": "TV",
             "episodes": 37,
+            "status": "FINISHED",
+            "picture": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
+            "thumbnail": "https://cdn.myanimelist.net/images/anime/9/9453t.jpg",
             "synonyms": [
                 "Caderno da Morte",
                 "DEATH NOTE",
@@ -63,6 +58,12 @@ Example of the structure:
                 "Sveska Smrti",
                 "\u00d6l\u00fcm Defteri",
                 "\u03a4\u03b5\u03c4\u03c1\u03ac\u03b4\u03b9\u03bf \u0398\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5"
+            ],
+            "relations": [
+                "http://anilist.co/anime/2994",
+                "https://anidb.net/anime/8146",
+                "https://anidb.net/anime/8147",
+                "https://myanimelist.net/anime/2994"
             ]
         }
     ]
@@ -73,14 +74,15 @@ Example of the structure:
 | Field | Type |
 | --- | --- |
 | data | ```List``` |
+| sources | ```Set<URL>``` |
 | title | ```String``` |
-| synonyms | ```Set<String>``` |
 | type | ```Enum of [TV, Movie, OVA, ONA, Special]``` |
 | episodes | ```Integer``` |
+| status | ```Enum of [FINISHED, CURRENTLY, UPCOMING, UNKNOWN]``` |
 | picture | ```URL``` |
 | thumbnail | ```URL``` |
+| synonyms | ```Set<String>``` |
 | relations | ```Set<URL>``` |
-| sources | ```Set<URL>``` |
 
 ### merge-preventions.md
 Contains anime whose merging was prevented, as well as the reason why. Entries in this file are the base for creating `merge locks`.
