@@ -17,5 +17,3 @@ jobs:
         run: jsonlint -q anime-offline-database.json
       - name: Check dead-entries.json
         run: jsonlint -q dead-entries.json
-      - name: Check merge-locks.json
-        run: jsonlint -q merge-locks.json
