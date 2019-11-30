@@ -4,14 +4,14 @@ The purpose of this repository is to create an offline database containing anime
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 47 [2019]**
+Update **week 48 [2019]**
 
-The database consists of **31061** entries composed of:
+The database consists of **31093** entries composed of:
 + 16410 entries from myanimelist.net
-+ 14741 entries from kitsu.io
++ 14781 entries from kitsu.io
 + 12707 entries from notify.moe
-+ 12073 entries from anilist.co
-+ 10977 entries from anidb.net
++ 12064 entries from anilist.co
++ 10980 entries from anidb.net
 
 Missed updates:
 + **2019** _(so far)_: 2
@@ -23,7 +23,7 @@ Missed updates:
 If you want to contribute, please read the [contribution guidelines](./.github/CONTRIBUTING.md) first.
 
 ## Structure
-This repository contains four files. The database file itself and a file to support the automated process containing IDs from the meta data providers which don't exist anymore. Additionally there are two files which support the merging of the automated process.
+This repository contains two files. The database file itself and a file to support the automated process containing IDs from the meta data providers which don't exist anymore.
 
 ### anime-offline-database.json
 Example of the structure:
@@ -83,35 +83,6 @@ Example of the structure:
 | thumbnail | ```URL``` |
 | synonyms | ```Set<String>``` |
 | relations | ```Set<URL>``` |
-
-### merge-preventions.md
-Contains anime whose merging was prevented, as well as the reason why. Entries in this file are the base for creating `merge locks`.
-
-Example:
-```
-Year [1993] does not match [1992]. Not merging [https://anidb.net/anime/3172] into [https://kitsu.io/anime/12337, https://myanimelist.net/anime/32628].
-Duration [1800]seconds does not match [1500]seconds. Not merging [https://anilist.co/anime/6868] into [https://anidb.net/anime/2880, https://kitsu.io/anime/4761, https://myanimelist.net/anime/6868].
-```
-
-### merge-locks.json
-Contains `merge locks`. A `merge lock` indicates that all entries within this lock will be merged together. This is necessary to merge entries that appear in the `merge-preventions.md`. You can help in two ways to fill this list and therefore increase the quality of this database. Check the [contribution guidelines](./.github/CONTRIBUTING.md)
-
-Example:
-```json
-[
-    [
-        "https://anidb.net/anime/3172",
-        "https://kitsu.io/anime/12337",
-        "https://myanimelist.net/anime/32628"
-    ],
-    [
-        "https://anilist.co/anime/6868",
-        "https://anidb.net/anime/2880",
-        "https://kitsu.io/anime/4761",
-        "https://myanimelist.net/anime/6868"
-    ]
-]
-```
 
 ### dead-entries.json
 Contains IDs which have been removed from the meta data provider's database.

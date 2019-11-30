@@ -1,10 +1,7 @@
 *
 !.gitignore
 !.github/CONTRIBUTING.md
-!.github/thumbs_up.png
 !.github/workflows/json_lint.yml
 !README.md
 !anime-offline-database.json
 !dead-entries.json
-!merge-locks.json
-!merge-preventions.md
