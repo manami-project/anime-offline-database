@@ -4,14 +4,14 @@ The purpose of this repository is to create an offline database containing anime
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 48 [2019]**
+Update **week 49 [2019]**
 
-The database consists of **31093** entries composed of:
-+ 16410 entries from myanimelist.net
-+ 14781 entries from kitsu.io
+The database consists of **24249** entries composed of:
++ 16469 entries from myanimelist.net
++ 14820 entries from kitsu.io
 + 12707 entries from notify.moe
-+ 12064 entries from anilist.co
-+ 10980 entries from anidb.net
++ 12090 entries from anilist.co
++ 10989 entries from anidb.net
 
 Missed updates:
 + **2019** _(so far)_: 2
@@ -32,10 +32,11 @@ Example of the structure:
     "data": [
         {
             "sources": [
-                "http://anilist.co/anime/1535",
                 "https://anidb.net/anime/4563",
+                "https://anilist.co/anime/1535",
                 "https://kitsu.io/anime/1376",
-                "https://myanimelist.net/anime/1535"
+                "https://myanimelist.net/anime/1535",
+                "https://notify.moe/anime/0-A-5Fimg"
             ],
             "title": "Death Note",
             "type": "TV",
@@ -60,10 +61,12 @@ Example of the structure:
                 "\u03a4\u03b5\u03c4\u03c1\u03ac\u03b4\u03b9\u03bf \u0398\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5"
             ],
             "relations": [
-                "http://anilist.co/anime/2994",
                 "https://anidb.net/anime/8146",
                 "https://anidb.net/anime/8147",
-                "https://myanimelist.net/anime/2994"
+                "https://anilist.co/anime/2994",
+                "https://kitsu.io/anime/2707",
+                "https://myanimelist.net/anime/2994",
+                "https://notify.moe/anime/DBBU5Kimg"
             ]
         }
     ]
