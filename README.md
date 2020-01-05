@@ -4,17 +4,18 @@ The purpose of this repository is to create an offline database containing anime
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 52 [2019]**
+Update **week 01 [2020]**
 
-The database consists of **23391** entries composed of:
-+ 16577 entries from myanimelist.net
-+ 14882 entries from kitsu.io
-+ 13602 entries from notify.moe
-+ 12169 entries from anilist.co
-+ 11026 entries from anidb.net
+The database consists of **23364** entries composed of:
++ 16591 entries from myanimelist.net
++ 14904 entries from kitsu.io
++ 13605 entries from notify.moe
++ 12202 entries from anilist.co
++ 11036 entries from anidb.net
 
 Missed updates:
-+ **2019** _(so far)_: 2
++ **2020:** 0 _(so far)_
++ **2019:** 2
 + **2018:** 1
 
 **You want more statistics and insights? Check out [adb-zeppelin-statistics](https://github.com/manami-project/adb-zeppelin-statistics)**
