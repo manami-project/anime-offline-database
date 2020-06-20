@@ -4,14 +4,14 @@ The purpose of this repository is to create an offline database containing anime
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 24 [2020]**
+Update **week 25 [2020]**
 
-The database consists of **24248** entries composed of:
-+ 17235 entries from myanimelist.net
-+ 15177 entries from kitsu.io
-+ 14321 entries from notify.moe
-+ 12897 entries from anilist.co
-+ 11219 entries from anidb.net
+The database consists of **24321** entries composed of:
++ 17244 entries from myanimelist.net
++ 15191 entries from kitsu.io
++ 14329 entries from notify.moe
++ 13012 entries from anilist.co
++ 11224 entries from anidb.net
 
 Missed updates:
 + **2020:** 0 _(so far)_
@@ -22,10 +22,33 @@ Missed updates:
 If you want to contribute, please read the [contribution guidelines](./.github/CONTRIBUTING.md) first.
 
 ## Structure
-This repository contains two files. The database file itself and a file to support the automated process containing IDs from the meta data providers which don't exist anymore.
+This repository contains two files. The database file itself and a file to support the automated process containing IDs which don't exist anymore on the meta data provider's site.
 
 ### anime-offline-database.json
-Example of the structure:
+
+#### Data types
+
+**Root**
+| Field | Type |
+| --- | --- |
+| data | ```Array<Anime>``` |
+
+**Anime**
+| Field | Type |
+| --- | --- |
+| sources | ```Array<URL>``` |
+| title | ```String``` |
+| type | ```Enum of [TV, Movie, OVA, ONA, Special]``` |
+| episodes | ```Integer``` |
+| status | ```Enum of [FINISHED, CURRENTLY, UPCOMING, UNKNOWN]``` |
+| picture | ```URL``` |
+| thumbnail | ```URL``` |
+| synonyms | ```Array<String>``` |
+| relations | ```Array<URL>``` |
+| tags | ```Array<String>``` |
+
+#### Example:
+
 ```json
 {
     "data": [
@@ -44,20 +67,23 @@ Example of the structure:
             "picture": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
             "thumbnail": "https://cdn.myanimelist.net/images/anime/9/9453t.jpg",
             "synonyms": [
-                "Caderno da Morte",
                 "DEATH NOTE",
                 "DN",
-                "Death Note",
-                "Death Note - A hal\u00e1llista",
-                "Death Note - Carnetul mor\u0163ii",
-                "Death Note - Z\u00e1pisn\u00edk smrti",
-                "Mirties U\u017era\u0161ai",
-                "Notatnik \u015bmierci",
-                "Notes \u015amierci",
-                "Quaderno della Morte",
-                "Sveska Smrti",
-                "\u00d6l\u00fcm Defteri",
-                "\u03a4\u03b5\u03c4\u03c1\u03ac\u03b4\u03b9\u03bf \u0398\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5"
+                "Death Note - A halállista",
+                "Death Note - Carnetul morţii",
+                "Death Note - Zápisník smrti",
+                "Notatnik śmierci",
+                "Τετράδιο Θανάτου",
+                "Бележник на Смъртта",
+                "Тетрадь cмерти",
+                "Үхлийн Тэмдэглэл",
+                "دفترچه یادداشت مرگ",
+                "كـتـاب الـموت",
+                "डेथ नोट",
+                "ですのーと",
+                "デスノート",
+                "死亡笔记",
+                "데스노트"
             ],
             "relations": [
                 "https://anidb.net/anime/8146",
@@ -66,28 +92,58 @@ Example of the structure:
                 "https://kitsu.io/anime/2707",
                 "https://myanimelist.net/anime/2994",
                 "https://notify.moe/anime/DBBU5Kimg"
+            ],
+            "tags": [
+                "alternative present",
+                "anti-hero",
+                "asia",
+                "assassins",
+                "contemporary fantasy",
+                "cops",
+                "crime",
+                "demons",
+                "detective",
+                "earth",
+                "espionage",
+                "gods",
+                "japan",
+                "male protagonist",
+                "manga",
+                "mystery",
+                "philosophy",
+                "plot continuity",
+                "police",
+                "present",
+                "primarily male cast",
+                "psychological",
+                "shounen",
+                "supernatural",
+                "survival",
+                "thriller",
+                "tragedy",
+                "urban",
+                "urban fantasy",
+                "work"
             ]
         }
     ]
 }
 ```
-**Data types**
-
-| Field | Type |
-| --- | --- |
-| data | ```List``` |
-| sources | ```Set<URL>``` |
-| title | ```String``` |
-| type | ```Enum of [TV, Movie, OVA, ONA, Special]``` |
-| episodes | ```Integer``` |
-| status | ```Enum of [FINISHED, CURRENTLY, UPCOMING, UNKNOWN]``` |
-| picture | ```URL``` |
-| thumbnail | ```URL``` |
-| synonyms | ```Set<String>``` |
-| relations | ```Set<URL>``` |
 
 ### dead-entries.json
 Contains IDs which have been removed from the meta data provider's database.
+
+#### Data types
+
+| Field | Type |
+| --- | --- |
+| mal | ```Array<Integer>``` |
+| anidb | ```Array<Integer>``` |
+| anilist | ```Array<Integer>``` |
+| kitsu | ```Array<Integer>``` |
+
+#### Example
+
 ```json
 {
     "mal": [
