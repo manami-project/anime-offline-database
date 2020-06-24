@@ -1,6 +1,14 @@
 name: Check JSON files
 
-on: [push]
+on:
+  push:
+    branches:
+      - '**'
+    paths-ignore:
+      - 'README.md'
+      - '.gitignore'
+      - '.gitattributes'
+      - '.github/**/*'
 
 jobs:
   build:
