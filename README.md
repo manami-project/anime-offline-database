@@ -1,17 +1,17 @@
 # anime-offline-database ![CI build status](https://github.com/manami-project/anime-offline-database/workflows/Check%20JSON%20files/badge.svg "CI build status: Check JSON files")
-The purpose of this repository is to create an offline database containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, anilist.co and kitsu.io) and allow cross references between those meta data providers. This file is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
+The purpose of this repository is to create an offline database containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, kitsu.io and more) and allow cross references between those meta data providers. This file is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
 
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 25 [2020]**
+Update **week 26 [2020]**
 
-The database consists of **24321** entries composed of:
-+ 17244 entries from myanimelist.net
-+ 15191 entries from kitsu.io
-+ 14329 entries from notify.moe
-+ 13012 entries from anilist.co
-+ 11224 entries from anidb.net
+The database consists of **24369** entries composed of:
++ 17262 entries from myanimelist.net
++ 15201 entries from kitsu.io
++ 14358 entries from notify.moe
++ 13048 entries from anilist.co
++ 11229 entries from anidb.net
 
 Missed updates:
 + **2020:** 0 _(so far)_
@@ -29,23 +29,30 @@ This repository contains two files. The database file itself and a file to suppo
 #### Data types
 
 **Root**
-| Field | Type |
-| --- | --- |
-| data | ```Array<Anime>``` |
+| Field | Type | Nullable |
+| --- | --- | --- |
+| data | ```Array<Anime>``` | no |
 
 **Anime**
-| Field | Type |
-| --- | --- |
-| sources | ```Array<URL>``` |
-| title | ```String``` |
-| type | ```Enum of [TV, Movie, OVA, ONA, Special]``` |
-| episodes | ```Integer``` |
-| status | ```Enum of [FINISHED, CURRENTLY, UPCOMING, UNKNOWN]``` |
-| picture | ```URL``` |
-| thumbnail | ```URL``` |
-| synonyms | ```Array<String>``` |
-| relations | ```Array<URL>``` |
-| tags | ```Array<String>``` |
+| Field | Type | Nullable |
+| --- | --- | --- |
+| sources | ```Array<URL>``` | no |
+| title | ```String``` | no |
+| type | ```Enum of [TV, Movie, OVA, ONA, Special]``` | no |
+| episodes | ```Integer``` | no |
+| status | ```Enum of [FINISHED, CURRENTLY, UPCOMING, UNKNOWN]``` | no |
+| animeSeason | ```AnimeSeason``` | no |
+| picture | ```URL``` | no |
+| thumbnail | ```URL``` | no |
+| synonyms | ```Array<String>``` | no |
+| relations | ```Array<URL>``` | no |
+| tags | ```Array<String>``` | no |
+
+**AnimeSeason**
+| Field | Type | Nullable |
+| --- | --- | --- |
+| season | ```Enum of [SPRING, SUMMER, FALL, WINTER]``` | no |
+| year | ```Integer``` | yes |
 
 #### Example:
 
@@ -64,6 +71,10 @@ This repository contains two files. The database file itself and a file to suppo
             "type": "TV",
             "episodes": 37,
             "status": "FINISHED",
+            "animeSeason": {
+                "season": "FALL",
+                "year": 2006
+            },
             "picture": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
             "thumbnail": "https://cdn.myanimelist.net/images/anime/9/9453t.jpg",
             "synonyms": [
@@ -135,12 +146,12 @@ Contains IDs which have been removed from the meta data provider's database.
 
 #### Data types
 
-| Field | Type |
-| --- | --- |
-| mal | ```Array<Integer>``` |
-| anidb | ```Array<Integer>``` |
-| anilist | ```Array<Integer>``` |
-| kitsu | ```Array<Integer>``` |
+| Field | Type | Nullable |
+| --- | --- | --- |
+| mal | ```Array<Integer>``` | no |
+| anidb | ```Array<Integer>``` | no |
+| anilist | ```Array<Integer>``` | no |
+| kitsu | ```Array<Integer>``` | no |
 
 #### Example
 
