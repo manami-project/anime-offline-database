@@ -51,7 +51,7 @@ This repository contains two files. The database file itself and a file to suppo
 **AnimeSeason**
 | Field | Type | Nullable |
 | --- | --- | --- |
-| season | ```Enum of [SPRING, SUMMER, FALL, WINTER]``` | no |
+| season | ```Enum of [SPRING, SUMMER, FALL, WINTER, UNDEFINED]``` | no |
 | year | ```Integer``` | yes |
 
 #### Example:
