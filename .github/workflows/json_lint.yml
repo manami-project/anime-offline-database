@@ -1,12 +1,20 @@
 name: Check JSON files
 
-on: [push]
+on:
+  push:
+    branches:
+      - '**'
+    paths-ignore:
+      - 'README.md'
+      - '.gitignore'
+      - '.gitattributes'
+      - '.github/**/*'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1#
+      - uses: actions/checkout@v2
       - name: Setup node environment
         uses: actions/setup-node@v1
         with:

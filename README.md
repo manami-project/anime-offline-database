@@ -1,17 +1,17 @@
 # anime-offline-database ![CI build status](https://github.com/manami-project/anime-offline-database/workflows/Check%20JSON%20files/badge.svg "CI build status: Check JSON files")
-The purpose of this repository is to create an offline database containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, anilist.co and kitsu.io) and allow cross references between those meta data providers. This file is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
+The purpose of this repository is to create an offline database containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, kitsu.io and more) and allow cross references between those meta data providers. This file is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
 
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 21 [2020]**
+Update **week 27 [2020]**
 
-The database consists of **24147** entries composed of:
-+ 17177 entries from myanimelist.net
-+ 15163 entries from kitsu.io
-+ 14279 entries from notify.moe
-+ 12828 entries from anilist.co
-+ 11206 entries from anidb.net
+The database consists of **24448** entries composed of:
++ 17318 entries from myanimelist.net
++ 15237 entries from kitsu.io
++ 14389 entries from notify.moe
++ 13082 entries from anilist.co
++ 11237 entries from anidb.net
 
 Missed updates:
 + **2020:** 0 _(so far)_
@@ -22,10 +22,40 @@ Missed updates:
 If you want to contribute, please read the [contribution guidelines](./.github/CONTRIBUTING.md) first.
 
 ## Structure
-This repository contains two files. The database file itself and a file to support the automated process containing IDs from the meta data providers which don't exist anymore.
+This repository contains two files. The database file itself and a file to support the automated process containing IDs which don't exist anymore on the meta data provider's site.
 
 ### anime-offline-database.json
-Example of the structure:
+
+#### Data types
+
+**Root**
+| Field | Type | Nullable |
+| --- | --- | --- |
+| data | ```Array<Anime>``` | no |
+
+**Anime**
+| Field | Type | Nullable |
+| --- | --- | --- |
+| sources | ```Array<URL>``` | no |
+| title | ```String``` | no |
+| type | ```Enum of [TV, Movie, OVA, ONA, Special]``` | no |
+| episodes | ```Integer``` | no |
+| status | ```Enum of [FINISHED, CURRENTLY, UPCOMING, UNKNOWN]``` | no |
+| animeSeason | ```AnimeSeason``` | no |
+| picture | ```URL``` | no |
+| thumbnail | ```URL``` | no |
+| synonyms | ```Array<String>``` | no |
+| relations | ```Array<URL>``` | no |
+| tags | ```Array<String>``` | no |
+
+**AnimeSeason**
+| Field | Type | Nullable |
+| --- | --- | --- |
+| season | ```Enum of [SPRING, SUMMER, FALL, WINTER, UNDEFINED]``` | no |
+| year | ```Integer``` | yes |
+
+#### Example:
+
 ```json
 {
     "data": [
@@ -41,23 +71,30 @@ Example of the structure:
             "type": "TV",
             "episodes": 37,
             "status": "FINISHED",
+            "animeSeason": {
+                "season": "FALL",
+                "year": 2006
+            },
             "picture": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
             "thumbnail": "https://cdn.myanimelist.net/images/anime/9/9453t.jpg",
             "synonyms": [
-                "Caderno da Morte",
                 "DEATH NOTE",
                 "DN",
-                "Death Note",
-                "Death Note - A hal\u00e1llista",
-                "Death Note - Carnetul mor\u0163ii",
-                "Death Note - Z\u00e1pisn\u00edk smrti",
-                "Mirties U\u017era\u0161ai",
-                "Notatnik \u015bmierci",
-                "Notes \u015amierci",
-                "Quaderno della Morte",
-                "Sveska Smrti",
-                "\u00d6l\u00fcm Defteri",
-                "\u03a4\u03b5\u03c4\u03c1\u03ac\u03b4\u03b9\u03bf \u0398\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5"
+                "Death Note - A halállista",
+                "Death Note - Carnetul morţii",
+                "Death Note - Zápisník smrti",
+                "Notatnik śmierci",
+                "Τετράδιο Θανάτου",
+                "Бележник на Смъртта",
+                "Тетрадь cмерти",
+                "Үхлийн Тэмдэглэл",
+                "دفترچه یادداشت مرگ",
+                "كـتـاب الـموت",
+                "डेथ नोट",
+                "ですのーと",
+                "デスノート",
+                "死亡笔记",
+                "데스노트"
             ],
             "relations": [
                 "https://anidb.net/anime/8146",
@@ -66,28 +103,58 @@ Example of the structure:
                 "https://kitsu.io/anime/2707",
                 "https://myanimelist.net/anime/2994",
                 "https://notify.moe/anime/DBBU5Kimg"
+            ],
+            "tags": [
+                "alternative present",
+                "anti-hero",
+                "asia",
+                "assassins",
+                "contemporary fantasy",
+                "cops",
+                "crime",
+                "demons",
+                "detective",
+                "earth",
+                "espionage",
+                "gods",
+                "japan",
+                "male protagonist",
+                "manga",
+                "mystery",
+                "philosophy",
+                "plot continuity",
+                "police",
+                "present",
+                "primarily male cast",
+                "psychological",
+                "shounen",
+                "supernatural",
+                "survival",
+                "thriller",
+                "tragedy",
+                "urban",
+                "urban fantasy",
+                "work"
             ]
         }
     ]
 }
 ```
-**Data types**
-
-| Field | Type |
-| --- | --- |
-| data | ```List``` |
-| sources | ```Set<URL>``` |
-| title | ```String``` |
-| type | ```Enum of [TV, Movie, OVA, ONA, Special]``` |
-| episodes | ```Integer``` |
-| status | ```Enum of [FINISHED, CURRENTLY, UPCOMING, UNKNOWN]``` |
-| picture | ```URL``` |
-| thumbnail | ```URL``` |
-| synonyms | ```Set<String>``` |
-| relations | ```Set<URL>``` |
 
 ### dead-entries.json
 Contains IDs which have been removed from the meta data provider's database.
+
+#### Data types
+
+| Field | Type | Nullable |
+| --- | --- | --- |
+| mal | ```Array<Integer>``` | no |
+| anidb | ```Array<Integer>``` | no |
+| anilist | ```Array<Integer>``` | no |
+| kitsu | ```Array<Integer>``` | no |
+
+#### Example
+
 ```json
 {
     "mal": [
@@ -127,5 +194,6 @@ If you have a project that uses this database and you want to add it to this lis
 |----|----|----|
 |[adb-aws-lambda](https://github.com/manami-project/adb-aws-lambda)|[manami-project](https://github.com/manami-project)|REST service for querying this database up and running in minutes using AWS Lambda.|
 |[adb-zeppelin-statistics](https://github.com/manami-project/adb-zeppelin-statistics)|[manami-project](https://github.com/manami-project)|A set of statistics and insights about anime on MAL.|
+|[animanga-wordlist](https://github.com/ryuuganime/animanga-wordlist)|[ryuuganime](https://github.com/ryuuganime)|Japanese Anime, Manga, Characters, and Studio Word List/Dictionary|
 |[arm-server](https://github.com/BeeeQueue/arm-server)|[BeeeQueue](https://github.com/BeeeQueue)|A REST API for querying this database.|
 |[manami](https://github.com/manami-project/manami)|[manami-project](https://github.com/manami-project)|A tool to catalog anime on your hard drive and discover new anime to watch.|
