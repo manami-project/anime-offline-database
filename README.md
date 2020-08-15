@@ -4,15 +4,15 @@ The purpose of this repository is to create an offline database containing anime
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 32 [2020]**
+Update **week 33 [2020]**
 
-The database consists of **29324** entries composed of:
-+ 17436 entries from myanimelist.net
-+ 15415 entries from kitsu.io
-+ 15028 entries from anime-planet.com
-+ 14421 entries from notify.moe
-+ 13331 entries from anilist.co
-+ 11293 entries from anidb.net
+The database consists of **29411** entries composed of:
++ 17465 entries from myanimelist.net
++ 15426 entries from kitsu.io
++ 15071 entries from anime-planet.com
++ 14434 entries from notify.moe
++ 13398 entries from anilist.co
++ 11300 entries from anidb.net
 
 Missed updates:
 + **2020:** 0 _(so far)_
@@ -23,7 +23,7 @@ Missed updates:
 If you want to contribute, please read the [contribution guidelines](./.github/CONTRIBUTING.md) first.
 
 ## Structure
-This repository contains two files. The database file itself and a file to support the automated process containing IDs which don't exist anymore on the meta data provider's site.
+This repository contains various JSON files. The database file itself as well as one file containing IDs of dead entries for each meta data provider to support the automated process.
 
 ### anime-offline-database.json
 
@@ -142,48 +142,24 @@ This repository contains two files. The database file itself and a file to suppo
 }
 ```
 
-### dead-entries.json
-Contains IDs which have been removed from the meta data provider's database.
+### dead-entries
+Contains IDs which have been removed from the database of the corresponding meta data provider.
 
 #### Data types
 
 | Field | Type | Nullable |
 | --- | --- | --- |
-| mal | ```Array<Integer>``` | no |
-| anidb | ```Array<Integer>``` | no |
-| anilist | ```Array<Integer>``` | no |
-| kitsu | ```Array<Integer>``` | no |
+| deadEntries | ```Array<String>``` | no |
 
 #### Example
 
 ```json
 {
-    "mal": [
-        38492,
-        38518,
-        38522,
-        38531,
-        ...
-    ],
-    "anidb": [
-        4612,
-        14190,
-        ...
-    ],
-    "anilist": [
-        104857,
-        104735,
-        104888,
-        104870,
-        104747,
-        ...
-    ],
-    "kitsu": [
-        14230,
-        41667,
-        41698,
-        41755,
-        ...
+    "deadEntries": [
+        "38492",
+        "38518",
+        "38522",
+        "38531"
     ]
 }
 ```
