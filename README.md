@@ -6,12 +6,12 @@ The purpose of this repository is to create an offline database containing anime
 ## Statistics
 Update **week 42 [2020]**
 
-The database consists of **30132** entries composed of:
+The database consists of **30024** entries composed of:
 + 17993 entries from myanimelist.net
 + 15593 entries from kitsu.io
 + 15302 entries from anime-planet.com
 + 14518 entries from notify.moe
-+ 13549 entries from anilist.co
++ 13555 entries from anilist.co
 + 11373 entries from anidb.net
 
 Missed updates:
@@ -64,6 +64,7 @@ This repository contains various JSON files. The database file itself as well as
             "sources": [
                 "https://anidb.net/anime/4563",
                 "https://anilist.co/anime/1535",
+                "https://anime-planet.com/anime/death-note",
                 "https://kitsu.io/anime/1376",
                 "https://myanimelist.net/anime/1535",
                 "https://notify.moe/anime/0-A-5Fimg"
@@ -79,18 +80,32 @@ This repository contains various JSON files. The database file itself as well as
             "picture": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
             "thumbnail": "https://cdn.myanimelist.net/images/anime/9/9453t.jpg",
             "synonyms": [
+                "Caderno da Morte",
                 "DEATH NOTE",
                 "DN",
                 "Death Note - A halállista",
                 "Death Note - Carnetul morţii",
                 "Death Note - Zápisník smrti",
+                "Mirties Užrašai",
                 "Notatnik śmierci",
+                "Notes Śmierci",
+                "Quaderno della Morte",
+                "Sveska Smrti",
+                "Ölüm Defteri",
                 "Τετράδιο Θανάτου",
                 "Бележник на Смъртта",
+                "Записник Смерті",
+                "Свеска Смрти",
+                "Тетрадка на Смъртта",
                 "Тетрадь cмерти",
                 "Үхлийн Тэмдэглэл",
+                "מחברת המוות",
+                "دفترچه مرگ",
                 "دفترچه یادداشت مرگ",
                 "كـتـاب الـموت",
+                "مدونة الموت",
+                "مذكرة الموت",
+                "موت نوٹ",
                 "डेथ नोट",
                 "ですのーと",
                 "デスノート",
@@ -101,40 +116,56 @@ This repository contains various JSON files. The database file itself as well as
                 "https://anidb.net/anime/8146",
                 "https://anidb.net/anime/8147",
                 "https://anilist.co/anime/2994",
+                "https://anime-planet.com/anime/death-note-rewrite-1-visions-of-a-god",
+                "https://anime-planet.com/anime/death-note-rewrite-2-ls-successors",
                 "https://kitsu.io/anime/2707",
                 "https://myanimelist.net/anime/2994",
                 "https://notify.moe/anime/DBBU5Kimg"
             ],
             "tags": [
                 "alternative present",
+                "amnesia",
                 "anti-hero",
                 "asia",
-                "assassins",
+                "based on a manga",
                 "contemporary fantasy",
                 "cops",
                 "crime",
+                "criminals",
                 "demons",
                 "detective",
+                "detectives",
+                "drama",
                 "earth",
                 "espionage",
                 "gods",
                 "japan",
                 "male protagonist",
                 "manga",
+                "mind games",
                 "mystery",
+                "overpowered main characters",
                 "philosophy",
                 "plot continuity",
                 "police",
                 "present",
+                "primarily adult cast",
                 "primarily male cast",
                 "psychological",
+                "psychopaths",
+                "revenge",
+                "rivalries",
+                "secret identity",
+                "serial killers",
+                "shinigami",
                 "shounen",
                 "supernatural",
-                "survival",
                 "thriller",
+                "time skip",
                 "tragedy",
                 "urban",
                 "urban fantasy",
+                "vigilantes",
                 "work"
             ]
         }
