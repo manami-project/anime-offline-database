@@ -1,17 +1,25 @@
-*
+/*
 
-!/.gitignore
-!/README.md
-!/anime-offline-database.json
+!.gitignore
+!README.md
+!anime-offline-database.json
 
-!/.github
-/.github/*
-!/.github/CONTRIBUTING.md
-!/.github/workflows/json_lint.yml
+!.github/
+.github/*
+!.github/CONTRIBUTING.md
 
-!/dead-entries
-/dead-entries/*
-!/dead-entries/anidb.json
-!/dead-entries/anilist.json
-!/dead-entries/kitsu.json
-!/dead-entries/myanimelist.json
+!.github/workflows/
+.github/workflows/*
+!.github/workflows/json_lint.yml
+
+!.github/ISSUE_TEMPLATE/
+.github/ISSUE_TEMPLATE/*
+!.github/ISSUE_TEMPLATE/problem-in-data-extraction.md
+!.github/ISSUE_TEMPLATE/question.md
+
+!dead-entries/
+dead-entries/*
+!dead-entries/anidb.json
+!dead-entries/anilist.json
+!dead-entries/kitsu.json
+!dead-entries/myanimelist.json
