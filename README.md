@@ -6,7 +6,7 @@ The purpose of this repository is to create an offline database containing anime
 ## Statistics
 Update **week 51 [2020]**
 
-The database consists of **29357** entries composed of:
+The database consists of **29228** entries composed of:
 + 19306 entries from myanimelist.net
 + 15720 entries from kitsu.io
 + 15508 entries from anime-planet.com
@@ -18,9 +18,6 @@ Missed updates:
 + **2020:** 0 _(so far)_
 + **2019:** 2
 + **2018:** 1
-
-## Participation
-If you want to contribute, please read the [contribution guidelines](./.github/CONTRIBUTING.md) first.
 
 ## Structure
 This repository contains various JSON files. The database file itself as well as one file containing IDs of dead entries for each meta data provider to support the automated process.
