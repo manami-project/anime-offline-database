@@ -1,18 +1,19 @@
-# anime-offline-database ![CI build status](https://github.com/manami-project/anime-offline-database/workflows/Check%20JSON%20files/badge.svg "CI build status: Check JSON files")
+![CI build status](https://github.com/manami-project/anime-offline-database/workflows/Check%20JSON%20files/badge.svg "CI build status: Check JSON files")
+# anime-offline-database
 The purpose of this repository is to create an offline database containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, kitsu.io and more) and allow cross references between those meta data providers. This file is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
 
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 14 [2021]**
+Update **week 15 [2021]**
 
-The database consists of **31397** entries composed of:
-+ 22459 entries from myanimelist.net
-+ 16188 entries from kitsu.io
-+ 15981 entries from anime-planet.com
-+ 14864 entries from notify.moe
-+ 14454 entries from anilist.co
-+ 11626 entries from anidb.net
+The database consists of **31467** entries composed of:
++ 22461 entries from myanimelist.net
++ 16246 entries from kitsu.io
++ 16030 entries from anime-planet.com
++ 14869 entries from notify.moe
++ 14500 entries from anilist.co
++ 11644 entries from anidb.net
 
 Missed updates:
 + **2021:** 0 _(so far)_
@@ -30,12 +31,12 @@ This repository contains various JSON files. The database file itself as well as
 **Root**
 | Field | Type | Nullable |
 | --- | --- | --- |
-| data | ```Array<Anime>``` | no |
+| data | ```Anime[]``` | no |
 
 **Anime**
 | Field | Type | Nullable |
 | --- | --- | --- |
-| sources | ```Array<URL>``` | no |
+| sources | ```URL[]``` | no |
 | title | ```String``` | no |
 | type | ```Enum of [TV, Movie, OVA, ONA, Special]``` | no |
 | episodes | ```Integer``` | no |
@@ -43,9 +44,9 @@ This repository contains various JSON files. The database file itself as well as
 | animeSeason | ```AnimeSeason``` | no |
 | picture | ```URL``` | no |
 | thumbnail | ```URL``` | no |
-| synonyms | ```Array<String>``` | no |
-| relations | ```Array<URL>``` | no |
-| tags | ```Array<String>``` | no |
+| synonyms | ```String[]``` | no |
+| relations | ```URL[]``` | no |
+| tags | ```String[]``` | no |
 
 **AnimeSeason**
 | Field | Type | Nullable |
@@ -178,7 +179,7 @@ Contains IDs which have been removed from the database of the corresponding meta
 
 | Field | Type | Nullable |
 | --- | --- | --- |
-| deadEntries | ```Array<String>``` | no |
+| deadEntries | ```String[]``` | no |
 
 #### Example
 
