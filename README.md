@@ -7,11 +7,11 @@ The purpose of this repository is to create an offline database containing anime
 ## Statistics
 Update **week 22 [2021]**
 
-The database consists of **30146** entries composed of:
-+ 22535 entries from myanimelist.net
+The database consists of **30107** entries composed of:
++ 22538 entries from myanimelist.net
 + 16506 entries from kitsu.io
-+ 16567 entries from anime-planet.com
-+ 14930 entries from notify.moe
++ 16623 entries from anime-planet.com
++ 14931 entries from notify.moe
 + 14627 entries from anilist.co
 + 11715 entries from anidb.net
 
@@ -199,7 +199,6 @@ If you have a project that uses this database and you want to add it to this lis
 
 |Project|Author/Maintainer|Short description|
 |----|----|----|
-|[adb-aws-lambda](https://github.com/manami-project/adb-aws-lambda)|[manami-project](https://github.com/manami-project)|REST service for querying this database up and running in minutes using AWS Lambda.|
 |[adb-zeppelin-statistics](https://github.com/manami-project/adb-zeppelin-statistics)|[manami-project](https://github.com/manami-project)|A set of statistics and insights about anime on MAL.|
 |[animanga-wordlist](https://github.com/ryuuganime/animanga-wordlist)|[ryuuganime](https://github.com/ryuuganime)|Japanese Anime, Manga, Characters, and Studio Word List/Dictionary|
 |[arm-server](https://github.com/BeeeQueue/arm-server)|[BeeeQueue](https://github.com/BeeeQueue)|A REST API for querying this database.|
