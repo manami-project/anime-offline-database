@@ -7,7 +7,7 @@ The purpose of this repository is to create an offline database containing anime
 ## Statistics
 Update **week 22 [2021]**
 
-The database consists of **30107** entries composed of:
+The database consists of **30029** entries composed of:
 + 22538 entries from myanimelist.net
 + 16506 entries from kitsu.io
 + 16623 entries from anime-planet.com
