@@ -38,7 +38,7 @@ This repository contains various JSON files. The database file itself as well as
 | --- | --- | --- |
 | sources | ```URL[]``` | no |
 | title | ```String``` | no |
-| type | ```Enum of [TV, MOVIE, OVA, ONA, SPECIAL]``` | no |
+| type | ```Enum of [TV, MOVIE, OVA, ONA, SPECIAL, UNKNOWN]``` | no |
 | episodes | ```Integer``` | no |
 | status | ```Enum of [FINISHED, ONGOING, UPCOMING, UNKNOWN]``` | no |
 | animeSeason | ```AnimeSeason``` | no |
