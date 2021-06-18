@@ -5,15 +5,15 @@ The purpose of this repository is to create an offline database containing anime
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 23 [2021]**
+Update **week 24 [2021]**
 
-The database consists of **29934** entries composed of:
-+ 22516 entries from myanimelist.net
-+ 16536 entries from kitsu.io
-+ 16696 entries from anime-planet.com
-+ 14936 entries from notify.moe
-+ 14638 entries from anilist.co
-+ 11725 entries from anidb.net
+The database consists of **29973** entries composed of:
++ 22535 entries from myanimelist.net
++ 16725 entries from anime-planet.com
++ 16574 entries from kitsu.io
++ 14944 entries from notify.moe
++ 14660 entries from anilist.co
++ 11729 entries from anidb.net
 
 Missed updates:
 + **2021:** 0 _(so far)_
@@ -38,9 +38,9 @@ This repository contains various JSON files. The database file itself as well as
 | --- | --- | --- |
 | sources | ```URL[]``` | no |
 | title | ```String``` | no |
-| type | ```Enum of [TV, Movie, OVA, ONA, Special]``` | no |
+| type | ```Enum of [TV, MOVIE, OVA, ONA, SPECIAL]``` | no |
 | episodes | ```Integer``` | no |
-| status | ```Enum of [FINISHED, CURRENTLY, UPCOMING, UNKNOWN]``` | no |
+| status | ```Enum of [FINISHED, ONGOING, UPCOMING, UNKNOWN]``` | no |
 | animeSeason | ```AnimeSeason``` | no |
 | picture | ```URL``` | no |
 | thumbnail | ```URL``` | no |
