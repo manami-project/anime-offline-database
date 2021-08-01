@@ -24,3 +24,4 @@ dead-entries/*
 !dead-entries/anilist.json
 !dead-entries/kitsu.json
 !dead-entries/myanimelist.json
+!dead-entries/livechart.json
