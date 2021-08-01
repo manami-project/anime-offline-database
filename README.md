@@ -7,7 +7,7 @@ The purpose of this repository is to create an offline database containing anime
 ## Statistics
 Update **week 30 [2021]**
 
-The database consists of **33102** entries composed of:
+The database consists of **33099** entries composed of:
 + 22693 entries from myanimelist.net
 + 16872 entries from anime-planet.com
 + 16742 entries from kitsu.io
@@ -66,7 +66,9 @@ This repository contains various JSON files. The database file itself as well as
                 "https://anidb.net/anime/4563",
                 "https://anilist.co/anime/1535",
                 "https://anime-planet.com/anime/death-note",
+                "https://anisearch.com/anime/3633",
                 "https://kitsu.io/anime/1376",
+                "https://livechart.me/anime/3437",
                 "https://myanimelist.net/anime/1535",
                 "https://notify.moe/anime/0-A-5Fimg"
             ],
@@ -81,7 +83,9 @@ This repository contains various JSON files. The database file itself as well as
             "picture": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
             "thumbnail": "https://cdn.myanimelist.net/images/anime/9/9453t.jpg",
             "synonyms": [
+                "Bilježnica smrti",
                 "Caderno da Morte",
+                "Carnet de la Mort",
                 "DEATH NOTE",
                 "DN",
                 "Death Note - A halállista",
@@ -119,7 +123,10 @@ This repository contains various JSON files. The database file itself as well as
                 "https://anilist.co/anime/2994",
                 "https://anime-planet.com/anime/death-note-rewrite-1-visions-of-a-god",
                 "https://anime-planet.com/anime/death-note-rewrite-2-ls-successors",
+                "https://anisearch.com/anime/4441",
+                "https://anisearch.com/anime/5194",
                 "https://kitsu.io/anime/2707",
+                "https://livechart.me/anime/3808",
                 "https://myanimelist.net/anime/2994",
                 "https://notify.moe/anime/DBBU5Kimg"
             ],
@@ -127,20 +134,27 @@ This repository contains various JSON files. The database file itself as well as
                 "alternative present",
                 "amnesia",
                 "anti-hero",
+                "asexual",
                 "asia",
                 "based on a manga",
                 "contemporary fantasy",
                 "cops",
                 "crime",
+                "crime fiction",
                 "criminals",
-                "demons",
                 "detective",
                 "detectives",
                 "drama",
                 "earth",
                 "espionage",
+                "fantasy",
+                "genius",
                 "gods",
+                "hero of strong character",
+                "horror",
                 "japan",
+                "kamis",
+                "kuudere",
                 "male protagonist",
                 "manga",
                 "mind games",
@@ -149,10 +163,12 @@ This repository contains various JSON files. The database file itself as well as
                 "philosophy",
                 "plot continuity",
                 "police",
+                "policeman",
                 "present",
                 "primarily adult cast",
                 "primarily male cast",
                 "psychological",
+                "psychological drama",
                 "psychopaths",
                 "revenge",
                 "rivalries",
@@ -161,13 +177,15 @@ This repository contains various JSON files. The database file itself as well as
                 "shinigami",
                 "shounen",
                 "supernatural",
+                "supernatural drama",
                 "thriller",
                 "time skip",
                 "tragedy",
+                "twisted story",
+                "university",
                 "urban",
                 "urban fantasy",
-                "vigilantes",
-                "work"
+                "vigilantes"
             ]
         }
     ]
