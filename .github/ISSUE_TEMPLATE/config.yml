@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Guide to add your project to the project list.
+    url: https://github.com/manami-project/anime-offline-database/blob/master/.github/CONTRIBUTING.md#adding-your-project-to-the-list-of-projects-using-this-database
+    about: How to add your project to the list of projects using this database.
+  - name: FAQ
+    url: https://github.com/manami-project/anime-offline-database/blob/master/.github/CONTRIBUTING.md#faq
+    about: Frequently Asked Questions

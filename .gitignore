@@ -17,6 +17,7 @@
 !.github/ISSUE_TEMPLATE/problem-in-data-extraction.md
 !.github/ISSUE_TEMPLATE/question.md
 !.github/ISSUE_TEMPLATE/falsely-merged-entries.md
+!.github/ISSUE_TEMPLATE/config.yml
 
 !dead-entries/
 dead-entries/*
