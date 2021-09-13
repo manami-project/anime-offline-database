@@ -18,7 +18,7 @@ jobs:
       - name: Setup node environment
         uses: actions/setup-node@v1
         with:
-          node-version: '10.x'
+          node-version: '14'
       - name: Install jsonlint
         run: npm install jsonlint -g
       - name: Check anime-offline-database.json
