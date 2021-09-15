@@ -3,6 +3,7 @@
 !.gitignore
 !README.md
 !anime-offline-database.json
+!anime-offline-database-minified.json
 
 !.github/
 .github/*
