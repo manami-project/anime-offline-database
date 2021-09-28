@@ -5,16 +5,16 @@ The purpose of this repository is to create an offline database containing anime
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 38 [2021]**
+Update **week 39 [2021]**
 
-The database consists of **33053** entries composed of:
-+ 22957 entries from myanimelist.net
-+ 17332 entries from anime-planet.com
-+ 16960 entries from kitsu.io
-+ 15972 entries from anisearch.com
-+ 15128 entries from anilist.co
-+ 15065 entries from notify.moe
-+ 11998 entries from anidb.net
+The database consists of **33109** entries composed of:
++ 22943 entries from myanimelist.net
++ 17407 entries from anime-planet.com
++ 16993 entries from kitsu.io
++ 15986 entries from anisearch.com
++ 15160 entries from anilist.co
++ 15081 entries from notify.moe
++ 12029 entries from anidb.net
 + 9453 entries from livechart.me
 
 Missed updates:
@@ -25,6 +25,10 @@ Missed updates:
 
 ## Structure
 This repository contains various JSON files. The database file itself as well as one file containing IDs of dead entries for each meta data provider to support the automated process.
+
+### anime-offline-database-minified.json
+
+Minified version of `anime-offline-database.json` which contains the same data, but is smaller in size.
 
 ### anime-offline-database.json
 
