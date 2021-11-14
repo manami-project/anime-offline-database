@@ -5,16 +5,16 @@ The purpose of this repository is to create an offline database containing anime
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 44 [2021]**
+Update **week 45 [2021]**
 
-The database consists of **32755** entries composed of:
-+ 23093 entries from myanimelist.net
-+ 17969 entries from anime-planet.com
-+ 17124 entries from kitsu.io
-+ 16094 entries from anisearch.com
-+ 15432 entries from anilist.co
-+ 15138 entries from notify.moe
-+ 12093 entries from anidb.net
+The database consists of **32879** entries composed of:
++ 23147 entries from myanimelist.net
++ 18113 entries from anime-planet.com
++ 17184 entries from kitsu.io
++ 16134 entries from anisearch.com
++ 15427 entries from anilist.co
++ 15162 entries from notify.moe
++ 12108 entries from anidb.net
 + 9487 entries from livechart.me
 
 Missed updates:
