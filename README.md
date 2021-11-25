@@ -9,9 +9,9 @@ Update **week 47 [2021]**
 
 The database consists of **32967** entries composed of:
 + 23198 entries from myanimelist.net
-+ 18149 entries from anime-planet.com
++ 18174 entries from anime-planet.com
 + 17209 entries from kitsu.io
-+ 16178 entries from anisearch.com
++ 16185 entries from anisearch.com
 + 15501 entries from anilist.co
 + 15173 entries from notify.moe
 + 12119 entries from anidb.net
