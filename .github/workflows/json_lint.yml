@@ -31,7 +31,5 @@ jobs:
         run: jsonlint -q dead-entries/anilist.json
       - name: Check dead-entries for kitsu
         run: jsonlint -q dead-entries/kitsu.json
-      - name: Check dead-entries for livechart
-        run: jsonlint -q dead-entries/livechart.json
       - name: Check dead-entries for myanimelist
         run: jsonlint -q dead-entries/myanimelist.json
