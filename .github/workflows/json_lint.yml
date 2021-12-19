@@ -8,7 +8,8 @@ on:
       - 'README.md'
       - '.gitignore'
       - '.gitattributes'
-      - '.github/**/*'
+      - '.github/ISSUE_TEMPLATE/**/*'
+      - '.github/CONTRIBUTING.md'
 
 jobs:
   build:
@@ -16,9 +17,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Setup node environment
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v2
         with:
-          node-version: '14'
+          node-version: '16'
       - name: Install jsonlint
         run: npm install jsonlint -g
       - name: Check anime-offline-database.json
