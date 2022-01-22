@@ -7,7 +7,7 @@ The purpose of this repository is to create an offline database containing anime
 ## Statistics
 Update **week 03 [2022]**
 
-The database consists of **33310** entries composed of:
+The database consists of **33244** entries _(48% reviewed)_ composed of:
 + 23461 entries from myanimelist.net
 + 18495 entries from anime-planet.com
 + 17444 entries from kitsu.io
@@ -25,7 +25,7 @@ Missed updates:
 + **2018:** 1
 
 ## Structure
-This repository contains various JSON files. The database file itself as well as one file containing IDs of dead entries for each meta data provider to support the automated process.
+This repository contains various JSON files. The database file itself as well as one file containing IDs of dead entries for some meta data providers to support the automated process.
 
 ### anime-offline-database-minified.json
 
@@ -38,28 +38,36 @@ Minified version of `anime-offline-database.json` which contains the same data, 
 **Root**
 | Field | Type | Nullable |
 | --- | --- | --- |
-| data | ```Anime[]``` | no |
+| license | `License` | no |
+| repository | `URL` | no |
+| data | `Anime[]` | no |
 
 **Anime**
 | Field | Type | Nullable |
 | --- | --- | --- |
-| sources | ```URL[]``` | no |
-| title | ```String``` | no |
-| type | ```Enum of [TV, MOVIE, OVA, ONA, SPECIAL, UNKNOWN]``` | no |
-| episodes | ```Integer``` | no |
-| status | ```Enum of [FINISHED, ONGOING, UPCOMING, UNKNOWN]``` | no |
-| animeSeason | ```AnimeSeason``` | no |
-| picture | ```URL``` | no |
-| thumbnail | ```URL``` | no |
-| synonyms | ```String[]``` | no |
-| relations | ```URL[]``` | no |
-| tags | ```String[]``` | no |
+| sources | `URL[]` | no |
+| title | `String` | no |
+| type | `Enum of [TV, MOVIE, OVA, ONA, SPECIAL, UNKNOWN]` | no |
+| episodes | `Integer` | no |
+| status | `Enum of [FINISHED, ONGOING, UPCOMING, UNKNOWN]` | no |
+| animeSeason | `AnimeSeason` | no |
+| picture | `URL` | no |
+| thumbnail | `URL` | no |
+| synonyms | `String[]` | no |
+| relations | `URL[]` | no |
+| tags | `String[]` | no |
 
 **AnimeSeason**
 | Field | Type | Nullable |
 | --- | --- | --- |
-| season | ```Enum of [SPRING, SUMMER, FALL, WINTER, UNDEFINED]``` | no |
-| year | ```Integer``` | yes |
+| season | `Enum of [SPRING, SUMMER, FALL, WINTER, UNDEFINED]` | no |
+| year | `Integer` | yes |
+
+**License**
+| Field | Type | Nullable |
+| --- | --- | --- |
+| name | `String` | no |
+| url | `URL` | no |
 
 #### Example:
 
@@ -204,7 +212,7 @@ Contains IDs which have been removed from the database of the corresponding meta
 
 | Field | Type | Nullable |
 | --- | --- | --- |
-| deadEntries | ```String[]``` | no |
+| deadEntries | `String[]` | no |
 
 #### Example
 
