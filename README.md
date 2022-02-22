@@ -5,17 +5,17 @@ The purpose of this repository is to create an offline database containing anime
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 07 [2022]**
+Update **week 08 [2022]**
 
-The database consists of **33135** entries _(50% reviewed)_ composed of:
-+ 23535 entries from myanimelist.net
-+ 18573 entries from anime-planet.com
-+ 17530 entries from kitsu.io
-+ 16453 entries from anisearch.com
-+ 15720 entries from anilist.co
-+ 15249 entries from notify.moe
-+ 12239 entries from anidb.net
-+ 9726 entries from livechart.me
+The database consists of **33246** entries _(50% reviewed)_ composed of:
++ 23591 entries from myanimelist.net
++ 18595 entries from anime-planet.com
++ 17582 entries from kitsu.io
++ 16515 entries from anisearch.com
++ 15801 entries from anilist.co
++ 15254 entries from notify.moe
++ 12242 entries from anidb.net
++ 9732 entries from livechart.me
 
 Missed updates:
 + **2022:** 0 _(so far)_
@@ -226,13 +226,3 @@ Contains IDs which have been removed from the database of the corresponding meta
     ]
 }
 ```
-
-## Other projects using this database
-If you have a project that uses this database and you want to add it to this list, please read the [contribution guidelines](./.github/CONTRIBUTING.md) first.
-
-|Project|Author/Maintainer|Short description|
-|----|----|----|
-|[adb-zeppelin-statistics](https://github.com/manami-project/adb-zeppelin-statistics)|[manami-project](https://github.com/manami-project)|A set of statistics and insights about anime on MAL.|
-|[animanga-wordlist](https://github.com/ryuuganime/animanga-wordlist)|[ryuuganime](https://github.com/ryuuganime)|Japanese Anime, Manga, Characters, and Studio Word List/Dictionary|
-|[arm-server](https://github.com/BeeeQueue/arm-server)|[BeeeQueue](https://github.com/BeeeQueue)|A REST API for querying this database.|
-|[manami](https://github.com/manami-project/manami)|[manami-project](https://github.com/manami-project)|A tool to catalog anime on your hard drive and discover new anime to watch.|
