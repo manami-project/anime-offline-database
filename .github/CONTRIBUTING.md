@@ -43,7 +43,7 @@ Entries are split if one meta data provider lists multiple entries as one and ot
 However if one entry is listed with 13 episodes whereas the other is listed with 12, because it doesn't count the recap episode then these entries are still merged together.
 
 ## Can I somehow contribute?
-Currently I can't think of a way. But you can check the [predefined issue templates](https://github.com/manami-project/anime-offline-database/issues/new/choose) in case you want to report to one of the available cases.
+Check the [predefined issue templates](https://github.com/manami-project/anime-offline-database/issues/new/choose) in case you want to report to one of the available cases.
 
 ## Does this dataset contain all anime from the supported meta data provider?
 No. MAL and anisearch are the only provider which list adult titles publicly. So this type of anime is missing for the other meta data providers.
