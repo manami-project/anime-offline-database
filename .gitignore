@@ -12,6 +12,7 @@
 !.github/workflows/
 .github/workflows/*
 !.github/workflows/json_lint.yml
+!.github/workflows/close-pr.yml
 
 !.github/ISSUE_TEMPLATE/
 .github/ISSUE_TEMPLATE/*

@@ -1,0 +1,13 @@
+name: Close Pull Request
+
+on:
+  pull_request_target:
+    types: [opened]
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: superbrothers/close-pull-request@v3
+      with:
+        comment: "The content of this repo is completely generated. Therefore PRs are not accepted. You can check the [issue templates](https://github.com/manami-project/anime-offline-database/issues/new/choose) if you want to report something."
