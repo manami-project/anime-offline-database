@@ -8,6 +8,7 @@
 !.github/
 .github/*
 !.github/CONTRIBUTING.md
+!.github/dependabot.yml
 
 !.github/workflows/
 .github/workflows/*
