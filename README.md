@@ -8,8 +8,8 @@ The purpose of this repository is to create an offline database containing anime
 Update **week 21 [2022]**
 
 The database consists of **32961** entries _(56% reviewed)_ composed of:
-+ 23969 entries from myanimelist.net
-+ 19168 entries from anime-planet.com
++ 23977 entries from myanimelist.net
++ 19167 entries from anime-planet.com
 + 17777 entries from kitsu.io
 + 16760 entries from anisearch.com
 + 16270 entries from anilist.co
