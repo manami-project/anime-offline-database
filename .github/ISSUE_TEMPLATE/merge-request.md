@@ -7,13 +7,19 @@ assignees: manami-project
 
 ---
 
-Please read the [FAQ](https://github.com/manami-project/anime-offline-database/blob/master/.github/CONTRIBUTING.md#faq) first.
-Especially the sections on [duplicates](https://github.com/manami-project/anime-offline-database/blob/master/.github/CONTRIBUTING.md#there-are-duplicates-in-the-data-set) and [splits](https://github.com/manami-project/anime-offline-database/blob/master/.github/CONTRIBUTING.md#how-do-you-split-entries).
-**Only one entry per issue**
+<!---
+Please read the FAQ first:
+https://github.com/manami-project/anime-offline-database/blob/master/.github/CONTRIBUTING.md#faq
+
+Especially the sections on duplicates: https://github.com/manami-project/anime-offline-database/blob/master/.github/CONTRIBUTING.md#there-are-duplicates-in-the-data-set
+and splits: https://github.com/manami-project/anime-offline-database/blob/master/.github/CONTRIBUTING.md#how-do-you-split-entries
+
+ONLY ONE ENTRY PER ISSUE.
+--->
 
 ## Which entries should be merged? (originals from data set)
 
-**Example:**
+<!--- EXAMPLE --->
 ```
 "https://anilist.co/anime/1535",
 "https://anime-planet.com/anime/death-note",

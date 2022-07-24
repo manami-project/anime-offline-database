@@ -7,12 +7,19 @@ assignees: manami-project
 
 ---
 
-Please read the [FAQ](https://github.com/manami-project/anime-offline-database/blob/master/.github/CONTRIBUTING.md#faq) first.
-Especially the sections on [duplicates](https://github.com/manami-project/anime-offline-database/blob/master/.github/CONTRIBUTING.md#there-are-duplicates-in-the-data-set) and [splits](https://github.com/manami-project/anime-offline-database/blob/master/.github/CONTRIBUTING.md#how-do-you-split-entries). **Only one entry per issue**
+<!---
+Please read the FAQ first:
+https://github.com/manami-project/anime-offline-database/blob/master/.github/CONTRIBUTING.md#faq
+
+Especially the sections on duplicates: https://github.com/manami-project/anime-offline-database/blob/master/.github/CONTRIBUTING.md#there-are-duplicates-in-the-data-set
+and splits: https://github.com/manami-project/anime-offline-database/blob/master/.github/CONTRIBUTING.md#how-do-you-split-entries
+
+ONLY ONE ENTRY PER ISSUE.
+--->
 
 ## Which entry should be split? (original from data set)
 
-**Example:**
+<!--- EXAMPLE --->
 ```
 "https://anidb.net/anime/9466",
 "https://anilist.co/anime/15809",
@@ -30,7 +37,7 @@ Especially the sections on [duplicates](https://github.com/manami-project/anime-
 
 ## How should it be split?
 
-**Example:**
+<!--- EXAMPLE --->
 ```
 "https://anidb.net/anime/9466",
 "https://anilist.co/anime/15809",
