@@ -6,6 +6,9 @@ If you find something that, in your opinion, could be the result of incorrectly 
 
 # FAQ
 
+## Can I somehow contribute?
+Check the [predefined issue templates](https://github.com/manami-project/anime-offline-database/issues/new/choose) in case you want to report to one of the available cases.
+
 ## What do you mean by 'meta data provider'?
 Websites which provide information about anime such as `myanimelist.net`, `notify.moe`, ...
 
@@ -41,9 +44,6 @@ Entries are split if one meta data provider lists multiple entries as one and ot
 * A series is listed as one entry having 26 episodes on one meta data provider and as two entries having 13 episodes each on the other meta data provider
 
 However if one entry is listed with 13 episodes whereas the other is listed with 12, because it doesn't count the recap episode then these entries are still merged together.
-
-## Can I somehow contribute?
-Check the [predefined issue templates](https://github.com/manami-project/anime-offline-database/issues/new/choose) in case you want to report to one of the available cases.
 
 ## Does this data set contain all anime from the supported meta data provider?
 No. MAL and anisearch are the only provider which list adult titles publicly. So this type of anime is missing for the other meta data providers.
