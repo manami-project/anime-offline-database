@@ -10,13 +10,13 @@ Update **week 35 [2023]**
 
 The database consists of **32011** entries _(99% reviewed)_ composed of:
 + 25434 entries from myanimelist.net
-+ 23107 entries from anime-planet.com
++ 23108 entries from anime-planet.com
 + 19439 entries from kitsu.io
 + 18004 entries from anisearch.com
 + 17439 entries from anilist.co
 + 15936 entries from notify.moe
 + 12924 entries from anidb.net
-+ 10910 entries from livechart.me
++ 10911 entries from livechart.me
 
 Missed updates:
 + **2023:** 0 _(so far)_
