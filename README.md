@@ -1,4 +1,4 @@
-![CI build status](https://github.com/manami-project/anime-offline-database/workflows/Check%20JSON%20files/badge.svg "CI build status: Check JSON files")
+![Check JSON files](https://github.com/manami-project/anime-offline-database/actions/workflows/json_lint.yml/badge.svg)
 
 # anime-offline-database
 The purpose of this repository is to create an offline database containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, kitsu.io and more) and allow cross references between those meta data providers. This file is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
@@ -8,7 +8,7 @@ The purpose of this repository is to create an offline database containing anime
 ## Statistics
 Update **week 44 [2023]**
 
-The database consists of **32412** entries _(99% reviewed)_ composed of:
+The database consists of **32391** entries _(100% reviewed)_ composed of:
 + 25821 entries from myanimelist.net
 + 23289 entries from anime-planet.com
 + 19723 entries from kitsu.io
