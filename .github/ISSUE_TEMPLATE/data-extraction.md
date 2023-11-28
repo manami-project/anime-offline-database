@@ -15,7 +15,7 @@ https://github.com/manami-project/anime-offline-database/blob/master/.github/CON
 * Which data is not extracted correctly? (e.g. title, episodes...)
 
 
-* Can you provide an example entry?
+* Can you provide an example entry? _Post the whole entry or at least the `source` property as seen in the dataset._
 
 
 * Which value is expected?

@@ -17,7 +17,7 @@ and splits: https://github.com/manami-project/anime-offline-database/blob/master
 ONLY ONE ENTRY PER ISSUE.
 --->
 
-## Which entry should be split? (original from data set)
+## Which entry should be split? (original from dataset)
 
 <!--- EXAMPLE --->
 ```

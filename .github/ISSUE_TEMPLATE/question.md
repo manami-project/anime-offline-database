@@ -8,6 +8,6 @@ assignees: manami-project
 ---
 
 <!---
-Please read the FAQ first:
+Please make sure that you carefully read the FAQ first:
 https://github.com/manami-project/anime-offline-database/blob/master/.github/CONTRIBUTING.md#faq
 --->

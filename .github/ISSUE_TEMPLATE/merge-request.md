@@ -1,6 +1,6 @@
 ---
 name: Merge entries request
-about: Entries which are separate in the data set should be merged together?
+about: Entries which are separate in the dataset should be merged together?
 title: ''
 labels: merge-request
 assignees: manami-project
@@ -17,7 +17,7 @@ and splits: https://github.com/manami-project/anime-offline-database/blob/master
 ONLY ONE ENTRY PER ISSUE.
 --->
 
-## Which entries should be merged? (originals from data set)
+## Which entries should be merged? (originals from dataset)
 
 <!--- EXAMPLE --->
 ```

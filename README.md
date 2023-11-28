@@ -1,22 +1,22 @@
 ![Check JSON files](https://github.com/manami-project/anime-offline-database/actions/workflows/json_lint.yml/badge.svg)
 
 # anime-offline-database
-The purpose of this repository is to create an offline database containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, kitsu.io and more) and allow cross references between those meta data providers. This file is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
+The purpose of this repository is to create a dataset containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, kitsu.io and more) and allow cross references between those meta data providers. This dataset is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
 
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 47 [2023]**
+Update **week 48 [2023]**
 
-The database consists of **32638** entries _(99% reviewed)_ composed of:
-+ 26015 entries from myanimelist.net
-+ 23337 entries from anime-planet.com
-+ 19774 entries from kitsu.io
-+ 18226 entries from anisearch.com
-+ 17826 entries from anilist.co
-+ 16059 entries from notify.moe
-+ 12998 entries from anidb.net
-+ 11018 entries from livechart.me
+The dataset consists of **32681** entries _(99% reviewed)_ composed of:
++ 26031 entries from myanimelist.net
++ 23347 entries from anime-planet.com
++ 19792 entries from kitsu.io
++ 18228 entries from anisearch.com
++ 17837 entries from anilist.co
++ 16063 entries from notify.moe
++ 13002 entries from anidb.net
++ 11023 entries from livechart.me
 
 Missed updates:
 + **2023:** 0 _(so far)_
@@ -27,7 +27,7 @@ Missed updates:
 + **2018:** 1
 
 ## Structure
-This repository contains various JSON files. The database file itself as well as one file containing IDs of dead entries for some meta data providers to support the automated process.
+This repository contains various JSON files. The dataset file itself as well as one file containing IDs of dead entries for some meta data providers to support the automated process.
 
 ### anime-offline-database-minified.json
 
