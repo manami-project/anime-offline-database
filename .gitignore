@@ -29,3 +29,8 @@ dead-entries/*
 !dead-entries/anilist.json
 !dead-entries/kitsu.json
 !dead-entries/myanimelist.json
+
+!pics/
+pics/*
+!pics/no_pic.png
+!pics/no_pic_thumbnail.png
