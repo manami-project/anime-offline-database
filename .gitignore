@@ -26,9 +26,13 @@
 !dead-entries/
 dead-entries/*
 !dead-entries/anidb.json
+!dead-entries/anidb-minified.json
 !dead-entries/anilist.json
+!dead-entries/anilist-minified.json
 !dead-entries/kitsu.json
+!dead-entries/kitsu-minified.json
 !dead-entries/myanimelist.json
+!dead-entries/myanimelist-minified.json
 
 !pics/
 pics/*
