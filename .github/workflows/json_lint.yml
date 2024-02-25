@@ -28,9 +28,17 @@ jobs:
         run: jsonlint -q anime-offline-database-minified.json
       - name: Check dead-entries for anidb
         run: jsonlint -q dead-entries/anidb.json
+      - name: Check dead-entries for anidb-minified.json
+        run: jsonlint -q dead-entries/anidb-minified.json
       - name: Check dead-entries for anilist
         run: jsonlint -q dead-entries/anilist.json
+      - name: Check dead-entries for anilist-minified.json
+        run: jsonlint -q dead-entries/anilist-minified.json
       - name: Check dead-entries for kitsu
         run: jsonlint -q dead-entries/kitsu.json
+      - name: Check dead-entries for kitsu-minified.json
+        run: jsonlint -q dead-entries/kitsu-minified.json  
       - name: Check dead-entries for myanimelist
         run: jsonlint -q dead-entries/myanimelist.json
+      - name: Check dead-entries for myanimelist-minified.json
+        run: jsonlint -q dead-entries/myanimelist-minified.json

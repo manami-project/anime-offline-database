@@ -4,6 +4,7 @@
 !README.md
 !anime-offline-database.json
 !anime-offline-database-minified.json
+!anime-offline-database.zip
 
 !.github/
 .github/*
@@ -27,12 +28,16 @@
 dead-entries/*
 !dead-entries/anidb.json
 !dead-entries/anidb-minified.json
+!dead-entries/anidb.zip
 !dead-entries/anilist.json
 !dead-entries/anilist-minified.json
+!dead-entries/anilist.zip
 !dead-entries/kitsu.json
 !dead-entries/kitsu-minified.json
+!dead-entries/kitsu.zip
 !dead-entries/myanimelist.json
 !dead-entries/myanimelist-minified.json
+!dead-entries/myanimelist.zip
 
 !pics/
 pics/*

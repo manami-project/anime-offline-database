@@ -1,4 +1,10 @@
 {
+  "license": {
+    "name": "GNU Affero General Public License v3.0",
+    "url": "https://github.com/manami-project/anime-offline-database/blob/master/LICENSE"
+  },
+  "repository": "https://github.com/manami-project/anime-offline-database",
+  "lastUpdate": "2024-02-14",
   "deadEntries": [
     "10015",
     "10022",
