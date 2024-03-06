@@ -8,7 +8,7 @@ The purpose of this repository is to create a dataset containing anime meta data
 ## Statistics
 Update **week 10 [2024]**
 
-The dataset consists of **33401** entries _(99% reviewed)_ composed of:
+The dataset consists of **33402** entries _(99% reviewed)_ composed of:
 + 26704 entries from myanimelist.net
 + 23755 entries from anime-planet.com
 + 20098 entries from kitsu.io
