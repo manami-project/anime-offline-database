@@ -6,17 +6,17 @@ The purpose of this repository is to create a dataset containing anime meta data
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 12 [2024]**
+Update **week 13 [2024]**
 
-The dataset consists of **33608** entries _(98% reviewed)_ composed of:
-+ 26842 entries from myanimelist.net
-+ 23787 entries from anime-planet.com
-+ 20159 entries from kitsu.io
-+ 18476 entries from anisearch.com
-+ 18148 entries from anilist.co
-+ 16236 entries from notify.moe
-+ 13241 entries from anidb.net
-+ 11191 entries from livechart.me
+The dataset consists of **33635** entries _(98% reviewed)_ composed of:
++ 26840 entries from myanimelist.net
++ 23810 entries from anime-planet.com
++ 20162 entries from kitsu.io
++ 18478 entries from anisearch.com
++ 18149 entries from anilist.co
++ 16240 entries from notify.moe
++ 13261 entries from anidb.net
++ 11207 entries from livechart.me
 
 Missed updates:
 + **2024:** 0 _(so far)_
