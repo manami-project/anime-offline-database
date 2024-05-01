@@ -1,0 +1,157 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://github.com/manami-project/anime-offline-database/raw/master/schema.json",
+    "title": "anime-offline-database",
+    "description": "Updated every week: A JSON based anime dataset containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more... ",
+    "type": "object",
+    "required": [
+        "license",
+        "repository",
+        "lastUpdate",
+        "data"
+    ],
+    "properties": {
+        "license": {
+            "description": "Information about the license of the dataset.",
+            "type": "object",
+            "required": [
+                "name",
+                "url"
+            ],
+            "properties": {
+                "name": {
+                    "description": "Name of the license.",
+                    "const": "GNU Affero General Public License v3.0"
+                },
+                "url": {
+                    "description": "URL to the whole license file.",
+                    "const": "https://github.com/manami-project/anime-offline-database/blob/master/LICENSE"
+                }
+            }
+        },
+        "repository": {
+            "description": "URL of this github repository which is the source of the dataset.",
+            "const": "https://github.com/manami-project/anime-offline-database"
+        },
+        "lastUpdate": {
+            "description": "The date on which the file was updated in the format: YYYY-MM-DD.",
+            "type": "string"
+        },
+        "data": {
+            "description": "List of all anime.",
+            "type": "array",
+            "uniqueItems": true,
+            "items": {
+                "type": "object",
+                "required": [
+                    "sources",
+                    "title",
+                    "type",
+                    "episodes",
+                    "status",
+                    "animeSeason",
+                    "picture",
+                    "thumbnail",
+                    "synonyms",
+                    "relatedAnime",
+                    "tags"
+                ],
+                "properties": {
+                    "sources": {
+                        "description": "URLs to the pages of the meta data providers for this anime.",
+                        "type": "array",
+                        "uniqueItems": true,
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "title": {
+                        "description": "Main title.",
+                        "type": "string"
+                    },
+                    "type": {
+                        "description": "Distribution type.",
+                        "enum": [
+                            "TV",
+                            "MOVIE",
+                            "OVA",
+                            "ONA",
+                            "SPECIAL",
+                            "UNKNOWN"
+                        ]
+                    },
+                    "episodes": {
+                        "description": "Number of episodes, movies or parts.",
+                        "type": "number",
+                        "minimum": 0
+                    },
+                    "status": {
+                        "description": "Status of distribution.",
+                        "enum": [
+                            "FINISHED",
+                            "ONGOING",
+                            "UPCOMING",
+                            "UNKNOWN"
+                        ]
+                    },
+                    "animeSeason": {
+                        "description": "Data on when the anime was first distributed.",
+                        "type": "object",
+                        "required": [
+                            "season"
+                        ],
+                        "properties": {
+                            "season": {
+                                "description": "Season.",
+                                "enum": [
+                                    "SPRING",
+                                    "SUMMER",
+                                    "FALL",
+                                    "WINTER",
+                                    "UNDEFINED"
+                                ]
+                            },
+                            "year": {
+                                "description": "Year.",
+                                "type": ["number", "null"],
+                                "minimum": 1907
+                            }
+                        }
+                    },
+                    "picture": {
+                        "description": "URL of a picture which represents the anime.",
+                        "type": "string"
+                    },
+                    "thumbnail": {
+                        "description": "URL of a smaller version of the picture.",
+                        "type": "string"
+                    },
+                    "synonyms": {
+                        "description": "Alternative titles and spellings under which the anime is also known.",
+                        "type": "array",
+                        "uniqueItems": true,
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "relatedAnime": {
+                        "description": "URLs to the meta data providers for anime that are somehow related to this anime.",
+                        "type": "array",
+                        "uniqueItems": true,
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "tags": {
+                        "description": "A non-curated list of tags and genres which describe the anime.",
+                        "type": "array",
+                        "uniqueItems": true,
+                        "items": {
+                            "type": "string"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
