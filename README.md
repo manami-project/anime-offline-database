@@ -16,7 +16,7 @@ The dataset consists of **33710** entries _(100% reviewed)_ composed of:
 + 18294 entries from anilist.co
 + 16288 entries from notify.moe
 + 13294 entries from anidb.net
-+ 11246 entries from livechart.me
++ 11245 entries from livechart.me
 
 Missed updates:
 + **2024:** 0 _(so far)_
