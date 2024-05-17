@@ -15,6 +15,8 @@ Websites which provide information about anime such as `myanimelist.net`, `notif
 ## Can you please add additional data/properties?
 No. The dataset has been created for my own tool. It contains all data/properties that I need and I won't add more data/properties. This is merely an index. The idea is to visit the meta data provider of your choice to get additional information about the anime.
 
+Out of curiosity I created an extension project "[modb-extension ](https://github.com/manami-project/modb-extension)" which can be seen as an experimental demonstration on how to extend the current dataset. It currently contains **synopsis** and **scores**.
+
 ## Can you please add an additional meta data provider?
 No. I don't plan to add any additional meta data provider.
 
@@ -29,7 +31,7 @@ If you query this dataset based on titles/synonyms it might seem that there are 
 A duplicate by defintion of this dataset is an entry which contains multiple links of the same meta data provider in `sources`.
 
 ## Why are there no IDs?
-There are. The entries under `sources` are the IDs. Each one of the array's URLs is a key for that specific entry.
+There are. The entries under `sources` are the IDs. Each of the arrays URLs is a key for that specific entry.
 
 ## Is this dataset created automatically or manually?
 It is created automatically and reviewed in a half-automated process.
