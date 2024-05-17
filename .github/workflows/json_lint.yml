@@ -48,7 +48,7 @@ jobs:
       - uses: cardinalby/schema-validator-action@v3
         with:
           file: 'anime-offline-database.json'
-          schema: 'schema.json'
+          schema: 'anime-offline-database.schema.json'
   dataset-minified-validation:
     needs: check-commit-message
     if: ${{ needs.check-commit-message.outputs.run_schema_validation == 'true' }}
@@ -58,7 +58,7 @@ jobs:
       - uses: cardinalby/schema-validator-action@v3
         with:
           file: 'anime-offline-database-minified.json'
-          schema: 'schema.json'
+          schema: 'anime-offline-database.schema.json'
   dead-entries-validation:
     needs: check-commit-message
     if: ${{ needs.check-commit-message.outputs.run_schema_validation == 'true' }}
@@ -68,4 +68,4 @@ jobs:
       - uses: cardinalby/schema-validator-action@v3
         with:
           file: 'dead-entries/anidb.json|dead-entries/anidb-minified.json|dead-entries/anilist.json|dead-entries/anilist-minified.json|dead-entries/kitsu.json|dead-entries/kitsu-minified.json|dead-entries/myanimelist.json|dead-entries/myanimelist-minified.json'
-          schema: 'dead-entries/schema.json'
+          schema: 'dead-entries/dead-entries.schema.json'

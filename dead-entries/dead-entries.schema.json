@@ -1,8 +1,8 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "$id": "https://github.com/manami-project/anime-offline-database/blob/raw/dead-entries/schema.json",
+    "$id": "https://github.com/manami-project/anime-offline-database/blob/raw/dead-entries/dead-entries.schema.json",
     "title": "anime-offline-database",
-    "description": "Updated every week: A JSON based anime dataset containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more... ",
+    "description": "Updated every week: A JSON based anime dataset containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more...",
     "type": "object",
     "required": [
         "license",

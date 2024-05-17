@@ -5,7 +5,7 @@
 !anime-offline-database.json
 !anime-offline-database-minified.json
 !anime-offline-database.zip
-!schema.json
+!anime-offline-database.schema.json
 
 !.github/
 .github/*
@@ -39,7 +39,7 @@ dead-entries/*
 !dead-entries/myanimelist.json
 !dead-entries/myanimelist-minified.json
 !dead-entries/myanimelist.zip
-!dead-entries/schema.json
+!dead-entries/dead-entries.schema.json
 
 !pics/
 pics/*

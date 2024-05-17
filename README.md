@@ -38,6 +38,10 @@ Minified version of `anime-offline-database.json` which contains the same data, 
 
 Zipped file of `anime-offline-database-minified.json` which contains the same data, but is smaller in size.
 
+### anime-offline-database.schema.json
+
+[JSON schema](https://json-schema.org) file for validating both **anime-offline-database-minified.json** and **anime-offline-database.json**.
+
 ### anime-offline-database.json
 
 #### Data types
@@ -225,6 +229,8 @@ For each meta data provider there is:
 * a `*.json` file (pretty print)
 * a `*-minified.json` file which contains the same data, but is smaller in size.
 * a `*.zip` which contains the minified JSON file.
+
+There is also a file called **dead-entries.schema.json** which is a [JSON schema](https://json-schema.org) file for validating each dead entry file.
 
 #### Data types
 
