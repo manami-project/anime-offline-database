@@ -6,17 +6,17 @@ The purpose of this repository is to create a dataset containing anime meta data
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 20 [2024]**
+Update **week 21 [2024]**
 
-The dataset consists of **33759** entries _(100% reviewed)_ composed of:
-+ 27047 entries from myanimelist.net
-+ 23859 entries from anime-planet.com
-+ 20356 entries from kitsu.io
-+ 18612 entries from anisearch.com
-+ 18325 entries from anilist.co
-+ 16292 entries from notify.moe
-+ 13304 entries from anidb.net
-+ 11256 entries from livechart.me
+The dataset consists of **33791** entries _(99% reviewed)_ composed of:
++ 27057 entries from myanimelist.net
++ 23878 entries from anime-planet.com
++ 20365 entries from kitsu.io
++ 18617 entries from anisearch.com
++ 18331 entries from anilist.co
++ 16297 entries from notify.moe
++ 13312 entries from anidb.net
++ 11264 entries from livechart.me
 
 Missed updates:
 + **2024:** 0 _(so far)_
@@ -40,7 +40,7 @@ Zipped file of `anime-offline-database-minified.json` which contains the same da
 
 ### anime-offline-database.schema.json
 
-[JSON schema](https://json-schema.org) file for validating both **anime-offline-database-minified.json** and **anime-offline-database.json**.
+[JSON schema](https://json-schema.org) file for validating both `anime-offline-database-minified.json` and `anime-offline-database.json`.
 
 ### anime-offline-database.json
 
