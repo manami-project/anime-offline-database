@@ -6,17 +6,20 @@ The purpose of this repository is to create a dataset containing anime meta data
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 25 [2024]**
+Update **week 26 [2024]**
 
-The dataset consists of **33958** entries _(100% reviewed)_ composed of:
-+ 27219 entries from myanimelist.net
-+ 23973 entries from anime-planet.com
-+ 20451 entries from kitsu.io
-+ 18716 entries from anisearch.com
-+ 18391 entries from anilist.co
-+ 16331 entries from notify.moe
-+ 13369 entries from anidb.net
-+ 11303 entries from livechart.me
+The dataset consists of **34002** entries _(99% reviewed)_ composed of:
+
+| Number of entries | Meta data provider |
+|-------------------|--------------------|
+| 27238 | [myanimelist.net](https://myanimelist.net) |
+| 23967 | [anime-planet.com](https://anime-planet.com) |
+| 20459 | [kitsu.io](https://kitsu.io) |
+| 18718 | [anisearch.com](https://anisearch.com) |
+| 18445 | [anilist.co](https://anilist.co) |
+| 16331 | [notify.moe](https://notify.moe) |
+| 13382 | [anidb.net](https://anidb.net) |
+| 11310 | [livechart.me](https://livechart.me) |
 
 Missed updates:
 + **2024:** 0 _(so far)_
@@ -27,63 +30,78 @@ Missed updates:
 + **2019:** 2
 + **2018:** 1
 
-## Structure
+## Files
+
 This repository contains various JSON and zip files. The dataset file itself as well as files containing IDs of dead entries for some meta data providers to support the automated process.
 
-### anime-offline-database-minified.json
+| File                                    | Type reference                         | Description                                                                                                                                                                                                            |
+|-----------------------------------------|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `anime-offline-database-minified.json`  | [Database root](#database-root)        | Minified version of `anime-offline-database.json` which contains the same data, but is smaller in size.                                                                                                                |
+| `anime-offline-database.json`           | [Database root](#database-root)        | Contains anime data already merged from different meta data providers. Content is pretty print. Check [modb-extension](https://github.com/manami-project/modb-extension) if you are looking for additional properties. |
+| `anime-offline-database.schema.json`    | [JSON schema](https://json-schema.org) | JSON schema file for validating `anime-offline-database.json`.                                                                                                                                                         |
+| `anime-offline-database.zip`            | [Database root](#database-root)        | Zipped file of `anime-offline-database-minified.json` which contains the same data, but is even smaller in size.                                                                                                       |
+| `dead-entries/*-minified.json`          | [DeadEntries root](#deadentries-root)  | A file where `*` is the name of the respective meta data provider. Contains the same data as `dead-entries/*.json`, but is smaller in size.                                                                            |
+| `dead-entries/*.json`                   | [DeadEntries root](#deadentries-root)  | A file where `*` is the name of the respective meta data provider. Contains anime IDs which have been removed from the meta data provider. Pretty print.                                                               |
+| `dead-entries/*.zip`                    | [DeadEntries root](#deadentries-root)  | A file where `*` is the name of the respective meta data provider. Contains the same data as `dead-entries/*-minified.json`, but is even smaller in size.                                                              |
+| `dead-entries/dead-entries.schema.json` | [JSON schema](https://json-schema.org) | JSON schema file for validating all the `dead-entries/*-minified.json` and `dead-entries/*.json` files.                                                                                                                |
 
-Minified version of `anime-offline-database.json` which contains the same data, but is smaller in size.
+## Type reference
 
-### anime-offline-database.zip
+Here is description of the types in the JSON files.
 
-Zipped file of `anime-offline-database-minified.json` which contains the same data, but is smaller in size.
+### Database root
 
-### anime-offline-database.schema.json
+| Field        | Type                        | Nullable | Description                                                       |
+|--------------|-----------------------------|----------|-------------------------------------------------------------------|
+| `license`    | [License](#license)         | no       | Information about the license of the dataset.                     |
+| `repository` | `URL`                       | no       | URL of this github repository which is the source of the dataset. |
+| `lastUpdate` | `Date` (format: YYYY-MM-DD) | no       | The date on which the file was updated.                           |
+| `data`       | [Anime[]](#anime)           | no       | List of all anime.                                                |
 
-[JSON schema](https://json-schema.org) file for validating both `anime-offline-database-minified.json` and `anime-offline-database.json`.
+### License
 
-### anime-offline-database.json
+| Field | Type     | Nullable | Description                    |
+|-------|----------|----------|--------------------------------|
+| name  | `String` | no       | Name of the license.           |
+| url   | `URL`    | no       | URL to the whole license file. |
 
-Contains anime data already merged from different meta data providers. Check [modb-extension](https://github.com/manami-project/modb-extension) if you are looking for additional properties.
+### Anime
 
-#### Data types
+| Field        | Type                                              | Nullable | Description                                                                       |
+|--------------|---------------------------------------------------|----------|-----------------------------------------------------------------------------------|
+| sources      | `URL[]`                                           | no       | URLs to the pages of the meta data providers for this anime.                      |
+| title        | `String`                                          | no       | Main title.                                                                       |
+| type         | `Enum of [TV, MOVIE, OVA, ONA, SPECIAL, UNKNOWN]` | no       | Distribution type.                                                                |
+| episodes     | `Integer`                                         | no       | Number of episodes, movies or parts.                                              |
+| status       | `Enum of [FINISHED, ONGOING, UPCOMING, UNKNOWN]`  | no       | Status of distribution.                                                           |
+| animeSeason  | [AnimeSeason](#animeseason)                       | no       | Data on when the anime was first distributed.                                     |
+| picture      | `URL`                                             | no       | URL of a picture which represents the anime.                                      |
+| thumbnail    | `URL`                                             | no       | URL of a smaller version of the picture.                                          |
+| synonyms     | `String[]`                                        | no       | Alternative titles and spellings under which the anime is also known.             |
+| relatedAnime | `URL[]`                                           | no       | URLs to the meta data providers for anime that are somehow related to this anime. |
+| tags         | `String[]`                                        | no       | A non-curated list of tags and genres which describe the anime.                   |
 
-**Root**
-| Field | Type | Nullable | Description |
-| --- | --- | --- | --- |
-| license | `License` | no | Information about the license of the dataset. |
-| repository | `URL` | no | URL of this github repository which is the source of the dataset. |
-| lastUpdate | `Date` (format: YYYY-MM-DD) | no | The date on which the file was updated. |
-| data | `Anime[]` | no | List of all anime. |
+### AnimeSeason
 
-**Anime**
-| Field | Type | Nullable | Description |
-| --- | --- | --- | --- |
-| sources | `URL[]` | no | URLs to the pages of the meta data providers for this anime. |
-| title | `String` | no | Main title. |
-| type | `Enum of [TV, MOVIE, OVA, ONA, SPECIAL, UNKNOWN]` | no | Distribution type. |
-| episodes | `Integer` | no | Number of episodes, movies or parts. |
-| status | `Enum of [FINISHED, ONGOING, UPCOMING, UNKNOWN]` | no | Status of distribution. |
-| animeSeason | `AnimeSeason` | no | Data on when the anime was first distributed. |
-| picture | `URL` | no | URL of a picture which represents the anime. |
-| thumbnail | `URL` | no | URL of a smaller version of the picture. |
-| synonyms | `String[]` | no | Alternative titles and spellings under which the anime is also known. |
-| relatedAnime | `URL[]` | no | URLs to the meta data providers for anime that are somehow related to this anime.  |
-| tags | `String[]` | no | A non-curated list of tags and genres which describe the anime. |
+| Field  | Type                                                | Nullable | Description |
+|--------|-----------------------------------------------------|----------|-------------|
+| season | `Enum of [SPRING, SUMMER, FALL, WINTER, UNDEFINED]` | no       | Season.     |
+| year   | `Integer`                                           | yes      | Year.       |
 
-**AnimeSeason**
-| Field | Type | Nullable | Description |
-| --- | --- | --- | --- |
-| season | `Enum of [SPRING, SUMMER, FALL, WINTER, UNDEFINED]` | no | Season. |
-| year | `Integer` | yes | Year. |
+### DeadEntries root
 
-**License**
-| Field | Type | Nullable | Description |
-| --- | --- | --- | --- |
-| name | `String` | no | Name of the license. |
-| url | `URL` | no | URL to the whole license file. |
+| Field       | Type                        | Nullable | Description                                                                  |
+|-------------|-----------------------------|----------|------------------------------------------------------------------------------|
+| license     | [License](#license)         | no       | Information about the license of the dataset.                                |
+| repository  | `URL`                       | no       | URL of this github repository which is the source of the dataset.            |
+| lastUpdate  | `Date` (format: YYYY-MM-DD) | no       | The date on which the file was updated.                                      |
+| deadEntries | `String[]`                  | no       | IDs of anime which have been removed from the respective meta data provider. |
 
-#### Example:
+## Examples
+
+Here are some examples showing what the files look like.
+
+### anime-offline-database.json:
 
 ```json
 {
@@ -225,25 +243,7 @@ Contains anime data already merged from different meta data providers. Check [mo
 }
 ```
 
-### dead-entries
-Each file contains anime IDs of the corresponding meta data provider which have been removed from the dataset.
-For each meta data provider there is:
-* a `*.json` file (pretty print)
-* a `*-minified.json` file which contains the same data, but is smaller in size.
-* a `*.zip` which contains the minified JSON file.
-
-There is also a file called **dead-entries.schema.json** which is a [JSON schema](https://json-schema.org) file for validating each dead entry file.
-
-#### Data types
-
-| Field | Type | Nullable | Description |
-| --- | --- | --- | --- |
-| license | `License` | no | Information about the license of the dataset. |
-| repository | `URL` | no | URL of this github repository which is the source of the dataset. |
-| lastUpdate | `Date` (format: YYYY-MM-DD) | no | The date on which the file was updated. |
-| deadEntries | `String[]` | no | IDs of anime which have been removed from the respective meta data provider. |
-
-#### Example
+### dead-entries/*.json
 
 ```json
 {
