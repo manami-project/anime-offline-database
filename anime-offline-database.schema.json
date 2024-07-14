@@ -98,7 +98,8 @@
                         "description": "Data on when the anime was first distributed.",
                         "type": "object",
                         "required": [
-                            "season"
+                            "season",
+                            "year"
                         ],
                         "properties": {
                             "season": {

@@ -58,7 +58,7 @@ jobs:
       - uses: cardinalby/schema-validator-action@v3
         with:
           file: 'anime-offline-database-minified.json'
-          schema: 'anime-offline-database.schema.json'
+          schema: 'anime-offline-database-minified.schema.json'
   dead-entries-validation:
     needs: check-commit-message
     if: ${{ needs.check-commit-message.outputs.run_schema_validation == 'true' }}
