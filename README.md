@@ -8,7 +8,7 @@ The purpose of this repository is to create a dataset containing anime meta data
 ## Statistics
 Update **week 29 [2024]**
 
-The dataset consists of **34210** entries _(99% reviewed)_ composed of:
+The dataset consists of **34189** entries _(99% reviewed)_ composed of:
 
 | Number of entries | Meta data provider |
 |-------------------|--------------------|
