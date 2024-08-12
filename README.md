@@ -1,25 +1,25 @@
 ![Check JSON files](https://github.com/manami-project/anime-offline-database/actions/workflows/json_lint.yml/badge.svg)
 
 # anime-offline-database
-The purpose of this repository is to create a dataset containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, kitsu.io and more) and allow cross references between those meta data providers. This dataset is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
+The purpose of this repository is to create a dataset containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, kitsu.app and more) and allow cross references between those meta data providers. This dataset is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
 
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 32 [2024]**
+Update **week 33 [2024]**
 
-The dataset consists of **34430** entries _(98% reviewed)_ composed of:
+The dataset consists of **34469** entries _(98% reviewed)_ composed of:
 
 | Number of entries | Meta data provider |
 |-------------------|--------------------|
-| 27497 | [myanimelist.net](https://myanimelist.net) |
-| 24054 | [anime-planet.com](https://anime-planet.com) |
-| 20570 | [kitsu.io](https://kitsu.io) |
-| 18841 | [anisearch.com](https://anisearch.com) |
-| 18775 | [anilist.co](https://anilist.co) |
+| 27507 | [myanimelist.net](https://myanimelist.net) |
+| 24070 | [anime-planet.com](https://anime-planet.com) |
+| 20576 | [kitsu.app](https://kitsu.app) |
+| 18865 | [anisearch.com](https://anisearch.com) |
+| 18779 | [anilist.co](https://anilist.co) |
 | 16385 | [notify.moe](https://notify.moe) |
-| 13456 | [anidb.net](https://anidb.net) |
-| 11381 | [livechart.me](https://livechart.me) |
+| 13465 | [anidb.net](https://anidb.net) |
+| 11390 | [livechart.me](https://livechart.me) |
 
 Missed updates:
 + **2024:** 0 _(so far)_
@@ -119,7 +119,7 @@ Here are some examples showing what the files look like.
                 "https://anilist.co/anime/1535",
                 "https://anime-planet.com/anime/death-note",
                 "https://anisearch.com/anime/3633",
-                "https://kitsu.io/anime/1376",
+                "https://kitsu.app/anime/1376",
                 "https://livechart.me/anime/3437",
                 "https://myanimelist.net/anime/1535",
                 "https://notify.moe/anime/0-A-5Fimg"
@@ -177,7 +177,7 @@ Here are some examples showing what the files look like.
                 "https://anime-planet.com/anime/death-note-rewrite-2-ls-successors",
                 "https://anisearch.com/anime/4441",
                 "https://anisearch.com/anime/5194",
-                "https://kitsu.io/anime/2707",
+                "https://kitsu.app/anime/2707",
                 "https://livechart.me/anime/3808",
                 "https://myanimelist.net/anime/2994",
                 "https://notify.moe/anime/DBBU5Kimg"
