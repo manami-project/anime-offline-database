@@ -126,6 +126,25 @@
                         "description": "URL of a smaller version of the picture.",
                         "type": "string"
                     },
+                    "duration": {
+                        "description": "Duration per episode.",
+                        "type": "object",
+                        "required": [
+                            "value",
+                            "unit"
+                        ],
+                        "properties": {
+                            "value": {
+                                "description": "Duration in seconds",
+                                "type": "number",
+                                "minimum": 1
+                            },
+                            "unit": {
+                                "description": "When (de)serialized the unit is always SECONDS",
+                                "const": "SECONDS"
+                            }
+                        }
+                    },
                     "synonyms": {
                         "description": "Alternative titles and spellings under which the anime is also known.",
                         "type": "array",
