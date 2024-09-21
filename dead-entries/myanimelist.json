@@ -4,7 +4,7 @@
     "url": "https://github.com/manami-project/anime-offline-database/blob/master/LICENSE"
   },
   "repository": "https://github.com/manami-project/anime-offline-database",
-  "lastUpdate": "2024-09-17",
+  "lastUpdate": "2024-09-21",
   "deadEntries": [
     "10",
     "10001",
@@ -29679,6 +29679,10 @@
     "5985",
     "59860",
     "59861",
+    "59863",
+    "59866",
+    "59869",
+    "59870",
     "5988",
     "5989",
     "5991",
