@@ -6,20 +6,20 @@ The purpose of this repository is to create a dataset containing anime meta data
 **The goal is to deliver at least weekly updates.**
 
 ## Statistics
-Update **week 39 [2024]**
+Update **week 40 [2024]**
 
-The dataset consists of **34622** entries _(98% reviewed)_ composed of:
+The dataset consists of **34713** entries _(98% reviewed)_ composed of:
 
 | Number of entries | Meta data provider |
 |-------------------|--------------------|
-| 27768 | [myanimelist.net](https://myanimelist.net) |
-| 24135 | [anime-planet.com](https://anime-planet.com) |
-| 20690 | [kitsu.app](https://kitsu.app) |
-| 18959 | [anisearch.com](https://anisearch.com) |
-| 18899 | [anilist.co](https://anilist.co) |
-| 16518 | [notify.moe](https://notify.moe) |
-| 13517 | [anidb.net](https://anidb.net) |
-| 11441 | [livechart.me](https://livechart.me) |
+| 27812 | [myanimelist.net](https://myanimelist.net) |
+| 24167 | [anime-planet.com](https://anime-planet.com) |
+| 20715 | [kitsu.app](https://kitsu.app) |
+| 18992 | [anisearch.com](https://anisearch.com) |
+| 18930 | [anilist.co](https://anilist.co) |
+| 16539 | [notify.moe](https://notify.moe) |
+| 13533 | [anidb.net](https://anidb.net) |
+| 11456 | [livechart.me](https://livechart.me) |
 
 Missed updates:
 + **2024:** 0 _(so far)_
