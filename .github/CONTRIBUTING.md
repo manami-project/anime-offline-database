@@ -37,7 +37,7 @@ There are. The entries under `sources` are the IDs. Each of the arrays URLs is a
 It is created automatically and reviewed in a half-automated process.
 
 ## Do you plan to open source the code which creates this dataset?
-Yes. Parts of the code are already [available](https://github.com/manami-project?tab=repositories&q=modb&type=source). The rest is added step by step.
+The code is [available](https://github.com/manami-project?tab=repositories&q=modb&type=source).
 
 ## How do you split entries?
 Entries are split if one meta data provider lists multiple entries as one and others don't.
