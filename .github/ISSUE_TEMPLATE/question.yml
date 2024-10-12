@@ -1,0 +1,22 @@
+name: General question
+description: You have a question is not yet covered by the FAQ before posting.
+labels: [question]
+assignees: manami-project
+body:
+- type: checkboxes
+  id: faq
+  attributes:
+    label: Have you read the FAQ?
+    description: Before posting a question make sure that you carefully read [FAQ](https://github.com/manami-project/anime-offline-database/blob/master/.github/CONTRIBUTING.md#faq) before posting. It is very likely that your question has already been covered.
+    options:
+      - label: Yes, I have read the FAQ and my question was not answered in the there.
+        required: true
+  validations:
+    required: true
+- type: textarea
+  id: question
+  attributes:
+    label: Your question
+    description: What would you like to ask that has not yet been covered in the FAQ?
+  validations:
+    required: true

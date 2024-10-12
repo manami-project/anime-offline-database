@@ -1,0 +1,73 @@
+name: Split request
+description: Entries have been merged together although they should be separate entries?
+title: "Split entries for <title>"
+labels: [split-request]
+assignees: manami-project
+body:
+- type: checkboxes
+  id: faq
+  attributes:
+    label: Have you read the FAQ?
+    description: Make sure that you carefully read [FAQ](https://github.com/manami-project/anime-offline-database/blob/master/.github/CONTRIBUTING.md#faq) before posting.
+    options:
+      - label: Yes I have read the FAQ
+        required: true
+  validations:
+    required: true
+- type: textarea
+  id: original
+  attributes:
+    label: Original entry
+    description: Which entry should be split? Paste the content of the `sources` property fromt the original entry in the dataset here.
+  validations:
+    required: true
+- type: markdown
+  attributes:
+    value: |
+      **Example:**
+      ````
+      ```
+      "https://anidb.net/anime/9466",
+      "https://anilist.co/anime/15809",
+      "https://anime-planet.com/anime/the-devil-is-a-part-timer",
+      "https://kitsu.io/anime/7314",
+      "https://myanimelist.net/anime/15809",
+      "https://notify.moe/anime/CGnFpKimR"
+      "https://anidb.net/anime/16104",
+      "https://anilist.co/anime/130592",
+      "https://anime-planet.com/anime/the-devil-is-a-part-timer-2",
+      "https://kitsu.io/anime/44113",
+      "https://myanimelist.net/anime/48413",
+      "https://notify.moe/anime/Zy3-TV8MR"
+      ```
+      ````
+- type: textarea
+  id: expected_entries
+  attributes:
+    label: How should it be split?
+    description: List the different entries you expect to see here. Paste the URLs from `sources` property. Mark each entry with enclosing backticks (```)
+  validations:
+    required: true
+- type: markdown
+  attributes:
+    value: |
+      **Example:**
+      ````
+      ```
+      "https://anidb.net/anime/9466",
+      "https://anilist.co/anime/15809",
+      "https://anime-planet.com/anime/the-devil-is-a-part-timer",
+      "https://kitsu.io/anime/7314",
+      "https://myanimelist.net/anime/15809",
+      "https://notify.moe/anime/CGnFpKimR"
+      ```
+  
+      ```
+      "https://anidb.net/anime/16104",
+      "https://anilist.co/anime/130592",
+      "https://anime-planet.com/anime/the-devil-is-a-part-timer-2",
+      "https://kitsu.io/anime/44113",
+      "https://myanimelist.net/anime/48413",
+      "https://notify.moe/anime/Zy3-TV8MR"
+      ```
+      ````

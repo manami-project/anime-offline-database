@@ -1,0 +1,23 @@
+name: Merge request
+description: Entries which are separate in the dataset should be merged together?
+title: "Merge entries for <title>"
+labels: [merge-request]
+assignees: manami-project
+body:
+- type: checkboxes
+  id: faq
+  attributes:
+    label: Have you read the FAQ?
+    description: Make sure that you carefully read [FAQ](https://github.com/manami-project/anime-offline-database/blob/master/.github/CONTRIBUTING.md#faq) before posting.
+    options:
+      - label: Yes I have read the FAQ
+        required: true
+  validations:
+    required: true
+- type: textarea
+  id: entries
+  attributes:
+    label: Sources
+    description: List the URLs from `sources` property which should be merged together into a single entry.
+  validations:
+    required: true

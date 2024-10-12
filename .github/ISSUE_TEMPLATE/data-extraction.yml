@@ -1,0 +1,99 @@
+name: Problem in data extraction
+description: Is there a problem in the data extraction?
+labels: [data-extraction]
+assignees: manami-project
+body:
+- type: checkboxes
+  id: faq
+  attributes:
+    label: Have you read the FAQ?
+    description: Make sure that you carefully read [FAQ](https://github.com/manami-project/anime-offline-database/blob/master/.github/CONTRIBUTING.md#faq) before posting.
+    options:
+      - label: Yes I have read the FAQ
+        required: true
+  validations:
+    required: true
+- type: dropdown
+  id: meta_data_provider
+  attributes:
+    label: Meta data provider
+    description: Which meta data provider is affected?
+    options:
+      - anidb.net
+      - anilist.co
+      - anime-planet.com
+      - anisearch.com
+      - kitsu.app
+      - livechart.me
+      - myanimelist.net
+      - notify.moe
+    default: 0
+  validations:
+    required: true
+- type: dropdown
+  id: properties
+  attributes:
+    label: Affected properties
+    description: Which properties seem to be incorrect.
+    multiple: true
+    options:
+      - sources
+      - title
+      - type
+      - episodes
+      - status
+      - animeSeason.season
+      - animeSeason.year
+      - picture
+      - thumbnail
+      - duration
+      - synonyms
+      - relatedAnime
+      - tags
+  validations:
+    required: true
+- type: input
+  id: example
+  attributes:
+    label: Example
+    description: Name an example by posting the URL from the `sources` of the anime.
+    placeholder: https://example.org/anime/1234
+  validations:
+    required: true
+- type: textarea
+  id: expected_value
+  attributes:
+    label: Expected value
+    description: Which value did you expect for the mentioned example?
+  validations:
+    required: true
+- type: input
+  id: additional_example_1
+  attributes:
+    label: Additional example 1
+    description: Can you name an additional example?
+    placeholder: https://example.org/anime/1234
+  validations:
+    required: false
+- type: textarea
+  id: additional_expected_value_1
+  attributes:
+    label: Expected value
+    description: Which value did you expect for the additional example?
+  validations:
+    required: false
+- type: input
+  id: additional_example_2
+  attributes:
+    label: Additional example
+    description: Can you name an additional example?
+    placeholder: https://example.org/anime/1234
+  validations:
+    required: false
+- type: textarea
+  id: additional_expected_value_2
+  attributes:
+    label: Expected value
+    description: Which value did you expect for the additional example?
+  validations:
+    required: false

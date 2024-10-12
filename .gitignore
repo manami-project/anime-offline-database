@@ -20,10 +20,10 @@
 
 !.github/ISSUE_TEMPLATE/
 .github/ISSUE_TEMPLATE/*
-!.github/ISSUE_TEMPLATE/data-extraction.md
-!.github/ISSUE_TEMPLATE/question.md
-!.github/ISSUE_TEMPLATE/split-request.md
-!.github/ISSUE_TEMPLATE/merge-request.md
+!.github/ISSUE_TEMPLATE/data-extraction.yml
+!.github/ISSUE_TEMPLATE/question.yml
+!.github/ISSUE_TEMPLATE/split-request.yml
+!.github/ISSUE_TEMPLATE/merge-request.yml
 !.github/ISSUE_TEMPLATE/config.yml
 
 !dead-entries/
