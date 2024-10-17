@@ -1,5 +1,5 @@
 name: General question
-description: You have a question is not yet covered by the FAQ before posting.
+description: You have a question which is not yet covered by the FAQ before posting.
 labels: [question]
 assignees: manami-project
 body:
