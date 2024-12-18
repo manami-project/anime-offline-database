@@ -4,7 +4,7 @@
     "url": "https://github.com/manami-project/anime-offline-database/blob/master/LICENSE"
   },
   "repository": "https://github.com/manami-project/anime-offline-database",
-  "lastUpdate": "2024-12-09",
+  "lastUpdate": "2024-12-17",
   "deadEntries": [
     "10002",
     "10003",
@@ -1919,6 +1919,9 @@
     "19012",
     "19014",
     "19026",
+    "19036",
+    "19037",
+    "19057",
     "1914",
     "1927",
     "1937",
