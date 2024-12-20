@@ -6,7 +6,7 @@ The purpose of this repository is to create a dataset containing anime meta data
 ## Statistics
 Update **week 51 [2024]**
 
-The dataset consists of **35081** entries _(98% reviewed)_ composed of:
+The dataset consists of **35044** entries _(99% reviewed)_ composed of:
 
 | Number of entries | Meta data provider |
 |-------------------|--------------------|
@@ -17,7 +17,7 @@ The dataset consists of **35081** entries _(98% reviewed)_ composed of:
 | 19153 | [anilist.co](https://anilist.co) |
 | 16623 | [notify.moe](https://notify.moe) |
 | 13652 | [anidb.net](https://anidb.net) |
-| 11564 | [livechart.me](https://livechart.me) |
+| 11566 | [livechart.me](https://livechart.me) |
 
 
 ## Files
