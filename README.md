@@ -4,20 +4,22 @@
 The purpose of this repository is to create a dataset containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, kitsu.app and more) and allow cross references between those meta data providers. This dataset is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
 
 ## Statistics
-Update **week 52 [2024]**
+Update **week 07 [2025]**
 
-The dataset consists of **35024** entries _(100% reviewed)_ composed of:
+The dataset consists of **36222** entries _(61% reviewed)_ composed of:
 
 | Number of entries | Meta data provider |
 |-------------------|--------------------|
-| 28203 | [myanimelist.net](https://myanimelist.net) |
-| 24428 | [anime-planet.com](https://anime-planet.com) |
-| 20891 | [kitsu.app](https://kitsu.app) |
-| 19333 | [anisearch.com](https://anisearch.com) |
-| 19204 | [anilist.co](https://anilist.co) |
-| 16634 | [notify.moe](https://notify.moe) |
-| 13665 | [anidb.net](https://anidb.net) |
-| 11584 | [livechart.me](https://livechart.me) |
+| 28462 | [myanimelist.net](https://myanimelist.net) |
+| 24555 | [anime-planet.com](https://anime-planet.com) |
+| 20990 | [kitsu.app](https://kitsu.app) |
+| 19516 | [anisearch.com](https://anisearch.com) |
+| 19318 | [anilist.co](https://anilist.co) |
+| 16719 | [notify.moe](https://notify.moe) |
+| 13719 | [simkl.com](https://simkl.com) |
+| 13719 | [animecountdown.com](https://animecountdown.com) |
+| 13714 | [anidb.net](https://anidb.net) |
+| 11627 | [livechart.me](https://livechart.me) |
 
 
 ## Files
@@ -102,6 +104,9 @@ Here are some examples showing what the files look like.
 
 ### anime-offline-database.json:
 
+<details open>
+<summary>Example</summary>
+
 ```json
 {
     "license": {
@@ -111,142 +116,195 @@ Here are some examples showing what the files look like.
     "repository": "https://github.com/manami-project/anime-offline-database",
     "lastUpdate": "2024-01-06",
     "data": [
-        {
-            "sources": [
-                "https://anidb.net/anime/4563",
-                "https://anilist.co/anime/1535",
-                "https://anime-planet.com/anime/death-note",
-                "https://anisearch.com/anime/3633",
-                "https://kitsu.app/anime/1376",
-                "https://livechart.me/anime/3437",
-                "https://myanimelist.net/anime/1535",
-                "https://notify.moe/anime/0-A-5Fimg"
-            ],
-            "title": "Death Note",
-            "type": "TV",
-            "episodes": 37,
-            "status": "FINISHED",
-            "animeSeason": {
-                "season": "FALL",
-                "year": 2006
-            },
-            "picture": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
-            "thumbnail": "https://cdn.myanimelist.net/images/anime/9/9453t.jpg",
-            "duration": {
-                "value": 1380,
-                "unit": "SECONDS"
-            },
-            "synonyms": [
-                "Bilježnica smrti",
-                "Caderno da Morte",
-                "Carnet de la Mort",
-                "DEATH NOTE",
-                "DN",
-                "Death Note - A halállista",
-                "Death Note - Carnetul morţii",
-                "Death Note - Zápisník smrti",
-                "Mirties Užrašai",
-                "Notatnik śmierci",
-                "Notes Śmierci",
-                "Quaderno della Morte",
-                "Sveska Smrti",
-                "Ölüm Defteri",
-                "Τετράδιο Θανάτου",
-                "Бележник на Смъртта",
-                "Записник Смерті",
-                "Свеска Смрти",
-                "Тетрадка на Смъртта",
-                "Тетрадь cмерти",
-                "Үхлийн Тэмдэглэл",
-                "מחברת המוות",
-                "دفترچه مرگ",
-                "دفترچه یادداشت مرگ",
-                "كـتـاب الـموت",
-                "مدونة الموت",
-                "مذكرة الموت",
-                "موت نوٹ",
-                "डेथ नोट",
-                "ですのーと",
-                "デスノート",
-                "死亡笔记",
-                "데스노트"
-            ],
-            "relatedAnime": [
-                "https://anidb.net/anime/8146",
-                "https://anidb.net/anime/8147",
-                "https://anilist.co/anime/2994",
-                "https://anime-planet.com/anime/death-note-rewrite-1-visions-of-a-god",
-                "https://anime-planet.com/anime/death-note-rewrite-2-ls-successors",
-                "https://anisearch.com/anime/4441",
-                "https://anisearch.com/anime/5194",
-                "https://kitsu.app/anime/2707",
-                "https://livechart.me/anime/3808",
-                "https://myanimelist.net/anime/2994",
-                "https://notify.moe/anime/DBBU5Kimg"
-            ],
-            "tags": [
-                "alternative present",
-                "amnesia",
-                "anti-hero",
-                "asexual",
-                "asia",
-                "based on a manga",
-                "contemporary fantasy",
-                "cops",
-                "crime",
-                "crime fiction",
-                "criminals",
-                "detective",
-                "detectives",
-                "drama",
-                "earth",
-                "espionage",
-                "fantasy",
-                "genius",
-                "gods",
-                "hero of strong character",
-                "horror",
-                "japan",
-                "kamis",
-                "kuudere",
-                "male protagonist",
-                "manga",
-                "mind games",
-                "mystery",
-                "overpowered main characters",
-                "philosophy",
-                "plot continuity",
-                "police",
-                "policeman",
-                "present",
-                "primarily adult cast",
-                "primarily male cast",
-                "psychological",
-                "psychological drama",
-                "psychopaths",
-                "revenge",
-                "rivalries",
-                "secret identity",
-                "serial killers",
-                "shinigami",
-                "shounen",
-                "supernatural",
-                "supernatural drama",
-                "thriller",
-                "time skip",
-                "tragedy",
-                "twisted story",
-                "university",
-                "urban",
-                "urban fantasy",
-                "vigilantes"
-            ]
+    {
+          "sources": [
+            "https://anidb.net/anime/4563",
+            "https://anilist.co/anime/1535",
+            "https://anime-planet.com/anime/death-note",
+            "https://animecountdown.com/40190",
+            "https://anisearch.com/anime/3633",
+            "https://kitsu.app/anime/1376",
+            "https://livechart.me/anime/3437",
+            "https://myanimelist.net/anime/1535",
+            "https://notify.moe/anime/0-A-5Fimg",
+            "https://simkl.com/anime/40190"
+          ],
+          "title": "Death Note",
+          "type": "TV",
+          "episodes": 37,
+          "status": "FINISHED",
+          "animeSeason": {
+            "season": "FALL",
+            "year": 2006
+          },
+          "picture": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
+          "thumbnail": "https://cdn.myanimelist.net/images/anime/1079/138100t.jpg",
+          "duration": {
+            "value": 1380,
+            "unit": "SECONDS"
+          },
+          "synonyms": [
+            "Bilježnica smrti",
+            "Caderno da Morte",
+            "Carnet de la Mort",
+            "Cuốn sổ tử thần",
+            "DEATH NOTE",
+            "DN",
+            "Death Note - A halállista",
+            "Death Note - Carnetul morţii",
+            "Death Note - Zápisník smrti",
+            "Death Note(デスノート)",
+            "Mirties Užrašai",
+            "Notatnik śmierci",
+            "Notes Śmierci",
+            "Quaderno della Morte",
+            "Sveska Smrti",
+            "Ölüm Defteri",
+            "Τετράδιο Θανάτου",
+            "Бележник на Смъртта",
+            "Записник Смерті",
+            "Свеска Смрти",
+            "Тетрадка на Смъртта",
+            "Тетрадь cмерти",
+            "Үхлийн Тэмдэглэл",
+            "डेथ नोट",
+            "สมุดโน้ตกระชากวิญญาณ",
+            "ですのーと",
+            "デスノート",
+            "死亡笔记",
+            "死亡筆記本",
+            "데스노트"
+          ],
+          "relatedAnime": [
+            "https://anidb.net/anime/8146",
+            "https://anidb.net/anime/8147",
+            "https://anilist.co/anime/20931",
+            "https://anilist.co/anime/2994",
+            "https://anime-planet.com/anime/death-note-rewrite-1-visions-of-a-god",
+            "https://anime-planet.com/anime/death-note-rewrite-2-ls-successors",
+            "https://animecountdown.com/36687",
+            "https://animecountdown.com/40690",
+            "https://anisearch.com/anime/4441",
+            "https://anisearch.com/anime/5194",
+            "https://kitsu.app/anime/2707",
+            "https://livechart.me/anime/3808",
+            "https://myanimelist.net/anime/2994",
+            "https://notify.moe/anime/DBBU5Kimg",
+            "https://simkl.com/anime/36687",
+            "https://simkl.com/anime/40690"
+          ],
+          "tags": [
+            "achronological order",
+            "acting",
+            "adapted into japanese movie",
+            "adapted into jdrama",
+            "adapted into other media",
+            "adults are useless",
+            "alternative present",
+            "americas",
+            "amnesia",
+            "anti-hero",
+            "antihero",
+            "asexual",
+            "asia",
+            "assassins",
+            "based on a manga",
+            "battle of wits",
+            "bishounen",
+            "canon filler",
+            "contemporary fantasy",
+            "contractor",
+            "cops",
+            "crime",
+            "crime fiction",
+            "criminals",
+            "death",
+            "detective",
+            "detectives",
+            "drama",
+            "earth",
+            "espionage",
+            "everybody dies",
+            "fantasy",
+            "feet",
+            "following one`s dream",
+            "genius",
+            "gods",
+            "grail in the garbage",
+            "hero of strong character",
+            "horror",
+            "insane",
+            "japan",
+            "japanese production",
+            "journalism",
+            "just as planned",
+            "kamis",
+            "kuudere",
+            "law and order",
+            "male protagonist",
+            "manga",
+            "memory manipulation",
+            "mind games",
+            "mundane made awesome",
+            "murder",
+            "mystery",
+            "overpowered main characters",
+            "philosophy",
+            "place",
+            "plot continuity",
+            "police",
+            "police are useless",
+            "policeman",
+            "predominantly adult cast",
+            "present",
+            "primarily adult cast",
+            "primarily male cast",
+            "psychological",
+            "psychological drama",
+            "psychopaths",
+            "real-world location",
+            "rivalries",
+            "rivalry",
+            "romance",
+            "school life",
+            "secret identity",
+            "serial killers",
+            "shinigami",
+            "shounen",
+            "speculative fiction",
+            "suicide",
+            "supernatural",
+            "supernatural drama",
+            "supernatural thriller",
+            "suspense",
+            "tennis",
+            "thriller",
+            "time",
+            "time skip",
+            "tragedy",
+            "tropes",
+            "twisted story",
+            "united states",
+            "university",
+            "unrequited love",
+            "unusual weapons -- to be split and deleted",
+            "urban",
+            "urban fantasy",
+            "vigilantes",
+            "weekly shounen jump",
+            "world domination",
+            "yandere"
+          ]
         }
     ]
 }
 ```
+</details>
 
 ### dead-entries/*.json
+
+<details>
+<summary>Example</summary>
 
 ```json
 {
@@ -264,3 +322,4 @@ Here are some examples showing what the files look like.
     ]
 }
 ```
+</details>
