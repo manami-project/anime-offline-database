@@ -1,0 +1,19 @@
+name: Housekeeping
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  housekeeping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Workflow housekeeping
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          retain_days: 30
+          keep_minimum_runs: 1
