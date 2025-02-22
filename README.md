@@ -4,9 +4,9 @@
 The purpose of this repository is to create a dataset containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, kitsu.app and more) and allow cross references between those meta data providers. This dataset is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
 
 ## Statistics
-Update **week 07 [2025]**
+Update **week 08 [2025]**
 
-The dataset consists of **36197** entries _(61% reviewed)_ composed of:
+The dataset consists of **36143** entries _(61% reviewed)_ composed of:
 
 | Number of entries | Meta data provider |
 |-------------------|--------------------|
@@ -77,10 +77,10 @@ Here is a description of the types in the JSON files.
 
 ### AnimeSeason
 
-| Field  | Type                                                | Nullable | Description |
-|--------|-----------------------------------------------------|----------|-------------|
-| season | `Enum of [SPRING, SUMMER, FALL, WINTER, UNDEFINED]` | no       | Season.     |
-| year   | `Integer`                                           | yes      | Year.       |
+| Field  | Type                                                | Nullable | Description                                 |
+|--------|-----------------------------------------------------|----------|---------------------------------------------|
+| season | `Enum of [SPRING, SUMMER, FALL, WINTER, UNDEFINED]` | no       | Season in which the first release occurred. |
+| year   | `Integer`                                           | yes      | Year of first release.                      |
 
 ### Duration
 
