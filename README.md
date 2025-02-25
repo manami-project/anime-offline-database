@@ -4,22 +4,22 @@
 The purpose of this repository is to create a dataset containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, kitsu.app and more) and allow cross references between those meta data providers. This dataset is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
 
 ## Statistics
-Update **week 08 [2025]**
+Update **week 09 [2025]**
 
-The dataset consists of **36143** entries _(61% reviewed)_ composed of:
+The dataset consists of **36268** entries _(60% reviewed)_ composed of:
 
 | Number of entries | Meta data provider |
 |-------------------|--------------------|
-| 28462 | [myanimelist.net](https://myanimelist.net) |
-| 24555 | [anime-planet.com](https://anime-planet.com) |
-| 20990 | [kitsu.app](https://kitsu.app) |
-| 19516 | [anisearch.com](https://anisearch.com) |
-| 19318 | [anilist.co](https://anilist.co) |
-| 16719 | [notify.moe](https://notify.moe) |
-| 13719 | [simkl.com](https://simkl.com) |
-| 13719 | [animecountdown.com](https://animecountdown.com) |
-| 13714 | [anidb.net](https://anidb.net) |
-| 11627 | [livechart.me](https://livechart.me) |
+| 28552 | [myanimelist.net](https://myanimelist.net) |
+| 24632 | [anime-planet.com](https://anime-planet.com) |
+| 21031 | [kitsu.app](https://kitsu.app) |
+| 19545 | [anisearch.com](https://anisearch.com) |
+| 19366 | [anilist.co](https://anilist.co) |
+| 16737 | [notify.moe](https://notify.moe) |
+| 13736 | [simkl.com](https://simkl.com) |
+| 13736 | [animecountdown.com](https://animecountdown.com) |
+| 13735 | [anidb.net](https://anidb.net) |
+| 11643 | [livechart.me](https://livechart.me) |
 
 
 ## Files
@@ -60,20 +60,21 @@ Here is a description of the types in the JSON files.
 
 ### Anime
 
-| Field        | Type                                              | Nullable | Description                                                                       |
-|--------------|---------------------------------------------------|----------|-----------------------------------------------------------------------------------|
-| sources      | `URL[]`                                           | no       | URLs to the pages of the meta data providers for this anime.                      |
-| title        | `String`                                          | no       | Main title.                                                                       |
-| type         | `Enum of [TV, MOVIE, OVA, ONA, SPECIAL, UNKNOWN]` | no       | Distribution type.                                                                |
-| episodes     | `Integer`                                         | no       | Number of episodes, movies or parts.                                              |
-| status       | `Enum of [FINISHED, ONGOING, UPCOMING, UNKNOWN]`  | no       | Status of distribution.                                                           |
-| animeSeason  | [AnimeSeason](#animeseason)                       | no       | Data on when the anime was first distributed.                                     |
-| picture      | `URL`                                             | no       | URL of a picture which represents the anime.                                      |
-| thumbnail    | `URL`                                             | no       | URL of a smaller version of the picture.                                          |
-| duration     | [Duration](#duration)                             | yes      | Duration. Normally this is per episode.                                           |
-| synonyms     | `String[]`                                        | no       | Alternative titles and spellings under which the anime is also known.             |
-| relatedAnime | `URL[]`                                           | no       | URLs to the meta data providers for anime that are somehow related to this anime. |
-| tags         | `String[]`                                        | no       | A non-curated list of tags and genres which describe the anime.                   |
+| Field        | Type                                              | Nullable | Description                                                                                                      |
+|--------------|---------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------|
+| sources      | `URL[]`                                           | no       | URLs to the pages of the meta data providers for this anime.                                                     |
+| title        | `String`                                          | no       | Main title.                                                                                                      |
+| type         | `Enum of [TV, MOVIE, OVA, ONA, SPECIAL, UNKNOWN]` | no       | Distribution type.                                                                                               |
+| episodes     | `Integer`                                         | no       | Number of episodes, movies or parts.                                                                             |
+| status       | `Enum of [FINISHED, ONGOING, UPCOMING, UNKNOWN]`  | no       | Status of distribution.                                                                                          |
+| animeSeason  | [AnimeSeason](#animeseason)                       | no       | Data on when the anime was first distributed.                                                                    |
+| picture      | `URL`                                             | no       | URL of a picture which represents the anime.                                                                     |
+| thumbnail    | `URL`                                             | no       | URL of a smaller version of the picture.                                                                         |
+| duration     | [Duration](#duration)                             | yes      | Duration. Normally this is per episode.                                                                          |
+| score        | [Score](#score)                                   | yes      | Score calculated using all available scores from meta data providers. Original scores are rescaled if necessary. |
+| synonyms     | `String[]`                                        | no       | Alternative titles and spellings under which the anime is also known.                                            |
+| relatedAnime | `URL[]`                                           | no       | URLs to the meta data providers for anime that are somehow related to this anime.                                |
+| tags         | `String[]`                                        | no       | A non-curated list of tags and genres which describe the anime.                                                  |
 
 ### AnimeSeason
 
@@ -88,6 +89,14 @@ Here is a description of the types in the JSON files.
 |--------|-----------|----------|-------------------------------------------------------|
 | value  | `Integer` | no       | Duration in seconds.                                  |
 | unit   | `String`  | no       | For (de)serialization this value is always `SECONDS`. |
+
+### Score
+
+| Field                   | Type     | Nullable | Description                                                                             |
+|-------------------------|----------|----------|-----------------------------------------------------------------------------------------|
+| arithmeticGeometricMean | `Double` | no       | Arithmetic–geometric mean based on all available scores from all meta data providers. |
+| arithmeticMean          | `Double` | no       | Arithmetic mean based on all available scores from all meta data providers.           |
+| median                  | `Double` | no       | Median based on all available scores from all meta data providers.                    |
 
 ### DeadEntries root
 
@@ -142,6 +151,11 @@ Here are some examples showing what the files look like.
           "duration": {
             "value": 1380,
             "unit": "SECONDS"
+          },
+          "score": {
+            "arithmeticGeometricMean": 8.631697859409492,
+            "arithmeticMean": 8.631818181818183,
+            "median": 8.65
           },
           "synonyms": [
             "Bilježnica smrti",
