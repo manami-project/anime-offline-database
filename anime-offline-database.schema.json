@@ -7,6 +7,7 @@
     "required": [
         "license",
         "repository",
+        "scoreRange",
         "lastUpdate",
         "data"
     ],
@@ -21,21 +22,45 @@
             "properties": {
                 "name": {
                     "description": "Name of the license.",
+                    "type": "string",
                     "const": "GNU Affero General Public License v3.0"
                 },
                 "url": {
                     "description": "URL to the whole license file.",
+                    "type": "string",
+                    "format": "uri",
                     "const": "https://github.com/manami-project/anime-offline-database/blob/master/LICENSE"
                 }
             }
         },
         "repository": {
             "description": "URL of this github repository which is the source of the dataset.",
+            "type": "string",
+            "format": "uri",
             "const": "https://github.com/manami-project/anime-offline-database"
+        },
+        "scoreRange": {
+            "description": "Describes the upper and lower boundaries of a score.",
+            "type": "object",
+            "required": [
+                "minInclusive",
+                "maxInclusive"
+            ],
+            "properties": {
+                "minInclusive": {
+                    "description": "Minimum value that a score can take.",
+                    "type": "number"
+                },
+                "maxInclusive": {
+                    "description": "Maximum value that a score can take.",
+                    "type": "number"
+                }
+            }
         },
         "lastUpdate": {
             "description": "The date on which the file was updated in the format: YYYY-MM-DD.",
-            "type": "string"
+            "type": "string",
+            "format": "date"
         },
         "data": {
             "description": "List of all anime.",
@@ -62,7 +87,8 @@
                         "type": "array",
                         "uniqueItems": true,
                         "items": {
-                            "type": "string"
+                            "type": "string",
+                            "format": "uri"
                         }
                     },
                     "title": {
@@ -121,11 +147,13 @@
                     },
                     "picture": {
                         "description": "URL of a picture which represents the anime.",
-                        "type": "string"
+                        "type": "string",
+                        "format": "uri"
                     },
                     "thumbnail": {
                         "description": "URL of a smaller version of the picture.",
-                        "type": "string"
+                        "type": "string",
+                        "format": "uri"
                     },
                     "duration": {
                         "description": "Duration per episode.",
@@ -142,6 +170,7 @@
                             },
                             "unit": {
                                 "description": "When (de)serialized the unit is always SECONDS",
+                                "type": "string",
                                 "const": "SECONDS"
                             }
                         }
@@ -159,7 +188,8 @@
                         "type": "array",
                         "uniqueItems": true,
                         "items": {
-                            "type": "string"
+                            "type": "string",
+                            "format": "uri"
                         }
                     },
                     "tags": {
