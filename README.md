@@ -6,20 +6,20 @@ The purpose of this repository is to create a dataset containing anime meta data
 ## Statistics
 Update **week 09 [2025]**
 
-The dataset consists of **36268** entries _(60% reviewed)_ composed of:
+The dataset consists of **36247** entries _(61% reviewed)_ composed of:
 
 | Number of entries | Meta data provider |
 |-------------------|--------------------|
 | 28552 | [myanimelist.net](https://myanimelist.net) |
-| 24632 | [anime-planet.com](https://anime-planet.com) |
+| 24633 | [anime-planet.com](https://anime-planet.com) |
 | 21031 | [kitsu.app](https://kitsu.app) |
-| 19545 | [anisearch.com](https://anisearch.com) |
+| 19550 | [anisearch.com](https://anisearch.com) |
 | 19366 | [anilist.co](https://anilist.co) |
 | 16737 | [notify.moe](https://notify.moe) |
-| 13736 | [simkl.com](https://simkl.com) |
-| 13736 | [animecountdown.com](https://animecountdown.com) |
+| 13738 | [simkl.com](https://simkl.com) |
+| 13738 | [animecountdown.com](https://animecountdown.com) |
 | 13735 | [anidb.net](https://anidb.net) |
-| 11643 | [livechart.me](https://livechart.me) |
+| 11644 | [livechart.me](https://livechart.me) |
 
 
 ## Files
@@ -48,64 +48,72 @@ Here is a description of the types in the JSON files.
 |--------------|-----------------------------|----------|-------------------------------------------------------------------|
 | `license`    | [License](#license)         | no       | Information about the license of the dataset.                     |
 | `repository` | `URL`                       | no       | URL of this github repository which is the source of the dataset. |
+| `scoreRange` | [ScoreRange](#scorerange)   | no       | Describes the upper and lower boundaries of a score.              |
 | `lastUpdate` | `Date` (format: YYYY-MM-DD) | no       | The date on which the file was updated.                           |
 | `data`       | [Anime[]](#anime)           | no       | List of all anime.                                                |
 
 ### License
 
-| Field | Type     | Nullable | Description                    |
-|-------|----------|----------|--------------------------------|
-| name  | `String` | no       | Name of the license.           |
-| url   | `URL`    | no       | URL to the whole license file. |
+| Field  | Type     | Nullable | Description                    |
+|--------|----------|----------|--------------------------------|
+| `name` | `String` | no       | Name of the license.           |
+| `url`  | `URL`    | no       | URL to the whole license file. |
+
+### ScoreRange
+
+| Field          | Type     | Nullable | Description                                              |
+|----------------|----------|----------|----------------------------------------------------------|
+| `minInclusive` | `Double` | no       | Minimum value that a score can take. **Default:** `1.0`  |
+| `maxInclusive` | `Double` | no       | Maximum value that a score can take. **Default:** `10.0` |
 
 ### Anime
 
-| Field        | Type                                              | Nullable | Description                                                                                                      |
-|--------------|---------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------|
-| sources      | `URL[]`                                           | no       | URLs to the pages of the meta data providers for this anime.                                                     |
-| title        | `String`                                          | no       | Main title.                                                                                                      |
-| type         | `Enum of [TV, MOVIE, OVA, ONA, SPECIAL, UNKNOWN]` | no       | Distribution type.                                                                                               |
-| episodes     | `Integer`                                         | no       | Number of episodes, movies or parts.                                                                             |
-| status       | `Enum of [FINISHED, ONGOING, UPCOMING, UNKNOWN]`  | no       | Status of distribution.                                                                                          |
-| animeSeason  | [AnimeSeason](#animeseason)                       | no       | Data on when the anime was first distributed.                                                                    |
-| picture      | `URL`                                             | no       | URL of a picture which represents the anime.                                                                     |
-| thumbnail    | `URL`                                             | no       | URL of a smaller version of the picture.                                                                         |
-| duration     | [Duration](#duration)                             | yes      | Duration. Normally this is per episode.                                                                          |
-| score        | [Score](#score)                                   | yes      | Score calculated using all available scores from meta data providers. Original scores are rescaled if necessary. |
-| synonyms     | `String[]`                                        | no       | Alternative titles and spellings under which the anime is also known.                                            |
-| relatedAnime | `URL[]`                                           | no       | URLs to the meta data providers for anime that are somehow related to this anime.                                |
-| tags         | `String[]`                                        | no       | A non-curated list of tags and genres which describe the anime.                                                  |
+| Field          | Type                                              | Nullable | Description                                                                                                      |
+|----------------|---------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------|
+| `sources`      | `URL[]`                                           | no       | URLs to the pages of the meta data providers for this anime.                                                     |
+| `title`        | `String`                                          | no       | Main title.                                                                                                      |
+| `type`         | `Enum of [TV, MOVIE, OVA, ONA, SPECIAL, UNKNOWN]` | no       | Distribution type.                                                                                               |
+| `episodes`     | `Integer`                                         | no       | Number of episodes, movies or parts.                                                                             |
+| `status`       | `Enum of [FINISHED, ONGOING, UPCOMING, UNKNOWN]`  | no       | Status of distribution.                                                                                          |
+| `animeSeason`  | [AnimeSeason](#animeseason)                       | no       | Data on when the anime was first distributed.                                                                    |
+| `picture`      | `URL`                                             | no       | URL of a picture which represents the anime.                                                                     |
+| `thumbnail`    | `URL`                                             | no       | URL of a smaller version of the picture.                                                                         |
+| `duration`     | [Duration](#duration)                             | yes      | Duration. Normally this is per episode.                                                                          |
+| `score`        | [Score](#score)                                   | yes      | Score calculated using all available scores from meta data providers. Original scores are rescaled if necessary. |
+| `synonyms`     | `String[]`                                        | no       | Alternative titles and spellings under which the anime is also known.                                            |
+| `relatedAnime` | `URL[]`                                           | no       | URLs to the meta data providers for anime that are somehow related to this anime.                                |
+| `tags`         | `String[]`                                        | no       | A non-curated list of tags and genres which describe the anime.                                                  |
 
 ### AnimeSeason
 
-| Field  | Type                                                | Nullable | Description                                 |
-|--------|-----------------------------------------------------|----------|---------------------------------------------|
-| season | `Enum of [SPRING, SUMMER, FALL, WINTER, UNDEFINED]` | no       | Season in which the first release occurred. |
-| year   | `Integer`                                           | yes      | Year of first release.                      |
+| Field    | Type                                                | Nullable | Description                                 |
+|----------|-----------------------------------------------------|----------|---------------------------------------------|
+| `season` | `Enum of [SPRING, SUMMER, FALL, WINTER, UNDEFINED]` | no       | Season in which the first release occurred. |
+| `year`   | `Integer`                                           | yes      | Year of first release.                      |
 
 ### Duration
 
-| Field  | Type      | Nullable | Description                                           |
-|--------|-----------|----------|-------------------------------------------------------|
-| value  | `Integer` | no       | Duration in seconds.                                  |
-| unit   | `String`  | no       | For (de)serialization this value is always `SECONDS`. |
+| Field    | Type      | Nullable | Description                                           |
+|----------|-----------|----------|-------------------------------------------------------|
+| `value`  | `Integer` | no       | Duration in seconds.                                  |
+| `unit`   | `String`  | no       | For (de)serialization this value is always `SECONDS`. |
 
 ### Score
 
-| Field                   | Type     | Nullable | Description                                                                             |
-|-------------------------|----------|----------|-----------------------------------------------------------------------------------------|
-| arithmeticGeometricMean | `Double` | no       | Arithmetic–geometric mean based on all available scores from all meta data providers. |
-| arithmeticMean          | `Double` | no       | Arithmetic mean based on all available scores from all meta data providers.           |
-| median                  | `Double` | no       | Median based on all available scores from all meta data providers.                    |
+| Field                     | Type     | Nullable | Description                                                                           |
+|---------------------------|----------|----------|---------------------------------------------------------------------------------------|
+| `arithmeticGeometricMean` | `Double` | no       | Arithmetic–geometric mean based on all available scores from all meta data providers. |
+| `arithmeticMean`          | `Double` | no       | Arithmetic mean based on all available scores from all meta data providers.           |
+| `median`                  | `Double` | no       | Median based on all available scores from all meta data providers.                    |
 
 ### DeadEntries root
 
-| Field       | Type                        | Nullable | Description                                                                  |
-|-------------|-----------------------------|----------|------------------------------------------------------------------------------|
-| license     | [License](#license)         | no       | Information about the license of the dataset.                                |
-| repository  | `URL`                       | no       | URL of this github repository which is the source of the dataset.            |
-| lastUpdate  | `Date` (format: YYYY-MM-DD) | no       | The date on which the file was updated.                                      |
-| deadEntries | `String[]`                  | no       | IDs of anime which have been removed from the respective meta data provider. |
+| Field         | Type                        | Nullable | Description                                                                  |
+|---------------|-----------------------------|----------|------------------------------------------------------------------------------|
+| `license`     | [License](#license)         | no       | Information about the license of the dataset.                                |
+| `repository`  | `URL`                       | no       | URL of this github repository which is the source of the dataset.            |
+| `lastUpdate`  | `Date` (format: YYYY-MM-DD) | no       | The date on which the file was updated.                                      |
+| `deadEntries` | `String[]`                  | no       | IDs of anime which have been removed from the respective meta data provider. |
 
 ## Examples
 
@@ -123,6 +131,10 @@ Here are some examples showing what the files look like.
       "url": "https://github.com/manami-project/anime-offline-database/blob/master/LICENSE"
     },
     "repository": "https://github.com/manami-project/anime-offline-database",
+    "scoreRange": {
+        "minInclusive": 1.0,
+        "maxInclusive": 10.0
+    },
     "lastUpdate": "2024-01-06",
     "data": [
     {
