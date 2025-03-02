@@ -1,4 +1,5 @@
 {
+  "$schema": "",
   "license": {
     "name": "GNU Affero General Public License v3.0",
     "url": "https://github.com/manami-project/anime-offline-database/blob/master/LICENSE"
