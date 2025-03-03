@@ -1,0 +1,43 @@
+name: Release
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - "**/*.json"
+      - "**/*.zip"
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check commit message
+        id: check_message
+        run: |
+          year=$(date +'%Y')
+          echo "year=$year" >> $GITHUB_OUTPUT
+          
+          week=$(date +'%V')
+          echo "week=$week" >> $GITHUB_OUTPUT
+          
+          commit_message="${{ github.event.head_commit.message }}"
+          if echo "$commit_message" | grep -qE "^Updated entries [0-9]+ week [0-9]+$"; then
+            echo "match=true" >> $GITHUB_OUTPUT
+          else
+            echo "match=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create release
+        uses: softprops/action-gh-release@v2
+        if: steps.check_message.outputs.match == 'true'
+        with:
+          name: ${{ steps.check_message.outputs.year }}-${{ steps.check_message.outputs.week }}
+          tag_name: ${{ steps.check_message.outputs.year }}-${{ steps.check_message.outputs.week }}
+          generate_release_notes: true
+          make_latest: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

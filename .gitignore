@@ -18,6 +18,7 @@
 !.github/workflows/housekeeping.yml
 !.github/workflows/json_lint.yml
 !.github/workflows/close-pr.yml
+!.github/workflows/release.yml
 
 !.github/ISSUE_TEMPLATE/
 .github/ISSUE_TEMPLATE/*
