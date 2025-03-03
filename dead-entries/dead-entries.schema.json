@@ -26,7 +26,6 @@
                 "url": {
                     "description": "URL to the whole license file.",
                     "type": "string",
-                    "format": "uri",
                     "const": "https://github.com/manami-project/anime-offline-database/blob/master/LICENSE"
                 }
             }
@@ -34,7 +33,6 @@
         "repository": {
             "description": "URL of this github repository which is the source of the dataset.",
             "type": "string",
-            "format": "uri",
             "const": "https://github.com/manami-project/anime-offline-database"
         },
         "lastUpdate": {
