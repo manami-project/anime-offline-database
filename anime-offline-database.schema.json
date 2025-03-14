@@ -28,7 +28,7 @@
                 "url": {
                     "description": "URL to the whole license file.",
                     "type": "string",
-                    "const": "https://github.com/manami-project/anime-offline-database/blob/master/LICENSE"
+                    "format": "uri"
                 }
             }
         },

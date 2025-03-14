@@ -19,7 +19,7 @@ The dataset consists of **36248** entries _(61% reviewed)_ composed of:
 | 13767 | [anidb.net](https://anidb.net) |
 | 13755 | [simkl.com](https://simkl.com) |
 | 13755 | [animecountdown.com](https://animecountdown.com) |
-| 11680 | [livechart.me](https://livechart.me) |
+| 11681 | [livechart.me](https://livechart.me) |
 
 
 ## Files
