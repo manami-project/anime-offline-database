@@ -10,7 +10,7 @@ The dataset consists of **36248** entries _(61% reviewed)_ composed of:
 
 | Number of entries | Meta data provider |
 |-------------------|--------------------|
-| 28635 | [myanimelist.net](https://myanimelist.net) |
+| 28634 | [myanimelist.net](https://myanimelist.net) |
 | 24683 | [anime-planet.com](https://anime-planet.com) |
 | 21079 | [kitsu.app](https://kitsu.app) |
 | 19632 | [anisearch.com](https://anisearch.com) |
