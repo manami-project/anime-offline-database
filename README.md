@@ -4,22 +4,22 @@
 The purpose of this repository is to create a dataset containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, kitsu.app and more) and allow cross references between those meta data providers. This dataset is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
 
 ## Statistics
-Update **week 12 [2025]**
+Update **week 15 [2025]**
 
-The dataset consists of **35556** entries _(61% reviewed)_ composed of:
+The dataset consists of **35871** entries _(60% reviewed)_ composed of:
 
 | Number of entries | Meta data provider |
 |-------------------|--------------------|
-| 28653 | [myanimelist.net](https://myanimelist.net) |
-| 24685 | [anime-planet.com](https://anime-planet.com) |
-| 21090 | [kitsu.app](https://kitsu.app) |
-| 19643 | [anisearch.com](https://anisearch.com) |
-| 19485 | [anilist.co](https://anilist.co) |
-| 16755 | [notify.moe](https://notify.moe) |
-| 13775 | [anidb.net](https://anidb.net) |
-| 13757 | [simkl.com](https://simkl.com) |
-| 13757 | [animecountdown.com](https://animecountdown.com) |
-| 11689 | [livechart.me](https://livechart.me) |
+| 28739 | [myanimelist.net](https://myanimelist.net) |
+| 24876 | [anime-planet.com](https://anime-planet.com) |
+| 21217 | [kitsu.app](https://kitsu.app) |
+| 19749 | [anisearch.com](https://anisearch.com) |
+| 19574 | [anilist.co](https://anilist.co) |
+| 16795 | [notify.moe](https://notify.moe) |
+| 13812 | [anidb.net](https://anidb.net) |
+| 13782 | [simkl.com](https://simkl.com) |
+| 13782 | [animecountdown.com](https://animecountdown.com) |
+| 11717 | [livechart.me](https://livechart.me) |
 
 
 ## Files
