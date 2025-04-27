@@ -4,22 +4,22 @@
 The purpose of this repository is to create a dataset containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, kitsu.app and more) and allow cross references between those meta data providers. This dataset is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
 
 ## Statistics
-Update **week 16 [2025]**
+Update **week 17 [2025]**
 
-The dataset consists of **35785** entries _(60% reviewed)_ composed of:
+The dataset consists of **35798** entries _(61% reviewed)_ composed of:
 
 | Number of entries | Meta data provider |
 |-------------------|--------------------|
-| 28769 | [myanimelist.net](https://myanimelist.net) |
-| 25307 | [anime-planet.com](https://anime-planet.com) |
-| 21239 | [kitsu.app](https://kitsu.app) |
-| 19801 | [anisearch.com](https://anisearch.com) |
-| 19584 | [anilist.co](https://anilist.co) |
-| 16798 | [notify.moe](https://notify.moe) |
-| 13826 | [anidb.net](https://anidb.net) |
-| 13816 | [simkl.com](https://simkl.com) |
-| 13816 | [animecountdown.com](https://animecountdown.com) |
-| 11733 | [livechart.me](https://livechart.me) |
+| 28811 | [myanimelist.net](https://myanimelist.net) |
+| 25721 | [anime-planet.com](https://anime-planet.com) |
+| 21258 | [kitsu.app](https://kitsu.app) |
+| 19810 | [anisearch.com](https://anisearch.com) |
+| 19595 | [anilist.co](https://anilist.co) |
+| 16824 | [notify.moe](https://notify.moe) |
+| 13838 | [anidb.net](https://anidb.net) |
+| 13835 | [simkl.com](https://simkl.com) |
+| 13835 | [animecountdown.com](https://animecountdown.com) |
+| 11740 | [livechart.me](https://livechart.me) |
 
 
 ## Files
@@ -128,17 +128,17 @@ Here are some examples showing what the files look like.
 
 ```json
 {
-    "$schema": "https://raw.githubusercontent.com/manami-project/anime-offline-database/refs/heads/master/anime-offline-database.schema.json",
+    "$schema": "https://raw.githubusercontent.com/manami-project/anime-offline-database/refs/tags/2025-10/anime-offline-database.schema.json",
     "license": {
       "name": "GNU Affero General Public License v3.0",
-      "url": "https://github.com/manami-project/anime-offline-database/blob/master/LICENSE"
+      "url": "https://github.com/manami-project/anime-offline-database/blob/2025-10/LICENSE"
     },
     "repository": "https://github.com/manami-project/anime-offline-database",
     "scoreRange": {
         "minInclusive": 1.0,
         "maxInclusive": 10.0
     },
-    "lastUpdate": "2024-01-06",
+    "lastUpdate": "2025-03-03",
     "data": [
     {
           "sources": [
@@ -337,13 +337,13 @@ Here are some examples showing what the files look like.
 
 ```json
 {
-    "$schema": "https://raw.githubusercontent.com/manami-project/anime-offline-database/refs/heads/master/dead-entries/dead-entries.schema.json",
+    "$schema": "https://raw.githubusercontent.com/manami-project/anime-offline-database/refs/tags/2025-10/dead-entries/dead-entries.schema.json",
     "license": {
       "name": "GNU Affero General Public License v3.0",
-      "url": "https://github.com/manami-project/anime-offline-database/blob/master/LICENSE"
+      "url": "https://github.com/manami-project/anime-offline-database/blob/2025-10/LICENSE"
     },
     "repository": "https://github.com/manami-project/anime-offline-database",
-    "lastUpdate": "2024-01-06",
+    "lastUpdate": "2025-03-03",
     "deadEntries": [
         "38492",
         "38518",

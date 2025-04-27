@@ -1,12 +1,13 @@
 /*
 
 !.gitignore
-!README.md
 !anime-offline-database.json
 !anime-offline-database.schema.json
 !anime-offline-database-minified.json
 !anime-offline-database-minified.schema.json
 !anime-offline-database.zip
+!LICENSE
+!README.md
 
 !.github/
 .github/*
