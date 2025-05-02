@@ -4,22 +4,22 @@
 The purpose of this repository is to create a dataset containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, kitsu.app and more) and allow cross references between those meta data providers. This dataset is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
 
 ## Statistics
-Update **week 17 [2025]**
+Update **week 18 [2025]**
 
-The dataset consists of **35798** entries _(61% reviewed)_ composed of:
+The dataset consists of **35795** entries _(61% reviewed)_ composed of:
 
 | Number of entries | Meta data provider |
 |-------------------|--------------------|
-| 28811 | [myanimelist.net](https://myanimelist.net) |
-| 25721 | [anime-planet.com](https://anime-planet.com) |
-| 21258 | [kitsu.app](https://kitsu.app) |
-| 19810 | [anisearch.com](https://anisearch.com) |
-| 19595 | [anilist.co](https://anilist.co) |
+| 28828 | [myanimelist.net](https://myanimelist.net) |
+| 25723 | [anime-planet.com](https://anime-planet.com) |
+| 21266 | [kitsu.app](https://kitsu.app) |
+| 19819 | [anisearch.com](https://anisearch.com) |
+| 19599 | [anilist.co](https://anilist.co) |
 | 16824 | [notify.moe](https://notify.moe) |
-| 13838 | [anidb.net](https://anidb.net) |
-| 13835 | [simkl.com](https://simkl.com) |
-| 13835 | [animecountdown.com](https://animecountdown.com) |
-| 11740 | [livechart.me](https://livechart.me) |
+| 13843 | [anidb.net](https://anidb.net) |
+| 13839 | [simkl.com](https://simkl.com) |
+| 13839 | [animecountdown.com](https://animecountdown.com) |
+| 11743 | [livechart.me](https://livechart.me) |
 
 
 ## Files
@@ -55,10 +55,10 @@ Here is a description of the types in the JSON files.
 
 ### License
 
-| Field  | Type     | Nullable | Description                    |
-|--------|----------|----------|--------------------------------|
-| `name` | `String` | no       | Name of the license.           |
-| `url`  | `URL`    | no       | URL to the whole license file. |
+| Field  | Type     | Nullable | Description              |
+|--------|----------|----------|--------------------------|
+| `name` | `String` | no       | Name of the license.     |
+| `url`  | `URL`    | no       | URL to the license file. |
 
 ### ScoreRange
 
@@ -128,204 +128,204 @@ Here are some examples showing what the files look like.
 
 ```json
 {
-    "$schema": "https://raw.githubusercontent.com/manami-project/anime-offline-database/refs/tags/2025-10/anime-offline-database.schema.json",
-    "license": {
-      "name": "GNU Affero General Public License v3.0",
-      "url": "https://github.com/manami-project/anime-offline-database/blob/2025-10/LICENSE"
-    },
-    "repository": "https://github.com/manami-project/anime-offline-database",
-    "scoreRange": {
-        "minInclusive": 1.0,
-        "maxInclusive": 10.0
-    },
-    "lastUpdate": "2025-03-03",
-    "data": [
+  "$schema": "https://raw.githubusercontent.com/manami-project/anime-offline-database/refs/tags/2025-10/anime-offline-database.schema.json",
+  "license": {
+    "name": "Open Data Commons Open Database License (ODbL) v1.0 + Database Contents License (DbCL) v1.0",
+    "url": "https://github.com/manami-project/anime-offline-database/blob/2025-17/LICENSE"
+  },
+  "repository": "https://github.com/manami-project/anime-offline-database",
+  "scoreRange": {
+    "minInclusive": 1.0,
+    "maxInclusive": 10.0
+  },
+  "lastUpdate": "2025-04-26",
+  "data": [
     {
-          "sources": [
-            "https://anidb.net/anime/4563",
-            "https://anilist.co/anime/1535",
-            "https://anime-planet.com/anime/death-note",
-            "https://animecountdown.com/40190",
-            "https://anisearch.com/anime/3633",
-            "https://kitsu.app/anime/1376",
-            "https://livechart.me/anime/3437",
-            "https://myanimelist.net/anime/1535",
-            "https://notify.moe/anime/0-A-5Fimg",
-            "https://simkl.com/anime/40190"
-          ],
-          "title": "Death Note",
-          "type": "TV",
-          "episodes": 37,
-          "status": "FINISHED",
-          "animeSeason": {
-            "season": "FALL",
-            "year": 2006
-          },
-          "picture": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
-          "thumbnail": "https://cdn.myanimelist.net/images/anime/1079/138100t.jpg",
-          "duration": {
-            "value": 1380,
-            "unit": "SECONDS"
-          },
-          "score": {
-            "arithmeticGeometricMean": 8.631697859409492,
-            "arithmeticMean": 8.631818181818183,
-            "median": 8.65
-          },
-          "synonyms": [
-            "Bilježnica smrti",
-            "Caderno da Morte",
-            "Carnet de la Mort",
-            "Cuốn sổ tử thần",
-            "DEATH NOTE",
-            "DN",
-            "Death Note - A halállista",
-            "Death Note - Carnetul morţii",
-            "Death Note - Zápisník smrti",
-            "Death Note(デスノート)",
-            "Mirties Užrašai",
-            "Notatnik śmierci",
-            "Notes Śmierci",
-            "Quaderno della Morte",
-            "Sveska Smrti",
-            "Ölüm Defteri",
-            "Τετράδιο Θανάτου",
-            "Бележник на Смъртта",
-            "Записник Смерті",
-            "Свеска Смрти",
-            "Тетрадка на Смъртта",
-            "Тетрадь cмерти",
-            "Үхлийн Тэмдэглэл",
-            "डेथ नोट",
-            "สมุดโน้ตกระชากวิญญาณ",
-            "ですのーと",
-            "デスノート",
-            "死亡笔记",
-            "死亡筆記本",
-            "데스노트"
-          ],
-          "relatedAnime": [
-            "https://anidb.net/anime/8146",
-            "https://anidb.net/anime/8147",
-            "https://anilist.co/anime/20931",
-            "https://anilist.co/anime/2994",
-            "https://anime-planet.com/anime/death-note-rewrite-1-visions-of-a-god",
-            "https://anime-planet.com/anime/death-note-rewrite-2-ls-successors",
-            "https://animecountdown.com/36687",
-            "https://animecountdown.com/40690",
-            "https://anisearch.com/anime/4441",
-            "https://anisearch.com/anime/5194",
-            "https://kitsu.app/anime/2707",
-            "https://livechart.me/anime/3808",
-            "https://myanimelist.net/anime/2994",
-            "https://notify.moe/anime/DBBU5Kimg",
-            "https://simkl.com/anime/36687",
-            "https://simkl.com/anime/40690"
-          ],
-          "tags": [
-            "achronological order",
-            "acting",
-            "adapted into japanese movie",
-            "adapted into jdrama",
-            "adapted into other media",
-            "adults are useless",
-            "alternative present",
-            "americas",
-            "amnesia",
-            "anti-hero",
-            "antihero",
-            "asexual",
-            "asia",
-            "assassins",
-            "based on a manga",
-            "battle of wits",
-            "bishounen",
-            "canon filler",
-            "contemporary fantasy",
-            "contractor",
-            "cops",
-            "crime",
-            "crime fiction",
-            "criminals",
-            "death",
-            "detective",
-            "detectives",
-            "drama",
-            "earth",
-            "espionage",
-            "everybody dies",
-            "fantasy",
-            "feet",
-            "following one`s dream",
-            "genius",
-            "gods",
-            "grail in the garbage",
-            "hero of strong character",
-            "horror",
-            "insane",
-            "japan",
-            "japanese production",
-            "journalism",
-            "just as planned",
-            "kamis",
-            "kuudere",
-            "law and order",
-            "male protagonist",
-            "manga",
-            "memory manipulation",
-            "mind games",
-            "mundane made awesome",
-            "murder",
-            "mystery",
-            "overpowered main characters",
-            "philosophy",
-            "place",
-            "plot continuity",
-            "police",
-            "police are useless",
-            "policeman",
-            "predominantly adult cast",
-            "present",
-            "primarily adult cast",
-            "primarily male cast",
-            "psychological",
-            "psychological drama",
-            "psychopaths",
-            "real-world location",
-            "rivalries",
-            "rivalry",
-            "romance",
-            "school life",
-            "secret identity",
-            "serial killers",
-            "shinigami",
-            "shounen",
-            "speculative fiction",
-            "suicide",
-            "supernatural",
-            "supernatural drama",
-            "supernatural thriller",
-            "suspense",
-            "tennis",
-            "thriller",
-            "time",
-            "time skip",
-            "tragedy",
-            "tropes",
-            "twisted story",
-            "united states",
-            "university",
-            "unrequited love",
-            "unusual weapons -- to be split and deleted",
-            "urban",
-            "urban fantasy",
-            "vigilantes",
-            "weekly shounen jump",
-            "world domination",
-            "yandere"
-          ]
-        }
-    ]
+      "sources": [
+        "https://anidb.net/anime/4563",
+        "https://anilist.co/anime/1535",
+        "https://anime-planet.com/anime/death-note",
+        "https://animecountdown.com/40190",
+        "https://anisearch.com/anime/3633",
+        "https://kitsu.app/anime/1376",
+        "https://livechart.me/anime/3437",
+        "https://myanimelist.net/anime/1535",
+        "https://notify.moe/anime/0-A-5Fimg",
+        "https://simkl.com/anime/40190"
+      ],
+      "title": "Death Note",
+      "type": "TV",
+      "episodes": 37,
+      "status": "FINISHED",
+      "animeSeason": {
+        "season": "FALL",
+        "year": 2006
+      },
+      "picture": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg",
+      "thumbnail": "https://cdn.myanimelist.net/images/anime/1079/138100t.jpg",
+      "duration": {
+        "value": 1380,
+        "unit": "SECONDS"
+      },
+      "score": {
+        "arithmeticGeometricMean": 8.631697859409492,
+        "arithmeticMean": 8.631818181818183,
+        "median": 8.65
+      },
+      "synonyms": [
+        "Bilježnica smrti",
+        "Caderno da Morte",
+        "Carnet de la Mort",
+        "Cuốn sổ tử thần",
+        "DEATH NOTE",
+        "DN",
+        "Death Note - A halállista",
+        "Death Note - Carnetul morţii",
+        "Death Note - Zápisník smrti",
+        "Death Note(デスノート)",
+        "Mirties Užrašai",
+        "Notatnik śmierci",
+        "Notes Śmierci",
+        "Quaderno della Morte",
+        "Sveska Smrti",
+        "Ölüm Defteri",
+        "Τετράδιο Θανάτου",
+        "Бележник на Смъртта",
+        "Записник Смерті",
+        "Свеска Смрти",
+        "Тетрадка на Смъртта",
+        "Тетрадь cмерти",
+        "Үхлийн Тэмдэглэл",
+        "डेथ नोट",
+        "สมุดโน้ตกระชากวิญญาณ",
+        "ですのーと",
+        "デスノート",
+        "死亡笔记",
+        "死亡筆記本",
+        "데스노트"
+      ],
+      "relatedAnime": [
+        "https://anidb.net/anime/8146",
+        "https://anidb.net/anime/8147",
+        "https://anilist.co/anime/20931",
+        "https://anilist.co/anime/2994",
+        "https://anime-planet.com/anime/death-note-rewrite-1-visions-of-a-god",
+        "https://anime-planet.com/anime/death-note-rewrite-2-ls-successors",
+        "https://animecountdown.com/36687",
+        "https://animecountdown.com/40690",
+        "https://anisearch.com/anime/4441",
+        "https://anisearch.com/anime/5194",
+        "https://kitsu.app/anime/2707",
+        "https://livechart.me/anime/3808",
+        "https://myanimelist.net/anime/2994",
+        "https://notify.moe/anime/DBBU5Kimg",
+        "https://simkl.com/anime/36687",
+        "https://simkl.com/anime/40690"
+      ],
+      "tags": [
+        "achronological order",
+        "acting",
+        "adapted into japanese movie",
+        "adapted into jdrama",
+        "adapted into other media",
+        "adults are useless",
+        "alternative present",
+        "americas",
+        "amnesia",
+        "anti-hero",
+        "antihero",
+        "asexual",
+        "asia",
+        "assassins",
+        "based on a manga",
+        "battle of wits",
+        "bishounen",
+        "canon filler",
+        "contemporary fantasy",
+        "contractor",
+        "cops",
+        "crime",
+        "crime fiction",
+        "criminals",
+        "death",
+        "detective",
+        "detectives",
+        "drama",
+        "earth",
+        "espionage",
+        "everybody dies",
+        "fantasy",
+        "feet",
+        "following one`s dream",
+        "genius",
+        "gods",
+        "grail in the garbage",
+        "hero of strong character",
+        "horror",
+        "insane",
+        "japan",
+        "japanese production",
+        "journalism",
+        "just as planned",
+        "kamis",
+        "kuudere",
+        "law and order",
+        "male protagonist",
+        "manga",
+        "memory manipulation",
+        "mind games",
+        "mundane made awesome",
+        "murder",
+        "mystery",
+        "overpowered main characters",
+        "philosophy",
+        "place",
+        "plot continuity",
+        "police",
+        "police are useless",
+        "policeman",
+        "predominantly adult cast",
+        "present",
+        "primarily adult cast",
+        "primarily male cast",
+        "psychological",
+        "psychological drama",
+        "psychopaths",
+        "real-world location",
+        "rivalries",
+        "rivalry",
+        "romance",
+        "school life",
+        "secret identity",
+        "serial killers",
+        "shinigami",
+        "shounen",
+        "speculative fiction",
+        "suicide",
+        "supernatural",
+        "supernatural drama",
+        "supernatural thriller",
+        "suspense",
+        "tennis",
+        "thriller",
+        "time",
+        "time skip",
+        "tragedy",
+        "tropes",
+        "twisted story",
+        "united states",
+        "university",
+        "unrequited love",
+        "unusual weapons -- to be split and deleted",
+        "urban",
+        "urban fantasy",
+        "vigilantes",
+        "weekly shounen jump",
+        "world domination",
+        "yandere"
+      ]
+    }
+  ]
 }
 ```
 </details>
@@ -337,19 +337,19 @@ Here are some examples showing what the files look like.
 
 ```json
 {
-    "$schema": "https://raw.githubusercontent.com/manami-project/anime-offline-database/refs/tags/2025-10/dead-entries/dead-entries.schema.json",
-    "license": {
-      "name": "GNU Affero General Public License v3.0",
-      "url": "https://github.com/manami-project/anime-offline-database/blob/2025-10/LICENSE"
-    },
-    "repository": "https://github.com/manami-project/anime-offline-database",
-    "lastUpdate": "2025-03-03",
-    "deadEntries": [
-        "38492",
-        "38518",
-        "38522",
-        "38531"
-    ]
+  "$schema": "https://raw.githubusercontent.com/manami-project/anime-offline-database/refs/tags/2025-10/dead-entries/dead-entries.schema.json",
+  "license": {
+    "name": "Open Data Commons Open Database License (ODbL) v1.0 + Database Contents License (DbCL) v1.0",
+    "url": "https://github.com/manami-project/anime-offline-database/blob/2025-17/LICENSE"
+  },
+  "repository": "https://github.com/manami-project/anime-offline-database",
+  "lastUpdate": "2025-04-26",
+  "deadEntries": [
+    "38492",
+    "38518",
+    "38522",
+    "38531"
+  ]
 }
 ```
 </details>

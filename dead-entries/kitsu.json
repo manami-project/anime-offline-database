@@ -1,11 +1,11 @@
 {
-  "$schema": "https://raw.githubusercontent.com/manami-project/anime-offline-database/refs/tags/2025-16/dead-entries/dead-entries.schema.json",
+  "$schema": "https://raw.githubusercontent.com/manami-project/anime-offline-database/refs/tags/2025-18/dead-entries/dead-entries.schema.json",
   "license": {
-    "name": "GNU Affero General Public License v3.0",
-    "url": "https://github.com/manami-project/anime-offline-database/blob/2025-16/LICENSE"
+    "name": "Open Data Commons Open Database License (ODbL) v1.0 + Database Contents License (DbCL) v1.0",
+    "url": "https://github.com/manami-project/anime-offline-database/blob/2025-18/LICENSE"
   },
   "repository": "https://github.com/manami-project/anime-offline-database",
-  "lastUpdate": "2025-04-19",
+  "lastUpdate": "2025-04-28",
   "deadEntries": [
     "10015",
     "10022",
@@ -28110,6 +28110,7 @@
     "4981",
     "4982",
     "49855",
+    "49875",
     "5033",
     "5038",
     "5039",

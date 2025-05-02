@@ -2,7 +2,7 @@
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "$id": "https://github.com/manami-project/anime-offline-database/raw/master/anime-offline-database.schema.json",
     "title": "anime-offline-database",
-    "description": "Updated every week: A JSON based anime dataset containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more...",
+    "description": "A JSON based anime dataset containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more...",
     "type": "object",
     "required": [
         "license",
@@ -23,10 +23,10 @@
                 "name": {
                     "description": "Name of the license.",
                     "type": "string",
-                    "const": "GNU Affero General Public License v3.0"
+                    "const": "Open Data Commons Open Database License (ODbL) v1.0 + Database Contents License (DbCL) v1.0"
                 },
                 "url": {
-                    "description": "URL to the whole license file.",
+                    "description": "URL to the license file.",
                     "type": "string",
                     "format": "uri"
                 }
