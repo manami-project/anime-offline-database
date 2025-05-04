@@ -21,3 +21,10 @@ body:
     description: List the URLs from `sources` property which should be merged together into a single entry.
   validations:
     required: true
+- type: textarea
+  id: reason
+  attributes:
+    label: Additional reasoning
+    description: Explanation why these entries should be merged. It should contain references to properties or meta data for more clarity.
+    validations:
+      required: false
