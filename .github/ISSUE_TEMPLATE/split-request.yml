@@ -76,5 +76,5 @@ body:
   attributes:
     label: Additional reasoning
     description: Explanation why these entries should be split. It should contain references to properties or meta data for more clarity.
-    validations:
-      required: false
+  validations:
+    required: false
