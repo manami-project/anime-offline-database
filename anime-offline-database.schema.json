@@ -76,6 +76,8 @@
                     "picture",
                     "thumbnail",
                     "synonyms",
+                    "studios",
+                    "producers",
                     "relatedAnime",
                     "tags"
                 ],
@@ -175,6 +177,22 @@
                     },
                     "synonyms": {
                         "description": "Alternative titles and spellings under which the anime is also known.",
+                        "type": "array",
+                        "uniqueItems": true,
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "studios": {
+                        "description": "Lower case studio names. In general a duplicate free list, but might contain duplicates for different writings.",
+                        "type": "array",
+                        "uniqueItems": true,
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "producers": {
+                        "description": "Lower case producers names. Companys only. In general a duplicate free list, but might contain duplicates for different writings.",
                         "type": "array",
                         "uniqueItems": true,
                         "items": {

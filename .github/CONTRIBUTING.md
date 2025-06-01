@@ -48,7 +48,7 @@ Entries are split if one meta data provider lists multiple entries as one and ot
 However if one entry is listed with 13 episodes whereas the other is listed with 12, because it doesn't count the recap episode then these entries are still merged together.
 
 ## Does this dataset contain all anime from the supported meta data providers?
-No. MAL and anisearch are the only providers which list adult titles publicly. So this type of anime is missing for the other meta data providers.
+No. Myanimelist, anisearch and animenewsnetwork are the only providers which list adult titles publicly. So this type of anime is missing for the other meta data providers.
 It's possible to retrieve adult titles from anilist, but because they cannot be accessed without an account in the browser those are not fit for the review process. That's why entries from anilist marked as adult are missing as well.
 If there are new entries which have been created after an update then those obviously won't appear until the next update.
 Apart from that it should contain all titles from the supported meta data providers.
