@@ -47,7 +47,10 @@ body:
       - picture
       - thumbnail
       - duration
+      - score
       - synonyms
+      - studios
+      - producers
       - relatedAnime
       - tags
   validations:
