@@ -88,7 +88,7 @@ body:
 - type: input
   id: additional_example_2
   attributes:
-    label: Additional example
+    label: Additional example 2
     description: Can you name an additional example?
     placeholder: https://example.org/anime/1234
   validations:
