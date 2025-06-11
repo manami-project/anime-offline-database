@@ -37,6 +37,9 @@ dead-entries/*
 !dead-entries/anilist.json
 !dead-entries/anilist-minified.json
 !dead-entries/anilist.zip
+!dead-entries/animenewsnetwork.json
+!dead-entries/animenewsnetwork-minified.json
+!dead-entries/animenewsnetwork.zip
 !dead-entries/kitsu.json
 !dead-entries/kitsu-minified.json
 !dead-entries/kitsu.zip
