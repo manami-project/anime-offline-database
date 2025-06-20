@@ -17,3 +17,18 @@ jobs:
         with:
           retain_days: 30
           keep_minimum_runs: 1
+      - id: fetch-latest-release
+        name: Fetch latest release tag
+        run: |
+          version=$(git tag --sort=creatordate | tail -6 | head -1)
+          echo "PREVIOUS_VERSION=$version" >> $GITHUB_OUTPUT
+      - name: Delete outdated release assets
+        uses: mknejp/delete-release-assets@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: ${{ steps.fetch-latest-release.outputs.PREVIOUS_VERSION }}
+          assets: |
+            *.json
+            *.zst
+          fail-if-no-release: false
+          fail-if-no-assets: false
