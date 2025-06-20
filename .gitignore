@@ -2,6 +2,7 @@
 
 !.gitignore
 !LICENSE
+!makefile
 !README.md
 
 !.github/
