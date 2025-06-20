@@ -1,0 +1,157 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://github.com/manami-project/anime-offline-database/raw/master/anime-offline-database.jsonl.schema.json",
+    "title": "anime-offline-database",
+    "description": "Valid for every single line from the *.jsonl file except the first line which contains the meta data.",
+    "type": "object",
+    "required": [
+        "sources",
+        "title",
+        "type",
+        "episodes",
+        "status",
+        "animeSeason",
+        "picture",
+        "thumbnail",
+        "synonyms",
+        "studios",
+        "producers",
+        "relatedAnime",
+        "tags"
+    ],
+    "properties": {
+        "sources": {
+            "description": "URLs to the pages of the meta data providers for this anime.",
+            "type": "array",
+            "uniqueItems": true,
+            "items": {
+                "type": "string",
+                "format": "uri"
+            }
+        },
+        "title": {
+            "description": "Main title.",
+            "type": "string"
+        },
+        "type": {
+            "description": "Distribution type.",
+            "enum": [
+                "TV",
+                "MOVIE",
+                "OVA",
+                "ONA",
+                "SPECIAL",
+                "UNKNOWN"
+            ]
+        },
+        "episodes": {
+            "description": "Number of episodes, movies or parts.",
+            "type": "number",
+            "minimum": 0
+        },
+        "status": {
+            "description": "Status of distribution.",
+            "enum": [
+                "FINISHED",
+                "ONGOING",
+                "UPCOMING",
+                "UNKNOWN"
+            ]
+        },
+        "animeSeason": {
+            "description": "Data on when the anime was first distributed.",
+            "type": "object",
+            "required": [
+                "season"
+            ],
+            "properties": {
+                "season": {
+                    "description": "Season.",
+                    "enum": [
+                        "SPRING",
+                        "SUMMER",
+                        "FALL",
+                        "WINTER",
+                        "UNDEFINED"
+                    ]
+                },
+                "year": {
+                    "description": "Year.",
+                    "type": "number",
+                    "minimum": 1907
+                }
+            }
+        },
+        "picture": {
+            "description": "URL of a picture which represents the anime.",
+            "type": "string",
+            "format": "uri"
+        },
+        "thumbnail": {
+            "description": "URL of a smaller version of the picture.",
+            "type": "string",
+            "format": "uri"
+        },
+        "duration": {
+            "description": "Duration per episode.",
+            "type": "object",
+            "required": [
+                "value",
+                "unit"
+            ],
+            "properties": {
+                "value": {
+                    "description": "Duration in seconds",
+                    "type": "number",
+                    "minimum": 1
+                },
+                "unit": {
+                    "description": "When (de)serialized the unit is always SECONDS",
+                    "type": "string",
+                    "const": "SECONDS"
+                }
+            }
+        },
+        "synonyms": {
+            "description": "Alternative titles and spellings under which the anime is also known.",
+            "type": "array",
+            "uniqueItems": true,
+            "items": {
+                "type": "string"
+            }
+        },
+        "studios": {
+            "description": "Lower case studio names. In general a duplicate free list, but might contain duplicates for different writings.",
+            "type": "array",
+            "uniqueItems": true,
+            "items": {
+                "type": "string"
+            }
+        },
+        "producers": {
+            "description": "Lower case producers names. Companys only. In general a duplicate free list, but might contain duplicates for different writings.",
+            "type": "array",
+            "uniqueItems": true,
+            "items": {
+                "type": "string"
+            }
+        },
+        "relatedAnime": {
+            "description": "URLs to the meta data providers for anime that are somehow related to this anime.",
+            "type": "array",
+            "uniqueItems": true,
+            "items": {
+                "type": "string",
+                "format": "uri"
+            }
+        },
+        "tags": {
+            "description": "A non-curated list of tags and genres which describe the anime.",
+            "type": "array",
+            "uniqueItems": true,
+            "items": {
+                "type": "string"
+            }
+        }
+    }
+}
