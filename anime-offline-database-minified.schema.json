@@ -1,6 +1,6 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "$id": "https://github.com/manami-project/anime-offline-database/raw/master/anime-offline-database.schema.json",
+    "$id": "https://github.com/manami-project/anime-offline-database/raw/master/anime-offline-database-minified.schema.json",
     "title": "anime-offline-database",
     "description": "A JSON based anime dataset containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more...",
     "type": "object",
