@@ -1,26 +1,33 @@
-![Check JSON files](https://github.com/manami-project/anime-offline-database/actions/workflows/json_lint.yml/badge.svg) [![License: ODbL-1.0](https://img.shields.io/badge/license-ODbL--1.0-orange)](https://github.com/manami-project/anime-offline-database/blob/2025-24/LICENSE)
+![Check JSON files](https://github.com/manami-project/anime-offline-database/actions/workflows/json_lint.yml/badge.svg) [![License: ODbL-1.0](https://img.shields.io/badge/license-ODbL--1.0-orange)](https://github.com/manami-project/anime-offline-database/blob/2025-25/LICENSE)
 
 # anime-offline-database
 The purpose of this repository is to create a dataset containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, kitsu.app and more) and allow cross references between those meta data providers. This dataset is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
 
-## Statistics
-Update **week 24 [2025]**
+> [!IMPORTANT]  
+> After the _2025-25_ update the dataset files will be removed from the repo and moved to releases instead.
+> The reason is that this project is close to hitting the limits of github free plan and my assumption is
+> that even git LFS won't last long under the free plan. There will be a **latest** release available, always
+> containing the most recent files, as well as a named release like **2025-25** which not only contains
+> the files for that specific week, but also release notes if necessary.
 
-The dataset consists of **38804** entries _(70% reviewed)_ composed of:
+## Statistics
+Update **week 25 [2025]**
+
+The dataset consists of **38894** entries _(70% reviewed)_ composed of:
 
 | Number of entries | Meta data provider |
 |-------------------|--------------------|
-| 28979 | [myanimelist.net](https://myanimelist.net) |
-| 26025 | [anime-planet.com](https://anime-planet.com) |
-| 21349 | [kitsu.app](https://kitsu.app) |
-| 19949 | [anisearch.com](https://anisearch.com) |
-| 19676 | [anilist.co](https://anilist.co) |
+| 29014 | [myanimelist.net](https://myanimelist.net) |
+| 26102 | [anime-planet.com](https://anime-planet.com) |
+| 21361 | [kitsu.app](https://kitsu.app) |
+| 19990 | [anisearch.com](https://anisearch.com) |
+| 19690 | [anilist.co](https://anilist.co) |
 | 16843 | [notify.moe](https://notify.moe) |
-| 13896 | [simkl.com](https://simkl.com) |
-| 13896 | [animecountdown.com](https://animecountdown.com) |
-| 13892 | [anidb.net](https://anidb.net) |
-| 12098 | [animenewsnetwork.com](https://animenewsnetwork.com) |
-| 11777 | [livechart.me](https://livechart.me) |
+| 13909 | [simkl.com](https://simkl.com) |
+| 13909 | [animecountdown.com](https://animecountdown.com) |
+| 13906 | [anidb.net](https://anidb.net) |
+| 12115 | [animenewsnetwork.com](https://animenewsnetwork.com) |
+| 11796 | [livechart.me](https://livechart.me) |
 
 
 ## Files
