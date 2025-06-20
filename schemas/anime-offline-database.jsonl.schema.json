@@ -1,6 +1,6 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "$id": "https://github.com/manami-project/anime-offline-database/raw/master/anime-offline-database.jsonl.schema.json",
+    "$id": "https://github.com/manami-project/anime-offline-database/raw/master/schemas/anime-offline-database.jsonl.schema.json",
     "title": "anime-offline-database",
     "description": "Valid for every single line from the *.jsonl file except the first line which contains the meta data.",
     "type": "object",

@@ -1,6 +1,6 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "$id": "https://github.com/manami-project/anime-offline-database/blob/raw/dead-entries/dead-entries.schema.json",
+    "$id": "https://github.com/manami-project/anime-offline-database/raw/master/schemas/dead-entries.schema.json",
     "title": "List of dead entries for anime-offline-database",
     "description": "A list of anime IDs resulting in a 'not found' error or which would lead to adult content which is not publicly available. Basically anime IDs which don't require any further download attempt.",
     "type": "object",

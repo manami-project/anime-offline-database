@@ -1,9 +1,6 @@
 /*
 
 !.gitignore
-!anime-offline-database.jsonl.schema.json
-!anime-offline-database.schema.json
-!anime-offline-database-minified.schema.json
 !LICENSE
 !README.md
 
@@ -24,9 +21,12 @@
 !.github/ISSUE_TEMPLATE/merge-request.yml
 !.github/ISSUE_TEMPLATE/config.yml
 
-!dead-entries/
-dead-entries/*
-!dead-entries/dead-entries.schema.json
+!schemas/
+schemas/*
+!schemas/anime-offline-database.jsonl.schema.json
+!schemas/anime-offline-database.schema.json
+!schemas/anime-offline-database-minified.schema.json
+!schemas/dead-entries.schema.json
 
 !pics/
 pics/*
