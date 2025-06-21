@@ -24,19 +24,19 @@ check-schema:
 	wait
 	
 	@set -e; \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json anidb-minified.json & \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json anilist-minified.json & \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json animenewsnetwork-minified.json & \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json kitsu-minified.json & \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json myanimelist-minified.json & \
-	wait
-
-	@set -e; \
 	check-jsonschema --schemafile ./schemas/dead-entries.schema.json anidb.json & \
 	check-jsonschema --schemafile ./schemas/dead-entries.schema.json anilist.json & \
 	check-jsonschema --schemafile ./schemas/dead-entries.schema.json animenewsnetwork.json & \
 	check-jsonschema --schemafile ./schemas/dead-entries.schema.json kitsu.json & \
 	check-jsonschema --schemafile ./schemas/dead-entries.schema.json myanimelist.json & \
+	wait
+
+	@set -e; \
+	check-jsonschema --schemafile ./schemas/dead-entries.schema.json anidb-minified.json & \
+	check-jsonschema --schemafile ./schemas/dead-entries.schema.json anilist-minified.json & \
+	check-jsonschema --schemafile ./schemas/dead-entries.schema.json animenewsnetwork-minified.json & \
+	check-jsonschema --schemafile ./schemas/dead-entries.schema.json kitsu-minified.json & \
+	check-jsonschema --schemafile ./schemas/dead-entries.schema.json myanimelist-minified.json & \
 	wait
 
 git-auth:
@@ -52,35 +52,49 @@ create-weekly-update:
 	git tag ${TAG_NAME} && \
 	git push origin ${TAG_NAME} && \
 	gh release create ${TAG_NAME} --verify-tag --latest --title "${TAG_NAME}" --notes-file release-notes.md && \
+	gh release upload ${TAG_NAME} anime-offline-database.json && \
+	gh release upload ${TAG_NAME} anime-offline-database.json.zst && \
 	gh release upload ${TAG_NAME} anime-offline-database.jsonl && \
 	gh release upload ${TAG_NAME} anime-offline-database.jsonl.zst && \
 	gh release upload ${TAG_NAME} anime-offline-database-minified.json && \
 	gh release upload ${TAG_NAME} anime-offline-database-minified.json.zst && \
+	gh release upload ${TAG_NAME} anidb.json && \
 	gh release upload ${TAG_NAME} anidb-minified.json && \
 	gh release upload ${TAG_NAME} anidb-minified.json.zst && \
+	gh release upload ${TAG_NAME} anilist.json && \
 	gh release upload ${TAG_NAME} anilist-minified.json && \
 	gh release upload ${TAG_NAME} anilist-minified.json.zst && \
+	gh release upload ${TAG_NAME} animenewsnetwork.json && \
 	gh release upload ${TAG_NAME} animenewsnetwork-minified.json && \
 	gh release upload ${TAG_NAME} animenewsnetwork-minified.json.zst && \
+	gh release upload ${TAG_NAME} kitsu.json && \
 	gh release upload ${TAG_NAME} kitsu-minified.json && \
 	gh release upload ${TAG_NAME} kitsu-minified.json.zst && \
+	gh release upload ${TAG_NAME} myanimelist.json && \
 	gh release upload ${TAG_NAME} myanimelist-minified.json && \
 	gh release upload ${TAG_NAME} myanimelist-minified.json.zst && \
 	git tag -f latest && \
 	git push -f origin latest && \
 	gh release edit latest --notes-file release-notes.md
+	gh release upload latest anime-offline-database.json --clobber && \
+	gh release upload latest anime-offline-database.json.zst --clobber && \
 	gh release upload latest anime-offline-database.jsonl --clobber && \
 	gh release upload latest anime-offline-database.jsonl.zst --clobber && \
 	gh release upload latest anime-offline-database-minified.json --clobber && \
 	gh release upload latest anime-offline-database-minified.json.zst --clobber && \
+	gh release upload latest anidb.json --clobber && \
 	gh release upload latest anidb-minified.json --clobber && \
 	gh release upload latest anidb-minified.json.zst --clobber && \
+	gh release upload latest anilist.json --clobber && \
 	gh release upload latest anilist-minified.json --clobber && \
 	gh release upload latest anilist-minified.json.zst --clobber && \
+	gh release upload latest animenewsnetwork.json --clobber && \
 	gh release upload latest animenewsnetwork-minified.json --clobber && \
 	gh release upload latest animenewsnetwork-minified.json.zst --clobber && \
+	gh release upload latest kitsu.json --clobber && \
 	gh release upload latest kitsu-minified.json --clobber && \
 	gh release upload latest kitsu-minified.json.zst --clobber && \
+	gh release upload latest myanimelist.json --clobber && \
 	gh release upload latest myanimelist-minified.json --clobber && \
 	gh release upload latest myanimelist-minified.json.zst --clobber || $(MAKE) clean
 
@@ -91,18 +105,25 @@ create-delta-update:
 	git tag -f latest && \
 	git push -f origin latest && \
 	gh release edit latest --notes ""
+	gh release upload latest anime-offline-database.json --clobber && \
+	gh release upload latest anime-offline-database.json.zst --clobber && \
 	gh release upload latest anime-offline-database.jsonl --clobber && \
 	gh release upload latest anime-offline-database.jsonl.zst --clobber && \
 	gh release upload latest anime-offline-database-minified.json --clobber && \
 	gh release upload latest anime-offline-database-minified.json.zst --clobber && \
+	gh release upload latest anidb.json --clobber && \
 	gh release upload latest anidb-minified.json --clobber && \
 	gh release upload latest anidb-minified.json.zst --clobber && \
+	gh release upload latest anilist.json --clobber && \
 	gh release upload latest anilist-minified.json --clobber && \
 	gh release upload latest anilist-minified.json.zst --clobber && \
+	gh release upload latest animenewsnetwork.json --clobber && \
 	gh release upload latest animenewsnetwork-minified.json --clobber && \
 	gh release upload latest animenewsnetwork-minified.json.zst --clobber && \
+	gh release upload latest kitsu.json --clobber && \
 	gh release upload latest kitsu-minified.json --clobber && \
 	gh release upload latest kitsu-minified.json.zst --clobber && \
+	gh release upload latest myanimelist.json --clobber && \
 	gh release upload latest myanimelist-minified.json --clobber && \
 	gh release upload latest myanimelist-minified.json.zst --clobber || $(MAKE) clean
 
