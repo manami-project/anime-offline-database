@@ -24,19 +24,19 @@ check-schema:
 	wait
 	
 	@set -e; \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json anidb.json & \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json anilist.json & \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json animenewsnetwork.json & \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json kitsu.json & \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json myanimelist.json & \
+	check-jsonschema --schemafile ./schemas/dead-entries.schema.json ./dead-entries/anidb.json & \
+	check-jsonschema --schemafile ./schemas/dead-entries.schema.json ./dead-entries/anilist.json & \
+	check-jsonschema --schemafile ./schemas/dead-entries.schema.json ./dead-entries/animenewsnetwork.json & \
+	check-jsonschema --schemafile ./schemas/dead-entries.schema.json ./dead-entries/kitsu.json & \
+	check-jsonschema --schemafile ./schemas/dead-entries.schema.json ./dead-entries/myanimelist.json & \
 	wait
 
 	@set -e; \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json anidb-minified.json & \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json anilist-minified.json & \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json animenewsnetwork-minified.json & \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json kitsu-minified.json & \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json myanimelist-minified.json & \
+	check-jsonschema --schemafile ./schemas/dead-entries.schema.json ./dead-entries/anidb-minified.json & \
+	check-jsonschema --schemafile ./schemas/dead-entries.schema.json ./dead-entries/anilist-minified.json & \
+	check-jsonschema --schemafile ./schemas/dead-entries.schema.json ./dead-entries/animenewsnetwork-minified.json & \
+	check-jsonschema --schemafile ./schemas/dead-entries.schema.json ./dead-entries/kitsu-minified.json & \
+	check-jsonschema --schemafile ./schemas/dead-entries.schema.json ./dead-entries/myanimelist-minified.json & \
 	wait
 
 git-auth:
@@ -58,21 +58,21 @@ create-weekly-update:
 	gh release upload ${TAG_NAME} anime-offline-database.jsonl.zst && \
 	gh release upload ${TAG_NAME} anime-offline-database-minified.json && \
 	gh release upload ${TAG_NAME} anime-offline-database-minified.json.zst && \
-	gh release upload ${TAG_NAME} anidb.json && \
-	gh release upload ${TAG_NAME} anidb-minified.json && \
-	gh release upload ${TAG_NAME} anidb-minified.json.zst && \
-	gh release upload ${TAG_NAME} anilist.json && \
-	gh release upload ${TAG_NAME} anilist-minified.json && \
-	gh release upload ${TAG_NAME} anilist-minified.json.zst && \
-	gh release upload ${TAG_NAME} animenewsnetwork.json && \
-	gh release upload ${TAG_NAME} animenewsnetwork-minified.json && \
-	gh release upload ${TAG_NAME} animenewsnetwork-minified.json.zst && \
-	gh release upload ${TAG_NAME} kitsu.json && \
-	gh release upload ${TAG_NAME} kitsu-minified.json && \
-	gh release upload ${TAG_NAME} kitsu-minified.json.zst && \
-	gh release upload ${TAG_NAME} myanimelist.json && \
-	gh release upload ${TAG_NAME} myanimelist-minified.json && \
-	gh release upload ${TAG_NAME} myanimelist-minified.json.zst && \
+	gh release upload ${TAG_NAME} ./dead-entries/anidb.json && \
+	gh release upload ${TAG_NAME} ./dead-entries/anidb-minified.json && \
+	gh release upload ${TAG_NAME} ./dead-entries/anidb-minified.json.zst && \
+	gh release upload ${TAG_NAME} ./dead-entries/anilist.json && \
+	gh release upload ${TAG_NAME} ./dead-entries/anilist-minified.json && \
+	gh release upload ${TAG_NAME} ./dead-entries/anilist-minified.json.zst && \
+	gh release upload ${TAG_NAME} ./dead-entries/animenewsnetwork.json && \
+	gh release upload ${TAG_NAME} ./dead-entries/animenewsnetwork-minified.json && \
+	gh release upload ${TAG_NAME} ./dead-entries/animenewsnetwork-minified.json.zst && \
+	gh release upload ${TAG_NAME} ./dead-entries/kitsu.json && \
+	gh release upload ${TAG_NAME} ./dead-entries/kitsu-minified.json && \
+	gh release upload ${TAG_NAME} ./dead-entries/kitsu-minified.json.zst && \
+	gh release upload ${TAG_NAME} ./dead-entries/myanimelist.json && \
+	gh release upload ${TAG_NAME} ./dead-entries/myanimelist-minified.json && \
+	gh release upload ${TAG_NAME} ./dead-entries/myanimelist-minified.json.zst && \
 	git tag -f latest && \
 	git push -f origin latest && \
 	gh release edit latest --notes-file release-notes.md
@@ -82,21 +82,21 @@ create-weekly-update:
 	gh release upload latest anime-offline-database.jsonl.zst --clobber && \
 	gh release upload latest anime-offline-database-minified.json --clobber && \
 	gh release upload latest anime-offline-database-minified.json.zst --clobber && \
-	gh release upload latest anidb.json --clobber && \
-	gh release upload latest anidb-minified.json --clobber && \
-	gh release upload latest anidb-minified.json.zst --clobber && \
-	gh release upload latest anilist.json --clobber && \
-	gh release upload latest anilist-minified.json --clobber && \
-	gh release upload latest anilist-minified.json.zst --clobber && \
-	gh release upload latest animenewsnetwork.json --clobber && \
-	gh release upload latest animenewsnetwork-minified.json --clobber && \
-	gh release upload latest animenewsnetwork-minified.json.zst --clobber && \
-	gh release upload latest kitsu.json --clobber && \
-	gh release upload latest kitsu-minified.json --clobber && \
-	gh release upload latest kitsu-minified.json.zst --clobber && \
-	gh release upload latest myanimelist.json --clobber && \
-	gh release upload latest myanimelist-minified.json --clobber && \
-	gh release upload latest myanimelist-minified.json.zst --clobber || $(MAKE) clean
+	gh release upload latest ./dead-entries/anidb.json --clobber && \
+	gh release upload latest ./dead-entries/anidb-minified.json --clobber && \
+	gh release upload latest ./dead-entries/anidb-minified.json.zst --clobber && \
+	gh release upload latest ./dead-entries/anilist.json --clobber && \
+	gh release upload latest ./dead-entries/anilist-minified.json --clobber && \
+	gh release upload latest ./dead-entries/anilist-minified.json.zst --clobber && \
+	gh release upload latest ./dead-entries/animenewsnetwork.json --clobber && \
+	gh release upload latest ./dead-entries/animenewsnetwork-minified.json --clobber && \
+	gh release upload latest ./dead-entries/animenewsnetwork-minified.json.zst --clobber && \
+	gh release upload latest ./dead-entries/kitsu.json --clobber && \
+	gh release upload latest ./dead-entries/kitsu-minified.json --clobber && \
+	gh release upload latest ./dead-entries/kitsu-minified.json.zst --clobber && \
+	gh release upload latest ./dead-entries/myanimelist.json --clobber && \
+	gh release upload latest ./dead-entries/myanimelist-minified.json --clobber && \
+	gh release upload latest ./dead-entries/myanimelist-minified.json.zst --clobber || $(MAKE) clean
 
 create-delta-update:
 	@git add README.md && \
@@ -111,21 +111,21 @@ create-delta-update:
 	gh release upload latest anime-offline-database.jsonl.zst --clobber && \
 	gh release upload latest anime-offline-database-minified.json --clobber && \
 	gh release upload latest anime-offline-database-minified.json.zst --clobber && \
-	gh release upload latest anidb.json --clobber && \
-	gh release upload latest anidb-minified.json --clobber && \
-	gh release upload latest anidb-minified.json.zst --clobber && \
-	gh release upload latest anilist.json --clobber && \
-	gh release upload latest anilist-minified.json --clobber && \
-	gh release upload latest anilist-minified.json.zst --clobber && \
-	gh release upload latest animenewsnetwork.json --clobber && \
-	gh release upload latest animenewsnetwork-minified.json --clobber && \
-	gh release upload latest animenewsnetwork-minified.json.zst --clobber && \
-	gh release upload latest kitsu.json --clobber && \
-	gh release upload latest kitsu-minified.json --clobber && \
-	gh release upload latest kitsu-minified.json.zst --clobber && \
-	gh release upload latest myanimelist.json --clobber && \
-	gh release upload latest myanimelist-minified.json --clobber && \
-	gh release upload latest myanimelist-minified.json.zst --clobber || $(MAKE) clean
+	gh release upload latest ./dead-entries/anidb.json --clobber && \
+	gh release upload latest ./dead-entries/anidb-minified.json --clobber && \
+	gh release upload latest ./dead-entries/anidb-minified.json.zst --clobber && \
+	gh release upload latest ./dead-entries/anilist.json --clobber && \
+	gh release upload latest ./dead-entries/anilist-minified.json --clobber && \
+	gh release upload latest ./dead-entries/anilist-minified.json.zst --clobber && \
+	gh release upload latest ./dead-entries/animenewsnetwork.json --clobber && \
+	gh release upload latest ./dead-entries/animenewsnetwork-minified.json --clobber && \
+	gh release upload latest ./dead-entries/animenewsnetwork-minified.json.zst --clobber && \
+	gh release upload latest ./dead-entries/kitsu.json --clobber && \
+	gh release upload latest ./dead-entries/kitsu-minified.json --clobber && \
+	gh release upload latest ./dead-entries/kitsu-minified.json.zst --clobber && \
+	gh release upload latest ./dead-entries/myanimelist.json --clobber && \
+	gh release upload latest ./dead-entries/myanimelist-minified.json --clobber && \
+	gh release upload latest ./dead-entries/myanimelist-minified.json.zst --clobber || $(MAKE) clean
 
 clean:
 	@echo "Cleaning up credentials..."
