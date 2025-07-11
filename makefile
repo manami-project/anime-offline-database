@@ -53,7 +53,6 @@ create-weekly-update:
 	git push origin ${TAG_NAME} && \
 	gh release create ${TAG_NAME} --verify-tag --latest --title "${TAG_NAME}" --notes-file release-notes.md && \
 	gh release upload ${TAG_NAME} anime-offline-database.json && \
-	gh release upload ${TAG_NAME} anime-offline-database.json.zst && \
 	gh release upload ${TAG_NAME} anime-offline-database.jsonl && \
 	gh release upload ${TAG_NAME} anime-offline-database.jsonl.zst && \
 	gh release upload ${TAG_NAME} anime-offline-database-minified.json && \
@@ -75,9 +74,8 @@ create-weekly-update:
 	gh release upload ${TAG_NAME} ./dead-entries/myanimelist-minified.json.zst && \
 	git tag -f latest && \
 	git push -f origin latest && \
-	gh release edit latest --notes-file release-notes.md
+	gh release edit latest --notes-file release-notes.md && \
 	gh release upload latest anime-offline-database.json --clobber && \
-	gh release upload latest anime-offline-database.json.zst --clobber && \
 	gh release upload latest anime-offline-database.jsonl --clobber && \
 	gh release upload latest anime-offline-database.jsonl.zst --clobber && \
 	gh release upload latest anime-offline-database-minified.json --clobber && \
@@ -104,9 +102,8 @@ create-delta-update:
 	git push && \
 	git tag -f latest && \
 	git push -f origin latest && \
-	gh release edit latest --notes ""
+	gh release edit latest --notes "" && \
 	gh release upload latest anime-offline-database.json --clobber && \
-	gh release upload latest anime-offline-database.json.zst --clobber && \
 	gh release upload latest anime-offline-database.jsonl --clobber && \
 	gh release upload latest anime-offline-database.jsonl.zst --clobber && \
 	gh release upload latest anime-offline-database-minified.json --clobber && \
