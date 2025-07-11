@@ -11,17 +11,21 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Workflow housekeeping
         uses: Mattraks/delete-workflow-runs@v2
         with:
           retain_days: 30
           keep_minimum_runs: 1
+
       - id: fetch-latest-release
         name: Fetch latest release tag
         run: |
           version=$(git tag --sort=creatordate | tail -6 | head -1)
           echo "PREVIOUS_VERSION=$version" >> $GITHUB_OUTPUT
+
       - name: Delete outdated release assets
         uses: mknejp/delete-release-assets@v1
         with:
