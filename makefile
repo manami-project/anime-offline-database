@@ -41,7 +41,7 @@ check-schema:
 
 git-auth:
 	@echo "Caching credentials..." && \
-	echo "https://$(GITHUB_USERNAME):$(GITHUB_TOKEN)@github.com/${GITHUB_USERNAME}/test.git" > ~/.git-credentials && \
+	echo "https://$(GITHUB_USERNAME):$(GITHUB_TOKEN)@github.com/${GITHUB_USERNAME}/anime-offline-database.git" > ~/.git-credentials && \
 	git config --local credential.helper store && \
 	echo "Credentials cached for the session." || $(MAKE) clean
 
