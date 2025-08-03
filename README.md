@@ -1,4 +1,4 @@
-[![License: ODbL-1.0](https://img.shields.io/badge/license-ODbL--1.0-orange)](https://github.com/manami-project/anime-offline-database/blob/2025-30/LICENSE)
+[![License: ODbL-1.0](https://img.shields.io/badge/license-ODbL--1.0-orange)](https://github.com/manami-project/anime-offline-database/blob/2025-31/LICENSE)
 
 # anime-offline-database
 The purpose of this repository is to create a dataset containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, kitsu.app and more) and allow cross references between those meta data providers. This dataset is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
@@ -11,23 +11,23 @@ The purpose of this repository is to create a dataset containing anime meta data
 > which contain the files for that specific week.
 
 ## Statistics
-Update **week 30 [2025]**
+Update **week 31 [2025]**
 
-The dataset consists of **39200** entries _(69% reviewed)_ composed of:
+The dataset consists of **39264** entries _(69% reviewed)_ composed of:
 
 | Number of entries | Meta data provider |
 |-------------------|--------------------|
-| 29161 | [myanimelist.net](https://myanimelist.net) |
-| 26183 | [anime-planet.com](https://anime-planet.com) |
-| 21429 | [kitsu.app](https://kitsu.app) |
-| 20128 | [anisearch.com](https://anisearch.com) |
-| 19783 | [anilist.co](https://anilist.co) |
+| 29197 | [myanimelist.net](https://myanimelist.net) |
+| 26189 | [anime-planet.com](https://anime-planet.com) |
+| 21439 | [kitsu.app](https://kitsu.app) |
+| 20137 | [anisearch.com](https://anisearch.com) |
+| 19790 | [anilist.co](https://anilist.co) |
 | 16858 | [notify.moe](https://notify.moe) |
-| 13979 | [anidb.net](https://anidb.net) |
-| 13978 | [simkl.com](https://simkl.com) |
-| 13978 | [animecountdown.com](https://animecountdown.com) |
-| 12166 | [animenewsnetwork.com](https://animenewsnetwork.com) |
-| 11843 | [livechart.me](https://livechart.me) |
+| 13988 | [anidb.net](https://anidb.net) |
+| 13982 | [simkl.com](https://simkl.com) |
+| 13982 | [animecountdown.com](https://animecountdown.com) |
+| 12168 | [animenewsnetwork.com](https://animenewsnetwork.com) |
+| 11847 | [livechart.me](https://livechart.me) |
 
 
 ## Files
