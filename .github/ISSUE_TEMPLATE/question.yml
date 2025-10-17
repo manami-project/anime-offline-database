@@ -9,7 +9,7 @@ body:
     label: Have you read the FAQ?
     description: Before posting a question make sure that you carefully read [FAQ](https://github.com/manami-project/anime-offline-database/blob/master/.github/CONTRIBUTING.md#faq) before posting. It is very likely that your question has already been covered.
     options:
-      - label: Yes, I have read the FAQ and my question was not answered in the there.
+      - label: Yes, I have read the FAQ and my question was not answered there.
         required: true
   validations:
     required: true
