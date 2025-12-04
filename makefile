@@ -19,24 +19,27 @@ delta: git-auth create-delta-update clean
 
 check-schema:
 	@set -e; \
-	check-jsonschema --schemafile ./schemas/anime-offline-database-minified.schema.json anime-offline-database-minified.json & \
-	check-jsonschema --schemafile ./schemas/anime-offline-database.schema.json anime-offline-database.json & \
+	jsonschema metaschema ./schemas
+
+	@set -e; \
+	jsonschema validate ./schemas/anime-offline-database-minified.schema.json anime-offline-database-minified.json & \
+	jsonschema validate ./schemas/anime-offline-database.schema.json anime-offline-database.json & \
 	wait
 	
 	@set -e; \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json ./dead-entries/anidb.json & \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json ./dead-entries/anilist.json & \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json ./dead-entries/animenewsnetwork.json & \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json ./dead-entries/kitsu.json & \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json ./dead-entries/myanimelist.json & \
+	jsonschema validate ./schemas/dead-entries.schema.json ./dead-entries/anidb.json & \
+	jsonschema validate ./schemas/dead-entries.schema.json ./dead-entries/anilist.json & \
+	jsonschema validate ./schemas/dead-entries.schema.json ./dead-entries/animenewsnetwork.json & \
+	jsonschema validate ./schemas/dead-entries.schema.json ./dead-entries/kitsu.json & \
+	jsonschema validate ./schemas/dead-entries.schema.json ./dead-entries/myanimelist.json & \
 	wait
 
 	@set -e; \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json ./dead-entries/anidb-minified.json & \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json ./dead-entries/anilist-minified.json & \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json ./dead-entries/animenewsnetwork-minified.json & \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json ./dead-entries/kitsu-minified.json & \
-	check-jsonschema --schemafile ./schemas/dead-entries.schema.json ./dead-entries/myanimelist-minified.json & \
+	jsonschema validate ./schemas/dead-entries.schema.json ./dead-entries/anidb-minified.json & \
+	jsonschema validate ./schemas/dead-entries.schema.json ./dead-entries/anilist-minified.json & \
+	jsonschema validate ./schemas/dead-entries.schema.json ./dead-entries/animenewsnetwork-minified.json & \
+	jsonschema validate ./schemas/dead-entries.schema.json ./dead-entries/kitsu-minified.json & \
+	jsonschema validate ./schemas/dead-entries.schema.json ./dead-entries/myanimelist-minified.json & \
 	wait
 
 git-auth:
