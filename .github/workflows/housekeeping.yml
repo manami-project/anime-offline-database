@@ -33,6 +33,7 @@ jobs:
           tag: ${{ steps.fetch-latest-release.outputs.PREVIOUS_VERSION }}
           assets: |
             *.json
+            *.jsonl 
             *.zst
           fail-if-no-release: false
           fail-if-no-assets: false
