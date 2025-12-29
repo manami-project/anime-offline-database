@@ -1,4 +1,4 @@
-[![License: ODbL-1.0](https://img.shields.io/badge/license-ODbL--1.0-orange)](https://github.com/manami-project/anime-offline-database/blob/2025-52/LICENSE)
+[![License: ODbL-1.0](https://img.shields.io/badge/license-ODbL--1.0-orange)](https://github.com/manami-project/anime-offline-database/blob/2026-01/LICENSE)
 
 # anime-offline-database
 The purpose of this repository is to create a dataset containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, kitsu.app and more) and allow cross references between those meta data providers. This dataset is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
@@ -11,23 +11,22 @@ The purpose of this repository is to create a dataset containing anime meta data
 > which contain the files for that specific week.
 
 ## Statistics
-Update **week 52 [2025]**
+Update **week 01 [2026]**
 
-The dataset consists of **40144** entries _(68% reviewed)_ composed of:
+The dataset consists of **40235** entries _(68% reviewed)_ composed of:
 
 | Number of entries | Meta data provider |
 |-------------------|--------------------|
-| 29772 | [myanimelist.net](https://myanimelist.net) |
-| 26479 | [anime-planet.com](https://anime-planet.com) |
-| 21738 | [kitsu.app](https://kitsu.app) |
-| 20468 | [anisearch.com](https://anisearch.com) |
-| 20116 | [anilist.co](https://anilist.co) |
-| 16863 | [notify.moe](https://notify.moe) |
-| 14205 | [simkl.com](https://simkl.com) |
-| 14205 | [animecountdown.com](https://animecountdown.com) |
-| 14200 | [anidb.net](https://anidb.net) |
-| 12361 | [animenewsnetwork.com](https://animenewsnetwork.com) |
-| 12029 | [livechart.me](https://livechart.me) |
+| 29808 | [myanimelist.net](https://myanimelist.net) |
+| 26517 | [anime-planet.com](https://anime-planet.com) |
+| 21749 | [kitsu.app](https://kitsu.app) |
+| 20484 | [anisearch.com](https://anisearch.com) |
+| 20170 | [anilist.co](https://anilist.co) |
+| 14221 | [simkl.com](https://simkl.com) |
+| 14221 | [animecountdown.com](https://animecountdown.com) |
+| 14215 | [anidb.net](https://anidb.net) |
+| 12376 | [animenewsnetwork.com](https://animenewsnetwork.com) |
+| 12046 | [livechart.me](https://livechart.me) |
 
 
 ## Files
@@ -36,17 +35,14 @@ This repository contains various JSON and zip files. The dataset file itself as 
 
 | File                                          | Type reference                         | Description                                                                                                                                              |
 |-----------------------------------------------|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `anime-offline-database.json`                 | [Database root](#database-root)        | Contains anime all anime data. Content is pretty print. Values containing `null` are retained.                                                           |
-| `anime-offline-database.schema.json`          | [JSON schema](https://json-schema.org) | JSON schema file for validating `anime-offline-database.json`.                                                                                           |
 | `anime-offline-database-minified.json`        | [Database root](#database-root)        | Minified version of `anime-offline-database.json`. Values containing `null` are omitted.                                                                 |
 | `anime-offline-database-minified.schema.json` | [JSON schema](https://json-schema.org) | JSON schema file for validating `anime-offline-database-minified.json`.                                                                                  |
 | `anime-offline-database-minified.json.zst`    | [Database root](#database-root)        | Zstandard compressed file of `anime-offline-database-minified.json`.                                                                                     |
 | `anime-offline-database.jsonl`                | [Anime](#anime)                        | [JSON lines](https://jsonlines.org) file containing anime. Each line is an anime object except for the first line which contains meta data.              |
 | `anime-offline-database.jsonl.schema.json`    | [JSON schema](https://json-schema.org) | JSON schema file for validating each line within `anime-offline-database.jsonl`                                                                          |
 | `anime-offline-database.jsonl.zst`            | [Anime](#anime)                        | Zstandard compressed file of `anime-offline-database.jsonl`                                                                                              |
-| `dead-entries/*.json`                         | [DeadEntries root](#deadentries-root)  | A file where `*` is the name of the respective meta data provider. Contains anime IDs which have been removed from the meta data provider. Pretty print. |
 | `dead-entries/dead-entries.schema.json`       | [JSON schema](https://json-schema.org) | JSON schema file for validating all the `dead-entries/*-minified.json` and `dead-entries/*.json` files.                                                  |
-| `dead-entries/*-minified.json`                | [DeadEntries root](#deadentries-root)  | Minified version of the corresponding `dead-entries/*.json` file where `*` is the name of the respective meta data provider.                             |
+| `dead-entries/*-minified.json`                | [DeadEntries root](#deadentries-root)  | A file where `*` is the name of the respective meta data provider. Contains anime IDs which have been removed from the meta data provider. Minified.     |
 | `dead-entries/*-minified.json.zst`            | [DeadEntries root](#deadentries-root)  | Zstandard compressed file of the corresponding `dead-entries/*.json` file.                                                                               |
 
 ## Type reference
@@ -164,7 +160,6 @@ Here are some examples showing what the files look like.
         "https://kitsu.app/anime/1376",
         "https://livechart.me/anime/3437",
         "https://myanimelist.net/anime/1535",
-        "https://notify.moe/anime/0-A-5Fimg",
         "https://simkl.com/anime/40190"
       ],
       "title": "Death Note",
@@ -241,7 +236,6 @@ Here are some examples showing what the files look like.
         "https://kitsu.app/anime/2707",
         "https://livechart.me/anime/3808",
         "https://myanimelist.net/anime/2994",
-        "https://notify.moe/anime/DBBU5Kimg",
         "https://simkl.com/anime/36687",
         "https://simkl.com/anime/40690"
       ],

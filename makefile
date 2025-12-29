@@ -21,24 +21,18 @@ init-or-reset: git-auth
 	@echo "Initializing or resetting anime-offline-database repo..."
 
 	@set -euo pipefail; \
-	gh release download latest --pattern 'anime-offline-database.json' --clobber 1>/dev/null & \
 	gh release download latest --pattern 'anime-offline-database.jsonl' --clobber 1>/dev/null & \
 	gh release download latest --pattern 'anime-offline-database.jsonl.zst' --clobber 1>/dev/null & \
 	gh release download latest --pattern 'anime-offline-database-minified.json' --clobber 1>/dev/null & \
 	gh release download latest --pattern 'anime-offline-database-minified.json.zst' --clobber 1>/dev/null & \
-	gh release download latest --dir ./dead-entries --pattern 'anidb.json' --clobber 1>/dev/null & \
 	gh release download latest --dir ./dead-entries --pattern 'anidb-minified.json' --clobber 1>/dev/null & \
 	gh release download latest --dir ./dead-entries --pattern 'anidb-minified.json.zst' --clobber 1>/dev/null & \
-	gh release download latest --dir ./dead-entries --pattern 'anilist.json' --clobber 1>/dev/null & \
 	gh release download latest --dir ./dead-entries --pattern 'anilist-minified.json' --clobber 1>/dev/null & \
 	gh release download latest --dir ./dead-entries --pattern 'anilist-minified.json.zst' --clobber 1>/dev/null & \
-	gh release download latest --dir ./dead-entries --pattern 'animenewsnetwork.json' --clobber 1>/dev/null & \
 	gh release download latest --dir ./dead-entries --pattern 'animenewsnetwork-minified.json' --clobber 1>/dev/null & \
 	gh release download latest --dir ./dead-entries --pattern 'animenewsnetwork-minified.json.zst' --clobber 1>/dev/null & \
-	gh release download latest --dir ./dead-entries --pattern 'kitsu.json' --clobber 1>/dev/null & \
 	gh release download latest --dir ./dead-entries --pattern 'kitsu-minified.json' --clobber 1>/dev/null & \
 	gh release download latest --dir ./dead-entries --pattern 'kitsu-minified.json.zst' --clobber 1>/dev/null & \
-	gh release download latest --dir ./dead-entries --pattern 'myanimelist.json' --clobber 1>/dev/null & \
 	gh release download latest --dir ./dead-entries --pattern 'myanimelist-minified.json' --clobber 1>/dev/null & \
 	gh release download latest --dir ./dead-entries --pattern 'myanimelist-minified.json.zst' --clobber 1>/dev/null & \
 	wait || $(MAKE) clean
@@ -65,15 +59,6 @@ check-schema:
 
 	@set -euo pipefail; \
 	jsonschema validate ./schemas/anime-offline-database-minified.schema.json anime-offline-database-minified.json & \
-	jsonschema validate ./schemas/anime-offline-database.schema.json anime-offline-database.json & \
-	wait
-	
-	@set -euo pipefail; \
-	jsonschema validate ./schemas/dead-entries.schema.json ./dead-entries/anidb.json & \
-	jsonschema validate ./schemas/dead-entries.schema.json ./dead-entries/anilist.json & \
-	jsonschema validate ./schemas/dead-entries.schema.json ./dead-entries/animenewsnetwork.json & \
-	jsonschema validate ./schemas/dead-entries.schema.json ./dead-entries/kitsu.json & \
-	jsonschema validate ./schemas/dead-entries.schema.json ./dead-entries/myanimelist.json & \
 	wait
 
 	@set -euo pipefail; \
@@ -105,24 +90,18 @@ create-weekly-update:
 	gh release create ${TAG_NAME} --verify-tag --latest --title "${TAG_NAME}" --notes-file release-notes.md || $(MAKE) clean
 
 	@set -euo pipefail; \
-	gh release upload ${TAG_NAME} anime-offline-database.json 1>/dev/null & \
 	gh release upload ${TAG_NAME} anime-offline-database.jsonl 1>/dev/null & \
 	gh release upload ${TAG_NAME} anime-offline-database.jsonl.zst 1>/dev/null & \
 	gh release upload ${TAG_NAME} anime-offline-database-minified.json 1>/dev/null & \
 	gh release upload ${TAG_NAME} anime-offline-database-minified.json.zst 1>/dev/null & \
-	gh release upload ${TAG_NAME} ./dead-entries/anidb.json 1>/dev/null & \
 	gh release upload ${TAG_NAME} ./dead-entries/anidb-minified.json 1>/dev/null & \
 	gh release upload ${TAG_NAME} ./dead-entries/anidb-minified.json.zst 1>/dev/null & \
-	gh release upload ${TAG_NAME} ./dead-entries/anilist.json 1>/dev/null & \
 	gh release upload ${TAG_NAME} ./dead-entries/anilist-minified.json 1>/dev/null & \
 	gh release upload ${TAG_NAME} ./dead-entries/anilist-minified.json.zst 1>/dev/null & \
-	gh release upload ${TAG_NAME} ./dead-entries/animenewsnetwork.json 1>/dev/null & \
 	gh release upload ${TAG_NAME} ./dead-entries/animenewsnetwork-minified.json 1>/dev/null & \
 	gh release upload ${TAG_NAME} ./dead-entries/animenewsnetwork-minified.json.zst 1>/dev/null & \
-	gh release upload ${TAG_NAME} ./dead-entries/kitsu.json 1>/dev/null & \
 	gh release upload ${TAG_NAME} ./dead-entries/kitsu-minified.json 1>/dev/null & \
 	gh release upload ${TAG_NAME} ./dead-entries/kitsu-minified.json.zst 1>/dev/null & \
-	gh release upload ${TAG_NAME} ./dead-entries/myanimelist.json 1>/dev/null & \
 	gh release upload ${TAG_NAME} ./dead-entries/myanimelist-minified.json 1>/dev/null & \
 	gh release upload ${TAG_NAME} ./dead-entries/myanimelist-minified.json.zst 1>/dev/null & \
 	wait || $(MAKE) clean
@@ -133,24 +112,18 @@ create-weekly-update:
 	gh release edit latest --notes-file release-notes.md || $(MAKE) clean
 
 	@set -euo pipefail; \
-	gh release upload latest anime-offline-database.json --clobber 1>/dev/null & \
 	gh release upload latest anime-offline-database.jsonl --clobber 1>/dev/null & \
 	gh release upload latest anime-offline-database.jsonl.zst --clobber 1>/dev/null & \
 	gh release upload latest anime-offline-database-minified.json --clobber 1>/dev/null & \
 	gh release upload latest anime-offline-database-minified.json.zst --clobber 1>/dev/null & \
-	gh release upload latest ./dead-entries/anidb.json --clobber 1>/dev/null & \
 	gh release upload latest ./dead-entries/anidb-minified.json --clobber 1>/dev/null & \
 	gh release upload latest ./dead-entries/anidb-minified.json.zst --clobber 1>/dev/null & \
-	gh release upload latest ./dead-entries/anilist.json --clobber 1>/dev/null & \
 	gh release upload latest ./dead-entries/anilist-minified.json --clobber 1>/dev/null & \
 	gh release upload latest ./dead-entries/anilist-minified.json.zst --clobber 1>/dev/null & \
-	gh release upload latest ./dead-entries/animenewsnetwork.json --clobber 1>/dev/null & \
 	gh release upload latest ./dead-entries/animenewsnetwork-minified.json --clobber 1>/dev/null & \
 	gh release upload latest ./dead-entries/animenewsnetwork-minified.json.zst --clobber 1>/dev/null & \
-	gh release upload latest ./dead-entries/kitsu.json --clobber 1>/dev/null & \
 	gh release upload latest ./dead-entries/kitsu-minified.json --clobber 1>/dev/null & \
 	gh release upload latest ./dead-entries/kitsu-minified.json.zst --clobber 1>/dev/null & \
-	gh release upload latest ./dead-entries/myanimelist.json --clobber 1>/dev/null & \
 	gh release upload latest ./dead-entries/myanimelist-minified.json --clobber 1>/dev/null & \
 	gh release upload latest ./dead-entries/myanimelist-minified.json.zst --clobber 1>/dev/null & \
 	wait || $(MAKE) clean
@@ -169,24 +142,18 @@ create-delta-update:
 	gh release edit latest --notes "" || $(MAKE) clean
 
 	@set -euo pipefail; \
-	gh release upload latest anime-offline-database.json --clobber 1>/dev/null & \
 	gh release upload latest anime-offline-database.jsonl --clobber 1>/dev/null & \
 	gh release upload latest anime-offline-database.jsonl.zst --clobber 1>/dev/null & \
 	gh release upload latest anime-offline-database-minified.json --clobber 1>/dev/null & \
 	gh release upload latest anime-offline-database-minified.json.zst --clobber 1>/dev/null & \
-	gh release upload latest ./dead-entries/anidb.json --clobber 1>/dev/null & \
 	gh release upload latest ./dead-entries/anidb-minified.json --clobber 1>/dev/null & \
 	gh release upload latest ./dead-entries/anidb-minified.json.zst --clobber 1>/dev/null & \
-	gh release upload latest ./dead-entries/anilist.json --clobber 1>/dev/null & \
 	gh release upload latest ./dead-entries/anilist-minified.json --clobber 1>/dev/null & \
 	gh release upload latest ./dead-entries/anilist-minified.json.zst --clobber 1>/dev/null & \
-	gh release upload latest ./dead-entries/animenewsnetwork.json --clobber 1>/dev/null & \
 	gh release upload latest ./dead-entries/animenewsnetwork-minified.json --clobber 1>/dev/null & \
 	gh release upload latest ./dead-entries/animenewsnetwork-minified.json.zst --clobber 1>/dev/null & \
-	gh release upload latest ./dead-entries/kitsu.json --clobber 1>/dev/null & \
 	gh release upload latest ./dead-entries/kitsu-minified.json --clobber 1>/dev/null & \
 	gh release upload latest ./dead-entries/kitsu-minified.json.zst --clobber 1>/dev/null & \
-	gh release upload latest ./dead-entries/myanimelist.json --clobber 1>/dev/null & \
 	gh release upload latest ./dead-entries/myanimelist-minified.json --clobber 1>/dev/null & \
 	gh release upload latest ./dead-entries/myanimelist-minified.json.zst --clobber 1>/dev/null & \
 	wait || $(MAKE) clean
