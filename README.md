@@ -18,14 +18,14 @@ The dataset consists of **40337** entries _(67% reviewed)_ composed of:
 | Number of entries | Meta data provider |
 |-------------------|--------------------|
 | 29859 | [myanimelist.net](https://myanimelist.net) |
-| 26571 | [anime-planet.com](https://anime-planet.com) |
-| 21788 | [kitsu.app](https://kitsu.app) |
+| 26572 | [anime-planet.com](https://anime-planet.com) |
+| 21789 | [kitsu.app](https://kitsu.app) |
 | 20498 | [anisearch.com](https://anisearch.com) |
-| 20198 | [anilist.co](https://anilist.co) |
+| 20199 | [anilist.co](https://anilist.co) |
 | 14234 | [simkl.com](https://simkl.com) |
 | 14234 | [animecountdown.com](https://animecountdown.com) |
 | 14228 | [anidb.net](https://anidb.net) |
-| 12386 | [animenewsnetwork.com](https://animenewsnetwork.com) |
+| 12387 | [animenewsnetwork.com](https://animenewsnetwork.com) |
 | 12056 | [livechart.me](https://livechart.me) |
 
 
