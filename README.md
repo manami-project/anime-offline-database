@@ -13,20 +13,20 @@ The purpose of this repository is to create a dataset containing anime meta data
 ## Statistics
 Update **week 02 [2026]**
 
-The dataset consists of **40337** entries _(67% reviewed)_ composed of:
+The dataset consists of **40343** entries _(67% reviewed)_ composed of:
 
 | Number of entries | Meta data provider |
 |-------------------|--------------------|
-| 29859 | [myanimelist.net](https://myanimelist.net) |
-| 26572 | [anime-planet.com](https://anime-planet.com) |
-| 21789 | [kitsu.app](https://kitsu.app) |
+| 29860 | [myanimelist.net](https://myanimelist.net) |
+| 26574 | [anime-planet.com](https://anime-planet.com) |
+| 21791 | [kitsu.app](https://kitsu.app) |
 | 20498 | [anisearch.com](https://anisearch.com) |
-| 20199 | [anilist.co](https://anilist.co) |
-| 14234 | [simkl.com](https://simkl.com) |
-| 14234 | [animecountdown.com](https://animecountdown.com) |
-| 14228 | [anidb.net](https://anidb.net) |
-| 12387 | [animenewsnetwork.com](https://animenewsnetwork.com) |
-| 12056 | [livechart.me](https://livechart.me) |
+| 20202 | [anilist.co](https://anilist.co) |
+| 14236 | [simkl.com](https://simkl.com) |
+| 14236 | [animecountdown.com](https://animecountdown.com) |
+| 14230 | [anidb.net](https://anidb.net) |
+| 12388 | [animenewsnetwork.com](https://animenewsnetwork.com) |
+| 12058 | [livechart.me](https://livechart.me) |
 
 
 ## Files
