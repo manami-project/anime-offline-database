@@ -1,7 +1,7 @@
 [![License: ODbL-1.0](https://img.shields.io/badge/license-ODbL--1.0-orange)](https://github.com/manami-project/anime-offline-database/blob/2026-05/LICENSE)
 
 # anime-offline-database
-The purpose of this repository is to create a dataset containing anime meta data aggregated by different anime meta data providers (such as myanimelist.net, anidb.net, kitsu.app and more) and allow cross references between those meta data providers. This dataset is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
+The purpose of this repository is to create a dataset containing anime metadata aggregated by different anime metadata providers (such as myanimelist.net, anidb.net, kitsu.app and more) and allow cross-references between those metadata providers. This dataset is supposed to be used by and created for [manami](https://github.com/manami-project/manami).
 
 > [!IMPORTANT]  
 > After the _2025-25_ update the dataset files will be removed from the repo and moved to releases instead.
@@ -13,17 +13,17 @@ The purpose of this repository is to create a dataset containing anime meta data
 ## Statistics
 Update **week 05 [2026]**
 
-The dataset consists of **40492** entries _(67% reviewed)_ composed of:
+The dataset consists of **40482** entries _(67% reviewed)_ composed of:
 
-| Number of entries | Meta data provider |
-|-------------------|--------------------|
+| Number of entries | Metadata provider |
+|-------------------|-------------------|
 | 29937 | [myanimelist.net](https://myanimelist.net) |
-| 26607 | [anime-planet.com](https://anime-planet.com) |
+| 26606 | [anime-planet.com](https://anime-planet.com) |
 | 21830 | [kitsu.app](https://kitsu.app) |
 | 20550 | [anisearch.com](https://anisearch.com) |
 | 20356 | [anilist.co](https://anilist.co) |
-| 14283 | [simkl.com](https://simkl.com) |
-| 14283 | [animecountdown.com](https://animecountdown.com) |
+| 14290 | [simkl.com](https://simkl.com) |
+| 14290 | [animecountdown.com](https://animecountdown.com) |
 | 14275 | [anidb.net](https://anidb.net) |
 | 12418 | [animenewsnetwork.com](https://animenewsnetwork.com) |
 | 12084 | [livechart.me](https://livechart.me) |
@@ -31,19 +31,19 @@ The dataset consists of **40492** entries _(67% reviewed)_ composed of:
 
 ## Files
 
-This repository contains various JSON and zip files. The dataset file itself as well as files containing IDs of dead entries for some meta data providers to support the automated process.
+This repository contains various JSON and zip files. The dataset file itself as well as files containing IDs of dead entries for some metadata providers to support the automated process.
 
-| File                                          | Type reference                         | Description                                                                                                                                              |
-|-----------------------------------------------|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `anime-offline-database-minified.json`        | [Database root](#database-root)        | Minified version of `anime-offline-database.json`. Values containing `null` are omitted.                                                                 |
-| `anime-offline-database-minified.schema.json` | [JSON schema](https://json-schema.org) | JSON schema file for validating `anime-offline-database-minified.json`.                                                                                  |
-| `anime-offline-database-minified.json.zst`    | [Database root](#database-root)        | Zstandard compressed file of `anime-offline-database-minified.json`.                                                                                     |
-| `anime-offline-database.jsonl`                | [Anime](#anime)                        | [JSON lines](https://jsonlines.org) file containing anime. Each line is an anime object except for the first line which contains meta data.              |
-| `anime-offline-database.jsonl.schema.json`    | [JSON schema](https://json-schema.org) | JSON schema file for validating each line within `anime-offline-database.jsonl`                                                                          |
-| `anime-offline-database.jsonl.zst`            | [Anime](#anime)                        | Zstandard compressed file of `anime-offline-database.jsonl`                                                                                              |
-| `dead-entries/dead-entries.schema.json`       | [JSON schema](https://json-schema.org) | JSON schema file for validating all the `dead-entries/*-minified.json` and `dead-entries/*.json` files.                                                  |
-| `dead-entries/*-minified.json`                | [DeadEntries root](#deadentries-root)  | A file where `*` is the name of the respective meta data provider. Contains anime IDs which have been removed from the meta data provider. Minified.     |
-| `dead-entries/*-minified.json.zst`            | [DeadEntries root](#deadentries-root)  | Zstandard compressed file of the corresponding `dead-entries/*.json` file.                                                                               |
+| File                                          | Type reference                         | Description                                                                                                                                        |
+|-----------------------------------------------|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| `anime-offline-database-minified.json`        | [Database root](#database-root)        | Minified version of `anime-offline-database.json`. Values containing `null` are omitted.                                                           |
+| `anime-offline-database-minified.schema.json` | [JSON schema](https://json-schema.org) | JSON schema file for validating `anime-offline-database-minified.json`.                                                                            |
+| `anime-offline-database-minified.json.zst`    | [Database root](#database-root)        | Zstandard compressed file of `anime-offline-database-minified.json`.                                                                               |
+| `anime-offline-database.jsonl`                | [Anime](#anime)                        | [JSON lines](https://jsonlines.org) file containing anime. Each line is an anime object except for the first line which contains metadata.         |
+| `anime-offline-database.jsonl.schema.json`    | [JSON schema](https://json-schema.org) | JSON schema file for validating each line within `anime-offline-database.jsonl`                                                                    |
+| `anime-offline-database.jsonl.zst`            | [Anime](#anime)                        | Zstandard compressed file of `anime-offline-database.jsonl`                                                                                        |
+| `dead-entries/dead-entries.schema.json`       | [JSON schema](https://json-schema.org) | JSON schema file for validating all the `dead-entries/*-minified.json` and `dead-entries/*.json` files.                                            |
+| `dead-entries/*-minified.json`                | [DeadEntries root](#deadentries-root)  | A file where `*` is the name of the respective metadata provider. Contains anime IDs which have been removed from the metadata provider. Minified. |
+| `dead-entries/*-minified.json.zst`            | [DeadEntries root](#deadentries-root)  | Zstandard compressed file of the corresponding `dead-entries/*.json` file.                                                                         |
 
 ## Type reference
 
@@ -78,7 +78,7 @@ Here is a description of the types in the JSON files.
 
 | Field          | Type                                              | Nullable | Description                                                                                                                        |
 |----------------|---------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------|
-| `sources`      | `URL[]`                                           | no       | URLs to the pages of the meta data providers for this anime.                                                                       |
+| `sources`      | `URL[]`                                           | no       | URLs to the pages of the metadata providers for this anime.                                                                        |
 | `title`        | `String`                                          | no       | Main title.                                                                                                                        |
 | `type`         | `Enum of [TV, MOVIE, OVA, ONA, SPECIAL, UNKNOWN]` | no       | Distribution type.                                                                                                                 |
 | `episodes`     | `Integer`                                         | no       | Number of episodes, movies or parts.                                                                                               |
@@ -87,11 +87,11 @@ Here is a description of the types in the JSON files.
 | `picture`      | `URL`                                             | no       | URL of a picture which represents the anime.                                                                                       |
 | `thumbnail`    | `URL`                                             | no       | URL of a smaller version of the picture.                                                                                           |
 | `duration`     | [Duration](#duration)                             | yes      | Duration. Normally this is per episode.                                                                                            |
-| `score`        | [Score](#score)                                   | yes      | Score calculated using all available scores from meta data providers. Original scores are rescaled if necessary.                   |
-| `synonyms`     | `String[]`                                        | no       | Alternative titles and spellings under which the anime is also known. Duplicate free (case sensitive). Doesn't contain the `title` |
+| `score`        | [Score](#score)                                   | yes      | Score calculated using all available scores from metadata providers. Original scores are rescaled if necessary.                    |
+| `synonyms`     | `String[]`                                        | no       | Alternative titles and spellings under which the anime is also known. Duplicate free (case-sensitive). Doesn't contain the `title` |
 | `studios`      | `String[]`                                        | no       | Lower case studio names. In general a duplicate free list, but might contain duplicates for different writings.                    |
-| `producers`    | `String[]`                                        | no       | Lower case producers names. Companys only. In general a duplicate free list, but might contain duplicates for different writings.  |
-| `relatedAnime` | `URL[]`                                           | no       | URLs to the meta data providers for anime that are somehow related to this anime.                                                  |
+| `producers`    | `String[]`                                        | no       | Lower case producers names. Companies only. In general a duplicate free list, but might contain duplicates for different writings. |
+| `relatedAnime` | `URL[]`                                           | no       | URLs to the metadata providers for anime that are somehow related to this anime.                                                   |
 | `tags`         | `String[]`                                        | no       | A non-curated list of tags and genres which describe the anime. All entries are lower case.                                        |
 
 ### AnimeSeason
@@ -110,21 +110,21 @@ Here is a description of the types in the JSON files.
 
 ### Score
 
-| Field                     | Type     | Nullable | Description                                                                           |
-|---------------------------|----------|----------|---------------------------------------------------------------------------------------|
-| `arithmeticGeometricMean` | `Double` | no       | Arithmetic–geometric mean based on all available scores from all meta data providers. |
-| `arithmeticMean`          | `Double` | no       | Arithmetic mean based on all available scores from all meta data providers.           |
-| `median`                  | `Double` | no       | Median based on all available scores from all meta data providers.                    |
+| Field                     | Type     | Nullable | Description                                                                          |
+|---------------------------|----------|----------|--------------------------------------------------------------------------------------|
+| `arithmeticGeometricMean` | `Double` | no       | Arithmetic–geometric mean based on all available scores from all metadata providers. |
+| `arithmeticMean`          | `Double` | no       | Arithmetic mean based on all available scores from all metadata providers.           |
+| `median`                  | `Double` | no       | Median based on all available scores from all metadata providers.                    |
 
 ### DeadEntries root
 
-| Field         | Type                        | Nullable | Description                                                                  |
-|---------------|-----------------------------|----------|------------------------------------------------------------------------------|
-| `$schema`     | `URI`                       | no       | Link to the JSON schema which allows to validate the content.                |
-| `license`     | [License](#license)         | no       | Information about the license of the dataset.                                |
-| `repository`  | `URL`                       | no       | URL of this github repository which is the source of the dataset.            |
-| `lastUpdate`  | `Date` (format: YYYY-MM-DD) | no       | The date on which the file was updated.                                      |
-| `deadEntries` | `String[]`                  | no       | IDs of anime which have been removed from the respective meta data provider. |
+| Field         | Type                        | Nullable | Description                                                                 |
+|---------------|-----------------------------|----------|-----------------------------------------------------------------------------|
+| `$schema`     | `URI`                       | no       | Link to the JSON schema which allows to validate the content.               |
+| `license`     | [License](#license)         | no       | Information about the license of the dataset.                               |
+| `repository`  | `URL`                       | no       | URL of this github repository which is the source of the dataset.           |
+| `lastUpdate`  | `Date` (format: YYYY-MM-DD) | no       | The date on which the file was updated.                                     |
+| `deadEntries` | `String[]`                  | no       | IDs of anime which have been removed from the respective metadata provider. |
 
 ## Examples
 
